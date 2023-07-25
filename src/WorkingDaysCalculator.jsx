@@ -2,60 +2,23 @@ import React, { useState, useEffect } from "react";
 import holidaysData from "./holidays.json"; // Adjust the path as needed
 
 const WorkingDaysCalculator = () => {
-  const [countries, setCountries] = useState({});
   const [selectedCountry, setSelectedCountry] = useState("");
   const [calculatedDate, setCalculatedDate] = useState(null);
   const [skippedDates, setSkippedDates] = useState([]);
   const [currentDate, setCurrentDate] = useState("2023-12-24");
   const [workingDaysToAdd, setWorkingDaysToAdd] = useState(10);
 
-  useEffect(() => {
-    setCountries(holidaysData);
-    if (!selectedCountry && Object.keys(holidaysData).length > 0) {
-      setSelectedCountry(Object.keys(holidaysData)[0]);
-    }
-  }, [selectedCountry, holidaysData]);
-
-  const countryHolidays = countries[selectedCountry] || [];
+  const countryHolidays = holidaysData[selectedCountry] || [];
 
   useEffect(() => {
-    let startOfWorkWeek;
-    let endOfWorkWeek;
-
+    let workDays;
+    
     switch (selectedCountry) {
-      case "US USA en.usa#holiday@group.v.calendar.google.com":
-        startOfWorkWeek = 1; // work week in USA starts on Monday
-        break;
-      case "BD Bangladesh en.bd#holiday@group.v.calendar.google.com": // for Bangladesh
-        startOfWorkWeek = 0; // work week in Bangladesh starts on Sunday
-        break;
-      case "AE United Arab Emirates en.ae#holiday@group.v.calendar.google.com": // for UAE
-        startOfWorkWeek = 0; // work week in UAE starts on Sunday
-        break;
-      case "SA Saudi Arabia en.saudiarabian#holiday@group.v.calendar.google.com": // for Saudi Arabia
-        startOfWorkWeek = 0; // work week in Saudi Arabia starts on Sunday
-        break;
-      case "IL Israel en.jewish#holiday@group.v.calendar.google.com": // for Israel
-        startOfWorkWeek = 0; // work week in Israel starts on Sunday
-        break;
-      case "MV Maldives en.mv#holiday@group.v.calendar.google.com": // for Maldives
-        startOfWorkWeek = 0; // work week in Maldives starts on Sunday
-        break;
-      case "KW Kuwait en.kw#holiday@group.v.calendar.google.com": // for Kuwait
-        startOfWorkWeek = 0; // work week in  starts on Sunday
-        break;
-      case "QM Oman en.om#holiday@group.v.calendar.google.com": // for Oman
-        startOfWorkWeek = 0; // work week in  starts on Sunday
-        break;
-      case "QA Qatar en.qa#holiday@group.v.calendar.google.com": // for Qatar
-        startOfWorkWeek = 0; // work week in  starts on Sunday
-        break;
       case "BN Brunei en.bn#holiday@group.v.calendar.google.com": // for Brunei
-        startOfWorkWeek = 1; // work week in Brunei starts on Monday, but includes a break on Friday
-        endOfWorkWeek = 4; // Thursday
+        workDays = [1, 2, 3, 4, 6]; // work week in Brunei starts on Monday, includes a break on Friday and continues on Saturday
         break;
       default:
-        startOfWorkWeek = 1; // Default to Monday if countryCode is unrecognized
+        workDays = [1, 2, 3, 4, 5]; // Default to Monday to Friday if countryCode is unrecognized
     }
 
     let workingDate = new Date(currentDate);
@@ -65,10 +28,10 @@ const WorkingDaysCalculator = () => {
     for (let i = 0; i < daysToAdd; i++) {
       workingDate.setDate(workingDate.getDate() + 1);
       while (
-        isWeekend(workingDate, startOfWorkWeek, endOfWorkWeek) ||
+        isWeekend(workingDate, workDays) ||
         isHoliday(workingDate, countryHolidays)
       ) {
-        const reason = isWeekend(workingDate, startOfWorkWeek, endOfWorkWeek)
+        const reason = isWeekend(workingDate, workDays)
           ? "Weekend"
           : `Holiday: ${getHolidayName(workingDate, countryHolidays)}`;
         newSkippedDates.push(`${workingDate.toDateString()} - ${reason}`);
@@ -92,12 +55,9 @@ const WorkingDaysCalculator = () => {
     setWorkingDaysToAdd(parseInt(event.target.value, 10));
   };
 
-  const isWeekend = (date, startOfWorkWeek, endOfWorkWeek) => {
+  const isWeekend = (date, workDays) => {
     const day = date.getDay();
-    if (endOfWorkWeek === undefined) {
-      endOfWorkWeek = (startOfWorkWeek + 4) % 7;
-    }
-    return day < startOfWorkWeek || day > endOfWorkWeek;
+    return !workDays.includes(day);
   };
 
   const isHoliday = (date, holidays) => {
@@ -116,7 +76,7 @@ const WorkingDaysCalculator = () => {
       <label>
         Country:
         <select value={selectedCountry} onChange={handleCountryChange}>
-          {Object.keys(countries).map((countryCode) => (
+          {Object.keys(holidaysData).map((countryCode) => (
             <option key={countryCode} value={countryCode}>
               {countryCode}
             </option>
