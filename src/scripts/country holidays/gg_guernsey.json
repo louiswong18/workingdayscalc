@@ -1,0 +1,1101 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32ebrmsjrqlo00o\"",
+ "summary": "Holidays in Guernsey",
+ "description": "Holidays and Observances in Guernsey",
+ "updated": "2023-07-25T05:51:59.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMD7vaKVqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955406458000\"",
+   "id": "20220101_dsamdq0ro6ci5sjp912tmr07ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfZHNhbWRxMHJvNmNpNXNqcDkxMnRtcjA3dWcgZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:03.000Z",
+   "updated": "2021-08-26T11:35:03.229Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_dsamdq0ro6ci5sjp912tmr07ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955406458000\"",
+   "id": "20220103_v24749c7hog2khh6elb1giikjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfdjI0NzQ5Yzdob2cya2hoNmVsYjFnaWlranMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:03.000Z",
+   "updated": "2021-08-26T11:35:03.229Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_v24749c7hog2khh6elb1giikjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955406458000\"",
+   "id": "20220327_remmspdmbiho8ojr7uieo8apf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfcmVtbXNwZG1iaWhvOG9qcjd1aWVvOGFwZjAgZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:03.000Z",
+   "updated": "2021-08-26T11:35:03.229Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_remmspdmbiho8ojr7uieo8apf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955406458000\"",
+   "id": "20220415_11v4ncmdhc6o0me7ic6jhqpq4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfMTF2NG5jbWRoYzZvMG1lN2ljNmpocXBxNGsgZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:03.000Z",
+   "updated": "2021-08-26T11:35:03.229Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_11v4ncmdhc6o0me7ic6jhqpq4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955406458000\"",
+   "id": "20220502_39enqmush0sq0gt95dr9197998",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfMzllbnFtdXNoMHNxMGd0OTVkcjkxOTc5OTggZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:03.000Z",
+   "updated": "2021-08-26T11:35:03.229Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_39enqmush0sq0gt95dr9197998@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955406458000\"",
+   "id": "20220530_ckb60ca20f09esj8chrvcdbno4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MzBfY2tiNjBjYTIwZjA5ZXNqOGNocnZjZGJubzQgZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:03.000Z",
+   "updated": "2021-08-26T11:35:03.229Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-30"
+   },
+   "end": {
+    "date": "2022-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220530_ckb60ca20f09esj8chrvcdbno4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259955415352000\"",
+   "id": "20220418_qmqgo9v9bmrc6aoknrntgvkuoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfcW1xZ285djlibXJjNmFva25ybnRndmt1b28gZW4uZ2cjaG9saWRheUB2",
+   "created": "2021-08-26T11:35:07.000Z",
+   "updated": "2021-08-26T11:35:07.676Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_qmqgo9v9bmrc6aoknrntgvkuoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326116759464000\"",
+   "id": "20220603_5qna8g1cvogdu5i3i8vnc9v97g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfNXFuYThnMWN2b2dkdTVpM2k4dm5jOXY5N2cgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-13T08:39:39.000Z",
+   "updated": "2022-09-13T08:39:39.732Z",
+   "summary": "Queen Elizabeth II's Platinum Jubilee",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_5qna8g1cvogdu5i3i8vnc9v97g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326116759464000\"",
+   "id": "20220919_qjdvcvhdra6lrv95t7sd2o4cs8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfcWpkdmN2aGRyYTZscnY5NXQ3c2QybzRjczggZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-13T08:39:39.000Z",
+   "updated": "2022-09-13T08:39:39.732Z",
+   "summary": "Queen Elizabeth II's Funeral Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_qjdvcvhdra6lrv95t7sd2o4cs8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20221030_v2f2oj5rolgphlfpu5855jeb1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfdjJmMm9qNXJvbGdwaGxmcHU1ODU1amViMWsgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_v2f2oj5rolgphlfpu5855jeb1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20221225_orr33kg6nh4f842f1g5lsma5j0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfb3JyMzNrZzZuaDRmODQyZjFnNWxzbWE1ajAgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_orr33kg6nh4f842f1g5lsma5j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20221226_umvtk47t65b1smlmc87e3s6elo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfdW12dGs0N3Q2NWIxc21sbWM4N2UzczZlbG8gZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_umvtk47t65b1smlmc87e3s6elo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20221227_k5i477dv31rp3orhhq8to9tlds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfazVpNDc3ZHYzMXJwM29yaGhxOHRvOXRsZHMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_k5i477dv31rp3orhhq8to9tlds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230101_nducnstbsr47r9qhl8nlpslnig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfbmR1Y25zdGJzcjQ3cjlxaGw4bmxwc2xuaWcgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_nducnstbsr47r9qhl8nlpslnig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230102_hbv20ojglnltllfqhe0o3kr91g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfaGJ2MjBvamdsbmx0bGxmcWhlMG8za3I5MWcgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_hbv20ojglnltllfqhe0o3kr91g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230326_50dvahv1739vfn1mn1vcg3j9fo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfNTBkdmFodjE3Mzl2Zm4xbW4xdmNnM2o5Zm8gZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_50dvahv1739vfn1mn1vcg3j9fo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230407_s2b3c6t0em17o8qsn22f4kl1o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfczJiM2M2dDBlbTE3bzhxc24yMmY0a2wxbzggZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_s2b3c6t0em17o8qsn22f4kl1o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230410_amn09ikjnb4p2gj6l0u8rtl2ik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfYW1uMDlpa2puYjRwMmdqNmwwdThydGwyaWsgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_amn09ikjnb4p2gj6l0u8rtl2ik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230501_i6u93mjmh7mg34f87aqhr6srag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfaTZ1OTNtam1oN21nMzRmODdhcWhyNnNyYWcgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_i6u93mjmh7mg34f87aqhr6srag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20230529_lc128uts6u0fh3lru4u8imefuo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfbGMxMjh1dHM2dTBmaDNscnU0dThpbWVmdW8gZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_lc128uts6u0fh3lru4u8imefuo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20231029_qamlsf778chhmqr2k662vhv16c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfcWFtbHNmNzc4Y2hobXFyMms2NjJ2aHYxNmMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_qamlsf778chhmqr2k662vhv16c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20231225_4osk0cimde764h6kokb8nk5uhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfNG9zazBjaW1kZTc2NGg2a29rYjhuazV1aHMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_4osk0cimde764h6kokb8nk5uhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20231226_m5f7n717i65719jiguf4jckmao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfbTVmN243MTdpNjU3MTlqaWd1ZjRqY2ttYW8gZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_m5f7n717i65719jiguf4jckmao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20240101_3tt731jbhav68otdq6h0egb6a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfM3R0NzMxamJoYXY2OG90ZHE2aDBlZ2I2YTggZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_3tt731jbhav68otdq6h0egb6a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20240329_6gmg1p2pt0u56l6b54trnnsils",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfNmdtZzFwMnB0MHU1Nmw2YjU0dHJubnNpbHMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_6gmg1p2pt0u56l6b54trnnsils@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20240331_sa6ff6h130u6n64gaud9tpveog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfc2E2ZmY2aDEzMHU2bjY0Z2F1ZDl0cHZlb2cgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_sa6ff6h130u6n64gaud9tpveog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20240401_1uhpe6vkf1abcetoeuf39aaeqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfMXVocGU2dmtmMWFiY2V0b2V1ZjM5YWFlcWsgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_1uhpe6vkf1abcetoeuf39aaeqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20240506_ujpfgfbgjnvolrl9apecdno158",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfdWpwZmdmYmdqbnZvbHJsOWFwZWNkbm8xNTggZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_ujpfgfbgjnvolrl9apecdno158@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20240527_c3i8ianva3rsbrnhnn96nrtb3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjdfYzNpOGlhbnZhM3JzYnJuaG5uOTZucnRiM28gZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-27"
+   },
+   "end": {
+    "date": "2024-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240527_c3i8ianva3rsbrnhnn96nrtb3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20241027_3tcip7o08q9vk4t0q5icv5ktjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfM3RjaXA3bzA4cTl2azR0MHE1aWN2NWt0amMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_3tcip7o08q9vk4t0q5icv5ktjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20241225_cq6ktr09qus5d2h1tjt658kv64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfY3E2a3RyMDlxdXM1ZDJoMXRqdDY1OGt2NjQgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_cq6ktr09qus5d2h1tjt658kv64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328544234752000\"",
+   "id": "20241226_qabvam9icakon3pdsmncee8sls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfcWFidmFtOWljYWtvbjNwZHNtbmNlZThzbHMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-09-27T09:48:37.000Z",
+   "updated": "2022-09-27T09:48:37.376Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_qabvam9icakon3pdsmncee8sls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338911750818000\"",
+   "id": "20230506_nhu677di1su2ag3o4ihd0673jg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfbmh1Njc3ZGkxc3UyYWczbzRpaGQwNjczamcgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-11-26T09:44:35.000Z",
+   "updated": "2022-11-26T09:44:35.409Z",
+   "summary": "The Coronation of King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Guernsey",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_nhu677di1su2ag3o4ihd0673jg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338911750818000\"",
+   "id": "20230508_lpm3rsev2m9itf7cq7i02ivk1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfbHBtM3JzZXYybTlpdGY3Y3E3aTAyaXZrMXMgZW4uZ2cjaG9saWRheUB2",
+   "created": "2022-11-26T09:44:35.000Z",
+   "updated": "2022-11-26T09:44:35.409Z",
+   "summary": "Bank Holiday for the Coronation of King Charles III",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.gg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Guernsey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_lpm3rsev2m9itf7cq7i02ivk1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

@@ -1,0 +1,2221 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33iftgs8rqlo00o\"",
+ "summary": "Holidays in Malta",
+ "description": "Holidays and Observances in Malta",
+ "updated": "2023-07-25T02:40:16.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDItrXqqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962495596000\"",
+   "id": "20220415_qi37d64ge1rbs1h8ju7mrbqsek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfcWkzN2Q2NGdlMXJiczFoOGp1N21yYnFzZWsgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:07.000Z",
+   "updated": "2021-08-26T12:34:07.798Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_qi37d64ge1rbs1h8ju7mrbqsek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962495596000\"",
+   "id": "20220418_7pb6n0ab8tdf2kid4gnu71ohog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfN3BiNm4wYWI4dGRmMmtpZDRnbnU3MW9ob2cgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:07.000Z",
+   "updated": "2021-08-26T12:34:07.798Z",
+   "summary": "Bank Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_7pb6n0ab8tdf2kid4gnu71ohog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962495596000\"",
+   "id": "20220607_bv4o1lgudllled46ip1tv345h8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDdfYnY0bzFsZ3VkbGxsZWQ0NmlwMXR2MzQ1aDggZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:07.000Z",
+   "updated": "2021-08-26T12:34:07.798Z",
+   "summary": "Sette Giugno",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-07"
+   },
+   "end": {
+    "date": "2022-06-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220607_bv4o1lgudllled46ip1tv345h8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962495596000\"",
+   "id": "20220921_vatd6b1hir8ali3qocpcvhs8e0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjFfdmF0ZDZiMWhpcjhhbGkzcW9jcGN2aHM4ZTAgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:07.000Z",
+   "updated": "2021-08-26T12:34:07.798Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-21"
+   },
+   "end": {
+    "date": "2022-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220921_vatd6b1hir8ali3qocpcvhs8e0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962501858000\"",
+   "id": "20220908_717mbiods1arnf9ovon3b8nea8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDhfNzE3bWJpb2RzMWFybmY5b3ZvbjNiOG5lYTggZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:10.000Z",
+   "updated": "2021-08-26T12:34:10.929Z",
+   "summary": "The Feast of Our Lady of Victories",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-08"
+   },
+   "end": {
+    "date": "2022-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220908_717mbiods1arnf9ovon3b8nea8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962508266000\"",
+   "id": "20220319_kptsksjboccps1umshlju4m7gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTlfa3B0c2tzamJvY2NwczF1bXNobGp1NG03Z2sgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:14.000Z",
+   "updated": "2021-08-26T12:34:14.133Z",
+   "summary": "Feast of Saint Joseph",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-19"
+   },
+   "end": {
+    "date": "2022-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220319_kptsksjboccps1umshlju4m7gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962508266000\"",
+   "id": "20220417_c9ph9otavtgmnt541lnmo01rek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfYzlwaDlvdGF2dGdtbnQ1NDFsbm1vMDFyZWsgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:14.000Z",
+   "updated": "2021-08-26T12:34:14.133Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_c9ph9otavtgmnt541lnmo01rek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962508266000\"",
+   "id": "20220418_vr0kstjq1ecuidkncdklt8o15k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfdnIwa3N0anExZWN1aWRrbmNka2x0OG8xNWsgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:14.000Z",
+   "updated": "2021-08-26T12:34:14.133Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_vr0kstjq1ecuidkncdklt8o15k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962508266000\"",
+   "id": "20220501_nq1bl9qtfmncv94p6csbmigvfs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfbnExYmw5cXRmbW5jdjk0cDZjc2JtaWd2ZnMgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:14.000Z",
+   "updated": "2021-08-26T12:34:14.133Z",
+   "summary": "Labour Day/May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_nq1bl9qtfmncv94p6csbmigvfs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962508266000\"",
+   "id": "20220629_rmr20qfpi9gsm70fjgibt2gpg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2Mjlfcm1yMjBxZnBpOWdzbTcwZmpnaWJ0MmdwZzggZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:14.000Z",
+   "updated": "2021-08-26T12:34:14.133Z",
+   "summary": "Feast of Saints Peter and Paul",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-29"
+   },
+   "end": {
+    "date": "2022-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220629_rmr20qfpi9gsm70fjgibt2gpg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962508266000\"",
+   "id": "20220815_23073dip1tva1lf7tnfv8pk8sg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfMjMwNzNkaXAxdHZhMWxmN3RuZnY4cGs4c2cgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:14.000Z",
+   "updated": "2021-08-26T12:34:14.133Z",
+   "summary": "The Feast of Mary's Assumption",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_23073dip1tva1lf7tnfv8pk8sg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962511554000\"",
+   "id": "20220101_s8tjsk5mqktv3l7u1dt88g7jnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfczh0anNrNW1xa3R2M2w3dTFkdDg4ZzdqbmMgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:15.000Z",
+   "updated": "2021-08-26T12:34:15.777Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_s8tjsk5mqktv3l7u1dt88g7jnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962511554000\"",
+   "id": "20220210_o4e8u0rmnb3r7vhtm5nnssbnnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTBfbzRlOHUwcm1uYjNyN3ZodG01bm5zc2JubmMgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:15.000Z",
+   "updated": "2021-08-26T12:34:15.777Z",
+   "summary": "Feast of Saint Paul's Shipwreck",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-10"
+   },
+   "end": {
+    "date": "2022-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220210_o4e8u0rmnb3r7vhtm5nnssbnnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259962511554000\"",
+   "id": "20220331_p09llgtq4vvup0jh9bcglhljm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMzFfcDA5bGxndHE0dnZ1cDBqaDliY2dsaGxqbTAgZW4ubXQjaG9saWRheUB2",
+   "created": "2021-08-26T12:34:15.000Z",
+   "updated": "2021-08-26T12:34:15.777Z",
+   "summary": "Freedom Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-31"
+   },
+   "end": {
+    "date": "2022-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220331_p09llgtq4vvup0jh9bcglhljm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307972091186000\"",
+   "id": "20220508_8os1k20utg2kgu9ugkrl9f9o2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfOG9zMWsyMHV0ZzJrZ3U5dWdrcmw5ZjlvMmsgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-05-31T08:34:05.000Z",
+   "updated": "2022-05-31T08:34:05.593Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_8os1k20utg2kgu9ugkrl9f9o2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307972091186000\"",
+   "id": "20220619_vekdkt46lrb5go1been0k6bgfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfdmVrZGt0NDZscmI1Z28xYmVlbjBrNmJnZm8gZW4ubXQjaG9saWRheUB2",
+   "created": "2022-05-31T08:34:05.000Z",
+   "updated": "2022-05-31T08:34:05.593Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_vekdkt46lrb5go1been0k6bgfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221208_q2p1g4n0r31sbdhejmsvusam30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfcTJwMWc0bjByMzFzYmRoZWptc3Z1c2FtMzAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_q2p1g4n0r31sbdhejmsvusam30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221213_uqe3qq8rabtj3qbvfpme793qik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTNfdXFlM3FxOHJhYnRqM3FidmZwbWU3OTNxaWsgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-13"
+   },
+   "end": {
+    "date": "2022-12-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221213_uqe3qq8rabtj3qbvfpme793qik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221224_m1kimeql9pp0o6dhtdroup4d0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfbTFraW1lcWw5cHAwbzZkaHRkcm91cDRkMGMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_m1kimeql9pp0o6dhtdroup4d0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221225_r6loqjutjirmtkea04se11j0tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfcjZsb3FqdXRqaXJtdGtlYTA0c2UxMWowdGcgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_r6loqjutjirmtkea04se11j0tg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221226_2f8k1c76kq4h8kmt5cc7nf3g24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfMmY4azFjNzZrcTRoOGttdDVjYzduZjNnMjQgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Bank Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_2f8k1c76kq4h8kmt5cc7nf3g24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221226_g902pb6ak3p3dh4t097kpdnvnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfZzkwMnBiNmFrM3AzZGg0dDA5N2twZG52bmsgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Boxing Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_g902pb6ak3p3dh4t097kpdnvnk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20221231_m9onq8o9mnvto3qs5jr1arv980",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfbTlvbnE4bzltbnZ0bzNxczVqcjFhcnY5ODAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_m9onq8o9mnvto3qs5jr1arv980@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230101_2tiustiu85l0d7dr3nc3sf7t8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfMnRpdXN0aXU4NWwwZDdkcjNuYzNzZjd0OGsgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_2tiustiu85l0d7dr3nc3sf7t8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230210_mu39l49of5ate09g7o4u7nrplo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTBfbXUzOWw0OW9mNWF0ZTA5ZzdvNHU3bnJwbG8gZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of Saint Paul's Shipwreck",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-10"
+   },
+   "end": {
+    "date": "2023-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230210_mu39l49of5ate09g7o4u7nrplo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230319_k3pnsaa7f08mbbk95epq5veuns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTlfazNwbnNhYTdmMDhtYmJrOTVlcHE1dmV1bnMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of Saint Joseph",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-19"
+   },
+   "end": {
+    "date": "2023-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230319_k3pnsaa7f08mbbk95epq5veuns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230331_pmerttsfftm69ltn9sntdlnjfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMzFfcG1lcnR0c2ZmdG02OWx0bjlzbnRkbG5qZmcgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Freedom Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-31"
+   },
+   "end": {
+    "date": "2023-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230331_pmerttsfftm69ltn9sntdlnjfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230407_sm3d2ul098numcc9u5alu2js00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfc20zZDJ1bDA5OG51bWNjOXU1YWx1MmpzMDAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_sm3d2ul098numcc9u5alu2js00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230409_4jevprhjmkv3269dthn5bf9efg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfNGpldnByaGpta3YzMjY5ZHRobjViZjllZmcgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_4jevprhjmkv3269dthn5bf9efg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230410_4ing4kods1jgmg1uuklf53qj58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfNGluZzRrb2RzMWpnbWcxdXVrbGY1M3FqNTggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_4ing4kods1jgmg1uuklf53qj58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230410_dlg5qrfbr0ftq04tb8auipu6r0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfZGxnNXFyZmJyMGZ0cTA0dGI4YXVpcHU2cjAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Bank Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_dlg5qrfbr0ftq04tb8auipu6r0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230501_pf88qjb2vh3drotfi0h8a046ps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcGY4OHFqYjJ2aDNkcm90ZmkwaDhhMDQ2cHMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Labour Day/May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_pf88qjb2vh3drotfi0h8a046ps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230514_flcao8jr4h8tmvs1f4ea9s5vn8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfZmxjYW84anI0aDh0bXZzMWY0ZWE5czV2bjggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_flcao8jr4h8tmvs1f4ea9s5vn8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230607_518lqm2s3fg537m9u7mmoo71tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDdfNTE4bHFtMnMzZmc1MzdtOXU3bW1vbzcxdGsgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Sette Giugno",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-07"
+   },
+   "end": {
+    "date": "2023-06-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230607_518lqm2s3fg537m9u7mmoo71tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230618_0k659k69b8edv5c2eplura1h70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfMGs2NTlrNjliOGVkdjVjMmVwbHVyYTFoNzAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_0k659k69b8edv5c2eplura1h70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230629_6gfsm3f8htmfaudki3uoc6ig50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfNmdmc20zZjhodG1mYXVka2kzdW9jNmlnNTAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of Saints Peter and Paul",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_6gfsm3f8htmfaudki3uoc6ig50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230815_nucb4pv92vv59ui6h7211eiqvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfbnVjYjRwdjkydnY1OXVpNmg3MjExZWlxdmMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "The Feast of Mary's Assumption",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_nucb4pv92vv59ui6h7211eiqvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230908_6fetc5b6ugjj8dm01he2ilkts4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDhfNmZldGM1YjZ1Z2pqOGRtMDFoZTJpbGt0czQgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "The Feast of Our Lady of Victories",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-08"
+   },
+   "end": {
+    "date": "2023-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230908_6fetc5b6ugjj8dm01he2ilkts4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20230921_95rdm81bmvq398q6s14stkq7q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjFfOTVyZG04MWJtdnEzOThxNnMxNHN0a3E3cTggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-21"
+   },
+   "end": {
+    "date": "2023-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230921_95rdm81bmvq398q6s14stkq7q8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231208_2bjcl13vlkdcjg45gn3pibs1uc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfMmJqY2wxM3Zsa2Rjamc0NWduM3BpYnMxdWMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_2bjcl13vlkdcjg45gn3pibs1uc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231213_itcpmuggt0564uiauoloukj6cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTNfaXRjcG11Z2d0MDU2NHVpYXVvbG91a2o2Y3MgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-13"
+   },
+   "end": {
+    "date": "2023-12-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231213_itcpmuggt0564uiauoloukj6cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231224_1u2951vpv755vldsob52nvl07g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfMXUyOTUxdnB2NzU1dmxkc29iNTJudmwwN2cgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_1u2951vpv755vldsob52nvl07g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231225_b1c4ttneb1l1252f2vucnga0d8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfYjFjNHR0bmViMWwxMjUyZjJ2dWNuZ2EwZDggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_b1c4ttneb1l1252f2vucnga0d8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231226_aiitve25pu36n9v2rj3t54kjb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfYWlpdHZlMjVwdTM2bjl2MnJqM3Q1NGtqYjAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Boxing Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_aiitve25pu36n9v2rj3t54kjb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231226_nvres6t8nc5ipuup3gh9gbbds0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfbnZyZXM2dDhuYzVpcHV1cDNnaDlnYmJkczAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Bank Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_nvres6t8nc5ipuup3gh9gbbds0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20231231_agfi2noj0n05kgop1ttfa4nfs8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfYWdmaTJub2owbjA1a2dvcDF0dGZhNG5mczggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_agfi2noj0n05kgop1ttfa4nfs8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240101_9n8d6im4egoit8mgctvrg5htk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfOW44ZDZpbTRlZ29pdDhtZ2N0dnJnNWh0azggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_9n8d6im4egoit8mgctvrg5htk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240210_e9rpm8d100u2nhph9acgsgjhp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfZTlycG04ZDEwMHUybmhwaDlhY2dzZ2pocDAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of Saint Paul's Shipwreck",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_e9rpm8d100u2nhph9acgsgjhp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240319_tn7mk0ausf3lvqhu2dikik67q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTlfdG43bWswYXVzZjNsdnFodTJkaWtpazY3cTggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of Saint Joseph",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-19"
+   },
+   "end": {
+    "date": "2024-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240319_tn7mk0ausf3lvqhu2dikik67q8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240329_hv7ej4duommkl0hk6f4fvekct0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfaHY3ZWo0ZHVvbW1rbDBoazZmNGZ2ZWtjdDAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_hv7ej4duommkl0hk6f4fvekct0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240331_0uu70hhs97ac0vk5eos4c01nr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfMHV1NzBoaHM5N2FjMHZrNWVvczRjMDFucjggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Freedom Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_0uu70hhs97ac0vk5eos4c01nr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240331_tiodjpvd9s2njhf5ncubs792bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfdGlvZGpwdmQ5czJuamhmNW5jdWJzNzkyYmMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_tiodjpvd9s2njhf5ncubs792bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240401_09el8o1q5v348ki45fpbde6smg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfMDllbDhvMXE1djM0OGtpNDVmcGJkZTZzbWcgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Bank Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_09el8o1q5v348ki45fpbde6smg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240401_eu031c43bu8kohu7jh958k3ko4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfZXUwMzFjNDNidThrb2h1N2poOTU4azNrbzQgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_eu031c43bu8kohu7jh958k3ko4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240501_g0fqkv40bbrtgoktfl1lh7qr1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfZzBmcWt2NDBiYnJ0Z29rdGZsMWxoN3FyMW8gZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Labour Day/May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_g0fqkv40bbrtgoktfl1lh7qr1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240512_fijkpfnla9rnpn7ubsunlrf3ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfZmlqa3BmbmxhOXJucG43dWJzdW5scmYzc3MgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_fijkpfnla9rnpn7ubsunlrf3ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240607_abdr3kfjq20ishpn4cb41nrge8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDdfYWJkcjNrZmpxMjBpc2hwbjRjYjQxbnJnZTggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Sette Giugno",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-07"
+   },
+   "end": {
+    "date": "2024-06-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240607_abdr3kfjq20ishpn4cb41nrge8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240616_hbu38up9mlekffehbl043jp478",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfaGJ1Mzh1cDltbGVrZmZlaGJsMDQzanA0NzggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_hbu38up9mlekffehbl043jp478@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240629_7c28didp6nomblai5lfi0hol3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjlfN2MyOGRpZHA2bm9tYmxhaTVsZmkwaG9sM2cgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of Saints Peter and Paul",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-29"
+   },
+   "end": {
+    "date": "2024-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240629_7c28didp6nomblai5lfi0hol3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240815_qb4tuds0iarknc0cml51mslpe0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfcWI0dHVkczBpYXJrbmMwY21sNTFtc2xwZTAgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "The Feast of Mary's Assumption",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_qb4tuds0iarknc0cml51mslpe0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240908_hop0oc7p4072ivrlugnln3qjes",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDhfaG9wMG9jN3A0MDcyaXZybHVnbmxuM3FqZXMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "The Feast of Our Lady of Victories",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-08"
+   },
+   "end": {
+    "date": "2024-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240908_hop0oc7p4072ivrlugnln3qjes@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20240921_nu0nk0ft88d0nl8lu39a4kni2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjFfbnUwbmswZnQ4OGQwbmw4bHUzOWE0a25pMnMgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-21"
+   },
+   "end": {
+    "date": "2024-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240921_nu0nk0ft88d0nl8lu39a4kni2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241208_h23riqmd7i20bojanf15cmo2vg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfaDIzcmlxbWQ3aTIwYm9qYW5mMTVjbW8ydmcgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_h23riqmd7i20bojanf15cmo2vg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241213_pkqkl1u23uapilvrqgiolup40k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTNfcGtxa2wxdTIzdWFwaWx2cnFnaW9sdXA0MGsgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-13"
+   },
+   "end": {
+    "date": "2024-12-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241213_pkqkl1u23uapilvrqgiolup40k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241224_99me1fkqvvesls812guhn162gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfOTltZTFma3F2dmVzbHM4MTJndWhuMTYyZ2sgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_99me1fkqvvesls812guhn162gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241225_8vp4705qj1r9pd28qssmbvt454",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfOHZwNDcwNXFqMXI5cGQyOHFzc21idnQ0NTQgZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_8vp4705qj1r9pd28qssmbvt454@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241226_f1mev5705u6fve6f9h9b0cvdt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZjFtZXY1NzA1dTZmdmU2ZjloOWIwY3ZkdDggZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Boxing Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_f1mev5705u6fve6f9h9b0cvdt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241226_gjrc81s1hn2ouhjko888k3i2jo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZ2pyYzgxczFobjJvdWhqa284ODhrM2kyam8gZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "Bank Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_gjrc81s1hn2ouhjko888k3i2jo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901471090000\"",
+   "id": "20241231_rgjssm81meanafioqhpmqj448o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfcmdqc3NtODFtZWFuYWZpb3FocG1xajQ0OG8gZW4ubXQjaG9saWRheUB2",
+   "created": "2022-09-23T16:32:15.000Z",
+   "updated": "2022-09-23T16:32:15.545Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Malta",
+   "creator": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mt#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Malta",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_rgjssm81meanafioqhpmqj448o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

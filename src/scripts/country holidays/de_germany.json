@@ -1,0 +1,3949 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p330cn5k6rqlo00o\"",
+ "summary": "Holidays in Germany",
+ "description": "Holidays and Observances in Germany",
+ "updated": "2023-07-24T23:47:23.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDxmOPDqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949224514000\"",
+   "id": "20220302_n3ussfu0fpibusb5mq6s9n36c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDJfbjN1c3NmdTBmcGlidXNiNW1xNnM5bjM2YzQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:32.000Z",
+   "updated": "2021-08-26T10:43:32.257Z",
+   "summary": "Carnival / Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-02"
+   },
+   "end": {
+    "date": "2022-03-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220302_n3ussfu0fpibusb5mq6s9n36c4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949224514000\"",
+   "id": "20220410_ggp3sviqf37hc878lk47votuuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTBfZ2dwM3N2aXFmMzdoYzg3OGxrNDd2b3R1dWMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:32.000Z",
+   "updated": "2021-08-26T10:43:32.257Z",
+   "summary": "Palm Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-10"
+   },
+   "end": {
+    "date": "2022-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220410_ggp3sviqf37hc878lk47votuuc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949228678000\"",
+   "id": "20220418_a201moemvfr0qu2aen1qpvvvgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfYTIwMW1vZW12ZnIwcXUyYWVuMXFwdnZ2Z28gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:34.000Z",
+   "updated": "2021-08-26T10:43:34.339Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_a201moemvfr0qu2aen1qpvvvgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949234906000\"",
+   "id": "20220106_8g49gpjhnkb6qv8lnr09v93amk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfOGc0OWdwamhua2I2cXY4bG5yMDl2OTNhbWsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:37.000Z",
+   "updated": "2021-08-26T10:43:37.453Z",
+   "summary": "Epiphany (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Saxony-Anhalt",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_8g49gpjhnkb6qv8lnr09v93amk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949234906000\"",
+   "id": "20220606_g78gao0gbp4cpset527gg52jos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfZzc4Z2FvMGdicDRjcHNldDUyN2dnNTJqb3MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:37.000Z",
+   "updated": "2021-08-26T10:43:37.453Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_g78gao0gbp4cpset527gg52jos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949238590000\"",
+   "id": "20220415_gl9mrngpufcoap3i2p2ceql6k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfZ2w5bXJuZ3B1ZmNvYXAzaTJwMmNlcWw2azggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:39.000Z",
+   "updated": "2021-08-26T10:43:39.295Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_gl9mrngpufcoap3i2p2ceql6k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949238590000\"",
+   "id": "20220501_ep32spepm5j65qmcjjc7emn8g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfZXAzMnNwZXBtNWo2NXFtY2pqYzdlbW44ZzggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:39.000Z",
+   "updated": "2021-08-26T10:43:39.295Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_ep32spepm5j65qmcjjc7emn8g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949238590000\"",
+   "id": "20220616_0p15goj5u6k07klujruk10uqio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTZfMHAxNWdvajV1NmswN2tsdWpydWsxMHVxaW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:39.000Z",
+   "updated": "2021-08-26T10:43:39.295Z",
+   "summary": "Corpus Christi (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Hesse, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-16"
+   },
+   "end": {
+    "date": "2022-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220616_0p15goj5u6k07klujruk10uqio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949242006000\"",
+   "id": "20220327_mm2ncknpdr5147ltdsd5ho630s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfbW0ybmNrbnBkcjUxNDdsdGRzZDVobzYzMHMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:41.000Z",
+   "updated": "2021-08-26T10:43:41.003Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_mm2ncknpdr5147ltdsd5ho630s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949242006000\"",
+   "id": "20220808_pt4d5ksu4slb9hu6u4ru5dbeco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDhfcHQ0ZDVrc3U0c2xiOWh1NnU0cnU1ZGJlY28gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:41.000Z",
+   "updated": "2021-08-26T10:43:41.003Z",
+   "summary": "Peace Festival in Augsburg (Bavaria)",
+   "description": "Public holiday in Bavaria",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-08"
+   },
+   "end": {
+    "date": "2022-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220808_pt4d5ksu4slb9hu6u4ru5dbeco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949246912000\"",
+   "id": "20220214_p87qfde5j763mq705ggb593kt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfcDg3cWZkZTVqNzYzbXE3MDVnZ2I1OTNrdDggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:43.000Z",
+   "updated": "2021-08-26T10:43:43.456Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_p87qfde5j763mq705ggb593kt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949246912000\"",
+   "id": "20220508_4uialopineov917kjcu8ar2dug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfNHVpYWxvcGluZW92OTE3a2pjdThhcjJkdWcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:43.000Z",
+   "updated": "2021-08-26T10:43:43.456Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_4uialopineov917kjcu8ar2dug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949246912000\"",
+   "id": "20220508_uu70i7f1hak2s4ueni48gu4fqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfdXU3MGk3ZjFoYWsyczR1ZW5pNDhndTRmcXMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:43.000Z",
+   "updated": "2021-08-26T10:43:43.456Z",
+   "summary": "Anniversary of the End of World War II (regional holiday)",
+   "description": "Observance in Berlin, Brandenburg, Bremen, Mecklenburg-Western Pomerania, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_uu70i7f1hak2s4ueni48gu4fqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949251598000\"",
+   "id": "20220308_8akrpgmgjcu66qfhi1ku5q1kqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDhfOGFrcnBnbWdqY3U2NnFmaGkxa3U1cTFrcXMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:45.000Z",
+   "updated": "2021-08-26T10:43:45.799Z",
+   "summary": "International Women's Day (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-08"
+   },
+   "end": {
+    "date": "2022-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220308_8akrpgmgjcu66qfhi1ku5q1kqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949251598000\"",
+   "id": "20220526_1pmndppugkj6vncpnh5jbpf9co",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfMXBtbmRwcHVna2o2dm5jcG5oNWpicGY5Y28gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:45.000Z",
+   "updated": "2021-08-26T10:43:45.799Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_1pmndppugkj6vncpnh5jbpf9co@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949257600000\"",
+   "id": "20220101_13vmgnb1vg8pqltbub7s3cfkt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMTN2bWduYjF2ZzhwcWx0YnViN3MzY2ZrdDggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:48.000Z",
+   "updated": "2021-08-26T10:43:48.800Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_13vmgnb1vg8pqltbub7s3cfkt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949257600000\"",
+   "id": "20220228_bpr8595jbdrvlbej0fa25tf9q0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjhfYnByODU5NWpiZHJ2bGJlajBmYTI1dGY5cTAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:48.000Z",
+   "updated": "2021-08-26T10:43:48.800Z",
+   "summary": "Shrove Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-28"
+   },
+   "end": {
+    "date": "2022-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220228_bpr8595jbdrvlbej0fa25tf9q0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949257600000\"",
+   "id": "20220526_psra2lec4fqu4q97uspos1d654",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfcHNyYTJsZWM0ZnF1NHE5N3VzcG9zMWQ2NTQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:48.000Z",
+   "updated": "2021-08-26T10:43:48.800Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_psra2lec4fqu4q97uspos1d654@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949265852000\"",
+   "id": "20220414_ocs7acdlneg6ibbll18ncp8nuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfb2NzN2FjZGxuZWc2aWJibGwxOG5jcDhudWMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:52.000Z",
+   "updated": "2021-08-26T10:43:52.926Z",
+   "summary": "Maundy Thursday (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_ocs7acdlneg6ibbll18ncp8nuc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259949265852000\"",
+   "id": "20220920_riork5m8m4f9sbrojlt68dqsnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjBfcmlvcms1bThtNGY5c2Jyb2psdDY4ZHFzbmMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:43:52.000Z",
+   "updated": "2021-08-26T10:43:52.926Z",
+   "summary": "German World Children's Day (Thuringia)",
+   "description": "Public holiday in Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-20"
+   },
+   "end": {
+    "date": "2022-09-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220920_riork5m8m4f9sbrojlt68dqsnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3268745247154000\"",
+   "id": "20220416_9kaualq0a3qs5cnkekjhc13cvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfOWthdWFscTBhM3FzNWNua2VramhjMTNjdm8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-10-16T08:23:43.000Z",
+   "updated": "2021-10-16T08:23:43.577Z",
+   "summary": "Holy Saturday (regional holiday)",
+   "description": "Observance in Bavaria, Hesse, Lower Saxony, Saarland, Rhineland-Palatinate\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_9kaualq0a3qs5cnkekjhc13cvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3278084729012000\"",
+   "id": "20220605_m2v6gi5ice1nvoka2dm0cpu91k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfbTJ2NmdpNWljZTFudm9rYTJkbTBjcHU5MWsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2021-12-09T09:32:44.000Z",
+   "updated": "2021-12-09T09:32:44.506Z",
+   "summary": "Whit Sunday (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_m2v6gi5ice1nvoka2dm0cpu91k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3319570237898000\"",
+   "id": "20220301_05op3a4hiq4efm3lu50eiuvngs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfMDVvcDNhNGhpcTRlZm0zbHU1MGVpdXZuZ3MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-08-06T11:25:18.000Z",
+   "updated": "2022-08-06T11:25:18.949Z",
+   "summary": "Carnival Tuesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_05op3a4hiq4efm3lu50eiuvngs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221003_vdarbik6oev07u5mm35crnjmds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfdmRhcmJpazZvZXYwN3U1bW0zNWNybmptZHMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Day of German Unity",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_vdarbik6oev07u5mm35crnjmds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221030_debdiad3eir19n800rcssp3reo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfZGViZGlhZDNlaXIxOW44MDByY3NzcDNyZW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_debdiad3eir19n800rcssp3reo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221031_h12cvvuugadoe7gp4oc6fnge3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfaDEyY3Z2dXVnYWRvZTdncDRvYzZmbmdlM2sgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Reformation Day (regional holiday)",
+   "description": "Public holiday in Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, Thuringia, Schleswig-Holstein, Hamburg, Lower Saxony, Bremen",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_h12cvvuugadoe7gp4oc6fnge3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221031_v4o5brck3aa3ksqqsrkbdshdkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfdjRvNWJyY2szYWEza3NxcXNya2Jkc2hka2MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_v4o5brck3aa3ksqqsrkbdshdkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221101_f1482qvtisf5f0627p1gbsvu7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfZjE0ODJxdnRpc2Y1ZjA2MjdwMWdic3Z1N28gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "All Saints' Day (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_f1482qvtisf5f0627p1gbsvu7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221111_ton1dqpo9h9sncl8hsmpkdtk8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfdG9uMWRxcG85aDlzbmNsOGhzbXBrZHRrOGsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "St. Martin's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_ton1dqpo9h9sncl8hsmpkdtk8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221113_3drqoepfe5ej5tbcl5ddgg8t4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTNfM2RycW9lcGZlNWVqNXRiY2w1ZGRnZzh0NHMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "National Day of Mourning",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-13"
+   },
+   "end": {
+    "date": "2022-11-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221113_3drqoepfe5ej5tbcl5ddgg8t4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221116_7mvcpgpgvaummeadgsrvsjscjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTZfN212Y3BncGd2YXVtbWVhZGdzcnZzanNjamsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Repentance Day (Saxony)",
+   "description": "Public holiday in Saxony",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-16"
+   },
+   "end": {
+    "date": "2022-11-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221116_7mvcpgpgvaummeadgsrvsjscjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221120_buovdr4orktpkqjrn4jbbudubg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjBfYnVvdmRyNG9ya3Rwa3Fqcm40amJidWR1YmcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Sunday of the Dead",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-20"
+   },
+   "end": {
+    "date": "2022-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221120_buovdr4orktpkqjrn4jbbudubg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221127_1ur9as4a3j48ksp1en30mb7k6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjdfMXVyOWFzNGEzajQ4a3NwMWVuMzBtYjdrNmsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "First Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-27"
+   },
+   "end": {
+    "date": "2022-11-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221127_1ur9as4a3j48ksp1en30mb7k6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221204_8el99spq18b3cv17roeplqmi24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDRfOGVsOTlzcHExOGIzY3YxN3JvZXBscW1pMjQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Second Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-04"
+   },
+   "end": {
+    "date": "2022-12-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221204_8el99spq18b3cv17roeplqmi24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221206_bev7l9rvilvbi0t6ju5r1qurtk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDZfYmV2N2w5cnZpbHZiaTB0Nmp1NXIxcXVydGsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Saint Nicholas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-06"
+   },
+   "end": {
+    "date": "2022-12-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221206_bev7l9rvilvbi0t6ju5r1qurtk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221211_bq7nvoniuap5jotklc5j4ulnfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTFfYnE3bnZvbml1YXA1am90a2xjNWo0dWxuZmcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Third Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-11"
+   },
+   "end": {
+    "date": "2022-12-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221211_bq7nvoniuap5jotklc5j4ulnfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221218_qu11djln0p28arabagqdalvajs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMThfcXUxMWRqbG4wcDI4YXJhYmFncWRhbHZhanMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Fourth Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-18"
+   },
+   "end": {
+    "date": "2022-12-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221218_qu11djln0p28arabagqdalvajs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221225_2mku5o08kanr9u1ir3hg7aghuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfMm1rdTVvMDhrYW5yOXUxaXIzaGc3YWdodWMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_2mku5o08kanr9u1ir3hg7aghuc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20221226_f5go9ubpijri5sj2f9opdn96c8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfZjVnbzl1YnBpanJpNXNqMmY5b3Bkbjk2YzggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_f5go9ubpijri5sj2f9opdn96c8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230101_bc2lv0rpfp75kl1jipvino3220",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfYmMybHYwcnBmcDc1a2wxamlwdmlubzMyMjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_bc2lv0rpfp75kl1jipvino3220@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230106_add5f3fa575e8ut8ogbbn6queg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfYWRkNWYzZmE1NzVlOHV0OG9nYmJuNnF1ZWcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Epiphany (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Saxony-Anhalt",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_add5f3fa575e8ut8ogbbn6queg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230214_g4pvk0f5f3cigu41qe3sev5oeo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfZzRwdmswZjVmM2NpZ3U0MXFlM3NldjVvZW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_g4pvk0f5f3cigu41qe3sev5oeo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230220_q7k4hovod0vnrp4c1qpmdlgjdg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfcTdrNGhvdm9kMHZucnA0YzFxcG1kbGdqZGcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Shrove Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_q7k4hovod0vnrp4c1qpmdlgjdg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230221_vcdqmellvrm7d56svru67fqiv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfdmNkcW1lbGx2cm03ZDU2c3ZydTY3ZnFpdjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Carnival Tuesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_vcdqmellvrm7d56svru67fqiv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230222_43ubveqjopf810501r5vujl21s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjJfNDN1YnZlcWpvcGY4MTA1MDFyNXZ1amwyMXMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Carnival / Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-22"
+   },
+   "end": {
+    "date": "2023-02-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230222_43ubveqjopf810501r5vujl21s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230326_bvdb4k7jqvomipd790tr0u0boc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfYnZkYjRrN2pxdm9taXBkNzkwdHIwdTBib2MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_bvdb4k7jqvomipd790tr0u0boc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230402_64qe702vru98rib8n09uqt59j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDJfNjRxZTcwMnZydTk4cmliOG4wOXVxdDU5ajQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Palm Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-02"
+   },
+   "end": {
+    "date": "2023-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230402_64qe702vru98rib8n09uqt59j4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230406_oqt9qbtgfo8aabp6b295hnc2ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfb3F0OXFidGdmbzhhYWJwNmIyOTVobmMyZWMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Maundy Thursday (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_oqt9qbtgfo8aabp6b295hnc2ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230407_tmgp1e9e84a31m6h18v9ov29do",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfdG1ncDFlOWU4NGEzMW02aDE4djlvdjI5ZG8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_tmgp1e9e84a31m6h18v9ov29do@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230408_l66j0ocbedeov65g4n9fcb983g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfbDY2ajBvY2JlZGVvdjY1ZzRuOWZjYjk4M2cgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Holy Saturday (regional holiday)",
+   "description": "Observance in Bavaria, Hesse, Lower Saxony, Saarland, Rhineland-Palatinate\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_l66j0ocbedeov65g4n9fcb983g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230410_iq0ru1ed72ctcof322hg15rn5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfaXEwcnUxZWQ3MmN0Y29mMzIyaGcxNXJuNWsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_iq0ru1ed72ctcof322hg15rn5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230501_6tilvaa6eur68680gh4kpou8s0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfNnRpbHZhYTZldXI2ODY4MGdoNGtwb3U4czAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_6tilvaa6eur68680gh4kpou8s0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230508_qfbm1blhc4k6mhaq8368qj6qv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfcWZibTFibGhjNGs2bWhhcTgzNjhxajZxdjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Anniversary of the End of World War II (regional holiday)",
+   "description": "Observance in Berlin, Brandenburg, Bremen, Mecklenburg-Western Pomerania, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_qfbm1blhc4k6mhaq8368qj6qv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230514_t5g13g53m5taaahjchmjc1a960",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfdDVnMTNnNTNtNXRhYWFoamNobWpjMWE5NjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_t5g13g53m5taaahjchmjc1a960@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230518_ej3ebua4grghbgtv4pskbfr80k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfZWozZWJ1YTRncmdoYmd0djRwc2tiZnI4MGsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_ej3ebua4grghbgtv4pskbfr80k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230518_vdugkqmklo7dppcp8rfnmdj1k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfdmR1Z2txbWtsbzdkcHBjcDhyZm5tZGoxazAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_vdugkqmklo7dppcp8rfnmdj1k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230528_i6jau632i5tugd6qj4c4ehkke0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfaTZqYXU2MzJpNXR1Z2Q2cWo0YzRlaGtrZTAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Whit Sunday (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_i6jau632i5tugd6qj4c4ehkke0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230529_cr4hl30em0vnmpof43s8cr59r0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfY3I0aGwzMGVtMHZubXBvZjQzczhjcjU5cjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_cr4hl30em0vnmpof43s8cr59r0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230608_cs0pbfg6qo3mmqmf4rg133vtqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDhfY3MwcGJmZzZxbzNtbXFtZjRyZzEzM3Z0cWMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Corpus Christi (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Hesse, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-08"
+   },
+   "end": {
+    "date": "2023-06-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230608_cs0pbfg6qo3mmqmf4rg133vtqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230808_78oehvtfd1icb02cu7kodj8rg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDhfNzhvZWh2dGZkMWljYjAyY3U3a29kajhyZzQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Peace Festival in Augsburg (Bavaria)",
+   "description": "Public holiday in Bavaria",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-08"
+   },
+   "end": {
+    "date": "2023-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230808_78oehvtfd1icb02cu7kodj8rg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20230920_dkgq1ifnev6rhhnm9l6quk33io",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjBfZGtncTFpZm5ldjZyaGhubTlsNnF1azMzaW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "German World Children's Day (Thuringia)",
+   "description": "Public holiday in Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-20"
+   },
+   "end": {
+    "date": "2023-09-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230920_dkgq1ifnev6rhhnm9l6quk33io@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231003_s863k88vo4tmgs80mlm57vi7qg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDNfczg2M2s4OHZvNHRtZ3M4MG1sbTU3dmk3cWcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Day of German Unity",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-03"
+   },
+   "end": {
+    "date": "2023-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231003_s863k88vo4tmgs80mlm57vi7qg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231029_0at3mk8aoabtqlo8il9feig94k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfMGF0M21rOGFvYWJ0cWxvOGlsOWZlaWc5NGsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_0at3mk8aoabtqlo8il9feig94k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231031_2emt1as7lj2259jjmb5akj8e1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfMmVtdDFhczdsajIyNTlqam1iNWFrajhlMWMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Reformation Day (regional holiday)",
+   "description": "Public holiday in Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, Thuringia, Schleswig-Holstein, Hamburg, Lower Saxony, Bremen",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_2emt1as7lj2259jjmb5akj8e1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231031_vj45gumts4mfdfhmqaph79t5us",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfdmo0NWd1bXRzNG1mZGZobXFhcGg3OXQ1dXMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_vj45gumts4mfdfhmqaph79t5us@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231101_llcmoaq0peuhe8c00r1flkjjj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfbGxjbW9hcTBwZXVoZThjMDByMWZsa2pqajQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "All Saints' Day (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_llcmoaq0peuhe8c00r1flkjjj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231111_s058je64f6mbcvr866jn1vnd08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfczA1OGplNjRmNm1iY3ZyODY2am4xdm5kMDggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "St. Martin's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_s058je64f6mbcvr866jn1vnd08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231119_a529hro20f9qkniemrm39cel6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTlfYTUyOWhybzIwZjlxa25pZW1ybTM5Y2VsNmMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "National Day of Mourning",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-19"
+   },
+   "end": {
+    "date": "2023-11-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231119_a529hro20f9qkniemrm39cel6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231122_comfrt5443a1t5j5shj7u9er7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjJfY29tZnJ0NTQ0M2ExdDVqNXNoajd1OWVyN2cgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Repentance Day (Saxony)",
+   "description": "Public holiday in Saxony",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-22"
+   },
+   "end": {
+    "date": "2023-11-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231122_comfrt5443a1t5j5shj7u9er7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231126_irbnih6tlnprkaev42r111627c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjZfaXJibmloNnRsbnBya2FldjQycjExMTYyN2MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Sunday of the Dead",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-26"
+   },
+   "end": {
+    "date": "2023-11-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231126_irbnih6tlnprkaev42r111627c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231203_vmebtfruoqp8b0j4rho039a8so",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDNfdm1lYnRmcnVvcXA4YjBqNHJobzAzOWE4c28gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "First Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-03"
+   },
+   "end": {
+    "date": "2023-12-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231203_vmebtfruoqp8b0j4rho039a8so@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231206_v899pnn5v74i1ibltdcul4s32k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDZfdjg5OXBubjV2NzRpMWlibHRkY3VsNHMzMmsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Saint Nicholas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-06"
+   },
+   "end": {
+    "date": "2023-12-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231206_v899pnn5v74i1ibltdcul4s32k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231210_8ukbrrin3io6fel7s5i687p94k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTBfOHVrYnJyaW4zaW82ZmVsN3M1aTY4N3A5NGsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Second Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-10"
+   },
+   "end": {
+    "date": "2023-12-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231210_8ukbrrin3io6fel7s5i687p94k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231217_e2nncv98tg79ev5bb5tp4983o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTdfZTJubmN2OTh0Zzc5ZXY1YmI1dHA0OTgzbzQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Third Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-17"
+   },
+   "end": {
+    "date": "2023-12-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231217_e2nncv98tg79ev5bb5tp4983o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231224_10c0uoufskf8363n8m0pbv2874",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfMTBjMHVvdWZza2Y4MzYzbjhtMHBidjI4NzQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Fourth Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_10c0uoufskf8363n8m0pbv2874@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231225_bhbv144d0bfitvaep873cp8n38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfYmhidjE0NGQwYmZpdHZhZXA4NzNjcDhuMzggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_bhbv144d0bfitvaep873cp8n38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20231226_du05fgkg00k8u2q7ts1slqt2o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfZHUwNWZna2cwMGs4dTJxN3RzMXNscXQybzAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_du05fgkg00k8u2q7ts1slqt2o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240101_e02u88n547kkeo8v8a8j31h1f0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZTAydTg4bjU0N2trZW84djhhOGozMWgxZjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_e02u88n547kkeo8v8a8j31h1f0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240106_1thk9glesdcl02906puhp48f34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfMXRoazlnbGVzZGNsMDI5MDZwdWhwNDhmMzQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Epiphany (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Saxony-Anhalt",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_1thk9glesdcl02906puhp48f34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240212_qtu2aenaplvijeu09afhpe6kvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfcXR1MmFlbmFwbHZpamV1MDlhZmhwZTZrdmcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Shrove Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_qtu2aenaplvijeu09afhpe6kvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240213_f3ghngp7o8fjgl60nseun81mjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfZjNnaG5ncDdvOGZqZ2w2MG5zZXVuODFtam8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Carnival Tuesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_f3ghngp7o8fjgl60nseun81mjo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240214_0facm4akct20vker7nq33fvogg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfMGZhY200YWtjdDIwdmtlcjducTMzZnZvZ2cgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Carnival / Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_0facm4akct20vker7nq33fvogg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240214_br16smf55dtg187j8rs8prge50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfYnIxNnNtZjU1ZHRnMTg3ajhyczhwcmdlNTAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_br16smf55dtg187j8rs8prge50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240324_tk646fo6b8ccohqstcmkl52nuo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjRfdGs2NDZmbzZiOGNjb2hxc3RjbWtsNTJudW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Palm Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-24"
+   },
+   "end": {
+    "date": "2024-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240324_tk646fo6b8ccohqstcmkl52nuo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240328_4o4rq8fome98pr57v80a49u20g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjhfNG80cnE4Zm9tZTk4cHI1N3Y4MGE0OXUyMGcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Maundy Thursday (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-28"
+   },
+   "end": {
+    "date": "2024-03-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240328_4o4rq8fome98pr57v80a49u20g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240329_7q53922ginhvs3cjcfaa7vfrbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfN3E1MzkyMmdpbmh2czNjamNmYWE3dmZyYmMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_7q53922ginhvs3cjcfaa7vfrbc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240330_t6jgp0c7cmmtkre46g7jtctsrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfdDZqZ3AwYzdjbW10a3JlNDZnN2p0Y3RzcmsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Holy Saturday (regional holiday)",
+   "description": "Observance in Bavaria, Hesse, Lower Saxony, Saarland, Rhineland-Palatinate\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_t6jgp0c7cmmtkre46g7jtctsrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240331_m6v0klq55il6uti59n5bl9i0ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfbTZ2MGtscTU1aWw2dXRpNTluNWJsOWkwdWcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_m6v0klq55il6uti59n5bl9i0ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240401_0ievsl334l1unvssn98ra6p4v0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfMGlldnNsMzM0bDF1bnZzc245OHJhNnA0djAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_0ievsl334l1unvssn98ra6p4v0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240501_8kmt3unpbj1uhn29ql5q48qj4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfOGttdDN1bnBiajF1aG4yOXFsNXE0OHFqNG8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_8kmt3unpbj1uhn29ql5q48qj4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240508_mnpkj7j6dlt86u76bkquh46v6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDhfbW5wa2o3ajZkbHQ4NnU3NmJrcXVoNDZ2NnMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Anniversary of the End of World War II (regional holiday)",
+   "description": "Observance in Berlin, Brandenburg, Bremen, Mecklenburg-Western Pomerania, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-08"
+   },
+   "end": {
+    "date": "2024-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240508_mnpkj7j6dlt86u76bkquh46v6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240509_c5kdmjlguqqgufgf6qvjf1gl2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfYzVrZG1qbGd1cXFndWZnZjZxdmpmMWdsMmMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_c5kdmjlguqqgufgf6qvjf1gl2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240509_f446sih3r9om4rfgfvs4fcvj5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfZjQ0NnNpaDNyOW9tNHJmZ2Z2czRmY3ZqNW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_f446sih3r9om4rfgfvs4fcvj5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240512_958cuqq6j3cjsdm1phqlo8behs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfOTU4Y3VxcTZqM2Nqc2RtMXBocWxvOGJlaHMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_958cuqq6j3cjsdm1phqlo8behs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240520_nppktljnkkokpdismbnepsj400",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfbnBwa3Rsam5ra29rcGRpc21ibmVwc2o0MDAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_nppktljnkkokpdismbnepsj400@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240530_15uq3s23cgj60ten1ocnfada60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MzBfMTV1cTNzMjNjZ2o2MHRlbjFvY25mYWRhNjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Corpus Christi (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Hesse, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-30"
+   },
+   "end": {
+    "date": "2024-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240530_15uq3s23cgj60ten1ocnfada60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240808_am9sfdebm403oojkjl7ru28g68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDhfYW05c2ZkZWJtNDAzb29qa2psN3J1MjhnNjggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Peace Festival in Augsburg (Bavaria)",
+   "description": "Public holiday in Bavaria",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-08"
+   },
+   "end": {
+    "date": "2024-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240808_am9sfdebm403oojkjl7ru28g68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20240920_kkg6ppo9sjdu3ujn6taqp4dlfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjBfa2tnNnBwbzlzamR1M3VqbjZ0YXFwNGRsZmcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "German World Children's Day (Thuringia)",
+   "description": "Public holiday in Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-20"
+   },
+   "end": {
+    "date": "2024-09-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240920_kkg6ppo9sjdu3ujn6taqp4dlfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241003_jcj1cdqujjhc6nil814p05kb08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDNfamNqMWNkcXVqamhjNm5pbDgxNHAwNWtiMDggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Day of German Unity",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-03"
+   },
+   "end": {
+    "date": "2024-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241003_jcj1cdqujjhc6nil814p05kb08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241027_j3mlap1a85fothtdlmldj3uaf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfajNtbGFwMWE4NWZvdGh0ZGxtbGRqM3VhZjggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_j3mlap1a85fothtdlmldj3uaf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241031_dg0j0lparben2uobmrvniu96rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfZGcwajBscGFyYmVuMnVvYm1ydm5pdTk2cmcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Reformation Day (regional holiday)",
+   "description": "Public holiday in Brandenburg, Mecklenburg-Western Pomerania, Saxony, Saxony-Anhalt, Thuringia, Schleswig-Holstein, Hamburg, Lower Saxony, Bremen",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_dg0j0lparben2uobmrvniu96rg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241031_v7nshjhkv39oq9952212p5ftvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfdjduc2hqaGt2MzlvcTk5NTIyMTJwNWZ0dmMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_v7nshjhkv39oq9952212p5ftvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241101_abp62u6qhejlvnge6gvh23l0f4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfYWJwNjJ1NnFoZWpsdm5nZTZndmgyM2wwZjQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "All Saints' Day (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_abp62u6qhejlvnge6gvh23l0f4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241111_16uidl795goj5f8k3nn4jrrgik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfMTZ1aWRsNzk1Z29qNWY4azNubjRqcnJnaWsgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "St. Martin's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_16uidl795goj5f8k3nn4jrrgik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241117_qvajr1hjsrlel8qb9t7g20d4ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTdfcXZhanIxaGpzcmxlbDhxYjl0N2cyMGQ0c3MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "National Day of Mourning",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-17"
+   },
+   "end": {
+    "date": "2024-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241117_qvajr1hjsrlel8qb9t7g20d4ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241120_5n877i1afb13uldk09hhtvrppc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjBfNW44NzdpMWFmYjEzdWxkazA5aGh0dnJwcGMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Repentance Day (Saxony)",
+   "description": "Public holiday in Saxony",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-20"
+   },
+   "end": {
+    "date": "2024-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241120_5n877i1afb13uldk09hhtvrppc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241124_q0gqmap3h0k7lfhs76li4cgp0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjRfcTBncW1hcDNoMGs3bGZoczc2bGk0Y2dwMGcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Sunday of the Dead",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-24"
+   },
+   "end": {
+    "date": "2024-11-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241124_q0gqmap3h0k7lfhs76li4cgp0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241201_2vnr357ej330aeeob556j428io",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDFfMnZucjM1N2VqMzMwYWVlb2I1NTZqNDI4aW8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "First Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-01"
+   },
+   "end": {
+    "date": "2024-12-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241201_2vnr357ej330aeeob556j428io@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241206_8i73t2ng4hmnghjd0qejnelf74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDZfOGk3M3Qybmc0aG1uZ2hqZDBxZWpuZWxmNzQgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Saint Nicholas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-06"
+   },
+   "end": {
+    "date": "2024-12-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241206_8i73t2ng4hmnghjd0qejnelf74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241208_ffvc4q8l80p8iukgn8mngacdl8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfZmZ2YzRxOGw4MHA4aXVrZ244bW5nYWNkbDggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Second Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_ffvc4q8l80p8iukgn8mngacdl8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241215_givelc1f6afq31cb7stdb67mgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTVfZ2l2ZWxjMWY2YWZxMzFjYjdzdGRiNjdtZ3MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Third Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-15"
+   },
+   "end": {
+    "date": "2024-12-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241215_givelc1f6afq31cb7stdb67mgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241222_q6bibt81egu5e08ss8a6q90eoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjJfcTZiaWJ0ODFlZ3U1ZTA4c3M4YTZxOTBlb2MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Fourth Advent Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-22"
+   },
+   "end": {
+    "date": "2024-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241222_q6bibt81egu5e08ss8a6q90eoc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241225_8jt4vp0ndt90p0fi5rjif6rt68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfOGp0NHZwMG5kdDkwcDBmaTVyamlmNnJ0NjggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_8jt4vp0ndt90p0fi5rjif6rt68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723221566000\"",
+   "id": "20241226_meuiukd8m5mqo21a41otuq078c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfbWV1aXVrZDhtNW1xbzIxYTQxb3R1cTA3OGMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:50.000Z",
+   "updated": "2022-09-22T15:46:50.783Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_meuiukd8m5mqo21a41otuq078c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358703273296000\"",
+   "id": "20220417_9se2c5lscl8vleqq1u5q2lsib0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfOXNlMmM1bHNjbDh2bGVxcTF1NXEybHNpYjAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:33:56.000Z",
+   "updated": "2023-03-20T22:33:56.648Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_9se2c5lscl8vleqq1u5q2lsib0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358703273296000\"",
+   "id": "20220815_gscu1jmj7eq23ls7g0nj5he50s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfZ3NjdTFqbWo3ZXEyM2xzN2cwbmo1aGU1MHMgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:33:56.000Z",
+   "updated": "2023-03-20T22:33:56.648Z",
+   "summary": "Assumption of Mary (regional holiday)",
+   "description": "Public holiday in Bavaria, Saarland, Saxony, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_gscu1jmj7eq23ls7g0nj5he50s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358703273296000\"",
+   "id": "20230308_tdp3dn8etpgf0lf9qhog14qb40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfdGRwM2RuOGV0cGdmMGxmOXFob2cxNHFiNDAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:33:56.000Z",
+   "updated": "2023-03-20T22:33:56.648Z",
+   "summary": "International Women's Day (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Baden-Württemberg, Bavaria, Bavaria, Berlin, Brandenburg, Brandenburg, Bremen, Bremen, Hamburg, Hamburg, Hesse, Hesse, Mecklenburg-Western Pomerania, Mecklenburg-Western Pomerania, Lower Saxony, Lower Saxony, North Rhine-Westphalia, North Rhine-Westphalia, Rhineland-Palatinate, Rhineland-Palatinate, Saarland, Saarland, Saxony, Saxony, Saxony-Anhalt, Saxony-Anhalt, Schleswig-Holstein, Schleswig-Holstein, Thuringia, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_tdp3dn8etpgf0lf9qhog14qb40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358703273296000\"",
+   "id": "20230409_sbhcqcgm1s5duvp1kng37gpiss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfc2JoY3FjZ20xczVkdXZwMWtuZzM3Z3Bpc3MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:33:56.000Z",
+   "updated": "2023-03-20T22:33:56.648Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_sbhcqcgm1s5duvp1kng37gpiss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358703273296000\"",
+   "id": "20240308_47fko4nc5h6rff8u0o34t57oig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfNDdma280bmM1aDZyZmY4dTBvMzR0NTdvaWcgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:33:56.000Z",
+   "updated": "2023-03-20T22:33:56.648Z",
+   "summary": "International Women's Day (regional holiday)",
+   "description": "Observance in Baden-Württemberg, Baden-Württemberg, Bavaria, Bavaria, Berlin, Brandenburg, Brandenburg, Bremen, Bremen, Hamburg, Hamburg, Hesse, Hesse, Mecklenburg-Western Pomerania, Mecklenburg-Western Pomerania, Lower Saxony, Lower Saxony, North Rhine-Westphalia, North Rhine-Westphalia, Rhineland-Palatinate, Rhineland-Palatinate, Saarland, Saarland, Saxony, Saxony, Saxony-Anhalt, Saxony-Anhalt, Schleswig-Holstein, Schleswig-Holstein, Thuringia, Thuringia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Germany",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_47fko4nc5h6rff8u0o34t57oig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363787373330000\"",
+   "id": "20230815_aeuttpos1vunj33ngfv7kqs23c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfYWV1dHRwb3MxdnVuajMzbmdmdjdrcXMyM2MgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-04-19T08:41:26.000Z",
+   "updated": "2023-04-19T08:41:26.665Z",
+   "summary": "Assumption of Mary (regional holiday)",
+   "description": "Public holiday in Bavaria, Saarland, Saxony, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_aeuttpos1vunj33ngfv7kqs23c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363787373330000\"",
+   "id": "20240331_lhbmt9cej9n7toq2u5iil3ttro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfbGhibXQ5Y2VqOW43dG9xMnU1aWlsM3R0cm8gZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-04-19T08:41:26.000Z",
+   "updated": "2023-04-19T08:41:26.665Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_lhbmt9cej9n7toq2u5iil3ttro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363787373330000\"",
+   "id": "20240519_isvnoh6auet8v6mbrn55kic1a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfaXN2bm9oNmF1ZXQ4djZtYnJuNTVraWMxYTggZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-04-19T08:41:26.000Z",
+   "updated": "2023-04-19T08:41:26.665Z",
+   "summary": "Whit Sunday (regional holiday)",
+   "description": "Public holiday in Baden-Württemberg, Bavaria, Berlin, Brandenburg, Bremen, Hamburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_isvnoh6auet8v6mbrn55kic1a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363787373330000\"",
+   "id": "20240815_gve9ebpt7mv1rb24ocu311gpq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfZ3ZlOWVicHQ3bXYxcmIyNG9jdTMxMWdwcTAgZW4uZ2VybWFuI2hvbGlkYXlAdg",
+   "created": "2023-04-19T08:41:26.000Z",
+   "updated": "2023-04-19T08:41:26.665Z",
+   "summary": "Assumption of Mary (regional holiday)",
+   "description": "Public holiday in Bavaria, Saarland, Saxony, Thuringia",
+   "creator": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.german#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Germany",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_gve9ebpt7mv1rb24ocu311gpq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

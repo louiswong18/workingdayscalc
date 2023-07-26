@@ -1,0 +1,1389 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33iu39cjrqlo00o\"",
+ "summary": "Holidays in Isle of Man",
+ "description": "Holidays and Observances in Isle of Man",
+ "updated": "2023-07-25T01:35:34.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICLrPrbqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970236828000\"",
+   "id": "20220103_b6h9stghd3nqdj861uova0brec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfYjZoOXN0Z2hkM25xZGo4NjF1b3ZhMGJyZWMgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:38.000Z",
+   "updated": "2021-08-26T13:38:38.414Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_b6h9stghd3nqdj861uova0brec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970236828000\"",
+   "id": "20220502_l3tnpf3sgfvhj1qi6s65ogrefg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfbDN0bnBmM3NnZnZoajFxaTZzNjVvZ3JlZmcgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:38.000Z",
+   "updated": "2021-08-26T13:38:38.414Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_l3tnpf3sgfvhj1qi6s65ogrefg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970236828000\"",
+   "id": "20220603_4pmn140s9d4ujj047ilqb1abj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfNHBtbjE0MHM5ZDR1amowNDdpbHFiMWFiajQgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:38.000Z",
+   "updated": "2021-08-26T13:38:38.414Z",
+   "summary": "Platinum Jubilee Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_4pmn140s9d4ujj047ilqb1abj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970236828000\"",
+   "id": "20220705_g8dc2t9cpfjr7jb23ms98li21g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDVfZzhkYzJ0OWNwZmpyN2piMjNtczk4bGkyMWcgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:38.000Z",
+   "updated": "2021-08-26T13:38:38.414Z",
+   "summary": "Tynwald Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-05"
+   },
+   "end": {
+    "date": "2022-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220705_g8dc2t9cpfjr7jb23ms98li21g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970240616000\"",
+   "id": "20220327_4fqm410uar88b3u7ck19g0b214",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfNGZxbTQxMHVhcjg4YjN1N2NrMTlnMGIyMTQgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:40.000Z",
+   "updated": "2021-08-26T13:38:40.308Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_4fqm410uar88b3u7ck19g0b214@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970240616000\"",
+   "id": "20220415_6v6kpj19b54ne8t2blf99urqv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfNnY2a3BqMTliNTRuZTh0MmJsZjk5dXJxdjQgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:40.000Z",
+   "updated": "2021-08-26T13:38:40.308Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_6v6kpj19b54ne8t2blf99urqv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970240616000\"",
+   "id": "20220418_8t6mvdqdghg1rf77bj5hjca5vk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfOHQ2bXZkcWRnaGcxcmY3N2JqNWhqY2E1dmsgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:40.000Z",
+   "updated": "2021-08-26T13:38:40.308Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_8t6mvdqdghg1rf77bj5hjca5vk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970240616000\"",
+   "id": "20220602_b0tcatancgclb9hqe4ha2qgtt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDJfYjB0Y2F0YW5jZ2NsYjlocWU0aGEycWd0dDQgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:40.000Z",
+   "updated": "2021-08-26T13:38:40.308Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-02"
+   },
+   "end": {
+    "date": "2022-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220602_b0tcatancgclb9hqe4ha2qgtt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970240616000\"",
+   "id": "20220610_pcv4b3l695dhhthjg4qqg7kb0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTBfcGN2NGIzbDY5NWRoaHRoamc0cXFnN2tiMHMgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:40.000Z",
+   "updated": "2021-08-26T13:38:40.308Z",
+   "summary": "T. T. Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-10"
+   },
+   "end": {
+    "date": "2022-06-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220610_pcv4b3l695dhhthjg4qqg7kb0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970240616000\"",
+   "id": "20220829_j0r2hfmksrglsgd27b0v03vm1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MjlfajByMmhmbWtzcmdsc2dkMjdiMHYwM3ZtMWcgZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:40.000Z",
+   "updated": "2021-08-26T13:38:40.308Z",
+   "summary": "Summer Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-29"
+   },
+   "end": {
+    "date": "2022-08-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220829_j0r2hfmksrglsgd27b0v03vm1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259970246338000\"",
+   "id": "20220101_creg6957t1a8c7f5rrl3nlv93o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfY3JlZzY5NTd0MWE4YzdmNXJybDNubHY5M28gZW4uaW0jaG9saWRheUB2",
+   "created": "2021-08-26T13:38:43.000Z",
+   "updated": "2021-08-26T13:38:43.169Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_creg6957t1a8c7f5rrl3nlv93o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326806247464000\"",
+   "id": "20220919_7ja6kh2h2obol3aa6ui7bfb50c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfN2phNmtoMmgyb2JvbDNhYTZ1aTdiZmI1MGMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-17T08:25:23.000Z",
+   "updated": "2022-09-17T08:25:23.732Z",
+   "summary": "State Funeral of Queen Elizabeth II",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_7ja6kh2h2obol3aa6ui7bfb50c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20221030_f2bamp070dfeqlgle10trvg824",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfZjJiYW1wMDcwZGZlcWxnbGUxMHRydmc4MjQgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_f2bamp070dfeqlgle10trvg824@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20221225_mj3gajnq68b8c9c2d72km20thg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfbWozZ2FqbnE2OGI4YzljMmQ3MmttMjB0aGcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_mj3gajnq68b8c9c2d72km20thg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20221226_9atjfod2ddv12gen0u3l2tuapc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfOWF0amZvZDJkZHYxMmdlbjB1M2wydHVhcGMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_9atjfod2ddv12gen0u3l2tuapc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20221227_ked972prhbv2jceovnadsmcdi8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfa2VkOTcycHJoYnYyamNlb3ZuYWRzbWNkaTggZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Day off for Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_ked972prhbv2jceovnadsmcdi8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230101_031a5tlmkab32jk92l8qgccmr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfMDMxYTV0bG1rYWIzMmprOTJsOHFnY2NtcjAgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_031a5tlmkab32jk92l8qgccmr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230102_oss5buqbmtrn9qofsb6ug8q3tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfb3NzNWJ1cWJtdHJuOXFvZnNiNnVnOHEzdGcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_oss5buqbmtrn9qofsb6ug8q3tg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230326_61vrmbubc8qknv305v2fq9duug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfNjF2cm1idWJjOHFrbnYzMDV2MmZxOWR1dWcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_61vrmbubc8qknv305v2fq9duug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230407_ls3t7d979g1pco3pi2ne0e5ero",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfbHMzdDdkOTc5ZzFwY28zcGkybmUwZTVlcm8gZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_ls3t7d979g1pco3pi2ne0e5ero@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230410_lsb4pj7itv8d5on8f1232rqr5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbHNiNHBqN2l0djhkNW9uOGYxMjMycnFyNWcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_lsb4pj7itv8d5on8f1232rqr5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230501_ble1g7e42mml8qrplsuql5sihk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfYmxlMWc3ZTQybW1sOHFycGxzdXFsNXNpaGsgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_ble1g7e42mml8qrplsuql5sihk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230529_kq922tfoaec68r179j1g6fths4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1Mjlfa3E5MjJ0Zm9hZWM2OHIxNzlqMWc2ZnRoczQgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Late May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_kq922tfoaec68r179j1g6fths4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230609_ik5uqt0ufvmkiiur60fdj04278",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDlfaWs1dXF0MHVmdm1raWl1cjYwZmRqMDQyNzggZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "T. T. Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-09"
+   },
+   "end": {
+    "date": "2023-06-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230609_ik5uqt0ufvmkiiur60fdj04278@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230705_kj2cej29b5husu8jhcd60uc1cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDVfa2oyY2VqMjliNWh1c3U4amhjZDYwdWMxY3MgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Tynwald Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-05"
+   },
+   "end": {
+    "date": "2023-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230705_kj2cej29b5husu8jhcd60uc1cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20230828_q5kt9ue9sd5cgvs15a8kglih64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjhfcTVrdDl1ZTlzZDVjZ3ZzMTVhOGtnbGloNjQgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Summer Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-28"
+   },
+   "end": {
+    "date": "2023-08-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230828_q5kt9ue9sd5cgvs15a8kglih64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20231029_t58dd041kb3356bmd6apgbscso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfdDU4ZGQwNDFrYjMzNTZibWQ2YXBnYnNjc28gZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_t58dd041kb3356bmd6apgbscso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20231225_kios0bsapcc7l4l98flf4g4r04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfa2lvczBic2FwY2M3bDRsOThmbGY0ZzRyMDQgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_kios0bsapcc7l4l98flf4g4r04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20231226_6rm0t58ipdf3lfjidu2q7lb8j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfNnJtMHQ1OGlwZGYzbGZqaWR1MnE3bGI4ajQgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_6rm0t58ipdf3lfjidu2q7lb8j4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240101_sr10a8kt1ajrh5hhkjrg0h3pmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfc3IxMGE4a3QxYWpyaDVoaGtqcmcwaDNwbWcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_sr10a8kt1ajrh5hhkjrg0h3pmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240329_avqp7ri47vaqf43aod5q3q4p9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfYXZxcDdyaTQ3dmFxZjQzYW9kNXEzcTRwOWMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_avqp7ri47vaqf43aod5q3q4p9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240331_ic0jp9tbtimqbcjp7uq270u5dk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfaWMwanA5dGJ0aW1xYmNqcDd1cTI3MHU1ZGsgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_ic0jp9tbtimqbcjp7uq270u5dk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240401_n48ban2i3c1k62iun65mo0m85s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfbjQ4YmFuMmkzYzFrNjJpdW42NW1vMG04NXMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_n48ban2i3c1k62iun65mo0m85s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240506_pf089mrl4c07jsfoeqlcubgrhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfcGYwODltcmw0YzA3anNmb2VxbGN1YmdyaHMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_pf089mrl4c07jsfoeqlcubgrhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240527_q5qemgrkl22n7sp653uloef1lk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjdfcTVxZW1ncmtsMjJuN3NwNjUzdWxvZWYxbGsgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Late May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-27"
+   },
+   "end": {
+    "date": "2024-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240527_q5qemgrkl22n7sp653uloef1lk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240607_0hvg1mev3v384llupknl8jkdvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDdfMGh2ZzFtZXYzdjM4NGxsdXBrbmw4amtkdnMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "T. T. Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-07"
+   },
+   "end": {
+    "date": "2024-06-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240607_0hvg1mev3v384llupknl8jkdvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240705_3r0hpo2pcbabd83qssoim9a3mc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDVfM3IwaHBvMnBjYmFiZDgzcXNzb2ltOWEzbWMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Tynwald Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-05"
+   },
+   "end": {
+    "date": "2024-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240705_3r0hpo2pcbabd83qssoim9a3mc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20240826_e3cl7a8de10bkgl8edpai9c8ag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjZfZTNjbDdhOGRlMTBia2dsOGVkcGFpOWM4YWcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Summer Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-26"
+   },
+   "end": {
+    "date": "2024-08-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240826_e3cl7a8de10bkgl8edpai9c8ag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20241027_5th6r01v8ms6jmgpejp6ho1gic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfNXRoNnIwMXY4bXM2am1ncGVqcDZobzFnaWMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_5th6r01v8ms6jmgpejp6ho1gic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20241225_k569fkjdmm1qlctmed7v0g6rhc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfazU2OWZramRtbTFxbGN0bWVkN3YwZzZyaGMgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_k569fkjdmm1qlctmed7v0g6rhc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894350914000\"",
+   "id": "20241226_1m7cru15l7gf3dos87p6kb532k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfMW03Y3J1MTVsN2dmM2Rvczg3cDZrYjUzMmsgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-09-23T15:32:55.000Z",
+   "updated": "2022-09-23T15:32:55.457Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_1m7cru15l7gf3dos87p6kb532k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338219939090000\"",
+   "id": "20230506_b7bhbvgguo4e51agakbr7lbshg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfYjdiaGJ2Z2d1bzRlNTFhZ2FrYnI3bGJzaGcgZW4uaW0jaG9saWRheUB2",
+   "created": "2022-11-22T09:39:29.000Z",
+   "updated": "2022-11-22T09:39:29.545Z",
+   "summary": "The Coronation of King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Isle of Man",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_b7bhbvgguo4e51agakbr7lbshg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338219939090000\"",
+   "id": "20230508_9vdi3gcgl2q1osm4d66p4r3s2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfOXZkaTNnY2dsMnExb3NtNGQ2NnA0cjNzMm8gZW4uaW0jaG9saWRheUB2",
+   "created": "2022-11-22T09:39:29.000Z",
+   "updated": "2022-11-22T09:39:29.545Z",
+   "summary": "Bank Holiday for the Coronation of King Charles III",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.im#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Isle of Man",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_9vdi3gcgl2q1osm4d66p4r3s2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

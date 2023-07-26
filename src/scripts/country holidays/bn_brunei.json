@@ -1,0 +1,1773 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32od787srmlo00o\"",
+ "summary": "Holidays in Brunei",
+ "description": "Holidays and Observances in Brunei",
+ "updated": "2023-07-25T04:49:30.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICV6aaHqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971974526000\"",
+   "id": "20220223_jo3k99eb724sn04taf85fehgdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjNfam8zazk5ZWI3MjRzbjA0dGFmODVmZWhnZG8gZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:07.000Z",
+   "updated": "2021-08-26T13:53:07.263Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-23"
+   },
+   "end": {
+    "date": "2022-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220223_jo3k99eb724sn04taf85fehgdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971974526000\"",
+   "id": "20220403_8sjqckja8cjd87mumipr0a983k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDNfOHNqcWNramE4Y2pkODdtdW1pcHIwYTk4M2sgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:07.000Z",
+   "updated": "2021-08-26T13:53:07.263Z",
+   "summary": "Ramadan Start",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-03"
+   },
+   "end": {
+    "date": "2022-04-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220403_8sjqckja8cjd87mumipr0a983k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971974526000\"",
+   "id": "20220715_1d0tkchh2so16l2l6oke3tuo4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTVfMWQwdGtjaGgyc28xNmwybDZva2UzdHVvNG8gZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:07.000Z",
+   "updated": "2021-08-26T13:53:07.263Z",
+   "summary": "Sultan's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-15"
+   },
+   "end": {
+    "date": "2022-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220715_1d0tkchh2so16l2l6oke3tuo4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971979268000\"",
+   "id": "20220716_tcrv03f3ua2p2fqnav31dabnac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTZfdGNydjAzZjN1YTJwMmZxbmF2MzFkYWJuYWMgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:09.000Z",
+   "updated": "2021-08-26T13:53:09.634Z",
+   "summary": "Sultan's Birthday observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-16"
+   },
+   "end": {
+    "date": "2022-07-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220716_tcrv03f3ua2p2fqnav31dabnac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971984936000\"",
+   "id": "20220404_opfrtiogtog6ine3murbu007mg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDRfb3BmcnRpb2d0b2c2aW5lM211cmJ1MDA3bWcgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:12.000Z",
+   "updated": "2021-08-26T13:53:12.468Z",
+   "summary": "Ramadan Start observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-04"
+   },
+   "end": {
+    "date": "2022-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220404_opfrtiogtog6ine3murbu007mg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971984936000\"",
+   "id": "20220504_pukdjjep74ic1pl2v1nfcc615k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfcHVrZGpqZXA3NGljMXBsMnYxbmZjYzYxNWsgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:12.000Z",
+   "updated": "2021-08-26T13:53:12.468Z",
+   "summary": "Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_pukdjjep74ic1pl2v1nfcc615k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971984936000\"",
+   "id": "20220531_m1nft7fdrl4qqpsjskp5og12f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MzFfbTFuZnQ3ZmRybDRxcXBzanNrcDVvZzEyZjggZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:12.000Z",
+   "updated": "2021-08-26T13:53:12.468Z",
+   "summary": "Royal Brunei Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-31"
+   },
+   "end": {
+    "date": "2022-06-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220531_m1nft7fdrl4qqpsjskp5og12f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971990006000\"",
+   "id": "20220101_e3qh01fn60h2btshvv3814meek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfZTNxaDAxZm42MGgyYnRzaHZ2MzgxNG1lZWsgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:15.000Z",
+   "updated": "2021-08-26T13:53:15.003Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_e3qh01fn60h2btshvv3814meek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971990006000\"",
+   "id": "20220419_ttf4dotcgqaejd2thgpg0ofb30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTlfdHRmNGRvdGNncWFlamQydGhncGcwb2ZiMzAgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:15.000Z",
+   "updated": "2021-08-26T13:53:15.003Z",
+   "summary": "Nuzul Al-Qur'an",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-19"
+   },
+   "end": {
+    "date": "2022-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220419_ttf4dotcgqaejd2thgpg0ofb30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259971990006000\"",
+   "id": "20220730_1arvu037lg0d3d3uces5nn6vjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfMWFydnUwMzdsZzBkM2QzdWNlczVubjZ2anMgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-08-26T13:53:15.000Z",
+   "updated": "2021-08-26T13:53:15.003Z",
+   "summary": "Muharram/Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_1arvu037lg0d3d3uces5nn6vjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318551412000\"",
+   "id": "20220228_o4irg0mecd1nr33glldm12sq9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjhfbzRpcmcwbWVjZDFucjMzZ2xsZG0xMnNxOWsgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-11-23T09:21:15.000Z",
+   "updated": "2021-11-23T09:21:15.706Z",
+   "summary": "Isra and Mi'raj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-28"
+   },
+   "end": {
+    "date": "2022-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220228_o4irg0mecd1nr33glldm12sq9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318551412000\"",
+   "id": "20220502_ddlgkf3pvdespfr4sg1q5b6ucg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZGRsZ2tmM3B2ZGVzcGZyNHNnMXE1YjZ1Y2cgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-11-23T09:21:15.000Z",
+   "updated": "2021-11-23T09:21:15.706Z",
+   "summary": "Eid ul Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_ddlgkf3pvdespfr4sg1q5b6ucg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318551412000\"",
+   "id": "20220503_uesnncmroqkj8ktu8tel8p04p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfdWVzbm5jbXJvcWtqOGt0dTh0ZWw4cDA0cDAgZW4uYm4jaG9saWRheUB2",
+   "created": "2021-11-23T09:21:15.000Z",
+   "updated": "2021-11-23T09:21:15.706Z",
+   "summary": "Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_uesnncmroqkj8ktu8tel8p04p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286333284028000\"",
+   "id": "20220201_4jql7j259pkneeclpjdnico8ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfNGpxbDdqMjU5cGtuZWVjbHBqZG5pY284b2sgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-01-26T03:10:42.000Z",
+   "updated": "2022-01-26T03:10:42.014Z",
+   "summary": "Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_4jql7j259pkneeclpjdnico8ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618640834000\"",
+   "id": "20220710_h0r31lln605938fsgnjed6kpug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfaDByMzFsbG42MDU5Mzhmc2duamVkNmtwdWcgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-07-14T14:35:20.000Z",
+   "updated": "2022-07-14T14:35:20.417Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_h0r31lln605938fsgnjed6kpug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618640834000\"",
+   "id": "20220711_vd74e4844it0u9o1muuivhvrv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfdmQ3NGU0ODQ0aXQwdTlvMW11dWl2aHZydjQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-07-14T14:35:20.000Z",
+   "updated": "2022-07-14T14:35:20.417Z",
+   "summary": "Day off for Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_vd74e4844it0u9o1muuivhvrv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20221008_g4gsfkbpa1dr8j2tc6pjus6gdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfZzRnc2ZrYnBhMWRyOGoydGM2cGp1czZnZG8gZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Milad un Nabi (Mawlid)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_g4gsfkbpa1dr8j2tc6pjus6gdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20221225_kqmaebrujktpoig5mfvnhm8p0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfa3FtYWVicnVqa3Rwb2lnNW1mdm5obThwMHMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_kqmaebrujktpoig5mfvnhm8p0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20221226_1v30ahqcq9uqh9nedt73l58iqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfMXYzMGFocWNxOXVxaDluZWR0NzNsNThpcXMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Christmas Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_1v30ahqcq9uqh9nedt73l58iqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230101_vuna2lu6qib7nat4rh98f2gkbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdnVuYTJsdTZxaWI3bmF0NHJoOThmMmdrYnMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_vuna2lu6qib7nat4rh98f2gkbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230122_3d8a3r6lgvck0bnfg9gf3ilhl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfM2Q4YTNyNmxndmNrMGJuZmc5Z2YzaWxobDAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_3d8a3r6lgvck0bnfg9gf3ilhl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230123_veht4d8f194202k624hg9866tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfdmVodDRkOGYxOTQyMDJrNjI0aGc5ODY2dGsgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Day off for Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_veht4d8f194202k624hg9866tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230218_mk24il5t9fbfc8atnudja9a4ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfbWsyNGlsNXQ5ZmJmYzhhdG51ZGphOWE0bnMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Isra and Mi'raj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_mk24il5t9fbfc8atnudja9a4ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230223_mcc6arssu56jkag3hbnm3q8uh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjNfbWNjNmFyc3N1NTZqa2FnM2hibm0zcTh1aDQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-23"
+   },
+   "end": {
+    "date": "2023-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230223_mcc6arssu56jkag3hbnm3q8uh4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230323_hlkcib4eabh3cji6c0blll8m6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfaGxrY2liNGVhYmgzY2ppNmMwYmxsbDhtNm8gZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Ramadan Start",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_hlkcib4eabh3cji6c0blll8m6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230408_qf4jf0rgf2ism43vsj29qcvcqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfcWY0amYwcmdmMmlzbTQzdnNqMjlxY3ZjcWcgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Nuzul Al-Qur'an",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_qf4jf0rgf2ism43vsj29qcvcqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230422_a1a5fp6tn2rt7n5v0hjdbj5k00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfYTFhNWZwNnRuMnJ0N241djBoamRiajVrMDAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid ul Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_a1a5fp6tn2rt7n5v0hjdbj5k00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230423_1io9rbc1a22vrmri4flod3vbe0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfMWlvOXJiYzFhMjJ2cm1yaTRmbG9kM3ZiZTAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_1io9rbc1a22vrmri4flod3vbe0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230424_t78fssdl0968hs2maerptuo2eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfdDc4ZnNzZGwwOTY4aHMybWFlcnB0dW8yZW8gZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_t78fssdl0968hs2maerptuo2eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230531_ik4ur9be2p3g5i27l6389av8n8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MzFfaWs0dXI5YmUycDNnNWkyN2w2Mzg5YXY4bjggZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Royal Brunei Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-31"
+   },
+   "end": {
+    "date": "2023-06-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230531_ik4ur9be2p3g5i27l6389av8n8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230629_raongk7bp9b9sfffh0tbbggups",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfcmFvbmdrN2JwOWI5c2ZmZmgwdGJiZ2d1cHMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_raongk7bp9b9sfffh0tbbggups@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20230715_bfbit5tpovbnm0hp2fjrjgiv2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTVfYmZiaXQ1dHBvdmJubTBocDJmanJqZ2l2Mm8gZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Sultan's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-15"
+   },
+   "end": {
+    "date": "2023-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230715_bfbit5tpovbnm0hp2fjrjgiv2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20231225_107c9oheq59grjsf9mo33452f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfMTA3YzlvaGVxNTlncmpzZjltbzMzNDUyZjggZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_107c9oheq59grjsf9mo33452f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240101_4fuaujpv9dl9cie02m6c3rfrb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNGZ1YXVqcHY5ZGw5Y2llMDJtNmMzcmZyYjQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_4fuaujpv9dl9cie02m6c3rfrb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240207_sbpb0kvjp2h4hhk0qelaphmh30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDdfc2JwYjBrdmpwMmg0aGhrMHFlbGFwaG1oMzAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Isra and Mi'raj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-07"
+   },
+   "end": {
+    "date": "2024-02-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240207_sbpb0kvjp2h4hhk0qelaphmh30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240210_is4v5r1jitd3mfhbrt246hrtu4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfaXM0djVyMWppdGQzbWZoYnJ0MjQ2aHJ0dTQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_is4v5r1jitd3mfhbrt246hrtu4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240223_jbbso4qn9cq0njkio5rlsqdlmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjNfamJic280cW45Y3EwbmpraW81cmxzcWRsbWsgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-23"
+   },
+   "end": {
+    "date": "2024-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240223_jbbso4qn9cq0njkio5rlsqdlmk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240224_gltmesm1u3kddjsm3qbjab6e3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjRfZ2x0bWVzbTF1M2tkZGpzbTNxYmphYjZlM2MgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "National Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-24"
+   },
+   "end": {
+    "date": "2024-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240224_gltmesm1u3kddjsm3qbjab6e3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240311_018uq4m33lp4qfudq7s511ie6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfMDE4dXE0bTMzbHA0cWZ1ZHE3czUxMWllNmsgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Ramadan Start",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_018uq4m33lp4qfudq7s511ie6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240327_mdau5ku1ed28t8dr45istqm5rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjdfbWRhdTVrdTFlZDI4dDhkcjQ1aXN0cW01cmcgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Nuzul Al-Qur'an",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-27"
+   },
+   "end": {
+    "date": "2024-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240327_mdau5ku1ed28t8dr45istqm5rg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240410_dod2eed4o7hktlegs67nuu9424",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfZG9kMmVlZDRvN2hrdGxlZ3M2N251dTk0MjQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid ul Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_dod2eed4o7hktlegs67nuu9424@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240411_0s6kg4red0hn0u5hkts1agq3s4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfMHM2a2c0cmVkMGhuMHU1aGt0czFhZ3EzczQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_0s6kg4red0hn0u5hkts1agq3s4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240412_3naeu2omrobc4a6vpu6q5st8dk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfM25hZXUyb21yb2JjNGE2dnB1NnE1c3Q4ZGsgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_3naeu2omrobc4a6vpu6q5st8dk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240413_2cuqidkprubsqdhqki1d8m7dnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTNfMmN1cWlka3BydWJzcWRocWtpMWQ4bTdkbmMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid Al Fitr Holiday observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-13"
+   },
+   "end": {
+    "date": "2024-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240413_2cuqidkprubsqdhqki1d8m7dnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240531_mjihgr70ehjievrr9j38oc9rus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MzFfbWppaGdyNzBlaGppZXZycjlqMzhvYzlydXMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Royal Brunei Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-31"
+   },
+   "end": {
+    "date": "2024-06-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240531_mjihgr70ehjievrr9j38oc9rus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240601_u7k5vve26ilj50l7uc9l8tkufk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDFfdTdrNXZ2ZTI2aWxqNTBsN3VjOWw4dGt1ZmsgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Royal Brunei Armed Forces Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-01"
+   },
+   "end": {
+    "date": "2024-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240601_u7k5vve26ilj50l7uc9l8tkufk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240617_qhuljblu5vdbcbc192l7vl301c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfcWh1bGpibHU1dmRiY2JjMTkybDd2bDMwMWMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_qhuljblu5vdbcbc192l7vl301c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240708_3650iv1v3mk55fq93s500b9jt0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfMzY1MGl2MXYzbWs1NWZxOTNzNTAwYjlqdDAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Muharram/Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_3650iv1v3mk55fq93s500b9jt0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240715_b0oun3nm2ekto064uf5k7ecue0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTVfYjBvdW4zbm0yZWt0bzA2NHVmNWs3ZWN1ZTAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Sultan's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-15"
+   },
+   "end": {
+    "date": "2024-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240715_b0oun3nm2ekto064uf5k7ecue0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20240916_fpjatnmouqoupovl7k11ur5fm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfZnBqYXRubW91cW91cG92bDdrMTF1cjVmbTQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Milad un Nabi (Mawlid)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_fpjatnmouqoupovl7k11ur5fm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546255808000\"",
+   "id": "20241225_31jkmrnj4kpa1fs04ut3u7v8p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfMzFqa21ybmo0a3BhMWZzMDR1dDN1N3Y4cDAgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-09-27T10:05:27.000Z",
+   "updated": "2022-09-27T10:05:27.904Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_31jkmrnj4kpa1fs04ut3u7v8p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3335801610216000\"",
+   "id": "20230102_o1q2mht41kb1jjoltudaulmqv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfbzFxMm1odDQxa2IxampvbHR1ZGF1bG1xdjQgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-11-08T09:46:45.000Z",
+   "updated": "2022-11-08T09:46:45.108Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_o1q2mht41kb1jjoltudaulmqv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3335801610216000\"",
+   "id": "20230425_pnlame42ct7mr9cp3m7c1acvqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfcG5sYW1lNDJjdDdtcjljcDNtN2MxYWN2cWMgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-11-08T09:46:45.000Z",
+   "updated": "2022-11-08T09:46:45.108Z",
+   "summary": "Day off for Eid Al Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_pnlame42ct7mr9cp3m7c1acvqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3335801610216000\"",
+   "id": "20230928_p9jvpuk6k1td1dsu27hebtf71k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfcDlqdnB1azZrMXRkMWRzdTI3aGVidGY3MWsgZW4uYm4jaG9saWRheUB2",
+   "created": "2022-11-08T09:46:45.000Z",
+   "updated": "2022-11-08T09:46:45.108Z",
+   "summary": "Milad un Nabi (Mawlid)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_p9jvpuk6k1td1dsu27hebtf71k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3379510561202000\"",
+   "id": "20230718_2m6bpabt4cjl3a8ueu428tqkpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MThfMm02YnBhYnQ0Y2psM2E4dWV1NDI4dHFrcGsgZW4uYm4jaG9saWRheUB2",
+   "created": "2023-07-19T08:28:00.000Z",
+   "updated": "2023-07-19T08:28:00.601Z",
+   "summary": "Muharram/Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bn#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Brunei",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-18"
+   },
+   "end": {
+    "date": "2023-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230718_2m6bpabt4cjl3a8ueu428tqkpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

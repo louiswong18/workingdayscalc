@@ -1,0 +1,2413 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33g97mc3rqlo00o\"",
+ "summary": "Holidays in South Korea",
+ "description": "Holidays and Observances in South Korea",
+ "updated": "2023-07-24T22:40:44.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICmqfC0qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973260538000\"",
+   "id": "20220405_imm3fbpjkrep3ng7t9g0m4gnfc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDVfaW1tM2ZicGprcmVwM25nN3Q5ZzBtNGduZmMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:50.000Z",
+   "updated": "2021-08-26T14:03:50.269Z",
+   "summary": "Arbor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-05"
+   },
+   "end": {
+    "date": "2022-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220405_imm3fbpjkrep3ng7t9g0m4gnfc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973260538000\"",
+   "id": "20220606_ccvmo19gh7mut9r598ddpvb464",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfY2N2bW8xOWdoN211dDlyNTk4ZGRwdmI0NjQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:50.000Z",
+   "updated": "2021-08-26T14:03:50.269Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_ccvmo19gh7mut9r598ddpvb464@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973260538000\"",
+   "id": "20220911_ut197rfj4igm1fgb36gio9202c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTFfdXQxOTdyZmo0aWdtMWZnYjM2Z2lvOTIwMmMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:50.000Z",
+   "updated": "2021-08-26T14:03:50.269Z",
+   "summary": "Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-11"
+   },
+   "end": {
+    "date": "2022-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220911_ut197rfj4igm1fgb36gio9202c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973265518000\"",
+   "id": "20220815_ovmnb4236om6995vbhv4133jgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfb3ZtbmI0MjM2b202OTk1dmJodjQxMzNqZ2cgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:52.000Z",
+   "updated": "2021-08-26T14:03:52.759Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_ovmnb4236om6995vbhv4133jgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973265518000\"",
+   "id": "20220909_i7b0jin5viga1gc1vmj0bkvf50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDlfaTdiMGppbjV2aWdhMWdjMXZtajBia3ZmNTAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:52.000Z",
+   "updated": "2021-08-26T14:03:52.759Z",
+   "summary": "Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-09"
+   },
+   "end": {
+    "date": "2022-09-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220909_i7b0jin5viga1gc1vmj0bkvf50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973269060000\"",
+   "id": "20220101_8g3c50286okcg96sf89um2fthk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfOGczYzUwMjg2b2tjZzk2c2Y4OXVtMmZ0aGsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:54.000Z",
+   "updated": "2021-08-26T14:03:54.530Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_8g3c50286okcg96sf89um2fthk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973269060000\"",
+   "id": "20220515_1h2j5s8jh2vrgt4b0sr7mlnj1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTVfMWgyajVzOGpoMnZyZ3Q0YjBzcjdtbG5qMWMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:54.000Z",
+   "updated": "2021-08-26T14:03:54.530Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-15"
+   },
+   "end": {
+    "date": "2022-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220515_1h2j5s8jh2vrgt4b0sr7mlnj1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973269060000\"",
+   "id": "20220717_qpv6u1ptnpl4cn5c2cdv5dlqn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTdfcXB2NnUxcHRucGw0Y241YzJjZHY1ZGxxbjQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:54.000Z",
+   "updated": "2021-08-26T14:03:54.530Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-17"
+   },
+   "end": {
+    "date": "2022-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220717_qpv6u1ptnpl4cn5c2cdv5dlqn4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973273374000\"",
+   "id": "20220301_kos1ufv3jrm7llgoj8ogmo7ogs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfa29zMXVmdjNqcm03bGxnb2o4b2dtbzdvZ3MgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:56.000Z",
+   "updated": "2021-08-26T14:03:56.687Z",
+   "summary": "Independence Movement Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_kos1ufv3jrm7llgoj8ogmo7ogs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973273374000\"",
+   "id": "20220505_08l2htu77llk3ji74ms3jo11t8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfMDhsMmh0dTc3bGxrM2ppNzRtczNqbzExdDggZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:56.000Z",
+   "updated": "2021-08-26T14:03:56.687Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_08l2htu77llk3ji74ms3jo11t8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973273374000\"",
+   "id": "20220508_88s5d5tkq2fhkg02mos531mmdc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfODhzNWQ1dGtxMmZoa2cwMm1vczUzMW1tZGMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:56.000Z",
+   "updated": "2021-08-26T14:03:56.687Z",
+   "summary": "Parents' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_88s5d5tkq2fhkg02mos531mmdc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973273374000\"",
+   "id": "20220910_o63uuibes9396cv93c28b39alc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTBfbzYzdXVpYmVzOTM5NmN2OTNjMjhiMzlhbGMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:56.000Z",
+   "updated": "2021-08-26T14:03:56.687Z",
+   "summary": "Chuseok",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-10"
+   },
+   "end": {
+    "date": "2022-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220910_o63uuibes9396cv93c28b39alc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973278444000\"",
+   "id": "20220202_4bi2u7igehbie5j16h9t2m8f64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfNGJpMnU3aWdlaGJpZTVqMTZoOXQybThmNjQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:03:59.000Z",
+   "updated": "2021-08-26T14:03:59.222Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_4bi2u7igehbie5j16h9t2m8f64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973282848000\"",
+   "id": "20220201_uqh1qhasba3093i66ff65hlaqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfdXFoMXFoYXNiYTMwOTNpNjZmZjY1aGxhcW8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:04:01.000Z",
+   "updated": "2021-08-26T14:04:01.424Z",
+   "summary": "Seollal",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_uqh1qhasba3093i66ff65hlaqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3277221773804000\"",
+   "id": "20220131_vjfeao7mo2copsbqc5iq0dnve0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfdmpmZWFvN21vMmNvcHNicWM1aXEwZG52ZTAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2021-12-04T09:41:26.000Z",
+   "updated": "2021-12-04T09:41:26.902Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_vjfeao7mo2copsbqc5iq0dnve0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294022766650000\"",
+   "id": "20220309_24ro03kp6qav37r5v5ivvue4cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDlfMjRybzAza3A2cWF2MzdyNXY1aXZ2dWU0Y3MgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-03-11T15:09:43.000Z",
+   "updated": "2022-03-11T15:09:43.325Z",
+   "summary": "Presidential Election",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-09"
+   },
+   "end": {
+    "date": "2022-03-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220309_24ro03kp6qav37r5v5ivvue4cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294022766650000\"",
+   "id": "20220601_kdl2oesujnivq1gd2nvkpu47ng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDFfa2RsMm9lc3Vqbml2cTFnZDJudmtwdTQ3bmcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-03-11T15:09:43.000Z",
+   "updated": "2022-03-11T15:09:43.325Z",
+   "summary": "Local Election Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-01"
+   },
+   "end": {
+    "date": "2022-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220601_kdl2oesujnivq1gd2nvkpu47ng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20221001_oiimdrmsrncm4qdq2rpeuc7dnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDFfb2lpbWRybXNybmNtNHFkcTJycGV1YzdkbmsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-01"
+   },
+   "end": {
+    "date": "2022-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221001_oiimdrmsrncm4qdq2rpeuc7dnk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20221003_62uaeqt7jmeigegnrm994gldjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfNjJ1YWVxdDdqbWVpZ2VnbnJtOTk0Z2xkamcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "National Foundation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_62uaeqt7jmeigegnrm994gldjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20221009_ba5c8j1atnrmjr21c1pa7se0ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfYmE1YzhqMWF0bnJtanIyMWMxcGE3c2UwZWMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Hangeul Proclamation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_ba5c8j1atnrmjr21c1pa7se0ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20221224_83e5s5i9s4tt8sn7v62asd713k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfODNlNXM1aTlzNHR0OHNuN3Y2MmFzZDcxM2sgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_83e5s5i9s4tt8sn7v62asd713k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20221225_dm8p8smeshbs4bsdpvvpmhmnpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZG04cDhzbWVzaGJzNGJzZHB2dnBtaG1ucGMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_dm8p8smeshbs4bsdpvvpmhmnpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20221231_3894qvpof7g1j72810qted0qh0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfMzg5NHF2cG9mN2cxajcyODEwcXRlZDBxaDAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_3894qvpof7g1j72810qted0qh0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230101_v1v5ajvrbs00luui7t7n3vh9a4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdjF2NWFqdnJiczAwbHV1aTd0N24zdmg5YTQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_v1v5ajvrbs00luui7t7n3vh9a4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230121_nc3retmfk7rfdkb5cpak9bhueo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjFfbmMzcmV0bWZrN3JmZGtiNWNwYWs5Ymh1ZW8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-21"
+   },
+   "end": {
+    "date": "2023-01-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230121_nc3retmfk7rfdkb5cpak9bhueo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230122_1jvbk0hnt7e6s5dfgu9acbtvo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfMWp2YmswaG50N2U2czVkZmd1OWFjYnR2bzQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_1jvbk0hnt7e6s5dfgu9acbtvo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230123_3o63tdtqs1cpjqlc3jp8lf7sq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfM282M3RkdHFzMWNwanFsYzNqcDhsZjdzcTAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_3o63tdtqs1cpjqlc3jp8lf7sq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230124_7d1ntm16apbkqdpfgad7gmk0ho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfN2QxbnRtMTZhcGJrcWRwZmdhZDdnbWswaG8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_7d1ntm16apbkqdpfgad7gmk0ho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230301_c0rsg79u860fd666scmdrrt1l4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDFfYzByc2c3OXU4NjBmZDY2NnNjbWRycnQxbDQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Independence Movement Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-01"
+   },
+   "end": {
+    "date": "2023-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230301_c0rsg79u860fd666scmdrrt1l4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230405_5or0g8pvvlkn62p1upba93g6k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfNW9yMGc4cHZ2bGtuNjJwMXVwYmE5M2c2azggZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Arbor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_5or0g8pvvlkn62p1upba93g6k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230505_0k3d7b4eqnvqhci3pttrq9vl5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDVfMGszZDdiNGVxbnZxaGNpM3B0dHJxOXZsNWcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-05"
+   },
+   "end": {
+    "date": "2023-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230505_0k3d7b4eqnvqhci3pttrq9vl5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230508_e220o3hah04ipgivjpfpkc881g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfZTIyMG8zaGFoMDRpcGdpdmpwZnBrYzg4MWcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Parents' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_e220o3hah04ipgivjpfpkc881g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230515_hhf5endlqsie6hbuf39lsoe6kc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTVfaGhmNWVuZGxxc2llNmhidWYzOWxzb2U2a2MgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-15"
+   },
+   "end": {
+    "date": "2023-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230515_hhf5endlqsie6hbuf39lsoe6kc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230606_e6vpldb808s19chgr25slllo9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDZfZTZ2cGxkYjgwOHMxOWNoZ3IyNXNsbGxvOWsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-06"
+   },
+   "end": {
+    "date": "2023-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230606_e6vpldb808s19chgr25slllo9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230717_vqoc7phl68mt0d43b2ir0qp14o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTdfdnFvYzdwaGw2OG10MGQ0M2IyaXIwcXAxNG8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-17"
+   },
+   "end": {
+    "date": "2023-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230717_vqoc7phl68mt0d43b2ir0qp14o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230815_onitlqpar473vchnocu9e0f7ao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfb25pdGxxcGFyNDczdmNobm9jdTllMGY3YW8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_onitlqpar473vchnocu9e0f7ao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230928_iecrc3ohfe224095vfatk6p15c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfaWVjcmMzb2hmZTIyNDA5NXZmYXRrNnAxNWMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_iecrc3ohfe224095vfatk6p15c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230929_9d8n21tl2ieeqec91184sjfnqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjlfOWQ4bjIxdGwyaWVlcWVjOTExODRzamZucWsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Chuseok",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_9d8n21tl2ieeqec91184sjfnqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20230930_lfohf4cs3lnh920mgp4m2c529g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MzBfbGZvaGY0Y3MzbG5oOTIwbWdwNG0yYzUyOWcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-30"
+   },
+   "end": {
+    "date": "2023-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230930_lfohf4cs3lnh920mgp4m2c529g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20231001_edo0e310hoa950fjsdcui47nd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfZWRvMGUzMTBob2E5NTBmanNkY3VpNDduZDQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_edo0e310hoa950fjsdcui47nd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20231003_7bmdohm8k28usd7h5g9o8hfbhc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDNfN2JtZG9obThrMjh1c2Q3aDVnOW84aGZiaGMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "National Foundation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-03"
+   },
+   "end": {
+    "date": "2023-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231003_7bmdohm8k28usd7h5g9o8hfbhc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20231009_goful5blq2kkubf5nls4plvgk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfZ29mdWw1YmxxMmtrdWJmNW5sczRwbHZnazggZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Hangeul Proclamation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_goful5blq2kkubf5nls4plvgk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20231224_v61sdjngs2ruo4nd7ur92c3fv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfdjYxc2RqbmdzMnJ1bzRuZDd1cjkyYzNmdjAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_v61sdjngs2ruo4nd7ur92c3fv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20231225_jdhfc7jqkhglnvnjhjersvq9ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfamRoZmM3anFraGdsbnZuamhqZXJzdnE5ZWMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_jdhfc7jqkhglnvnjhjersvq9ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20231231_01bbqjv2c9p1066vbv1el9faqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfMDFiYnFqdjJjOXAxMDY2dmJ2MWVsOWZhcW8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_01bbqjv2c9p1066vbv1el9faqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240101_0ppaks97umpbajmucjnid95ivo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfMHBwYWtzOTd1bXBiYWptdWNqbmlkOTVpdm8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_0ppaks97umpbajmucjnid95ivo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240210_gkgp3k8ciufllq8eb35v56p2fs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfZ2tncDNrOGNpdWZsbHE4ZWIzNXY1NnAyZnMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_gkgp3k8ciufllq8eb35v56p2fs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240210_vgr5n376ep4c78b590ovo773t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfdmdyNW4zNzZlcDRjNzhiNTkwb3ZvNzczdDQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_vgr5n376ep4c78b590ovo773t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240212_n87mr9amtogdm6h08mlvmism04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfbjg3bXI5YW10b2dkbTZoMDhtbHZtaXNtMDQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Seollal Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_n87mr9amtogdm6h08mlvmism04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240301_vounrinvf6g0h9nlgs4lesl3gg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDFfdm91bnJpbnZmNmcwaDlubGdzNGxlc2wzZ2cgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Independence Movement Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-01"
+   },
+   "end": {
+    "date": "2024-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240301_vounrinvf6g0h9nlgs4lesl3gg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240405_mq6iocpb81c4rhka22sjm7dt0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDVfbXE2aW9jcGI4MWM0cmhrYTIyc2ptN2R0MHMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Arbor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-05"
+   },
+   "end": {
+    "date": "2024-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240405_mq6iocpb81c4rhka22sjm7dt0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240505_07jro56oe7k4ob9u82dou6onmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfMDdqcm81Nm9lN2s0b2I5dTgyZG91Nm9ubW8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_07jro56oe7k4ob9u82dou6onmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240508_r87ah24p5j1ser5en5919ru0m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDhfcjg3YWgyNHA1ajFzZXI1ZW41OTE5cnUwbTggZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Parents' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-08"
+   },
+   "end": {
+    "date": "2024-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240508_r87ah24p5j1ser5en5919ru0m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240515_l61qp7lsdqk23ac1261vbrem90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTVfbDYxcXA3bHNkcWsyM2FjMTI2MXZicmVtOTAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-15"
+   },
+   "end": {
+    "date": "2024-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240515_l61qp7lsdqk23ac1261vbrem90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240606_8akev54sjptg5a8k9i4b5d4214",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDZfOGFrZXY1NHNqcHRnNWE4azlpNGI1ZDQyMTQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-06"
+   },
+   "end": {
+    "date": "2024-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240606_8akev54sjptg5a8k9i4b5d4214@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240717_pc2msljqbh70oh2a3ov1sm9778",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfcGMybXNsanFiaDcwb2gyYTNvdjFzbTk3NzggZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_pc2msljqbh70oh2a3ov1sm9778@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240815_f4slub818t47ddljl0nd7v00lk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfZjRzbHViODE4dDQ3ZGRsamwwbmQ3djAwbGsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_f4slub818t47ddljl0nd7v00lk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240916_beafnnfvipsipfuqjuensf57r0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfYmVhZm5uZnZpcHNpcGZ1cWp1ZW5zZjU3cjAgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_beafnnfvipsipfuqjuensf57r0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240917_srg51hv9e594q2aga10s6qp5eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTdfc3JnNTFodjllNTk0cTJhZ2ExMHM2cXA1ZW8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Chuseok",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-17"
+   },
+   "end": {
+    "date": "2024-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240917_srg51hv9e594q2aga10s6qp5eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20240918_vquqna25cj2vafb1m8g60d3aro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MThfdnF1cW5hMjVjajJ2YWZiMW04ZzYwZDNhcm8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-18"
+   },
+   "end": {
+    "date": "2024-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240918_vquqna25cj2vafb1m8g60d3aro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20241001_vbdhvt50jcoc2v5tvvfua17s3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDFfdmJkaHZ0NTBqY29jMnY1dHZ2ZnVhMTdzM28gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-01"
+   },
+   "end": {
+    "date": "2024-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241001_vbdhvt50jcoc2v5tvvfua17s3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20241003_usv26hbo5nmgu2n60s1ic09j6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDNfdXN2MjZoYm81bm1ndTJuNjBzMWljMDlqNmsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "National Foundation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-03"
+   },
+   "end": {
+    "date": "2024-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241003_usv26hbo5nmgu2n60s1ic09j6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20241009_ihi4m3686ntvu7dms0231u6064",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDlfaWhpNG0zNjg2bnR2dTdkbXMwMjMxdTYwNjQgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Hangeul Proclamation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-09"
+   },
+   "end": {
+    "date": "2024-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241009_ihi4m3686ntvu7dms0231u6064@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20241224_h5jpaum4uvd9pd5v40q1m0jp8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfaDVqcGF1bTR1dmQ5cGQ1djQwcTFtMGpwOGcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_h5jpaum4uvd9pd5v40q1m0jp8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20241225_roarh5497c3uv55v1me5btsupo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcm9hcmg1NDk3YzN1djU1djFtZTVidHN1cG8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_roarh5497c3uv55v1me5btsupo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895176248000\"",
+   "id": "20241231_8i74s3am4ltjo523gc73qnie0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfOGk3NHMzYW00bHRqbzUyM2djNzNxbmllMG8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:39:48.000Z",
+   "updated": "2022-09-23T15:39:48.124Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Korea",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_8i74s3am4ltjo523gc73qnie0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3334762249850000\"",
+   "id": "20221010_qu58eucf12rg0074e0ugirlhdk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfcXU1OGV1Y2YxMnJnMDA3NGUwdWdpcmxoZGsgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-11-02T09:25:24.000Z",
+   "updated": "2022-11-02T09:25:24.925Z",
+   "summary": "Day off for Hangeul Proclamation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_qu58eucf12rg0074e0ugirlhdk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3334936126610000\"",
+   "id": "20220912_eeahbf3nenmanl5vapgmq8r53o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTJfZWVhaGJmM25lbm1hbmw1dmFwZ21xOHI1M28gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2022-11-03T09:34:23.000Z",
+   "updated": "2022-11-03T09:34:23.305Z",
+   "summary": "Day off for Chuseok Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-12"
+   },
+   "end": {
+    "date": "2022-09-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220912_eeahbf3nenmanl5vapgmq8r53o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348075521866000\"",
+   "id": "20220501_3dcnff68rklvj61jqsc7qngtho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfM2RjbmZmNjhya2x2ajYxanFzYzdxbmd0aG8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-01-18T10:29:20.000Z",
+   "updated": "2023-01-18T10:29:20.933Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_3dcnff68rklvj61jqsc7qngtho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348075521866000\"",
+   "id": "20230501_k4l8hhp7eksbrtbrp8q6vctm2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfazRsOGhocDdla3NicnRicnA4cTZ2Y3RtMmMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-01-18T10:29:20.000Z",
+   "updated": "2023-01-18T10:29:20.933Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_k4l8hhp7eksbrtbrp8q6vctm2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348075521866000\"",
+   "id": "20240501_09getgjjgp6racfandbpgnfjas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfMDlnZXRnampncDZyYWNmYW5kYnBnbmZqYXMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-01-18T10:29:20.000Z",
+   "updated": "2023-01-18T10:29:20.933Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_09getgjjgp6racfandbpgnfjas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3368625758672000\"",
+   "id": "20220508_qlhhssjkcklbgo6qm4fqhpkpbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfcWxoaHNzamtja2xiZ282cW00ZnFocGtwYm8gZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-05-17T08:41:19.000Z",
+   "updated": "2023-05-17T08:41:19.336Z",
+   "summary": "Buddha’s Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_qlhhssjkcklbgo6qm4fqhpkpbo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3368625758672000\"",
+   "id": "20230527_lbhbe0vdcfvi7fvbbiki0a7eac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjdfbGJoYmUwdmRjZnZpN2Z2YmJpa2kwYTdlYWMgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-05-17T08:41:19.000Z",
+   "updated": "2023-05-17T08:41:19.336Z",
+   "summary": "Buddha’s Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-27"
+   },
+   "end": {
+    "date": "2023-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230527_lbhbe0vdcfvi7fvbbiki0a7eac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3368625758672000\"",
+   "id": "20230529_trgq3hq61ioi3eghfkd6ng9e9g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfdHJncTNocTYxaW9pM2VnaGZrZDZuZzllOWcgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-05-17T08:41:19.000Z",
+   "updated": "2023-05-17T08:41:19.336Z",
+   "summary": "Buddha’s Birthday Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_trgq3hq61ioi3eghfkd6ng9e9g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3368625758672000\"",
+   "id": "20240515_cl2pn3d1r7s5lr2emgqcjijukk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTVfY2wycG4zZDFyN3M1bHIyZW1ncWNqaWp1a2sgZW4uc291dGhfa29yZWEjaG9saWRheUB2",
+   "created": "2023-05-17T08:41:19.000Z",
+   "updated": "2023-05-17T08:41:19.336Z",
+   "summary": "Buddha’s Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.south_korea#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Korea",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-15"
+   },
+   "end": {
+    "date": "2024-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240515_cl2pn3d1r7s5lr2emgqcjijukk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

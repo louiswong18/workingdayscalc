@@ -1,0 +1,2989 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33erfrkbrqlo00o\"",
+ "summary": "Holidays in United Kingdom",
+ "description": "Holidays and Observances in United Kingdom",
+ "updated": "2023-07-24T18:40:18.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICRvJH_p4ADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954450060000\"",
+   "id": "20220101_4bp1eam8rhud3k0dbefd5tmv3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNGJwMWVhbThyaHVkM2swZGJlZmQ1dG12M2cgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:05.000Z",
+   "updated": "2021-08-26T11:27:05.030Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_4bp1eam8rhud3k0dbefd5tmv3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954450060000\"",
+   "id": "20220103_cg9l3hfh97ige093h7tui484fg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfY2c5bDNoZmg5N2lnZTA5M2g3dHVpNDg0ZmcgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:05.000Z",
+   "updated": "2021-08-26T11:27:05.030Z",
+   "summary": "New Year's Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_cg9l3hfh97ige093h7tui484fg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954452848000\"",
+   "id": "20220829_5diik06flrsvoeqtu0loadcgi8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MjlfNWRpaWswNmZscnN2b2VxdHUwbG9hZGNnaTggZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:06.000Z",
+   "updated": "2021-08-26T11:27:06.424Z",
+   "summary": "Summer Bank Holiday (regional holiday)",
+   "description": "Public holiday in England, Wales, Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-29"
+   },
+   "end": {
+    "date": "2022-08-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220829_5diik06flrsvoeqtu0loadcgi8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954456548000\"",
+   "id": "20220105_c6cuhlqtt63jgd525todf8u5b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDVfYzZjdWhscXR0NjNqZ2Q1MjV0b2RmOHU1YjggZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:08.000Z",
+   "updated": "2021-08-26T11:27:08.274Z",
+   "summary": "Twelfth Night",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-05"
+   },
+   "end": {
+    "date": "2022-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220105_c6cuhlqtt63jgd525todf8u5b8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954456548000\"",
+   "id": "20220327_u5fpavvslvppp2lkan6qcnl2hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfdTVmcGF2dnNsdnBwcDJsa2FuNnFjbmwyaGcgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:08.000Z",
+   "updated": "2021-08-26T11:27:08.274Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_u5fpavvslvppp2lkan6qcnl2hg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954456548000\"",
+   "id": "20220417_8jvt8msfef76m7e81p4d4cs2i8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfOGp2dDhtc2ZlZjc2bTdlODFwNGQ0Y3MyaTggZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:08.000Z",
+   "updated": "2021-08-26T11:27:08.274Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_8jvt8msfef76m7e81p4d4cs2i8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954460288000\"",
+   "id": "20220104_olclc6cmgotuf5ekc54ul588ps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDRfb2xjbGM2Y21nb3R1ZjVla2M1NHVsNTg4cHMgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:10.000Z",
+   "updated": "2021-08-26T11:27:10.144Z",
+   "summary": "2nd January (substitute day) (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-04"
+   },
+   "end": {
+    "date": "2022-01-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220104_olclc6cmgotuf5ekc54ul588ps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954460288000\"",
+   "id": "20220317_gp0k14ratomauctsburk58gtp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfZ3AwazE0cmF0b21hdWN0c2J1cms1OGd0cDQgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:10.000Z",
+   "updated": "2021-08-26T11:27:10.144Z",
+   "summary": "St Patrick's Day (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_gp0k14ratomauctsburk58gtp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954460288000\"",
+   "id": "20220415_nm1rjmqj594tffpv7dkb3ukrqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfbm0xcmptcWo1OTR0ZmZwdjdka2IzdWtycW8gZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:10.000Z",
+   "updated": "2021-08-26T11:27:10.144Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_nm1rjmqj594tffpv7dkb3ukrqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954460288000\"",
+   "id": "20220502_cf131cjt51j45j34bp9r1fqrdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfY2YxMzFjanQ1MWo0NWozNGJwOXIxZnFyZG8gZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:10.000Z",
+   "updated": "2021-08-26T11:27:10.144Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_cf131cjt51j45j34bp9r1fqrdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954460288000\"",
+   "id": "20220712_5050kadq5u0tuumarc9gm3k97k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfNTA1MGthZHE1dTB0dXVtYXJjOWdtM2s5N2sgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:10.000Z",
+   "updated": "2021-08-26T11:27:10.144Z",
+   "summary": "Battle of the Boyne (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_5050kadq5u0tuumarc9gm3k97k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954464646000\"",
+   "id": "20220602_d0bs7iid9ngo24tb7hka3atg74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDJfZDBiczdpaWQ5bmdvMjR0Yjdoa2EzYXRnNzQgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:12.000Z",
+   "updated": "2021-08-26T11:27:12.323Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-02"
+   },
+   "end": {
+    "date": "2022-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220602_d0bs7iid9ngo24tb7hka3atg74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954464646000\"",
+   "id": "20220801_db8qqida2j2fr909lh7mmv0fng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfZGI4cXFpZGEyajJmcjkwOWxoN21tdjBmbmcgZW4udWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:27:12.000Z",
+   "updated": "2021-08-26T11:27:12.323Z",
+   "summary": "Summer Bank Holiday (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_db8qqida2j2fr909lh7mmv0fng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3269263985236000\"",
+   "id": "20220418_aanmogi793s7ghq4q6vk8v7imk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfYWFubW9naTc5M3M3Z2hxNHE2dms4djdpbWsgZW4udWsjaG9saWRheUB2",
+   "created": "2021-10-19T08:26:32.000Z",
+   "updated": "2021-10-19T08:26:32.618Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in England, Wales, Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_aanmogi793s7ghq4q6vk8v7imk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281887801988000\"",
+   "id": "20220423_t7ugir2nidahed4fm19m0l6v58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjNfdDd1Z2lyMm5pZGFoZWQ0Zm0xOW0wbDZ2NTggZW4udWsjaG9saWRheUB2",
+   "created": "2021-12-31T09:45:00.000Z",
+   "updated": "2021-12-31T09:45:00.994Z",
+   "summary": "St. George's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-23"
+   },
+   "end": {
+    "date": "2022-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220423_t7ugir2nidahed4fm19m0l6v58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3325770322600000\"",
+   "id": "20220214_0eo6rvlegsk4epeo3nu4mjvmsk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfMGVvNnJ2bGVnc2s0ZXBlbzNudTRtanZtc2sgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-11T08:32:41.000Z",
+   "updated": "2022-09-11T08:32:41.300Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_0eo6rvlegsk4epeo3nu4mjvmsk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3325770322600000\"",
+   "id": "20220327_s3f7nnvg99o6j45grks4uqh98s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfczNmN25udmc5OW82ajQ1Z3JrczR1cWg5OHMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-11T08:32:41.000Z",
+   "updated": "2022-09-11T08:32:41.300Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_s3f7nnvg99o6j45grks4uqh98s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3325770322600000\"",
+   "id": "20220619_nas1fp6k0a3p9r0bprpq2h9a9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfbmFzMWZwNmswYTNwOXIwYnBycHEyaDlhOWsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-11T08:32:41.000Z",
+   "updated": "2022-09-11T08:32:41.300Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_nas1fp6k0a3p9r0bprpq2h9a9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3325770329762000\"",
+   "id": "20220301_acuu711u31ff0m3p086bi89v1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfYWN1dTcxMXUzMWZmMG0zcDA4NmJpODl2MXMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-11T08:32:44.000Z",
+   "updated": "2022-09-11T08:32:44.881Z",
+   "summary": "Carnival / Shrove Tuesday / Pancake Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_acuu711u31ff0m3p086bi89v1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326287865682000\"",
+   "id": "20220603_2mhjrmvuuuhjolgk8ghkmbbrr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfMm1oanJtdnV1dWhqb2xnazhnaGttYmJycjAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-14T08:25:32.000Z",
+   "updated": "2022-09-14T08:25:32.841Z",
+   "summary": "Queen Elizabeth II's Platinum Jubilee",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_2mhjrmvuuuhjolgk8ghkmbbrr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326287865682000\"",
+   "id": "20220611_5hrk763mpqar9vr749tk86jmao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTFfNWhyazc2M21wcWFyOXZyNzQ5dGs4NmptYW8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-14T08:25:32.000Z",
+   "updated": "2022-09-14T08:25:32.841Z",
+   "summary": "Queen Elizabeth II's Birthday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-11"
+   },
+   "end": {
+    "date": "2022-06-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220611_5hrk763mpqar9vr749tk86jmao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326287865682000\"",
+   "id": "20220919_0df3djbaj3vqadcsc386lfbmik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfMGRmM2RqYmFqM3ZxYWRjc2MzODZsZmJtaWsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-14T08:25:32.000Z",
+   "updated": "2022-09-14T08:25:32.841Z",
+   "summary": "State Funeral of Queen Elizabeth II",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_0df3djbaj3vqadcsc386lfbmik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221030_u5g6ujcvoqkotp8bto4aavs41k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfdTVnNnVqY3ZvcWtvdHA4YnRvNGFhdnM0MWsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_u5g6ujcvoqkotp8bto4aavs41k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221031_ik5ga2n01fbb25c8o0pap6f3ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfaWs1Z2EybjAxZmJiMjVjOG8wcGFwNmYzb2sgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_ik5ga2n01fbb25c8o0pap6f3ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221105_vs75uiv6pl7718r118682qlctc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDVfdnM3NXVpdjZwbDc3MThyMTE4NjgycWxjdGMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Guy Fawkes Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-05"
+   },
+   "end": {
+    "date": "2022-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221105_vs75uiv6pl7718r118682qlctc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221113_f4fklum0rbaigvbjas79tca0rk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTNfZjRma2x1bTByYmFpZ3ZiamFzNzl0Y2EwcmsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Remembrance Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-13"
+   },
+   "end": {
+    "date": "2022-11-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221113_f4fklum0rbaigvbjas79tca0rk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221130_hpvomokeu0k67ncrvt4k8lshj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMzBfaHB2b21va2V1MGs2N25jcnZ0NGs4bHNoajQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St Andrew's Day (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-30"
+   },
+   "end": {
+    "date": "2022-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221130_hpvomokeu0k67ncrvt4k8lshj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221224_qbqlngu9r242c4l1cm12145uok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfcWJxbG5ndTlyMjQyYzRsMWNtMTIxNDV1b2sgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_qbqlngu9r242c4l1cm12145uok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221225_cj9upumqjvesflqvpnd4kctjsg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfY2o5dXB1bXFqdmVzZmxxdnBuZDRrY3Rqc2cgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_cj9upumqjvesflqvpnd4kctjsg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221226_dnclihsrbnh4ugs72tnh67r80g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfZG5jbGloc3Jibmg0dWdzNzJ0bmg2N3I4MGcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_dnclihsrbnh4ugs72tnh67r80g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221227_jel6m83ro1sm7br4rru7ckd8dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfamVsNm04M3JvMXNtN2JyNHJydTdja2Q4ZGMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Substitute Bank Holiday for Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_jel6m83ro1sm7br4rru7ckd8dc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20221231_utjffqrsj4sdgltabh0h5ibko0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfdXRqZmZxcnNqNHNkZ2x0YWJoMGg1aWJrbzAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_utjffqrsj4sdgltabh0h5ibko0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230101_2r358plhr9ia683p4nnim6op3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfMnIzNThwbGhyOWlhNjgzcDRubmltNm9wM2MgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_2r358plhr9ia683p4nnim6op3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230102_709i6718t50cv5d4ol7sv3h69g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfNzA5aTY3MTh0NTBjdjVkNG9sN3N2M2g2OWcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "New Year's Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_709i6718t50cv5d4ol7sv3h69g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230103_sccitcgbbh77dv4b72gl0s9qao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDNfc2NjaXRjZ2JiaDc3ZHY0YjcyZ2wwczlxYW8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "2nd January (substitute day) (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-03"
+   },
+   "end": {
+    "date": "2023-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230103_sccitcgbbh77dv4b72gl0s9qao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230105_lc2sacugj65ofcm8udrci62v0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDVfbGMyc2FjdWdqNjVvZmNtOHVkcmNpNjJ2MHMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Twelfth Night",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-05"
+   },
+   "end": {
+    "date": "2023-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230105_lc2sacugj65ofcm8udrci62v0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230214_1m7o7keabq0k1qk45vhsivmnc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfMW03bzdrZWFicTBrMXFrNDV2aHNpdm1uYzQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_1m7o7keabq0k1qk45vhsivmnc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230221_krfmku23eds5939qr7bgtiv4po",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfa3JmbWt1MjNlZHM1OTM5cXI3Ymd0aXY0cG8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Carnival / Shrove Tuesday / Pancake Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_krfmku23eds5939qr7bgtiv4po@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230317_50n06s896s1unqh09r5qke8b70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTdfNTBuMDZzODk2czF1bnFoMDlyNXFrZThiNzAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St Patrick's Day (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-17"
+   },
+   "end": {
+    "date": "2023-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230317_50n06s896s1unqh09r5qke8b70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230319_d6mgphgtuorg4mnik3nla4g9h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTlfZDZtZ3BoZ3R1b3JnNG1uaWszbmxhNGc5aDQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-19"
+   },
+   "end": {
+    "date": "2023-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230319_d6mgphgtuorg4mnik3nla4g9h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230326_ctea5oc71h4hqodmqjtg67j1q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfY3RlYTVvYzcxaDRocW9kbXFqdGc2N2oxcTQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_ctea5oc71h4hqodmqjtg67j1q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230407_82lrcicfpkd4nlhngqnmk04kv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfODJscmNpY2Zwa2Q0bmxobmdxbm1rMDRrdjggZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_82lrcicfpkd4nlhngqnmk04kv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230409_j07s84rvhlrfsolbpaiimracts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfajA3czg0cnZobHJmc29sYnBhaWltcmFjdHMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_j07s84rvhlrfsolbpaiimracts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230410_q0uium08e9p9pu7nv28u7840k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfcTB1aXVtMDhlOXA5cHU3bnYyOHU3ODQwazAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in England, Wales, Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_q0uium08e9p9pu7nv28u7840k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230423_5lam14lfcuick6gktiksfjsh3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfNWxhbTE0bGZjdWljazZna3Rpa3NmanNoM2MgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St. George's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_5lam14lfcuick6gktiksfjsh3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230501_6ca4n8rbb5ah3qdarvhf2t80ts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfNmNhNG44cmJiNWFoM3FkYXJ2aGYydDgwdHMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_6ca4n8rbb5ah3qdarvhf2t80ts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230529_rivajv0kua9dnrhdr2n3iru7eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1Mjlfcml2YWp2MGt1YTlkbnJoZHIybjNpcnU3ZWcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_rivajv0kua9dnrhdr2n3iru7eg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230618_bbcl76ltq13dmcqqkc1ml1dcq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfYmJjbDc2bHRxMTNkbWNxcWtjMW1sMWRjcTQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_bbcl76ltq13dmcqqkc1ml1dcq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230712_s4r0rfd9g3j02oi16jl8geki50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTJfczRyMHJmZDlnM2owMm9pMTZqbDhnZWtpNTAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Battle of the Boyne (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-12"
+   },
+   "end": {
+    "date": "2023-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230712_s4r0rfd9g3j02oi16jl8geki50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230807_5itumntsrn29ttsm1i569aad0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfNWl0dW1udHNybjI5dHRzbTFpNTY5YWFkMGcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Summer Bank Holiday (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_5itumntsrn29ttsm1i569aad0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20230828_s77n3oh9ukdkhn0ijk30s90764",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4Mjhfczc3bjNvaDl1a2RraG4waWprMzBzOTA3NjQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Summer Bank Holiday (regional holiday)",
+   "description": "Public holiday in England, Wales, Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-28"
+   },
+   "end": {
+    "date": "2023-08-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230828_s77n3oh9ukdkhn0ijk30s90764@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231029_r0mtm39uuvigrv5sgmakp34bo8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfcjBtdG0zOXV1dmlncnY1c2dtYWtwMzRibzggZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_r0mtm39uuvigrv5sgmakp34bo8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231031_nbrsdgfj3q9mefrf7nllogvbl4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfbmJyc2RnZmozcTltZWZyZjdubGxvZ3ZibDQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_nbrsdgfj3q9mefrf7nllogvbl4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231105_h1er4knpbc0d97iifnuik3q10s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDVfaDFlcjRrbnBiYzBkOTdpaWZudWlrM3ExMHMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Guy Fawkes Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-05"
+   },
+   "end": {
+    "date": "2023-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231105_h1er4knpbc0d97iifnuik3q10s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231112_aomac5acr0mlf850k2t088qflc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfYW9tYWM1YWNyMG1sZjg1MGsydDA4OHFmbGMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Remembrance Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_aomac5acr0mlf850k2t088qflc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231130_h1r8i8ti1jsq88q67ct4f87l9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMzBfaDFyOGk4dGkxanNxODhxNjdjdDRmODdsOXMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St Andrew's Day (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-30"
+   },
+   "end": {
+    "date": "2023-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231130_h1r8i8ti1jsq88q67ct4f87l9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231224_ngoq65qnqia1qnbobnlemhtjb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfbmdvcTY1cW5xaWExcW5ib2JubGVtaHRqYjQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_ngoq65qnqia1qnbobnlemhtjb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231225_eg1fud1r5hl0dc535oc5s1blac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfZWcxZnVkMXI1aGwwZGM1MzVvYzVzMWJsYWMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_eg1fud1r5hl0dc535oc5s1blac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231226_0biq9t6s31h01s5h54tf31jeqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfMGJpcTl0NnMzMWgwMXM1aDU0dGYzMWplcWMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_0biq9t6s31h01s5h54tf31jeqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20231231_go4q1k8559pkiintn5mcpk7ec0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfZ280cTFrODU1OXBraWludG41bWNwazdlYzAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_go4q1k8559pkiintn5mcpk7ec0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240101_5ojgm3s9gnr9bvcj26jn7mcoc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNW9qZ20zczlnbnI5YnZjajI2am43bWNvYzQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_5ojgm3s9gnr9bvcj26jn7mcoc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240102_34nngp6fv9haoj2t0eke4jelb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfMzRubmdwNmZ2OWhhb2oydDBla2U0amVsYjQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "2nd January (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_34nngp6fv9haoj2t0eke4jelb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240105_fvjq0n8emb13nnvnrr6c1qnvlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDVfZnZqcTBuOGVtYjEzbm52bnJyNmMxcW52bG8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Twelfth Night",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-05"
+   },
+   "end": {
+    "date": "2024-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240105_fvjq0n8emb13nnvnrr6c1qnvlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240213_cupvpv3u6u5jrglc47hv76q0ig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfY3VwdnB2M3U2dTVqcmdsYzQ3aHY3NnEwaWcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Carnival / Shrove Tuesday / Pancake Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_cupvpv3u6u5jrglc47hv76q0ig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240214_3ai8775a4ce8frr2uf78qb25ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfM2FpODc3NWE0Y2U4ZnJyMnVmNzhxYjI1a28gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_3ai8775a4ce8frr2uf78qb25ko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240310_7u7cnqp0c1l1ncjducct8rpd7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTBfN3U3Y25xcDBjMWwxbmNqZHVjY3Q4cnBkN2cgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-10"
+   },
+   "end": {
+    "date": "2024-03-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240310_7u7cnqp0c1l1ncjducct8rpd7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240317_uumds728i2sqpki2bm7t7tpurk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTdfdXVtZHM3MjhpMnNxcGtpMmJtN3Q3dHB1cmsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St Patrick's Day (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-17"
+   },
+   "end": {
+    "date": "2024-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240317_uumds728i2sqpki2bm7t7tpurk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240318_mtfpktschn8dqnhqlr5dnhepm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMThfbXRmcGt0c2NobjhkcW5ocWxyNWRuaGVwbTQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Day off for St Patrick's Day (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-18"
+   },
+   "end": {
+    "date": "2024-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240318_mtfpktschn8dqnhqlr5dnhepm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240329_gevb8jhs5orcfd37kggs1t8m44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfZ2V2YjhqaHM1b3JjZmQzN2tnZ3MxdDhtNDQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_gevb8jhs5orcfd37kggs1t8m44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240331_6td5n9qv1uopvfgpdn1qn3ik9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfNnRkNW45cXYxdW9wdmZncGRuMXFuM2lrOW8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_6td5n9qv1uopvfgpdn1qn3ik9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240331_jj0hlmcc50lt5esvt6ure693tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfamowaGxtY2M1MGx0NWVzdnQ2dXJlNjkzdGsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_jj0hlmcc50lt5esvt6ure693tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240401_dke3u6bjqnejrjpqd7nupqcstk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfZGtlM3U2YmpxbmVqcmpwcWQ3bnVwcWNzdGsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in England, Wales, Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_dke3u6bjqnejrjpqd7nupqcstk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240423_14nd09osfel9a81vn3n47c8m0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjNfMTRuZDA5b3NmZWw5YTgxdm4zbjQ3YzhtMGMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St. George's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-23"
+   },
+   "end": {
+    "date": "2024-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240423_14nd09osfel9a81vn3n47c8m0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240506_q8s0k0qf2vdljaactb482noqc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfcThzMGswcWYydmRsamFhY3RiNDgybm9xYzQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_q8s0k0qf2vdljaactb482noqc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240527_o5ou0l88q015dvea6hn9pejkm8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjdfbzVvdTBsODhxMDE1ZHZlYTZobjlwZWprbTggZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-27"
+   },
+   "end": {
+    "date": "2024-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240527_o5ou0l88q015dvea6hn9pejkm8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240616_ln7a9g4ma3hqslg7s4e2uo9cjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfbG43YTlnNG1hM2hxc2xnN3M0ZTJ1bzljamMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_ln7a9g4ma3hqslg7s4e2uo9cjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240712_bd006nb8oihofi8haqo3g669rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTJfYmQwMDZuYjhvaWhvZmk4aGFxbzNnNjY5cnMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Battle of the Boyne (Northern Ireland)",
+   "description": "Public holiday in Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-12"
+   },
+   "end": {
+    "date": "2024-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240712_bd006nb8oihofi8haqo3g669rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240805_vnq6rpae4tigbnv5lv6sql0e74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfdm5xNnJwYWU0dGlnYm52NWx2NnNxbDBlNzQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Summer Bank Holiday (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_vnq6rpae4tigbnv5lv6sql0e74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20240826_s4eo5brfinq1tm5hu7b5dc4jno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjZfczRlbzVicmZpbnExdG01aHU3YjVkYzRqbm8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Summer Bank Holiday (regional holiday)",
+   "description": "Public holiday in England, Wales, Northern Ireland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-26"
+   },
+   "end": {
+    "date": "2024-08-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240826_s4eo5brfinq1tm5hu7b5dc4jno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241027_vhlvarhb4opvjuaumne6i10nqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfdmhsdmFyaGI0b3B2anVhdW1uZTZpMTBucXMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_vhlvarhb4opvjuaumne6i10nqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241031_h7ilroqjfv8vdq7650n9dbcg0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfaDdpbHJvcWpmdjh2ZHE3NjUwbjlkYmNnMGcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_h7ilroqjfv8vdq7650n9dbcg0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241105_a2334vlhfe0irt95salksvi7ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDVfYTIzMzR2bGhmZTBpcnQ5NXNhbGtzdmk3YWMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Guy Fawkes Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-05"
+   },
+   "end": {
+    "date": "2024-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241105_a2334vlhfe0irt95salksvi7ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241110_jv2c7le5na698ba0kdhb22p60c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTBfanYyYzdsZTVuYTY5OGJhMGtkaGIyMnA2MGMgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Remembrance Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-10"
+   },
+   "end": {
+    "date": "2024-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241110_jv2c7le5na698ba0kdhb22p60c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241130_q405luln7j5jitn1gvpnmrto4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMzBfcTQwNWx1bG43ajVqaXRuMWd2cG5tcnRvNGcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St Andrew's Day (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-30"
+   },
+   "end": {
+    "date": "2024-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241130_q405luln7j5jitn1gvpnmrto4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241202_nup3ibjv87h33221vvgrr3p634",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDJfbnVwM2lianY4N2gzMzIyMXZ2Z3JyM3A2MzQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "St Andrew's Day observed (Scotland)",
+   "description": "Public holiday in Scotland",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-02"
+   },
+   "end": {
+    "date": "2024-12-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241202_nup3ibjv87h33221vvgrr3p634@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241224_hh884sqcatnseq5re164353qeg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfaGg4ODRzcWNhdG5zZXE1cmUxNjQzNTNxZWcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_hh884sqcatnseq5re164353qeg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241225_t3r57rttrh86c1mgsv8rs73btk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfdDNyNTdydHRyaDg2YzFtZ3N2OHJzNzNidGsgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_t3r57rttrh86c1mgsv8rs73btk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241226_vc4chodhgk61qorhbqktg8di34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfdmM0Y2hvZGhnazYxcW9yaGJxa3RnOGRpMzQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_vc4chodhgk61qorhbqktg8di34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886605438000\"",
+   "id": "20241231_4frak39oa2375e34envdhflaqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfNGZyYWszOW9hMjM3NWUzNGVudmRoZmxhcWcgZW4udWsjaG9saWRheUB2",
+   "created": "2022-09-23T14:28:22.000Z",
+   "updated": "2022-09-23T14:28:22.719Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_4frak39oa2375e34envdhflaqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331202929016000\"",
+   "id": "20230506_cqolsfib7u0ug6ceehcc6v6da0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfY3FvbHNmaWI3dTB1ZzZjZWVoY2M2djZkYTAgZW4udWsjaG9saWRheUB2",
+   "created": "2022-10-12T19:04:24.000Z",
+   "updated": "2022-10-12T19:04:24.508Z",
+   "summary": "The Coronation of King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_cqolsfib7u0ug6ceehcc6v6da0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3335802141582000\"",
+   "id": "20230508_0lcf1m8qb8r0ntpktqcf6k9ssk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfMGxjZjFtOHFiOHIwbnRwa3RxY2Y2azlzc2sgZW4udWsjaG9saWRheUB2",
+   "created": "2022-11-08T09:51:10.000Z",
+   "updated": "2022-11-08T09:51:10.791Z",
+   "summary": "Bank Holiday for the Coronation of King Charles III",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_0lcf1m8qb8r0ntpktqcf6k9ssk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3344790798218000\"",
+   "id": "20230617_lg3rd7jskevhe9bgujm3best44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTdfbGczcmQ3anNrZXZoZTliZ3VqbTNiZXN0NDQgZW4udWsjaG9saWRheUB2",
+   "created": "2022-12-30T10:16:39.000Z",
+   "updated": "2022-12-30T10:16:39.109Z",
+   "summary": "King's Birthday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-17"
+   },
+   "end": {
+    "date": "2023-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230617_lg3rd7jskevhe9bgujm3best44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3344790798218000\"",
+   "id": "20240615_ocm0dqa60vurtkbn15c1ad5v4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTVfb2NtMGRxYTYwdnVydGtibjE1YzFhZDV2NG8gZW4udWsjaG9saWRheUB2",
+   "created": "2022-12-30T10:16:39.000Z",
+   "updated": "2022-12-30T10:16:39.109Z",
+   "summary": "King's Birthday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Kingdom",
+   "creator": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uk#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Kingdom",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-15"
+   },
+   "end": {
+    "date": "2024-06-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240615_ocm0dqa60vurtkbn15c1ad5v4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

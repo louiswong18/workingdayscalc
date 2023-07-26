@@ -1,0 +1,2189 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33lo51karqlo00o\"",
+ "summary": "Holidays in South Africa",
+ "description": "Holidays and Observances in South Africa",
+ "updated": "2023-07-24T20:48:28.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIC-rOSbqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941098928000\"",
+   "id": "20220101_cnoqochj55jltb46r8rgm4l3l0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfY25vcW9jaGo1NWpsdGI0NnI4cmdtNGwzbDAgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:49.000Z",
+   "updated": "2021-08-26T09:35:49.464Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_cnoqochj55jltb46r8rgm4l3l0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941098928000\"",
+   "id": "20220415_6je24ga4sd84rj0ca086vqnj5c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfNmplMjRnYTRzZDg0cmowY2EwODZ2cW5qNWMgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:49.000Z",
+   "updated": "2021-08-26T09:35:49.464Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_6je24ga4sd84rj0ca086vqnj5c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941098928000\"",
+   "id": "20220502_7ncb4o1jbb96h8jnudq18rjuvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfN25jYjRvMWpiYjk2aDhqbnVkcTE4cmp1dnMgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:49.000Z",
+   "updated": "2021-08-26T09:35:49.464Z",
+   "summary": "Day off for Workers' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_7ncb4o1jbb96h8jnudq18rjuvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941098928000\"",
+   "id": "20220508_pnfpv8cjf2qrndtueapeqlgnjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfcG5mcHY4Y2pmMnFybmR0dWVhcGVxbGduamcgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:49.000Z",
+   "updated": "2021-08-26T09:35:49.464Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_pnfpv8cjf2qrndtueapeqlgnjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941098928000\"",
+   "id": "20220809_nqcqe6k4fit7t39l7ddgj6p21g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDlfbnFjcWU2azRmaXQ3dDM5bDdkZGdqNnAyMWcgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:49.000Z",
+   "updated": "2021-08-26T09:35:49.464Z",
+   "summary": "National Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-09"
+   },
+   "end": {
+    "date": "2022-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220809_nqcqe6k4fit7t39l7ddgj6p21g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941104038000\"",
+   "id": "20220321_bbes83mvc5f9gprmh8djbob1q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjFfYmJlczgzbXZjNWY5Z3BybWg4ZGpib2IxcTQgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:52.000Z",
+   "updated": "2021-08-26T09:35:52.019Z",
+   "summary": "Human Rights Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-21"
+   },
+   "end": {
+    "date": "2022-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220321_bbes83mvc5f9gprmh8djbob1q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941104038000\"",
+   "id": "20220416_59m84qsfnempfe9ovp3kjgk4hc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfNTltODRxc2ZuZW1wZmU5b3ZwM2tqZ2s0aGMgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:52.000Z",
+   "updated": "2021-08-26T09:35:52.019Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_59m84qsfnempfe9ovp3kjgk4hc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941109050000\"",
+   "id": "20220427_e703hkfn1rktn94ov9jvlbg54o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjdfZTcwM2hrZm4xcmt0bjk0b3Y5anZsYmc1NG8gZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:54.000Z",
+   "updated": "2021-08-26T09:35:54.525Z",
+   "summary": "Freedom Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-27"
+   },
+   "end": {
+    "date": "2022-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220427_e703hkfn1rktn94ov9jvlbg54o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941109050000\"",
+   "id": "20220501_i5cqevs6c7cnhqqpgoo4jcj244",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfaTVjcWV2czZjN2NuaHFxcGdvbzRqY2oyNDQgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:54.000Z",
+   "updated": "2021-08-26T09:35:54.525Z",
+   "summary": "Workers' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_i5cqevs6c7cnhqqpgoo4jcj244@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941109050000\"",
+   "id": "20220616_7qqt4ddmjlu9g69ueva76jl5ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTZfN3FxdDRkZG1qbHU5ZzY5dWV2YTc2amw1bnMgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:54.000Z",
+   "updated": "2021-08-26T09:35:54.525Z",
+   "summary": "Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-16"
+   },
+   "end": {
+    "date": "2022-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220616_7qqt4ddmjlu9g69ueva76jl5ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941109050000\"",
+   "id": "20220718_5407kn9psb8nfl3v4uar1s4iq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MThfNTQwN2tuOXBzYjhuZmwzdjR1YXIxczRpcTggZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:54.000Z",
+   "updated": "2021-08-26T09:35:54.525Z",
+   "summary": "Nelson Mandela Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-18"
+   },
+   "end": {
+    "date": "2022-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220718_5407kn9psb8nfl3v4uar1s4iq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941112752000\"",
+   "id": "20220417_elnrnacin1lr6mkuq828158u9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfZWxucm5hY2luMWxyNm1rdXE4MjgxNTh1OWMgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:56.000Z",
+   "updated": "2021-08-26T09:35:56.376Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_elnrnacin1lr6mkuq828158u9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941112752000\"",
+   "id": "20220619_3h55f3lbs7ea083g192bf3m9g0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfM2g1NWYzbGJzN2VhMDgzZzE5MmJmM205ZzAgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:56.000Z",
+   "updated": "2021-08-26T09:35:56.376Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_3h55f3lbs7ea083g192bf3m9g0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941116480000\"",
+   "id": "20220418_dgg8qe888c6bvl6ph3jvefdeao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfZGdnOHFlODg4YzZidmw2cGgzanZlZmRlYW8gZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:58.000Z",
+   "updated": "2021-08-26T09:35:58.240Z",
+   "summary": "Family Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_dgg8qe888c6bvl6ph3jvefdeao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941116480000\"",
+   "id": "20220924_epfnkljblgb5blfktgm60hi0tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjRfZXBmbmtsamJsZ2I1Ymxma3RnbTYwaGkwdGMgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-08-26T09:35:58.000Z",
+   "updated": "2021-08-26T09:35:58.240Z",
+   "summary": "Heritage Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-24"
+   },
+   "end": {
+    "date": "2022-09-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220924_epfnkljblgb5blfktgm60hi0tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275838132480000\"",
+   "id": "20220102_5c0bboohl769rrppt09571t7n4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfNWMwYmJvb2hsNzY5cnJwcHQwOTU3MXQ3bjQgZW4uc2EjaG9saWRheUB2",
+   "created": "2021-11-26T09:31:06.000Z",
+   "updated": "2021-11-26T09:31:06.240Z",
+   "summary": "Tweede Nuwe Jaar",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_5c0bboohl769rrppt09571t7n4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20221216_e3baamuipneggk0i3ou96s981g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTZfZTNiYWFtdWlwbmVnZ2swaTNvdTk2czk4MWcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day of Reconciliation",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-16"
+   },
+   "end": {
+    "date": "2022-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221216_e3baamuipneggk0i3ou96s981g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20221224_5qt5npbmdlcln6e6rchn51og2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfNXF0NW5wYm1kbGNsbjZlNnJjaG41MW9nMmcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_5qt5npbmdlcln6e6rchn51og2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20221225_qap0sip1lu1gvsb9q389m031sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfcWFwMHNpcDFsdTFndnNiOXEzODltMDMxc2sgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_qap0sip1lu1gvsb9q389m031sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20221226_8o598l7s29kt5n5se65j60rnbk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfOG81OThsN3MyOWt0NW41c2U2NWo2MHJuYmsgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day of Goodwill",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_8o598l7s29kt5n5se65j60rnbk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20221231_hqouahevt735cg2s9fjunf9mv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfaHFvdWFoZXZ0NzM1Y2cyczlmanVuZjltdjAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_hqouahevt735cg2s9fjunf9mv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230101_ta3q3d508vndbt09920t9vs1qk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdGEzcTNkNTA4dm5kYnQwOTkyMHQ5dnMxcWsgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_ta3q3d508vndbt09920t9vs1qk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230102_iul3upk7k09lip27hc63b56j3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfaXVsM3VwazdrMDlsaXAyN2hjNjNiNTZqM3MgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Tweede Nuwe Jaar",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_iul3upk7k09lip27hc63b56j3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230102_jgsqlf8i7cr4ip9al39o957tj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfamdzcWxmOGk3Y3I0aXA5YWwzOW85NTd0ajAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_jgsqlf8i7cr4ip9al39o957tj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230321_5inat8ri7qfmmk1gsuhrgt6a7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjFfNWluYXQ4cmk3cWZtbWsxZ3N1aHJndDZhN28gZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Human Rights Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-21"
+   },
+   "end": {
+    "date": "2023-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230321_5inat8ri7qfmmk1gsuhrgt6a7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230407_5f00oiolj0d61sa9bgrujnte0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfNWYwMG9pb2xqMGQ2MXNhOWJncnVqbnRlMGcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_5f00oiolj0d61sa9bgrujnte0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230408_50kpemfhgghq39ejqt9shjh208",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfNTBrcGVtZmhnZ2hxMzllanF0OXNoamgyMDggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_50kpemfhgghq39ejqt9shjh208@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230409_i0lqfrksj0rcum61i5goh697ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfaTBscWZya3NqMHJjdW02MWk1Z29oNjk3ZWMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_i0lqfrksj0rcum61i5goh697ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230410_obcb91u6mrcjt6u4hni8sji8ic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfb2JjYjkxdTZtcmNqdDZ1NGhuaThzamk4aWMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Family Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_obcb91u6mrcjt6u4hni8sji8ic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230427_95todaetllgqg76c564uv3oq4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjdfOTV0b2RhZXRsbGdxZzc2YzU2NHV2M29xNHMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Freedom Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-27"
+   },
+   "end": {
+    "date": "2023-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230427_95todaetllgqg76c564uv3oq4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230501_skft7enva7mk6pq26lmtfjoi90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfc2tmdDdlbnZhN21rNnBxMjZsbXRmam9pOTAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Workers' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_skft7enva7mk6pq26lmtfjoi90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230514_ml2fbsaonba48vakj5hekh02cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfbWwyZmJzYW9uYmE0OHZha2o1aGVraDAyY3MgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_ml2fbsaonba48vakj5hekh02cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230616_092lvvp5e64ob4cug46udunt30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTZfMDkybHZ2cDVlNjRvYjRjdWc0NnVkdW50MzAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-16"
+   },
+   "end": {
+    "date": "2023-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230616_092lvvp5e64ob4cug46udunt30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230618_6v83vc4e8b4i5j4u5u90mlgn84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfNnY4M3ZjNGU4YjRpNWo0dTV1OTBtbGduODQgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_6v83vc4e8b4i5j4u5u90mlgn84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230718_a80nir0qnkf8ckbqun5jp16f48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MThfYTgwbmlyMHFua2Y4Y2ticXVuNWpwMTZmNDggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Nelson Mandela Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-18"
+   },
+   "end": {
+    "date": "2023-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230718_a80nir0qnkf8ckbqun5jp16f48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230809_90kb3fph1e76e09p43dd0ha9dg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDlfOTBrYjNmcGgxZTc2ZTA5cDQzZGQwaGE5ZGcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "National Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-09"
+   },
+   "end": {
+    "date": "2023-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230809_90kb3fph1e76e09p43dd0ha9dg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230924_gc8qvatetp70e78fl7ots8s6ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjRfZ2M4cXZhdGV0cDcwZTc4Zmw3b3RzOHM2ZWsgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Heritage Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-24"
+   },
+   "end": {
+    "date": "2023-09-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230924_gc8qvatetp70e78fl7ots8s6ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20230925_jnacgjlip6pvd9f30oom19hv3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjVfam5hY2dqbGlwNnB2ZDlmMzBvb20xOWh2M2sgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day off for Heritage Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-25"
+   },
+   "end": {
+    "date": "2023-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230925_jnacgjlip6pvd9f30oom19hv3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20231216_nmm6d12r6rbr95t78obkvom7u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTZfbm1tNmQxMnI2cmJyOTV0NzhvYmt2b203dTggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day of Reconciliation",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-16"
+   },
+   "end": {
+    "date": "2023-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231216_nmm6d12r6rbr95t78obkvom7u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20231224_h1djn3p6pb4cnmp9dkse02plls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfaDFkam4zcDZwYjRjbm1wOWRrc2UwMnBsbHMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_h1djn3p6pb4cnmp9dkse02plls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20231225_6u38se366mroj3ugb3lpibfd6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfNnUzOHNlMzY2bXJvajN1Z2IzbHBpYmZkNmMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_6u38se366mroj3ugb3lpibfd6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20231226_du9p80b80a3lj8r1vidolfveq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfZHU5cDgwYjgwYTNsajhyMXZpZG9sZnZlcTQgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day of Goodwill",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_du9p80b80a3lj8r1vidolfveq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20231231_msfq0ju11tepqlg7t8ojfcq18g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfbXNmcTBqdTExdGVwcWxnN3Q4b2pmY3ExOGcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_msfq0ju11tepqlg7t8ojfcq18g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240101_36vqj3v2paut3esetj0i3oprtk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfMzZ2cWozdjJwYXV0M2VzZXRqMGkzb3BydGsgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_36vqj3v2paut3esetj0i3oprtk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240102_62u33ve0i8tk2gjjbmorpkkkuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfNjJ1MzN2ZTBpOHRrMmdqamJtb3Jwa2trdWMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Tweede Nuwe Jaar",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_62u33ve0i8tk2gjjbmorpkkkuc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240321_q8ak669ociqe8bg7a4kovt7idg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjFfcThhazY2OW9jaXFlOGJnN2E0a292dDdpZGcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Human Rights Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-21"
+   },
+   "end": {
+    "date": "2024-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240321_q8ak669ociqe8bg7a4kovt7idg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240329_9kgqqugc0s47lofkhn6el7m1ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfOWtncXF1Z2MwczQ3bG9ma2huNmVsN20xc3MgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_9kgqqugc0s47lofkhn6el7m1ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240330_c7tcmvlkid9cnnq450bgfrl8qg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfYzd0Y212bGtpZDljbm5xNDUwYmdmcmw4cWcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_c7tcmvlkid9cnnq450bgfrl8qg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240331_tvrsthkc406ulmngtth86kdm88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfdHZyc3Roa2M0MDZ1bG1uZ3R0aDg2a2RtODggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_tvrsthkc406ulmngtth86kdm88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240401_cgiopp2d0u4fccj9bva6pedv1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfY2dpb3BwMmQwdTRmY2NqOWJ2YTZwZWR2MWcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Family Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_cgiopp2d0u4fccj9bva6pedv1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240427_73k7thkb62pkicl5gk546eb6r8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjdfNzNrN3Roa2I2MnBraWNsNWdrNTQ2ZWI2cjggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Freedom Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-27"
+   },
+   "end": {
+    "date": "2024-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240427_73k7thkb62pkicl5gk546eb6r8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240501_muq6g3qbg9kt3he4u6gvb09d88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfbXVxNmczcWJnOWt0M2hlNHU2Z3ZiMDlkODggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Workers' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_muq6g3qbg9kt3he4u6gvb09d88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240512_dnotcv11134kb51m3131d0rr9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfZG5vdGN2MTExMzRrYjUxbTMxMzFkMHJyOW8gZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_dnotcv11134kb51m3131d0rr9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240616_6nn1hs2i5rlgoodfr1iujfka60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfNm5uMWhzMmk1cmxnb29kZnIxaXVqZmthNjAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_6nn1hs2i5rlgoodfr1iujfka60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240616_kbhq6i81vqa65ag907lm32ts04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfa2JocTZpODF2cWE2NWFnOTA3bG0zMnRzMDQgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_kbhq6i81vqa65ag907lm32ts04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240617_3atm3hcp309lsb3pv8i3q3nvjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfM2F0bTNoY3AzMDlsc2IzcHY4aTNxM252am8gZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day off for Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_3atm3hcp309lsb3pv8i3q3nvjo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240718_v19aqk62u9vbmtncvrfqn2p9p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MThfdjE5YXFrNjJ1OXZibXRuY3ZyZnFuMnA5cDAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Nelson Mandela Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-18"
+   },
+   "end": {
+    "date": "2024-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240718_v19aqk62u9vbmtncvrfqn2p9p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240809_11j00f56l0ji83uogqqb50p5k4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDlfMTFqMDBmNTZsMGppODN1b2dxcWI1MHA1azQgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "National Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-09"
+   },
+   "end": {
+    "date": "2024-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240809_11j00f56l0ji83uogqqb50p5k4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20240924_uq9f73nc9ivf1ae3k87t2q0ft4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjRfdXE5ZjczbmM5aXZmMWFlM2s4N3QycTBmdDQgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Heritage Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-24"
+   },
+   "end": {
+    "date": "2024-09-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240924_uq9f73nc9ivf1ae3k87t2q0ft4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20241216_8cnbgqfbg93dgftgqm04ic7u68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTZfOGNuYmdxZmJnOTNkZ2Z0Z3FtMDRpYzd1NjggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day of Reconciliation",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-16"
+   },
+   "end": {
+    "date": "2024-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241216_8cnbgqfbg93dgftgqm04ic7u68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20241224_1gbpj64ohpb6rq2a7vp8op5nls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfMWdicGo2NG9ocGI2cnEyYTd2cDhvcDVubHMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_1gbpj64ohpb6rq2a7vp8op5nls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20241225_q47l5kf0rcg0a3fc1kcmqhl0s8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcTQ3bDVrZjByY2cwYTNmYzFrY21xaGwwczggZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_q47l5kf0rcg0a3fc1kcmqhl0s8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20241226_t88mvntl43dfh2l4kpat1d9qqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfdDg4bXZudGw0M2RmaDJsNGtwYXQxZDlxcWcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "Day of Goodwill",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_t88mvntl43dfh2l4kpat1d9qqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550348116000\"",
+   "id": "20241231_jr8thcdbhsr4tg8u941shtp39c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfanI4dGhjZGJoc3I0dGc4dTk0MXNodHAzOWMgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-09-27T10:39:34.000Z",
+   "updated": "2022-09-27T10:39:34.058Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_jr8thcdbhsr4tg8u941shtp39c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340127189782000\"",
+   "id": "20220221_2a617c527lm3uaiotkl36bo1l0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfMmE2MTdjNTI3bG0zdWFpb3RrbDM2Ym8xbDAgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-12-03T10:33:14.000Z",
+   "updated": "2022-12-03T10:33:14.891Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_2a617c527lm3uaiotkl36bo1l0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340127189782000\"",
+   "id": "20230221_h7l40jlnj0g3vk86kiq932277g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfaDdsNDBqbG5qMGczdms4NmtpcTkzMjI3N2cgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-12-03T10:33:14.000Z",
+   "updated": "2022-12-03T10:33:14.891Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_h7l40jlnj0g3vk86kiq932277g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340127189782000\"",
+   "id": "20240221_jq9tdvai9a6lqd5hc7kh0q7aro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjFfanE5dGR2YWk5YTZscWQ1aGM3a2gwcTdhcm8gZW4uc2EjaG9saWRheUB2",
+   "created": "2022-12-03T10:33:14.000Z",
+   "updated": "2022-12-03T10:33:14.891Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in South Africa",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-21"
+   },
+   "end": {
+    "date": "2024-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240221_jq9tdvai9a6lqd5hc7kh0q7aro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343056701704000\"",
+   "id": "20221227_1u0t3eb3bk9bmrmt03cf86ptmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfMXUwdDNlYjNiazlibXJtdDAzY2Y4NnB0bWcgZW4uc2EjaG9saWRheUB2",
+   "created": "2022-12-20T09:25:50.000Z",
+   "updated": "2022-12-20T09:25:50.852Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.sa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in South Africa",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_1u0t3eb3bk9bmrmt03cf86ptmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

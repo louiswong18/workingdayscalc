@@ -1,0 +1,2765 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33h9pi7urmlo00o\"",
+ "summary": "Holidays in Macao",
+ "description": "Holidays and Observances in Macao",
+ "updated": "2023-07-25T00:23:42.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIC_nPLLqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945882018000\"",
+   "id": "20220101_l2u66hqvlfj2ifqp9kaokb3sus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfbDJ1NjZocXZsZmoyaWZxcDlrYW9rYjNzdXMgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:41.000Z",
+   "updated": "2021-08-26T10:15:41.009Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_l2u66hqvlfj2ifqp9kaokb3sus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945882018000\"",
+   "id": "20220131_6ra5kbm2gdin3mnq0r12jj398k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfNnJhNWtibTJnZGluM21ucTByMTJqajM5OGsgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:41.000Z",
+   "updated": "2021-08-26T10:15:41.009Z",
+   "summary": "Lunar New Year Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_6ra5kbm2gdin3mnq0r12jj398k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945882018000\"",
+   "id": "20220203_j8pg2pua9o56iena01qmgcivn8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDNfajhwZzJwdWE5bzU2aWVuYTAxcW1nY2l2bjggZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:41.000Z",
+   "updated": "2021-08-26T10:15:41.009Z",
+   "summary": "Lunar New Year (Third Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-03"
+   },
+   "end": {
+    "date": "2022-02-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220203_j8pg2pua9o56iena01qmgcivn8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945882018000\"",
+   "id": "20220418_bjkt5t29432j773bhq465v4vo0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfYmprdDV0Mjk0MzJqNzczYmhxNDY1djR2bzAgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:41.000Z",
+   "updated": "2021-08-26T10:15:41.009Z",
+   "summary": "Holy Saturday Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_bjkt5t29432j773bhq465v4vo0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945885654000\"",
+   "id": "20220202_g3q8nu69ct598kipulg92sg9d4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfZzNxOG51NjljdDU5OGtpcHVsZzkyc2c5ZDQgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:42.000Z",
+   "updated": "2021-08-26T10:15:42.827Z",
+   "summary": "Lunar New Year (Second Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_g3q8nu69ct598kipulg92sg9d4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945885654000\"",
+   "id": "20220405_rmrlov7idc72jj9ugbtb6gtfuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDVfcm1ybG92N2lkYzcyamo5dWdidGI2Z3RmdWMgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:42.000Z",
+   "updated": "2021-08-26T10:15:42.827Z",
+   "summary": "Cheng Ming Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-05"
+   },
+   "end": {
+    "date": "2022-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220405_rmrlov7idc72jj9ugbtb6gtfuc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945885654000\"",
+   "id": "20220501_a5gmmqphot2tc0j7v2ra5bgpqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfYTVnbW1xcGhvdDJ0YzBqN3YycmE1YmdwcXMgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:42.000Z",
+   "updated": "2021-08-26T10:15:42.827Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_a5gmmqphot2tc0j7v2ra5bgpqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945889006000\"",
+   "id": "20220508_13qi6mj4iu2lgqrmi55dllkhmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfMTNxaTZtajRpdTJsZ3FybWk1NWRsbGtobW8gZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:44.000Z",
+   "updated": "2021-08-26T10:15:44.503Z",
+   "summary": "Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_13qi6mj4iu2lgqrmi55dllkhmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945889006000\"",
+   "id": "20220911_gp82sqodd0gnnr26101n7i3s8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTFfZ3A4MnNxb2RkMGdubnIyNjEwMW43aTNzOGMgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:44.000Z",
+   "updated": "2021-08-26T10:15:44.503Z",
+   "summary": "Day after the Mid-Autumn-Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-11"
+   },
+   "end": {
+    "date": "2022-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220911_gp82sqodd0gnnr26101n7i3s8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945893130000\"",
+   "id": "20220415_3otanqml9b63ptca4lq4c07nd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfM290YW5xbWw5YjYzcHRjYTRscTRjMDduZDQgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:46.000Z",
+   "updated": "2021-08-26T10:15:46.565Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_3otanqml9b63ptca4lq4c07nd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945896920000\"",
+   "id": "20220201_udha6j2qvbk41usgat179nuhoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfdWRoYTZqMnF2Yms0MXVzZ2F0MTc5bnVob2MgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:48.000Z",
+   "updated": "2021-08-26T10:15:48.460Z",
+   "summary": "Lunar New Year (First Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_udha6j2qvbk41usgat179nuhoc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945896920000\"",
+   "id": "20220603_nhh0ag5sscah02nddulcjp09k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfbmhoMGFnNXNzY2FoMDJuZGR1bGNqcDA5azggZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:48.000Z",
+   "updated": "2021-08-26T10:15:48.460Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_nhh0ag5sscah02nddulcjp09k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259945900744000\"",
+   "id": "20220416_a7aoo65hrqd544lir926pdlc54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfYTdhb282NWhycWQ1NDRsaXI5MjZwZGxjNTQgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-26T10:15:50.000Z",
+   "updated": "2021-08-26T10:15:50.372Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_a7aoo65hrqd544lir926pdlc54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260797998268000\"",
+   "id": "20220103_d1d10ich3715nnpo47ra43hj6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfZDFkMTBpY2gzNzE1bm5wbzQ3cmE0M2hqNmMgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-31T08:36:39.000Z",
+   "updated": "2021-08-31T08:36:39.134Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_d1d10ich3715nnpo47ra43hj6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260797998268000\"",
+   "id": "20220502_m670mi09t24iftdp6rm4t1slfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfbTY3MG1pMDl0MjRpZnRkcDZybTR0MXNsZmcgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-31T08:36:39.000Z",
+   "updated": "2021-08-31T08:36:39.134Z",
+   "summary": "May Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_m670mi09t24iftdp6rm4t1slfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260797998268000\"",
+   "id": "20220509_a6bqt4ukotmn83c8u1u3l8rd5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfYTZicXQ0dWtvdG1uODNjOHUxdTNsOHJkNW8gZW4ubW8jaG9saWRheUB2",
+   "created": "2021-08-31T08:36:39.000Z",
+   "updated": "2021-08-31T08:36:39.134Z",
+   "summary": "Buddha's Birthday Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_a6bqt4ukotmn83c8u1u3l8rd5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262006284288000\"",
+   "id": "20220912_0o5pmhmv98eqkfac2fdenvat8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTJfMG81cG1obXY5OGVxa2ZhYzJmZGVudmF0OGMgZW4ubW8jaG9saWRheUB2",
+   "created": "2021-09-07T08:25:42.000Z",
+   "updated": "2021-09-07T08:25:42.144Z",
+   "summary": "Mid-Autumn Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-12"
+   },
+   "end": {
+    "date": "2022-09-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220912_0o5pmhmv98eqkfac2fdenvat8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221001_r5m7336oeoek30hgl7iu0team8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDFfcjVtNzMzNm9lb2VrMzBoZ2w3aXUwdGVhbTggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-01"
+   },
+   "end": {
+    "date": "2022-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221001_r5m7336oeoek30hgl7iu0team8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221002_ari7a4sv37qatq8g7hat7n79hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfYXJpN2E0c3YzN3FhdHE4ZzdoYXQ3bjc5aHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Day after PRC National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_ari7a4sv37qatq8g7hat7n79hs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221003_384miocn3jk4iki75b0mqh8tkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfMzg0bWlvY24zams0aWtpNzViMG1xaDh0a2MgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Day off for National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_384miocn3jk4iki75b0mqh8tkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221004_f5nh1snqu8gov2lp6tei2ce7mo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfZjVuaDFzbnF1OGdvdjJscDZ0ZWkyY2U3bW8gZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Chong Yeung Festival (Festival of Ancestors)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_f5nh1snqu8gov2lp6tei2ce7mo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221005_vu5q1r8191os1q6h158in2t3kk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfdnU1cTFyODE5MW9zMXE2aDE1OGluMnQza2sgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "PRC National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_vu5q1r8191os1q6h158in2t3kk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221102_r3nd9mt2v62t271g08lkmlhl6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDJfcjNuZDltdDJ2NjJ0MjcxZzA4bGttbGhsNmMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "All Soul's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-02"
+   },
+   "end": {
+    "date": "2022-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221102_r3nd9mt2v62t271g08lkmlhl6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221208_qfcg35op4gmj09ig49njfh2pdk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfcWZjZzM1b3A0Z21qMDlpZzQ5bmpmaDJwZGsgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_qfcg35op4gmj09ig49njfh2pdk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221220_rs9h81vokj9v8njo2utoprirro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjBfcnM5aDgxdm9rajl2OG5qbzJ1dG9wcmlycm8gZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Macau S.A.R. Establishment Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-20"
+   },
+   "end": {
+    "date": "2022-12-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221220_rs9h81vokj9v8njo2utoprirro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221222_q589jqngvs9v5r6dct3673vn18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjJfcTU4OWpxbmd2czl2NXI2ZGN0MzY3M3ZuMTggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Winter Solstice",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-22"
+   },
+   "end": {
+    "date": "2022-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221222_q589jqngvs9v5r6dct3673vn18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221224_oks0d4mqlmk61ph2e0f6fmncb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfb2tzMGQ0bXFsbWs2MXBoMmUwZjZmbW5jYjggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_oks0d4mqlmk61ph2e0f6fmncb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221225_t2ir0mir158ievq3siqs3gkahg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfdDJpcjBtaXIxNThpZXZxM3NpcXMzZ2thaGcgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_t2ir0mir158ievq3siqs3gkahg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221226_de97r66bdc823b2euf4qvkmpds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfZGU5N3I2NmJkYzgyM2IyZXVmNHF2a21wZHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Eve Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_de97r66bdc823b2euf4qvkmpds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221227_5tknmr7o6tdoo8md7as1er6t9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfNXRrbm1yN282dGRvbzhtZDdhczFlcjZ0OW8gZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_5tknmr7o6tdoo8md7as1er6t9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20221231_o6rbj9jhcmp361lvjie4iqj00k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfbzZyYmo5amhjbXAzNjFsdmppZTRpcWowMGsgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Macao",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_o6rbj9jhcmp361lvjie4iqj00k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230101_9svg4s5p95bc47gu6gloi6n080",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfOXN2ZzRzNXA5NWJjNDdndTZnbG9pNm4wODAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_9svg4s5p95bc47gu6gloi6n080@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230102_l5f4lgdbrj10u98osp5fuf573s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfbDVmNGxnZGJyajEwdTk4b3NwNWZ1ZjU3M3MgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_l5f4lgdbrj10u98osp5fuf573s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230122_s14h42ik49h6sos3fmpfu83qck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfczE0aDQyaWs0OWg2c29zM2ZtcGZ1ODNxY2sgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year (First Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_s14h42ik49h6sos3fmpfu83qck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230123_ncrncnoq60qvg3muem0at8clss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfbmNybmNub3E2MHF2ZzNtdWVtMGF0OGNsc3MgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year (Second Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_ncrncnoq60qvg3muem0at8clss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230124_oh24vu5js1k53ibls8fjvq3l64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfb2gyNHZ1NWpzMWs1M2libHM4Zmp2cTNsNjQgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year (Third Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_oh24vu5js1k53ibls8fjvq3l64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230125_s8nql2sq6itpq30e6cg1s5e4is",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjVfczhucWwyc3E2aXRwcTMwZTZjZzFzNWU0aXMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-25"
+   },
+   "end": {
+    "date": "2023-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230125_s8nql2sq6itpq30e6cg1s5e4is@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230405_i1bj7pai71lt52abumrr060cd0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfaTFiajdwYWk3MWx0NTJhYnVtcnIwNjBjZDAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Cheng Ming Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_i1bj7pai71lt52abumrr060cd0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230407_6fd985i90kpfg7avtrq1bq4jng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfNmZkOTg1aTkwa3BmZzdhdnRycTFicTRqbmcgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_6fd985i90kpfg7avtrq1bq4jng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230408_8n6vk7m0kou3mq0ba8fkkoqoqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfOG42dms3bTBrb3UzbXEwYmE4Zmtrb3FvcXMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_8n6vk7m0kou3mq0ba8fkkoqoqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230410_2aqe1qr5dsc4b2pfveas7m4q3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfMmFxZTFxcjVkc2M0YjJwZnZlYXM3bTRxM2cgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Holy Saturday Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_2aqe1qr5dsc4b2pfveas7m4q3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230501_6kdnvr7es57da46b0rtn30ic30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfNmtkbnZyN2VzNTdkYTQ2YjBydG4zMGljMzAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_6kdnvr7es57da46b0rtn30ic30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230526_20rvegsgub8i93h9qgmkuhkghc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjZfMjBydmVnc2d1YjhpOTNoOXFnbWt1aGtnaGMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-26"
+   },
+   "end": {
+    "date": "2023-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230526_20rvegsgub8i93h9qgmkuhkghc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230622_s4dlgh41br7i3bvev351ug4bfc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjJfczRkbGdoNDFicjdpM2J2ZXYzNTF1ZzRiZmMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-22"
+   },
+   "end": {
+    "date": "2023-06-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230622_s4dlgh41br7i3bvev351ug4bfc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20230930_02nue9kvmkgdqe90bbrtscrmes",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MzBfMDJudWU5a3Zta2dkcWU5MGJicnRzY3JtZXMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Day after the Mid-Autumn-Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-30"
+   },
+   "end": {
+    "date": "2023-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230930_02nue9kvmkgdqe90bbrtscrmes@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231001_df7nanjcd7lc87j4djqilt4j4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfZGY3bmFuamNkN2xjODdqNGRqcWlsdDRqNHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_df7nanjcd7lc87j4djqilt4j4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231002_g0lsr7ghq36h65sln3r0jrvad0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfZzBsc3I3Z2hxMzZoNjVzbG4zcjBqcnZhZDAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Day after PRC National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_g0lsr7ghq36h65sln3r0jrvad0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231004_kksa52al127cf94obrem9spg8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDRfa2tzYTUyYWwxMjdjZjk0b2JyZW05c3BnOGMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "PRC National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-04"
+   },
+   "end": {
+    "date": "2023-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231004_kksa52al127cf94obrem9spg8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231023_cj86jb4ii57mn4l63snstp9lm8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfY2o4NmpiNGlpNTdtbjRsNjNzbnN0cDlsbTggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Chong Yeung Festival (Festival of Ancestors)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_cj86jb4ii57mn4l63snstp9lm8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231102_84mnihp3o937lqfrlpjgh038ig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDJfODRtbmlocDNvOTM3bHFmcmxwamdoMDM4aWcgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "All Soul's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-02"
+   },
+   "end": {
+    "date": "2023-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231102_84mnihp3o937lqfrlpjgh038ig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231208_8grf36eb73j0uogaoa6po7vevc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfOGdyZjM2ZWI3M2owdW9nYW9hNnBvN3ZldmMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_8grf36eb73j0uogaoa6po7vevc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231220_ikuv74ie3erg83sc63f3hk37ro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjBfaWt1djc0aWUzZXJnODNzYzYzZjNoazM3cm8gZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Macau S.A.R. Establishment Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-20"
+   },
+   "end": {
+    "date": "2023-12-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231220_ikuv74ie3erg83sc63f3hk37ro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231222_4arknimscvq3sko4hb9t1b98ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjJfNGFya25pbXNjdnEzc2tvNGhiOXQxYjk4YWMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Winter Solstice",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-22"
+   },
+   "end": {
+    "date": "2023-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231222_4arknimscvq3sko4hb9t1b98ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231224_qotmsdru83dor8j1g138o3mfhc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfcW90bXNkcnU4M2RvcjhqMWcxMzhvM21maGMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_qotmsdru83dor8j1g138o3mfhc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231225_tjkpltqsn1o4ks717p22o0hv5c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdGprcGx0cXNuMW80a3M3MTdwMjJvMGh2NWMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_tjkpltqsn1o4ks717p22o0hv5c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231226_v1fkrectn88286fi85gg8qmh60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfdjFma3JlY3RuODgyODZmaTg1Z2c4cW1oNjAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Eve Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_v1fkrectn88286fi85gg8qmh60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20231231_rgqpgh2056930pj1o98s8rrkhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfcmdxcGdoMjA1NjkzMHBqMW85OHM4cnJraHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Macao",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_rgqpgh2056930pj1o98s8rrkhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240101_sgicv1377v3s1pk8poifrurfgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfc2dpY3YxMzc3djNzMXBrOHBvaWZydXJmZ2cgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_sgicv1377v3s1pk8poifrurfgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240209_up4b71umm0cuijer0616i0pqss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDlfdXA0YjcxdW1tMGN1aWplcjA2MTZpMHBxc3MgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-09"
+   },
+   "end": {
+    "date": "2024-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240209_up4b71umm0cuijer0616i0pqss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240210_88vgqdvfl55h4rtpepsonoqc4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfODh2Z3FkdmZsNTVoNHJ0cGVwc29ub3FjNGMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year (First Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_88vgqdvfl55h4rtpepsonoqc4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240211_8kegie7dqrmf75a23ejkgh9dso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfOGtlZ2llN2Rxcm1mNzVhMjNlamtnaDlkc28gZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year (Second Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_8kegie7dqrmf75a23ejkgh9dso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240212_gv0bghhg0r38gnpmo7jmigpmj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfZ3YwYmdoaGcwcjM4Z25wbW83am1pZ3BtajggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Lunar New Year (Third Day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_gv0bghhg0r38gnpmo7jmigpmj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240329_eclujfi6mkmb0699jlmc2hv610",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfZWNsdWpmaTZta21iMDY5OWpsbWMyaHY2MTAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_eclujfi6mkmb0699jlmc2hv610@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240330_1mlg1evmsfrqkh45dug6d7pvs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfMW1sZzFldm1zZnJxa2g0NWR1ZzZkN3B2czQgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_1mlg1evmsfrqkh45dug6d7pvs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240401_hv80msj0ah09rqhok7n4vg09i0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfaHY4MG1zajBhaDA5cnFob2s3bjR2ZzA5aTAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Holy Saturday Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_hv80msj0ah09rqhok7n4vg09i0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240404_lo6j067aspmvfp62a6fkktgnlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDRfbG82ajA2N2FzcG12ZnA2MmE2ZmtrdGdubG8gZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Cheng Ming Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-04"
+   },
+   "end": {
+    "date": "2024-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240404_lo6j067aspmvfp62a6fkktgnlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240501_u14rrjrc8fv96rlgr4kqt80vt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfdTE0cnJqcmM4ZnY5NnJsZ3I0a3F0ODB2dDQgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_u14rrjrc8fv96rlgr4kqt80vt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240515_0qr5teebj6nvlp8or422uqktn0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTVfMHFyNXRlZWJqNm52bHA4b3I0MjJ1cWt0bjAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-15"
+   },
+   "end": {
+    "date": "2024-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240515_0qr5teebj6nvlp8or422uqktn0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240610_h32uf85aeltg3j2gqmvf3phbog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTBfaDMydWY4NWFlbHRnM2oyZ3FtdmYzcGhib2cgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-10"
+   },
+   "end": {
+    "date": "2024-06-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240610_h32uf85aeltg3j2gqmvf3phbog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20240918_chhs3ejmljm8cg4ikm2nq3icf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MThfY2hoczNlam1sam04Y2c0aWttMm5xM2ljZjAgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Day after the Mid-Autumn-Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-18"
+   },
+   "end": {
+    "date": "2024-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240918_chhs3ejmljm8cg4ikm2nq3icf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241001_hn97jc7esi9cihgicorfde0fv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDFfaG45N2pjN2VzaTljaWhnaWNvcmZkZTBmdjggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-01"
+   },
+   "end": {
+    "date": "2024-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241001_hn97jc7esi9cihgicorfde0fv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241002_co93sj2voco5duq0js0nrsmogc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDJfY285M3NqMnZvY281ZHVxMGpzMG5yc21vZ2MgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Day after PRC National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-02"
+   },
+   "end": {
+    "date": "2024-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241002_co93sj2voco5duq0js0nrsmogc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241011_vn14g4bjl4q53ttqo25a9a2to4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfdm4xNGc0YmpsNHE1M3R0cW8yNWE5YTJ0bzQgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Chong Yeung Festival (Festival of Ancestors)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_vn14g4bjl4q53ttqo25a9a2to4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241102_oue3r3bml93o16imr2tnqt06ts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDJfb3VlM3IzYm1sOTNvMTZpbXIydG5xdDA2dHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "All Soul's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-02"
+   },
+   "end": {
+    "date": "2024-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241102_oue3r3bml93o16imr2tnqt06ts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241208_eu6jucbk2dnfhcuhmohdjtdio8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfZXU2anVjYmsyZG5maGN1aG1vaGRqdGRpbzggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_eu6jucbk2dnfhcuhmohdjtdio8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241220_qstma9abbh3gk24a717an1vnbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjBfcXN0bWE5YWJiaDNnazI0YTcxN2FuMXZuYnMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Macau S.A.R. Establishment Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-20"
+   },
+   "end": {
+    "date": "2024-12-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241220_qstma9abbh3gk24a717an1vnbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241221_7d4d1jp58ehscd714rhp77efpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjFfN2Q0ZDFqcDU4ZWhzY2Q3MTRyaHA3N2VmcGcgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Winter Solstice",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-21"
+   },
+   "end": {
+    "date": "2024-12-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241221_7d4d1jp58ehscd714rhp77efpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241224_vur9hgcsjrglamsv1u43hsomls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfdnVyOWhnY3NqcmdsYW1zdjF1NDNoc29tbHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_vur9hgcsjrglamsv1u43hsomls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241225_2jkbd1sqvrb92o5eu7hpjvnn0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfMmprYmQxc3F2cmI5Mm81ZXU3aHBqdm5uMHMgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_2jkbd1sqvrb92o5eu7hpjvnn0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241231_79lpg6uu3iqsks1dirmo286m28",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfNzlscGc2dXUzaXFza3MxZGlybW8yODZtMjggZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year's Eve Afternoon",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_79lpg6uu3iqsks1dirmo286m28@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328546861728000\"",
+   "id": "20241231_r7vl8cvpmr55fo8mi04oun4etk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfcjd2bDhjdnBtcjU1Zm84bWkwNG91bjRldGsgZW4ubW8jaG9saWRheUB2",
+   "created": "2022-09-27T10:10:30.000Z",
+   "updated": "2022-09-27T10:10:30.864Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Macao",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_r7vl8cvpmr55fo8mi04oun4etk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469376982000\"",
+   "id": "20240213_l9tk8d1tvovqvf3bsioo9s6524",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfbDl0azhkMXR2b3ZxdmYzYnNpb285czY1MjQgZW4ubW8jaG9saWRheUB2",
+   "created": "2023-06-14T09:24:48.000Z",
+   "updated": "2023-06-14T09:24:48.491Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_l9tk8d1tvovqvf3bsioo9s6524@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469376982000\"",
+   "id": "20240214_a3om1p9cl43fhbb6lug1sgn6i0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfYTNvbTFwOWNsNDNmaGJiNmx1ZzFzZ242aTAgZW4ubW8jaG9saWRheUB2",
+   "created": "2023-06-14T09:24:48.000Z",
+   "updated": "2023-06-14T09:24:48.491Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_a3om1p9cl43fhbb6lug1sgn6i0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469376982000\"",
+   "id": "20241104_eompbov14ushupp6dvse2a5blk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDRfZW9tcGJvdjE0dXNodXBwNmR2c2UyYTVibGsgZW4ubW8jaG9saWRheUB2",
+   "created": "2023-06-14T09:24:48.000Z",
+   "updated": "2023-06-14T09:24:48.491Z",
+   "summary": "All Soul's Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-04"
+   },
+   "end": {
+    "date": "2024-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241104_eompbov14ushupp6dvse2a5blk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469376982000\"",
+   "id": "20241209_gr0on6qdr9m084ko78cne0f270",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDlfZ3Iwb242cWRyOW0wODRrbzc4Y25lMGYyNzAgZW4ubW8jaG9saWRheUB2",
+   "created": "2023-06-14T09:24:48.000Z",
+   "updated": "2023-06-14T09:24:48.491Z",
+   "summary": "Feast of the Immaculate Conception Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-09"
+   },
+   "end": {
+    "date": "2024-12-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241209_gr0on6qdr9m084ko78cne0f270@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469376982000\"",
+   "id": "20241223_nd0qpdkvb14s12bh28jlgbv2f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjNfbmQwcXBka3ZiMTRzMTJiaDI4amxnYnYyZjggZW4ubW8jaG9saWRheUB2",
+   "created": "2023-06-14T09:24:48.000Z",
+   "updated": "2023-06-14T09:24:48.491Z",
+   "summary": "Winter Solstice Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mo#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Macao",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-23"
+   },
+   "end": {
+    "date": "2024-12-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241223_nd0qpdkvb14s12bh28jlgbv2f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

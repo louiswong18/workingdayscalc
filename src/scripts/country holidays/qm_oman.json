@@ -1,0 +1,1549 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p3379dpsfrqlo00o\"",
+ "summary": "Holidays in Oman",
+ "description": "Holidays and Observances in Oman",
+ "updated": "2023-07-25T04:32:27.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMCZgr-DqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965821634000\"",
+   "id": "20220711_edm3s0oqs102agm2haq3d9pmi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfZWRtM3Mwb3FzMTAyYWdtMmhhcTNkOXBtaTAgZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:50.000Z",
+   "updated": "2021-08-26T13:01:50.817Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_edm3s0oqs102agm2haq3d9pmi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965821634000\"",
+   "id": "20220730_k02gvp4p71auf1l159gl7s9ajg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfazAyZ3ZwNHA3MWF1ZjFsMTU5Z2w3czlhamcgZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:50.000Z",
+   "updated": "2021-08-26T13:01:50.817Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_k02gvp4p71auf1l159gl7s9ajg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965825484000\"",
+   "id": "20220101_0ud67nfl9nnt6623nvibk4fujs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMHVkNjduZmw5bm50NjYyM252aWJrNGZ1anMgZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:52.000Z",
+   "updated": "2021-08-26T13:01:52.742Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_0ud67nfl9nnt6623nvibk4fujs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965825484000\"",
+   "id": "20220505_lf0217c5ngc5ejgbtdjek89jl8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfbGYwMjE3YzVuZ2M1ZWpnYnRkamVrODlqbDggZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:52.000Z",
+   "updated": "2021-08-26T13:01:52.742Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_lf0217c5ngc5ejgbtdjek89jl8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965825484000\"",
+   "id": "20220712_proscgpdn49lq0b1lejc73lo0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfcHJvc2NncGRuNDlscTBiMWxlamM3M2xvMG8gZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:52.000Z",
+   "updated": "2021-08-26T13:01:52.742Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_proscgpdn49lq0b1lejc73lo0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965830866000\"",
+   "id": "20220301_lh3np17mdg4i3cdlcskcja8t58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfbGgzbnAxN21kZzRpM2NkbGNza2NqYTh0NTggZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:55.000Z",
+   "updated": "2021-08-26T13:01:55.433Z",
+   "summary": "Isra and Mi'raj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_lh3np17mdg4i3cdlcskcja8t58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965830866000\"",
+   "id": "20220504_kihsn1obi560m3oi8sl550kd7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfa2loc24xb2JpNTYwbTNvaThzbDU1MGtkN2MgZW4ub20jaG9saWRheUB2",
+   "created": "2021-08-26T13:01:55.000Z",
+   "updated": "2021-08-26T13:01:55.433Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_kihsn1obi560m3oi8sl550kd7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3303136155758000\"",
+   "id": "20220502_elkpvitopimrpvetj0t1en82l4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZWxrcHZpdG9waW1ycHZldGowdDFlbjgybDQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-05-03T08:54:37.000Z",
+   "updated": "2022-05-03T08:54:37.879Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_elkpvitopimrpvetj0t1en82l4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3303136155758000\"",
+   "id": "20220503_65o16mlcbbn2okvsm5egl4po94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfNjVvMTZtbGNiYm4yb2t2c201ZWdsNHBvOTQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-05-03T08:54:37.000Z",
+   "updated": "2022-05-03T08:54:37.879Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_65o16mlcbbn2okvsm5egl4po94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618834846000\"",
+   "id": "20220708_bo5k7tvps57dntdebspv9s2nd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfYm81azd0dnBzNTdkbnRkZWJzcHY5czJuZDQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-07-14T14:36:57.000Z",
+   "updated": "2022-07-14T14:36:57.423Z",
+   "summary": "Day of Arafah",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_bo5k7tvps57dntdebspv9s2nd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618834846000\"",
+   "id": "20220709_77dse18pp09uqhtop10bov25fc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfNzdkc2UxOHBwMDl1cWh0b3AxMGJvdjI1ZmMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-07-14T14:36:57.000Z",
+   "updated": "2022-07-14T14:36:57.423Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_77dse18pp09uqhtop10bov25fc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618834846000\"",
+   "id": "20220710_njtj3ke99rahi50dcijtm6003o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfbmp0ajNrZTk5cmFoaTUwZGNpanRtNjAwM28gZW4ub20jaG9saWRheUB2",
+   "created": "2022-07-14T14:36:57.000Z",
+   "updated": "2022-07-14T14:36:57.423Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_njtj3ke99rahi50dcijtm6003o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3319571351836000\"",
+   "id": "20220731_dpinpinp6livvpeb3d4qr91t84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzFfZHBpbnBpbnA2bGl2dnBlYjNkNHFyOTF0ODQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-08-06T11:34:35.000Z",
+   "updated": "2022-08-06T11:34:35.918Z",
+   "summary": "Muharram Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-31"
+   },
+   "end": {
+    "date": "2022-08-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220731_dpinpinp6livvpeb3d4qr91t84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230422_oq850bfh4a4f0j2g8udgmr6ibs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfb3E4NTBiZmg0YTRmMGoyZzh1ZGdtcjZpYnMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_oq850bfh4a4f0j2g8udgmr6ibs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230423_1n3p37716p795pbvd3cfkm5tk0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfMW4zcDM3NzE2cDc5NXBidmQzY2ZrbTV0azAgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_1n3p37716p795pbvd3cfkm5tk0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230424_8d8mvu1tchdodeb826a80c40h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfOGQ4bXZ1MXRjaGRvZGViODI2YTgwYzQwaDQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_8d8mvu1tchdodeb826a80c40h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230628_o0rmuvr5pl8t5phomc0j2ds4ks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfbzBybXV2cjVwbDh0NXBob21jMGoyZHM0a3MgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_o0rmuvr5pl8t5phomc0j2ds4ks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230629_sso2m3crsq2lhj2pojakbepfjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2Mjlfc3NvMm0zY3JzcTJsaGoycG9qYWtiZXBmanMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_sso2m3crsq2lhj2pojakbepfjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230630_e6f9u3agp5rhenld0i7sphs61s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfZTZmOXUzYWdwNXJoZW5sZDBpN3NwaHM2MXMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_e6f9u3agp5rhenld0i7sphs61s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230701_qv1titi46p09uh69gohfuj5jmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfcXYxdGl0aTQ2cDA5dWg2OWdvaGZ1ajVqbWsgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_qv1titi46p09uh69gohfuj5jmk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20230927_fu7qbs3fmi3hopla6l06ud8njs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfZnU3cWJzM2ZtaTNob3BsYTZsMDZ1ZDhuanMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_fu7qbs3fmi3hopla6l06ud8njs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20231118_4pldc4h4gck47jkln66f92do48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMThfNHBsZGM0aDRnY2s0N2prbG42NmY5MmRvNDggZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-18"
+   },
+   "end": {
+    "date": "2023-11-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231118_4pldc4h4gck47jkln66f92do48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240101_51q1pjtk3f2cpap0anek23c7ik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNTFxMXBqdGszZjJjcGFwMGFuZWsyM2M3aWsgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_51q1pjtk3f2cpap0anek23c7ik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240207_gcg2r4f4r1863jonbm9c44t1p8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDdfZ2NnMnI0ZjRyMTg2M2pvbmJtOWM0NHQxcDggZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Isra and Mi'raj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-07"
+   },
+   "end": {
+    "date": "2024-02-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240207_gcg2r4f4r1863jonbm9c44t1p8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240410_2amjrhp2a6he46ob4fiq3ugj74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfMmFtanJocDJhNmhlNDZvYjRmaXEzdWdqNzQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_2amjrhp2a6he46ob4fiq3ugj74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240411_jvditidhorsrsvsj0m9ieurfe8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfanZkaXRpZGhvcnNyc3ZzajBtOWlldXJmZTggZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_jvditidhorsrsvsj0m9ieurfe8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240412_cfvtuaotqrglcarmc7ibhij804",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfY2Z2dHVhb3RxcmdsY2FybWM3aWJoaWo4MDQgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_cfvtuaotqrglcarmc7ibhij804@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240413_0f776975dcqnlo96tc01hpuq6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTNfMGY3NzY5NzVkY3FubG85NnRjMDFocHVxNm8gZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-13"
+   },
+   "end": {
+    "date": "2024-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240413_0f776975dcqnlo96tc01hpuq6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240617_6ernt22ju3mmrh9bllrmqldc80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfNmVybnQyMmp1M21tcmg5Ymxscm1xbGRjODAgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_6ernt22ju3mmrh9bllrmqldc80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240618_imptl32nshslrqorhc4gve6vcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfaW1wdGwzMm5zaHNscnFvcmhjNGd2ZTZ2Y2cgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_imptl32nshslrqorhc4gve6vcg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240619_1auem6lr9c75mn50g43meios5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfMWF1ZW02bHI5Yzc1bW41MGc0M21laW9zNWcgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_1auem6lr9c75mn50g43meios5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240620_eeb4rilkaush0qrgsb5c294rig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjBfZWViNHJpbGthdXNoMHFyZ3NiNWMyOTRyaWcgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-20"
+   },
+   "end": {
+    "date": "2024-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240620_eeb4rilkaush0qrgsb5c294rig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240708_jmm3379pf4m3fheuj54p1gattg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfam1tMzM3OXBmNG0zZmhldWo1NHAxZ2F0dGcgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_jmm3379pf4m3fheuj54p1gattg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20240916_hhm2ae2cff8nbg6t0ep1tq0fbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfaGhtMmFlMmNmZjhuYmc2dDBlcDF0cTBmYmcgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_hhm2ae2cff8nbg6t0ep1tq0fbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891146920000\"",
+   "id": "20241118_4t68gesg5m1dgamdvdqe8hi16c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMThfNHQ2OGdlc2c1bTFkZ2FtZHZkcWU4aGkxNmMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-09-23T15:06:13.000Z",
+   "updated": "2022-09-23T15:06:13.460Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-18"
+   },
+   "end": {
+    "date": "2024-11-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241118_4t68gesg5m1dgamdvdqe8hi16c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329780665836000\"",
+   "id": "20221009_guudo7nldig9sdt9kdb91ric78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfZ3V1ZG83bmxkaWc5c2R0OWtkYjkxcmljNzggZW4ub20jaG9saWRheUB2",
+   "created": "2022-10-04T13:32:12.000Z",
+   "updated": "2022-10-04T13:32:12.918Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_guudo7nldig9sdt9kdb91ric78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338218439750000\"",
+   "id": "20221130_ov9l2pb4t1va1oetqk7q1bb8v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMzBfb3Y5bDJwYjR0MXZhMW9ldHFrN3ExYmI4djggZW4ub20jaG9saWRheUB2",
+   "created": "2022-11-22T09:26:59.000Z",
+   "updated": "2022-11-22T09:26:59.875Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-30"
+   },
+   "end": {
+    "date": "2022-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221130_ov9l2pb4t1va1oetqk7q1bb8v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338218439750000\"",
+   "id": "20221201_fqb12urr1jquc1se07fn9opfug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDFfZnFiMTJ1cnIxanF1YzFzZTA3Zm45b3BmdWcgZW4ub20jaG9saWRheUB2",
+   "created": "2022-11-22T09:26:59.000Z",
+   "updated": "2022-11-22T09:26:59.875Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-01"
+   },
+   "end": {
+    "date": "2022-12-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221201_fqb12urr1jquc1se07fn9opfug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343231648518000\"",
+   "id": "20230101_a0gqgvbitbo7ikmebs57esigcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfYTBncWd2Yml0Ym83aWttZWJzNTdlc2lnY3MgZW4ub20jaG9saWRheUB2",
+   "created": "2022-12-21T09:43:44.000Z",
+   "updated": "2022-12-21T09:43:44.259Z",
+   "summary": "New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Oman",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_a0gqgvbitbo7ikmebs57esigcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343231648518000\"",
+   "id": "20231119_ov381g0b9jfu0mppjdv9o8761s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTlfb3YzODFnMGI5amZ1MG1wcGpkdjlvODc2MXMgZW4ub20jaG9saWRheUB2",
+   "created": "2022-12-21T09:43:44.000Z",
+   "updated": "2022-12-21T09:43:44.259Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-19"
+   },
+   "end": {
+    "date": "2023-11-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231119_ov381g0b9jfu0mppjdv9o8761s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3346598541180000\"",
+   "id": "20230112_6vitt3cdvpej8ne7jfl5a8hge0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMTJfNnZpdHQzY2R2cGVqOG5lN2pmbDVhOGhnZTAgZW4ub20jaG9saWRheUB2",
+   "created": "2023-01-09T21:21:10.000Z",
+   "updated": "2023-01-09T21:21:10.590Z",
+   "summary": "Sultan’s Accession Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-12"
+   },
+   "end": {
+    "date": "2023-01-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230112_6vitt3cdvpej8ne7jfl5a8hge0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352660161860000\"",
+   "id": "20230219_jhsjvlh95js3d7a4fev40ci9j8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTlfamhzanZsaDk1anMzZDdhNGZldjQwY2k5ajggZW4ub20jaG9saWRheUB2",
+   "created": "2023-02-13T23:14:40.000Z",
+   "updated": "2023-02-13T23:14:40.930Z",
+   "summary": "Isra and Mi'raj Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-19"
+   },
+   "end": {
+    "date": "2023-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230219_jhsjvlh95js3d7a4fev40ci9j8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353345206154000\"",
+   "id": "20230219_760vtol39tretn4d1tq9a6mlrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTlfNzYwdnRvbDM5dHJldG40ZDF0cTlhNm1scmsgZW4ub20jaG9saWRheUB2",
+   "created": "2023-02-17T22:23:23.000Z",
+   "updated": "2023-02-17T22:23:23.077Z",
+   "summary": "Isra and Mi'raj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-19"
+   },
+   "end": {
+    "date": "2023-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230219_760vtol39tretn4d1tq9a6mlrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048447480000\"",
+   "id": "20230323_20kbasrfhj30ds00k8i8npslcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfMjBrYmFzcmZoajMwZHMwMGs4aThucHNsY2MgZW4ub20jaG9saWRheUB2",
+   "created": "2023-03-22T22:30:23.000Z",
+   "updated": "2023-03-22T22:30:23.740Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Oman",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_20kbasrfhj30ds00k8i8npslcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048447480000\"",
+   "id": "20240311_etlb6n75779ln9eikhtfv9am0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfZXRsYjZuNzU3NzlsbjllaWtodGZ2OWFtMGMgZW4ub20jaG9saWRheUB2",
+   "created": "2023-03-22T22:30:23.000Z",
+   "updated": "2023-03-22T22:30:23.740Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Oman",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_etlb6n75779ln9eikhtfv9am0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136137162000\"",
+   "id": "20230420_bs2r3av4n4nbnag3p5fjgo61sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfYnMycjNhdjRuNG5ibmFnM3A1ZmpnbzYxc2sgZW4ub20jaG9saWRheUB2",
+   "created": "2023-04-21T09:07:48.000Z",
+   "updated": "2023-04-21T09:07:48.581Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_bs2r3av4n4nbnag3p5fjgo61sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136137162000\"",
+   "id": "20230421_1k7avakg5rgg977rk2s8vq9qao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfMWs3YXZha2c1cmdnOTc3cmsyczh2cTlxYW8gZW4ub20jaG9saWRheUB2",
+   "created": "2023-04-21T09:07:48.000Z",
+   "updated": "2023-04-21T09:07:48.581Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_1k7avakg5rgg977rk2s8vq9qao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3379175613022000\"",
+   "id": "20230720_hgv9undv2beu3sn9kfuflfjj48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjBfaGd2OXVuZHYyYmV1M3NuOWtmdWZsZmpqNDggZW4ub20jaG9saWRheUB2",
+   "created": "2023-07-17T09:56:46.000Z",
+   "updated": "2023-07-17T09:56:46.511Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.om#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Oman",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-20"
+   },
+   "end": {
+    "date": "2023-07-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230720_hgv9undv2beu3sn9kfuflfjj48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

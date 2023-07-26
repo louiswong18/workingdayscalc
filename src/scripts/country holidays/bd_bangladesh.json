@@ -1,0 +1,3853 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33gvbonrrmlo00o\"",
+ "summary": "Holidays in Bangladesh",
+ "description": "Holidays and Observances in Bangladesh",
+ "updated": "2023-07-24T19:39:56.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CID2y7uMqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972524328000\"",
+   "id": "20220503_0piqugkbcr3981samnjd4ho9lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfMHBpcXVna2JjcjM5ODFzYW1uamQ0aG85bG8gZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:42.000Z",
+   "updated": "2021-08-26T13:57:42.164Z",
+   "summary": "Eid ul-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_0piqugkbcr3981samnjd4ho9lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972524328000\"",
+   "id": "20220619_gcaau3c633lo0anobglt2rmohg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfZ2NhYXUzYzYzM2xvMGFub2JnbHQycm1vaGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:42.000Z",
+   "updated": "2021-08-26T13:57:42.164Z",
+   "summary": "Fathers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_gcaau3c633lo0anobglt2rmohg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972527402000\"",
+   "id": "20220214_f6i1pn8o8uvuvguqoraf0q7nps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfZjZpMXBuOG84dXZ1dmd1cW9yYWYwcTducHMgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:43.000Z",
+   "updated": "2021-08-26T13:57:43.701Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_f6i1pn8o8uvuvguqoraf0q7nps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972531484000\"",
+   "id": "20220221_ss78ananp13m3iebvq3sk9os24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfc3M3OGFuYW5wMTNtM2llYnZxM3NrOW9zMjQgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:45.000Z",
+   "updated": "2021-08-26T13:57:45.742Z",
+   "summary": "Language Martyrs' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_ss78ananp13m3iebvq3sk9os24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972531484000\"",
+   "id": "20220429_h4d7dkhvt1kbnt6tg7et1gfq2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjlfaDRkN2RraHZ0MWtibnQ2dGc3ZXQxZ2ZxMmsgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:45.000Z",
+   "updated": "2021-08-26T13:57:45.742Z",
+   "summary": "Jumatul Bidah",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-29"
+   },
+   "end": {
+    "date": "2022-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220429_h4d7dkhvt1kbnt6tg7et1gfq2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972535416000\"",
+   "id": "20220429_2tpgomqn4lh4287gv8869uh1t0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjlfMnRwZ29tcW40bGg0Mjg3Z3Y4ODY5dWgxdDAgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:47.000Z",
+   "updated": "2021-08-26T13:57:47.708Z",
+   "summary": "Shab-e-qadr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-29"
+   },
+   "end": {
+    "date": "2022-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220429_2tpgomqn4lh4287gv8869uh1t0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972535416000\"",
+   "id": "20220710_k1814plcen7jnsdjvdaioo0fq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfazE4MTRwbGNlbjdqbnNkanZkYWlvbzBmcTggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:47.000Z",
+   "updated": "2021-08-26T13:57:47.708Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_k1814plcen7jnsdjvdaioo0fq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972542104000\"",
+   "id": "20220317_top6esgbido9j7vslevjuju4tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfdG9wNmVzZ2JpZG85ajd2c2xldmp1anU0dGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:51.000Z",
+   "updated": "2021-08-26T13:57:51.052Z",
+   "summary": "Sheikh Mujibur Rahman’s birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_top6esgbido9j7vslevjuju4tg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972542104000\"",
+   "id": "20220501_i9qbmt4hlu1uot2hsh01010ks8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfaTlxYm10NGhsdTF1b3QyaHNoMDEwMTBrczggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:51.000Z",
+   "updated": "2021-08-26T13:57:51.052Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_i9qbmt4hlu1uot2hsh01010ks8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972542104000\"",
+   "id": "20220711_719jqphnnbqmg0btnk0csvnnc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfNzE5anFwaG5uYnFtZzBidG5rMGNzdm5uYzAgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:51.000Z",
+   "updated": "2021-08-26T13:57:51.052Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_719jqphnnbqmg0btnk0csvnnc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972546074000\"",
+   "id": "20220504_67542iv35mbhei394gmelna1d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfNjc1NDJpdjM1bWJoZWkzOTRnbWVsbmExZDAgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:53.000Z",
+   "updated": "2021-08-26T13:57:53.037Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_67542iv35mbhei394gmelna1d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972546074000\"",
+   "id": "20220508_57k708la6papnq3dl2sv7jivjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfNTdrNzA4bGE2cGFwbnEzZGwyc3Y3aml2amcgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:53.000Z",
+   "updated": "2021-08-26T13:57:53.037Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_57k708la6papnq3dl2sv7jivjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972546074000\"",
+   "id": "20220815_ifnqhasr12n7nucrdrrv099eec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfaWZucWhhc3IxMm43bnVjcmRycnYwOTllZWMgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:53.000Z",
+   "updated": "2021-08-26T13:57:53.037Z",
+   "summary": "National Mourning Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_ifnqhasr12n7nucrdrrv099eec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972552830000\"",
+   "id": "20220326_ion52d3dq9ph9qd8v6erlj1968",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjZfaW9uNTJkM2RxOXBoOXFkOHY2ZXJsajE5NjggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:56.000Z",
+   "updated": "2021-08-26T13:57:56.415Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-26"
+   },
+   "end": {
+    "date": "2022-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220326_ion52d3dq9ph9qd8v6erlj1968@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972552830000\"",
+   "id": "20220414_8g6qqcqt8c6rbf0e2k5l7ihmp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfOGc2cXFjcXQ4YzZyYmYwZTJrNWw3aWhtcDQgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-08-26T13:57:56.000Z",
+   "updated": "2021-08-26T13:57:56.415Z",
+   "summary": "Bengali New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_8g6qqcqt8c6rbf0e2k5l7ihmp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454683102000\"",
+   "id": "20220317_feb6ds1scimt1rr197majqgfvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfZmViNmRzMXNjaW10MXJyMTk3bWFqcWdmdmsgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-18T09:22:21.000Z",
+   "updated": "2021-11-18T09:22:21.551Z",
+   "summary": "Doljatra",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_feb6ds1scimt1rr197majqgfvk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318486006000\"",
+   "id": "20220216_6hbc19irs3q8t0qnou3rq37708",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTZfNmhiYzE5aXJzM3E4dDBxbm91M3JxMzc3MDggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:43.000Z",
+   "updated": "2021-11-23T09:20:43.003Z",
+   "summary": "Maghi Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-16"
+   },
+   "end": {
+    "date": "2022-02-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220216_6hbc19irs3q8t0qnou3rq37708@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318486006000\"",
+   "id": "20220413_jdu9q1qg2utslcnf1vkgkfrbe8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTNfamR1OXExcWcydXRzbGNuZjF2a2drZnJiZTggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:43.000Z",
+   "updated": "2021-11-23T09:20:43.003Z",
+   "summary": "Chaitra Sankranti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-13"
+   },
+   "end": {
+    "date": "2022-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220413_jdu9q1qg2utslcnf1vkgkfrbe8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318486006000\"",
+   "id": "20220418_ortc1lk1po0io94dlucp45ohqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfb3J0YzFsazFwbzBpbzk0ZGx1Y3A0NW9ocWcgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:43.000Z",
+   "updated": "2021-11-23T09:20:43.003Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_ortc1lk1po0io94dlucp45ohqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318486006000\"",
+   "id": "20220505_hvem663ualsvtfjnbdperhjkhg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfaHZlbTY2M3VhbHN2dGZqbmJkcGVyaGpraGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:43.000Z",
+   "updated": "2021-11-23T09:20:43.003Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_hvem663ualsvtfjnbdperhjkhg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318486006000\"",
+   "id": "20220809_mgiesk3p4l6pc1lppit7nro4nc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDlfbWdpZXNrM3A0bDZwYzFscHBpdDducm80bmMgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:43.000Z",
+   "updated": "2021-11-23T09:20:43.003Z",
+   "summary": "Ashura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-09"
+   },
+   "end": {
+    "date": "2022-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220809_mgiesk3p4l6pc1lppit7nro4nc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318486006000\"",
+   "id": "20220921_9m7rj8mif73qcv8od39k4c51d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjFfOW03cmo4bWlmNzNxY3Y4b2QzOWs0YzUxZDAgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:43.000Z",
+   "updated": "2021-11-23T09:20:43.003Z",
+   "summary": "Akhari Chahar Somba",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-21"
+   },
+   "end": {
+    "date": "2022-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220921_9m7rj8mif73qcv8od39k4c51d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220330_8ctd71en2j0317u64k89513hl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMzBfOGN0ZDcxZW4yajAzMTd1NjRrODk1MTNobDAgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Arrival Day of Sri Sri Harichand Tagore",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-30"
+   },
+   "end": {
+    "date": "2022-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220330_8ctd71en2j0317u64k89513hl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220502_ftq6dk6on44kvvt43cvskda21c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZnRxNmRrNm9uNDRrdnZ0NDNjdnNrZGEyMWMgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_ftq6dk6on44kvvt43cvskda21c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220515_00751mr7f83lf7cipjq5e99lf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTVfMDA3NTFtcjdmODNsZjdjaXBqcTVlOTlsZjQgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Buddha Purnima/Vesak",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-15"
+   },
+   "end": {
+    "date": "2022-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220515_00751mr7f83lf7cipjq5e99lf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220709_5185bknnl3mctajr1k542540f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfNTE4NWJrbm5sM21jdGFqcjFrNTQyNTQwZjggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_5185bknnl3mctajr1k542540f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220712_ji4iu0kn9faa9qt2dptrr5aim8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfamk0aXUwa245ZmFhOXF0MmRwdHJyNWFpbTggZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Ashari Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_ji4iu0kn9faa9qt2dptrr5aim8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220730_38fnujiqgeki41hml2m1ittkp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfMzhmbnVqaXFnZWtpNDFobWwybTFpdHRrcDQgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Muharram",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_38fnujiqgeki41hml2m1ittkp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275318491500000\"",
+   "id": "20220909_atj33lomsdf5t88rgvrr3otknk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDlfYXRqMzNsb21zZGY1dDg4cmd2cnIzb3RrbmsgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-11-23T09:20:45.000Z",
+   "updated": "2021-11-23T09:20:45.750Z",
+   "summary": "Madhu Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-09"
+   },
+   "end": {
+    "date": "2022-09-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220909_atj33lomsdf5t88rgvrr3otknk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281213663956000\"",
+   "id": "20220319_65pnr98fd76fdn2quon3ao77ds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTlfNjVwbnI5OGZkNzZmZG4ycXVvbjNhbzc3ZHMgZW4uYmQjaG9saWRheUB2",
+   "created": "2021-12-27T12:07:11.000Z",
+   "updated": "2021-12-27T12:07:11.978Z",
+   "summary": "Shab e-Barat",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-19"
+   },
+   "end": {
+    "date": "2022-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220319_65pnr98fd76fdn2quon3ao77ds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20220925_i9eakbsjnobulsps52h6mlumec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjVfaTllYWtic2pub2J1bHNwczUyaDZtbHVtZWMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Mahalaya",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-25"
+   },
+   "end": {
+    "date": "2022-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220925_i9eakbsjnobulsps52h6mlumec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221004_b8j85v0rv9tgmhje8c0o6hd43g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfYjhqODV2MHJ2OXRnbWhqZThjMG82aGQ0M2cgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Mahanabami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_b8j85v0rv9tgmhje8c0o6hd43g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221009_6kd2ruhfki91mfccf6qf1cqrss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfNmtkMnJ1aGZraTkxbWZjY2Y2cWYxY3Fyc3MgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Lakshmi Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_6kd2ruhfki91mfccf6qf1cqrss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221009_ff76mshftvececa72ottinrsf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfZmY3Nm1zaGZ0dmVjZWNhNzJvdHRpbnJzZjAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid e-Milad-un Nabi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_ff76mshftvececa72ottinrsf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221009_idt3gmgvo64iat2fnt6cs11qvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfaWR0M2dtZ3ZvNjRpYXQyZm50NmNzMTFxdmMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Prabarana Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_idt3gmgvo64iat2fnt6cs11qvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221024_9jj2b7qvolag7nqkg68s8ts958",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfOWpqMmI3cXZvbGFnN25xa2c2OHM4dHM5NTggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Sri Shayama Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_9jj2b7qvolag7nqkg68s8ts958@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221031_m3drtdfi65vgrfu0fltrrmo60g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfbTNkcnRkZmk2NXZncmZ1MGZsdHJybW82MGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_m3drtdfi65vgrfu0fltrrmo60g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221107_g4pnc08sa8igp8t4eifa1o1n18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDdfZzRwbmMwOHNhOGlncDh0NGVpZmExbzFuMTggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Fateha-i-Yajdaham",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-07"
+   },
+   "end": {
+    "date": "2022-11-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221107_g4pnc08sa8igp8t4eifa1o1n18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221216_pbv3hgs1titci1qmkv8uifkqc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTZfcGJ2M2hnczF0aXRjaTFxbWt2OHVpZmtxYzQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-16"
+   },
+   "end": {
+    "date": "2022-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221216_pbv3hgs1titci1qmkv8uifkqc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20221225_rvflcbovfovcld5cujg58enmao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfcnZmbGNib3Zmb3ZjbGQ1Y3VqZzU4ZW5tYW8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_rvflcbovfovcld5cujg58enmao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230205_84g2lj411k93enhoioua0tvaas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDVfODRnMmxqNDExazkzZW5ob2lvdWEwdHZhYXMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Maghi Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-05"
+   },
+   "end": {
+    "date": "2023-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230205_84g2lj411k93enhoioua0tvaas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230214_gpcjg8752i9t70rgvi0bl35i50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfZ3Bjamc4NzUyaTl0NzByZ3ZpMGJsMzVpNTAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_gpcjg8752i9t70rgvi0bl35i50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230221_56a4qmousvaa1vl05mi0nhbobk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfNTZhNHFtb3VzdmFhMXZsMDVtaTBuaGJvYmsgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Language Martyrs' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_56a4qmousvaa1vl05mi0nhbobk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230307_0rg3bj8dhqmk09tsrj9uk7nu20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDdfMHJnM2JqOGRocW1rMDl0c3JqOXVrN251MjAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Doljatra",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-07"
+   },
+   "end": {
+    "date": "2023-03-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230307_0rg3bj8dhqmk09tsrj9uk7nu20@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230308_5ub286llpo4v5vldn5nc5dce0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfNXViMjg2bGxwbzR2NXZsZG41bmM1ZGNlMGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Shab e-Barat",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_5ub286llpo4v5vldn5nc5dce0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230317_u1hc8fmjh1d4k27n1ofav9pc1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTdfdTFoYzhmbWpoMWQ0azI3bjFvZmF2OXBjMWMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Sheikh Mujibur Rahman’s birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-17"
+   },
+   "end": {
+    "date": "2023-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230317_u1hc8fmjh1d4k27n1ofav9pc1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230326_g8comijk38eiukv526jo7hkues",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfZzhjb21pamszOGVpdWt2NTI2am83aGt1ZXMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_g8comijk38eiukv526jo7hkues@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230413_mbkajdsdja17g427kch8d4knik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTNfbWJrYWpkc2RqYTE3ZzQyN2tjaDhkNGtuaWsgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Chaitra Sankranti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-13"
+   },
+   "end": {
+    "date": "2023-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230413_mbkajdsdja17g427kch8d4knik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230414_mtmh393a49h0p8fbm3vq4umfv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTRfbXRtaDM5M2E0OWgwcDhmYm0zdnE0dW1mdjAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Bengali New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-14"
+   },
+   "end": {
+    "date": "2023-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230414_mtmh393a49h0p8fbm3vq4umfv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230422_hqvagt69tabf6bj885c4c3er4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfaHF2YWd0Njl0YWJmNmJqODg1YzRjM2VyNHMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid ul-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_hqvagt69tabf6bj885c4c3er4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230423_c2ntjerga8rrmg01rs0rkdmqhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfYzJudGplcmdhOHJybWcwMXJzMHJrZG1xaHMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_c2ntjerga8rrmg01rs0rkdmqhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230501_v6nbhqegvqkd6uni4op6adt0so",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfdjZuYmhxZWd2cWtkNnVuaTRvcDZhZHQwc28gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_v6nbhqegvqkd6uni4op6adt0so@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230514_h35s1u5kg0jq2rkfe6scidgnng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfaDM1czF1NWtnMGpxMnJrZmU2c2NpZGdubmcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_h35s1u5kg0jq2rkfe6scidgnng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230618_36bk1oc9gvnk66cf3o0dfchhh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfMzZiazFvYzlndm5rNjZjZjNvMGRmY2hoaDggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Fathers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_36bk1oc9gvnk66cf3o0dfchhh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230629_4m8era64jrocr2he6ku1mneilo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfNG04ZXJhNjRqcm9jcjJoZTZrdTFtbmVpbG8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_4m8era64jrocr2he6ku1mneilo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230630_h80f0pf4n581gmjfgdcg9litt0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfaDgwZjBwZjRuNTgxZ21qZmdkY2c5bGl0dDAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_h80f0pf4n581gmjfgdcg9litt0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230719_rk4l60f944d9kuvma66hj3meeo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfcms0bDYwZjk0NGQ5a3V2bWE2NmhqM21lZW8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_rk4l60f944d9kuvma66hj3meeo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230815_odecucfpfnb5f4msgr6k3sr2gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfb2RlY3VjZnBmbmI1ZjRtc2dyNmszc3IyZ2sgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "National Mourning Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_odecucfpfnb5f4msgr6k3sr2gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20230927_h4i38koatgp60hdumvok2kmngo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfaDRpMzhrb2F0Z3A2MGhkdW12b2sya21uZ28gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid e-Milad-un Nabi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_h4i38koatgp60hdumvok2kmngo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20231023_c00crg58qci77aojc7qclstrts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfYzAwY3JnNThxY2k3N2FvamM3cWNsc3RydHMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Mahanabami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_c00crg58qci77aojc7qclstrts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20231028_9clg5eetqic6qkqocai435e294",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjhfOWNsZzVlZXRxaWM2cWtxb2NhaTQzNWUyOTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Prabarana Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-28"
+   },
+   "end": {
+    "date": "2023-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231028_9clg5eetqic6qkqocai435e294@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20231028_eife5rmnvh5gcgp90479ckc3gg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjhfZWlmZTVybW52aDVnY2dwOTA0Nzlja2MzZ2cgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Lakshmi Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-28"
+   },
+   "end": {
+    "date": "2023-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231028_eife5rmnvh5gcgp90479ckc3gg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20231031_rtg3ilo55ds3ab0lt1n2d6nfv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfcnRnM2lsbzU1ZHMzYWIwbHQxbjJkNm5mdjggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_rtg3ilo55ds3ab0lt1n2d6nfv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20231216_h92plb3dqtgo8t8djsff1ieirc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTZfaDkycGxiM2RxdGdvOHQ4ZGpzZmYxaWVpcmMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-16"
+   },
+   "end": {
+    "date": "2023-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231216_h92plb3dqtgo8t8djsff1ieirc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20231225_lqavc1mslhg3smsr4300n91dng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfbHFhdmMxbXNsaGczc21zcjQzMDBuOTFkbmcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_lqavc1mslhg3smsr4300n91dng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240214_6m17k15o0ga35paemeov63oeq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfNm0xN2sxNW8wZ2EzNXBhZW1lb3Y2M29lcTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_6m17k15o0ga35paemeov63oeq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240221_bcj2hbo4sjm38albpbo1k3fqc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjFfYmNqMmhibzRzam0zOGFsYnBibzFrM2ZxYzQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Language Martyrs' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-21"
+   },
+   "end": {
+    "date": "2024-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240221_bcj2hbo4sjm38albpbo1k3fqc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240224_hs3vv7tjl5sofopt6j3t0sjpcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjRfaHMzdnY3dGpsNXNvZm9wdDZqM3Qwc2pwY2MgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Maghi Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-24"
+   },
+   "end": {
+    "date": "2024-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240224_hs3vv7tjl5sofopt6j3t0sjpcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240226_sha4pfgsbq08702e219rtvahho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjZfc2hhNHBmZ3NicTA4NzAyZTIxOXJ0dmFoaG8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Shab e-Barat",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-26"
+   },
+   "end": {
+    "date": "2024-02-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240226_sha4pfgsbq08702e219rtvahho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240317_2m5g84mnkvok7bherm5f37n0ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTdfMm01Zzg0bW5rdm9rN2JoZXJtNWYzN24wb2sgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Sheikh Mujibur Rahman’s birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-17"
+   },
+   "end": {
+    "date": "2024-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240317_2m5g84mnkvok7bherm5f37n0ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240324_tp4aehlq439fo2p8e7f8kqsm6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjRfdHA0YWVobHE0MzlmbzJwOGU3ZjhrcXNtNmMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Doljatra",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-24"
+   },
+   "end": {
+    "date": "2024-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240324_tp4aehlq439fo2p8e7f8kqsm6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240326_fcteh9thhm7d0jfvvrm34j1skg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjZfZmN0ZWg5dGhobTdkMGpmdnZybTM0ajFza2cgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-26"
+   },
+   "end": {
+    "date": "2024-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240326_fcteh9thhm7d0jfvvrm34j1skg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240406_uo62jj92o5h9rtaaimc3qcqf4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDZfdW82MmpqOTJvNWg5cnRhYWltYzNxY3FmNHMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Shab-e-qadr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-06"
+   },
+   "end": {
+    "date": "2024-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240406_uo62jj92o5h9rtaaimc3qcqf4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240410_q8sa0h699h8kfe70tdlpib8dgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfcThzYTBoNjk5aDhrZmU3MHRkbHBpYjhkZ2MgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid ul-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_q8sa0h699h8kfe70tdlpib8dgc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240411_9hb9qk4dgdu473422mbh16bpro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfOWhiOXFrNGRnZHU0NzM0MjJtYmgxNmJwcm8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_9hb9qk4dgdu473422mbh16bpro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240412_01lhmqk8p21r3fj4hcviq8mlrg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfMDFsaG1xazhwMjFyM2ZqNGhjdmlxOG1scmcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_01lhmqk8p21r3fj4hcviq8mlrg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240413_jhrkltl3oo8p7sabc1hbdbteao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTNfamhya2x0bDNvbzhwN3NhYmMxaGJkYnRlYW8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-13"
+   },
+   "end": {
+    "date": "2024-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240413_jhrkltl3oo8p7sabc1hbdbteao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240413_md5ffdcmeopd67htiiv8c8ikss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTNfbWQ1ZmZkY21lb3BkNjdodGlpdjhjOGlrc3MgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Chaitra Sankranti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-13"
+   },
+   "end": {
+    "date": "2024-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240413_md5ffdcmeopd67htiiv8c8ikss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240414_rt8p370n02ffs7tj32r8eu6gt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTRfcnQ4cDM3MG4wMmZmczd0ajMycjhldTZndDggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Bengali New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-14"
+   },
+   "end": {
+    "date": "2024-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240414_rt8p370n02ffs7tj32r8eu6gt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240501_klenppmekos26ah46keq3o32lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfa2xlbnBwbWVrb3MyNmFoNDZrZXEzbzMybG8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_klenppmekos26ah46keq3o32lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240512_t7k232go17b9rd2f04pfamhqa4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfdDdrMjMyZ28xN2I5cmQyZjA0cGZhbWhxYTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_t7k232go17b9rd2f04pfamhqa4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240523_5rib0qbdsbhcbgk41cj4j3a23o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjNfNXJpYjBxYmRzYmhjYmdrNDFjajRqM2EyM28gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Buddha Purnima/Vesak",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-23"
+   },
+   "end": {
+    "date": "2024-05-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240523_5rib0qbdsbhcbgk41cj4j3a23o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240616_omlqcbduhdkutkov9djfssq89s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfb21scWNiZHVoZGt1dGtvdjlkamZzc3E4OXMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Fathers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_omlqcbduhdkutkov9djfssq89s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240617_6nk1ggjamk3avtfu5v5phtt62g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfNm5rMWdnamFtazNhdnRmdTV2NXBodHQ2MmcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_6nk1ggjamk3avtfu5v5phtt62g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240618_nvci8l2q2p8kf4atn8rsg5th4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfbnZjaThsMnEycDhrZjRhdG44cnNnNXRoNG8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_nvci8l2q2p8kf4atn8rsg5th4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240619_9t84m7oul945ljbdp1jji0pcs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfOXQ4NG03b3VsOTQ1bGpiZHAxamppMHBjczQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_9t84m7oul945ljbdp1jji0pcs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240708_deu512ks9lomlvmned7a8kor1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfZGV1NTEya3M5bG9tbHZtbmVkN2E4a29yMWsgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_deu512ks9lomlvmned7a8kor1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240717_lc9frvds0gemiifg2ggopiviic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfbGM5ZnJ2ZHMwZ2VtaWlmZzJnZ29waXZpaWMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Ashura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_lc9frvds0gemiifg2ggopiviic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240721_ctom0b90ngupdeupgktti8sikk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjFfY3RvbTBiOTBuZ3VwZGV1cGdrdHRpOHNpa2sgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Ashari Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-21"
+   },
+   "end": {
+    "date": "2024-07-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240721_ctom0b90ngupdeupgktti8sikk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240815_apd4cb2qcvf5a0h88uu6kcjtjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfYXBkNGNiMnFjdmY1YTBoODh1dTZrY2p0amcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "National Mourning Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_apd4cb2qcvf5a0h88uu6kcjtjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240831_ldfgetsn6fu40gvqtoqntlgnf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MzFfbGRmZ2V0c242ZnU0MGd2cXRvcW50bGduZjQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Akhari Chahar Somba",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-31"
+   },
+   "end": {
+    "date": "2024-09-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240831_ldfgetsn6fu40gvqtoqntlgnf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240916_oq90td65of56ierqlofpoj462g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfb3E5MHRkNjVvZjU2aWVycWxvZnBvajQ2MmcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Eid e-Milad-un Nabi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_oq90td65of56ierqlofpoj462g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20240918_ab0bkp170sqbjommumqng357v4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MThfYWIwYmtwMTcwc3Fiam9tbXVtcW5nMzU3djQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Madhu Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-18"
+   },
+   "end": {
+    "date": "2024-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240918_ab0bkp170sqbjommumqng357v4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241011_lriumosd9sfht6dr3c2lqb6aqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfbHJpdW1vc2Q5c2ZodDZkcjNjMmxxYjZhcWcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Mahanabami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_lriumosd9sfht6dr3c2lqb6aqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241015_vph58m2km44rgnhkvavftlee7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTVfdnBoNThtMmttNDRyZ25oa3ZhdmZ0bGVlN2sgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Fateha-i-Yajdaham",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-15"
+   },
+   "end": {
+    "date": "2024-10-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241015_vph58m2km44rgnhkvavftlee7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241016_0nl2jq55k9cnajr5ijt1oouhq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTZfMG5sMmpxNTVrOWNuYWpyNWlqdDFvb3VocTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Lakshmi Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-16"
+   },
+   "end": {
+    "date": "2024-10-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241016_0nl2jq55k9cnajr5ijt1oouhq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241017_208jm62d80p1scunsi3ruk58gg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTdfMjA4am02MmQ4MHAxc2N1bnNpM3J1azU4Z2cgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Prabarana Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-17"
+   },
+   "end": {
+    "date": "2024-10-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241017_208jm62d80p1scunsi3ruk58gg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241031_nuqmhjm0gmt7m9o59r29433r20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfbnVxbWhqbTBnbXQ3bTlvNTlyMjk0MzNyMjAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_nuqmhjm0gmt7m9o59r29433r20@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241101_qhapbeu7lhpqfs2qm1nn5f7pv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfcWhhcGJldTdsaHBxZnMycW0xbm41ZjdwdjAgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Sri Shayama Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_qhapbeu7lhpqfs2qm1nn5f7pv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241216_tkqv6rbjitikb9j2n771a1q21k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTZfdGtxdjZyYmppdGlrYjlqMm43NzFhMXEyMWsgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-16"
+   },
+   "end": {
+    "date": "2024-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241216_tkqv6rbjitikb9j2n771a1q21k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886765324000\"",
+   "id": "20241225_cqg1kdpr6v7kbjhneuc3faf9u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfY3FnMWtkcHI2djdrYmpobmV1YzNmYWY5dTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-09-23T14:29:42.000Z",
+   "updated": "2022-09-23T14:29:42.662Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_cqg1kdpr6v7kbjhneuc3faf9u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20230319_i08td796hde6b600muojckbt98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTlfaTA4dGQ3OTZoZGU2YjYwMG11b2pja2J0OTggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Arrival Day of Sri Sri Harichand Tagore",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-19"
+   },
+   "end": {
+    "date": "2023-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230319_i08td796hde6b600muojckbt98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20230419_m025nmfn000ifjbnf01412g9ic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTlfbTAyNW5tZm4wMDBpZmpibmYwMTQxMmc5aWMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Shab-e-qadr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-19"
+   },
+   "end": {
+    "date": "2023-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230419_m025nmfn000ifjbnf01412g9ic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20230421_7b93jjnm4gnprci11hppsh6p88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfN2I5M2pqbm00Z25wcmNpMTFocHBzaDZwODggZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Jumatul Bidah",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_7b93jjnm4gnprci11hppsh6p88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20230504_2kfejss3nq8sa834ifahenfbrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDRfMmtmZWpzczNucThzYTgzNGlmYWhlbmZicmsgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Buddha Purnima/Vesak",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-04"
+   },
+   "end": {
+    "date": "2023-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230504_2kfejss3nq8sa834ifahenfbrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20230729_4ncmnumi8q9bsegpu0f9ji7mlg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjlfNG5jbW51bWk4cTlic2VncHUwZjlqaTdtbGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Ashura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-29"
+   },
+   "end": {
+    "date": "2023-07-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230729_4ncmnumi8q9bsegpu0f9ji7mlg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20230928_fkfbsdk1k4hnft5tg2g88c28a4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfZmtmYnNkazFrNGhuZnQ1dGcyZzg4YzI4YTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Madhu Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_fkfbsdk1k4hnft5tg2g88c28a4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20231014_duioujq250ah2c7igj39n9lba4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTRfZHVpb3VqcTI1MGFoMmM3aWdqMzluOWxiYTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Mahalaya",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-14"
+   },
+   "end": {
+    "date": "2023-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231014_duioujq250ah2c7igj39n9lba4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341860124226000\"",
+   "id": "20231022_7ui2cbp29lljf6ob01uf25nfgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjJfN3VpMmNicDI5bGxqZjZvYjAxdWYyNW5mZ3MgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-13T11:14:22.000Z",
+   "updated": "2022-12-13T11:14:22.113Z",
+   "summary": "Ashtami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-22"
+   },
+   "end": {
+    "date": "2023-10-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231022_7ui2cbp29lljf6ob01uf25nfgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20230410_p8nr593t7sv4kgcmmdo40osbmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfcDhucjU5M3Q3c3Y0a2djbW1kbzQwb3NibWcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_p8nr593t7sv4kgcmmdo40osbmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20230421_2v4mucpqtjhi9qk9ppacvp08mk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfMnY0bXVjcHF0amhpOXFrOXBwYWN2cDA4bWsgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_2v4mucpqtjhi9qk9ppacvp08mk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20230424_qhfttmn4fo2agofnpm1e494ilg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfcWhmdHRtbjRmbzJhZ29mbnBtMWU0OTRpbGcgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_qhfttmn4fo2agofnpm1e494ilg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20230628_1s3ocnb2pmjkfqetdrn1jg7t3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfMXMzb2NuYjJwbWprZnFldGRybjFqZzd0M28gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_1s3ocnb2pmjkfqetdrn1jg7t3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20230801_p4lmnthsf4cqajd8nf0cdht13k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDFfcDRsbW50aHNmNGNxYWpkOG5mMGNkaHQxM2sgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Ashari Purnima",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-01"
+   },
+   "end": {
+    "date": "2023-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230801_p4lmnthsf4cqajd8nf0cdht13k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20230913_1dfj3er1vi562u9n4at1c9ld9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTNfMWRmajNlcjF2aTU2MnU5bjRhdDFjOWxkOXMgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Akhari Chahar Somba",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-13"
+   },
+   "end": {
+    "date": "2023-09-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230913_1dfj3er1vi562u9n4at1c9ld9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20231027_9dbc9iafj1dcuo5dnn0ge03014",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjdfOWRiYzlpYWZqMWRjdW81ZG5uMGdlMDMwMTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Fateha-i-Yajdaham",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-27"
+   },
+   "end": {
+    "date": "2023-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231027_9dbc9iafj1dcuo5dnn0ge03014@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343230463812000\"",
+   "id": "20231112_qeiv8sko7d16sbt56viv769rlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfcWVpdjhza283ZDE2c2J0NTZ2aXY3NjlybG8gZW4uYmQjaG9saWRheUB2",
+   "created": "2022-12-21T09:33:51.000Z",
+   "updated": "2022-12-21T09:33:51.906Z",
+   "summary": "Sri Shayama Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_qeiv8sko7d16sbt56viv769rlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048847058000\"",
+   "id": "20230324_octq8s463jt0icrlfdc16fjvq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjRfb2N0cThzNDYzanQwaWNybGZkYzE2Zmp2cTQgZW4uYmQjaG9saWRheUB2",
+   "created": "2023-03-22T22:33:43.000Z",
+   "updated": "2023-03-22T22:33:43.529Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-24"
+   },
+   "end": {
+    "date": "2023-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230324_octq8s463jt0icrlfdc16fjvq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048847058000\"",
+   "id": "20240311_khqkln7p8o1ivh5chs6f6fo6b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfa2hxa2xuN3A4bzFpdmg1Y2hzNmY2Zm82YjggZW4uYmQjaG9saWRheUB2",
+   "created": "2023-03-22T22:33:43.000Z",
+   "updated": "2023-03-22T22:33:43.529Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bangladesh",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_khqkln7p8o1ivh5chs6f6fo6b8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363959478968000\"",
+   "id": "20230420_mrgp2d6na998dp9a4v2omb6u48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfbXJncDJkNm5hOTk4ZHA5YTR2Mm9tYjZ1NDggZW4uYmQjaG9saWRheUB2",
+   "created": "2023-04-20T08:35:39.000Z",
+   "updated": "2023-04-20T08:35:39.484Z",
+   "summary": "Eid ul-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bd#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bangladesh",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_mrgp2d6na998dp9a4v2omb6u48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

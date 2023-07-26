@@ -1,0 +1,2509 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33td11vtrmlo00o\"",
+ "summary": "Holidays in Hong Kong",
+ "description": "Holidays and Observances in Hong Kong",
+ "updated": "2023-07-24T19:25:28.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIC02Z2JqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943549596000\"",
+   "id": "20220405_spelcjk6jncq6ad2796du1u4m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDVfc3BlbGNqazZqbmNxNmFkMjc5NmR1MXU0bTggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:14.000Z",
+   "updated": "2021-08-26T09:56:14.798Z",
+   "summary": "Tomb Sweeping Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-05"
+   },
+   "end": {
+    "date": "2022-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220405_spelcjk6jncq6ad2796du1u4m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943549596000\"",
+   "id": "20220508_lse284qncq7a55pru42cacl2u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfbHNlMjg0cW5jcTdhNTVwcnU0MmNhY2wydTggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:14.000Z",
+   "updated": "2021-08-26T09:56:14.798Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_lse284qncq7a55pru42cacl2u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943549596000\"",
+   "id": "20220509_m6akcemg697ejcf7rm3lccjk1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfbTZha2NlbWc2OTdlamNmN3JtM2xjY2prMWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:14.000Z",
+   "updated": "2021-08-26T09:56:14.798Z",
+   "summary": "Day following Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_m6akcemg697ejcf7rm3lccjk1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943549596000\"",
+   "id": "20220812_qeak289ce7d11iraii9n01ot6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTJfcWVhazI4OWNlN2QxMWlyYWlpOW4wMW90NmcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:14.000Z",
+   "updated": "2021-08-26T09:56:14.798Z",
+   "summary": "Hungry Ghost Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-12"
+   },
+   "end": {
+    "date": "2022-08-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220812_qeak289ce7d11iraii9n01ot6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943554520000\"",
+   "id": "20220101_757b8c0801nu2qua5hi4atdbfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNzU3YjhjMDgwMW51MnF1YTVoaTRhdGRiZmcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:17.000Z",
+   "updated": "2021-08-26T09:56:17.260Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_757b8c0801nu2qua5hi4atdbfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943554520000\"",
+   "id": "20220701_bo41ngbbshkhtjs0mq5vivf8r4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDFfYm80MW5nYmJzaGtodGpzMG1xNXZpdmY4cjQgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:17.000Z",
+   "updated": "2021-08-26T09:56:17.260Z",
+   "summary": "Hong Kong Special Administrative Region Establishment Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-01"
+   },
+   "end": {
+    "date": "2022-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220701_bo41ngbbshkhtjs0mq5vivf8r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220214_rgm869qm8561o24u4kph6se48g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfcmdtODY5cW04NTYxbzI0dTRrcGg2c2U0OGcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_rgm869qm8561o24u4kph6se48g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220416_c405g9ddukeu158bsp9mkqvkvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfYzQwNWc5ZGR1a2V1MTU4YnNwOW1rcXZrdmcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_c405g9ddukeu158bsp9mkqvkvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220418_d6apjtarq0ubt59mnr436u8ma4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfZDZhcGp0YXJxMHVidDU5bW5yNDM2dThtYTQgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_d6apjtarq0ubt59mnr436u8ma4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220501_jkp4qfoeudnjtdphj2sl6n7c4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfamtwNHFmb2V1ZG5qdGRwaGoyc2w2bjdjNHMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_jkp4qfoeudnjtdphj2sl6n7c4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220502_peb42dg50pdoujnjksbh5onanc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfcGViNDJkZzUwcGRvdWpuamtzYmg1b25hbmMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Labour Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_peb42dg50pdoujnjksbh5onanc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220508_5letaog0ki9p9npni7f7un58d8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfNWxldGFvZzBraTlwOW5wbmk3Zjd1bjU4ZDggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_5letaog0ki9p9npni7f7un58d8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943558846000\"",
+   "id": "20220619_s3pnf8pr7q4cfs8o36bc8ao5fc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfczNwbmY4cHI3cTRjZnM4bzM2YmM4YW81ZmMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:19.000Z",
+   "updated": "2021-08-26T09:56:19.423Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_s3pnf8pr7q4cfs8o36bc8ao5fc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943562328000\"",
+   "id": "20220912_gigb3smsq55vr1j2t7uiph6004",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTJfZ2lnYjNzbXNxNTV2cjFqMnQ3dWlwaDYwMDQgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:21.000Z",
+   "updated": "2021-08-26T09:56:21.164Z",
+   "summary": "Day after Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-12"
+   },
+   "end": {
+    "date": "2022-09-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220912_gigb3smsq55vr1j2t7uiph6004@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943565506000\"",
+   "id": "20220415_d8q5dsqvj67d6k0522uvcliau0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfZDhxNWRzcXZqNjdkNmswNTIydXZjbGlhdTAgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:22.000Z",
+   "updated": "2021-08-26T09:56:22.753Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_d8q5dsqvj67d6k0522uvcliau0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943565506000\"",
+   "id": "20220417_gpcfii7l5gsennb59fu6cj0d4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfZ3BjZmlpN2w1Z3Nlbm5iNTlmdTZjajBkNGsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:22.000Z",
+   "updated": "2021-08-26T09:56:22.753Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_gpcfii7l5gsennb59fu6cj0d4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943568894000\"",
+   "id": "20220603_ss2m2t7b7gkgheeocifcstd6ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfc3MybTJ0N2I3Z2tnaGVlb2NpZmNzdGQ2ZWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:24.000Z",
+   "updated": "2021-08-26T09:56:24.447Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_ss2m2t7b7gkgheeocifcstd6ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259943568894000\"",
+   "id": "20220910_ssk98109jk9q7q9vk19ukubc1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTBfc3NrOTgxMDlqazlxN3E5dmsxOXVrdWJjMWcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:56:24.000Z",
+   "updated": "2021-08-26T09:56:24.447Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-10"
+   },
+   "end": {
+    "date": "2022-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220910_ssk98109jk9q7q9vk19ukubc1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286333910098000\"",
+   "id": "20220201_02qhr1nsuq855dmj1r7fjp7qu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfMDJxaHIxbnN1cTg1NWRtajFyN2ZqcDdxdTAgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:15:55.000Z",
+   "updated": "2022-01-26T03:15:55.049Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_02qhr1nsuq855dmj1r7fjp7qu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021425306000\"",
+   "id": "20220202_vqfiltujdsb7jbc76o001oidek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfdnFmaWx0dWpkc2I3amJjNzZvMDAxb2lkZWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-03-11T14:58:32.000Z",
+   "updated": "2022-03-11T14:58:32.653Z",
+   "summary": "Second Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_vqfiltujdsb7jbc76o001oidek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021425306000\"",
+   "id": "20220203_a0as7m2b0ndo855v211jn0rqf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDNfYTBhczdtMmIwbmRvODU1djIxMWpuMHJxZjggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-03-11T14:58:32.000Z",
+   "updated": "2022-03-11T14:58:32.653Z",
+   "summary": "Third Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-03"
+   },
+   "end": {
+    "date": "2022-02-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220203_a0as7m2b0ndo855v211jn0rqf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20221001_if45ifu0oo94oil0k32caii2o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDFfaWY0NWlmdTBvbzk0b2lsMGszMmNhaWkybzggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-01"
+   },
+   "end": {
+    "date": "2022-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221001_if45ifu0oo94oil0k32caii2o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20221004_pe1jmc6s3h38ljv2l30v9e3968",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfcGUxam1jNnMzaDM4bGp2MmwzMHY5ZTM5NjggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Chung Yeung Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_pe1jmc6s3h38ljv2l30v9e3968@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20221225_dj7uq2nihvju06rlr5p8sjqimo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZGo3dXEybmlodmp1MDZybHI1cDhzanFpbW8gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_dj7uq2nihvju06rlr5p8sjqimo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20221226_qk7qrd4vhfu16kqh8tcqr8n7js",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfcWs3cXJkNHZoZnUxNmtxaDh0Y3FyOG43anMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "First Weekday After Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_qk7qrd4vhfu16kqh8tcqr8n7js@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20221227_4nk1b5bui905vqeb5e1p2imkds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfNG5rMWI1YnVpOTA1dnFlYjVlMXAyaW1rZHMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Second Weekday After Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_4nk1b5bui905vqeb5e1p2imkds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230101_9cua2oaoh74ug2iigasccfa4j0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfOWN1YTJvYW9oNzR1ZzJpaWdhc2NjZmE0ajAgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_9cua2oaoh74ug2iigasccfa4j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230102_20srgt0s76emr0quj90oc3jbkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfMjBzcmd0MHM3NmVtcjBxdWo5MG9jM2pia2sgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "New Year's Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_20srgt0s76emr0quj90oc3jbkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230122_1vnji973k5uahudr5sfdutrjsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfMXZuamk5NzNrNXVhaHVkcjVzZmR1dHJqc2MgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_1vnji973k5uahudr5sfdutrjsc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230123_1cofek3pq4vv1iim06e67qkb6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfMWNvZmVrM3BxNHZ2MWlpbTA2ZTY3cWtiNmcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Second Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_1cofek3pq4vv1iim06e67qkb6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230124_a9jtk93otijpdg5vacrb56u9ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfYTlqdGs5M290aWpwZGc1dmFjcmI1NnU5bnMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Third Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_a9jtk93otijpdg5vacrb56u9ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230125_efesdjrhkvdr6dj8nnobovcge8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjVfZWZlc2RqcmhrdmRyNmRqOG5ub2JvdmNnZTggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Fourth Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-25"
+   },
+   "end": {
+    "date": "2023-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230125_efesdjrhkvdr6dj8nnobovcge8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230214_t9a0n7p1vksr99gp6k3hiuagv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfdDlhMG43cDF2a3NyOTlncDZrM2hpdWFndjQgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_t9a0n7p1vksr99gp6k3hiuagv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230405_slpmgoe953tofdma8rqpltb7cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfc2xwbWdvZTk1M3RvZmRtYThycXBsdGI3Y3MgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Tomb Sweeping Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_slpmgoe953tofdma8rqpltb7cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230407_mn8humt11l60t3463r1sr6dnis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfbW44aHVtdDExbDYwdDM0NjNyMXNyNmRuaXMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_mn8humt11l60t3463r1sr6dnis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230408_dr758sfch6e62a8ie040infqlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfZHI3NThzZmNoNmU2MmE4aWUwNDBpbmZxbG8gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_dr758sfch6e62a8ie040infqlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230409_i1p4kgu6dmbi5ruuobvko6jsdc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfaTFwNGtndTZkbWJpNXJ1dW9idmtvNmpzZGMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_i1p4kgu6dmbi5ruuobvko6jsdc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230410_memvbp4niqtbja54naadaiq9p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbWVtdmJwNG5pcXRiamE1NG5hYWRhaXE5cDAgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_memvbp4niqtbja54naadaiq9p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230501_7hm0gmvbmuap2pkil1dqhgpp7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfN2htMGdtdmJtdWFwMnBraWwxZHFoZ3BwN3MgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_7hm0gmvbmuap2pkil1dqhgpp7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230514_e78oe3urar68j52ji4jn3n6dj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfZTc4b2UzdXJhcjY4ajUyamk0am4zbjZkajQgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_e78oe3urar68j52ji4jn3n6dj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230526_hoke2jtp3q3n8ulnpb5v30hb2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjZfaG9rZTJqdHAzcTNuOHVsbnBiNXYzMGhiMm8gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-26"
+   },
+   "end": {
+    "date": "2023-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230526_hoke2jtp3q3n8ulnpb5v30hb2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230618_sc25d25ar8619v3sevcllgtlg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfc2MyNWQyNWFyODYxOXYzc2V2Y2xsZ3RsZzggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_sc25d25ar8619v3sevcllgtlg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230622_02ualuo1jj2er5js22g4ivs7mk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjJfMDJ1YWx1bzFqajJlcjVqczIyZzRpdnM3bWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-22"
+   },
+   "end": {
+    "date": "2023-06-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230622_02ualuo1jj2er5js22g4ivs7mk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230701_cu3u0p2mpefhbks1o3iqgq2uu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfY3UzdTBwMm1wZWZoYmtzMW8zaXFncTJ1dTggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Hong Kong Special Administrative Region Establishment Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_cu3u0p2mpefhbks1o3iqgq2uu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230830_td5l7fddt9dt6kk9qa0ruc1k30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MzBfdGQ1bDdmZGR0OWR0NmtrOXFhMHJ1YzFrMzAgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Hungry Ghost Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-30"
+   },
+   "end": {
+    "date": "2023-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230830_td5l7fddt9dt6kk9qa0ruc1k30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230929_jui284hp0jjgg8d5lppqk1ifj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjlfanVpMjg0aHAwampnZzhkNWxwcHFrMWlmajQgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_jui284hp0jjgg8d5lppqk1ifj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20230930_70vdkdhs07k0bv0gc1gdjgdkjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MzBfNzB2ZGtkaHMwN2swYnYwZ2MxZ2RqZ2Rram8gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Day after Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-30"
+   },
+   "end": {
+    "date": "2023-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230930_70vdkdhs07k0bv0gc1gdjgdkjo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20231001_avkrgte9k7bd19mnci23irh878",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfYXZrcmd0ZTlrN2JkMTltbmNpMjNpcmg4NzggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_avkrgte9k7bd19mnci23irh878@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20231002_iuj0mp6o12jkv54b1vj2fjlguc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfaXVqMG1wNm8xMmprdjU0YjF2ajJmamxndWMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "National Day of the People's Republic of China observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_iuj0mp6o12jkv54b1vj2fjlguc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20231023_sah6g94bti7emcv6n7k299fiqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfc2FoNmc5NGJ0aTdlbWN2Nm43azI5OWZpcWcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Chung Yeung Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_sah6g94bti7emcv6n7k299fiqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20231225_q4ovi62ubfgvfumfd8e86ojj7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfcTRvdmk2MnViZmd2ZnVtZmQ4ZTg2b2pqN2cgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_q4ovi62ubfgvfumfd8e86ojj7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20231226_nagt7mvjfff9batr857c8f7hfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfbmFndDdtdmpmZmY5YmF0cjg1N2M4ZjdoZmsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "First Weekday After Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_nagt7mvjfff9batr857c8f7hfk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240101_iqt061o6cn3m1d5eg4ucqsj0nc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfaXF0MDYxbzZjbjNtMWQ1ZWc0dWNxc2owbmMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_iqt061o6cn3m1d5eg4ucqsj0nc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240210_i598mqs2m0rk9e6a05rtcflu6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfaTU5OG1xczJtMHJrOWU2YTA1cnRjZmx1NmcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_i598mqs2m0rk9e6a05rtcflu6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240212_omv84spqtkppnshloo22jboeps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfb212ODRzcHF0a3BwbnNobG9vMjJqYm9lcHMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Third Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_omv84spqtkppnshloo22jboeps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240213_bs8v94gdvllp9rb17ltu73vs7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfYnM4djk0Z2R2bGxwOXJiMTdsdHU3M3ZzN2cgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Fourth Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_bs8v94gdvllp9rb17ltu73vs7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240214_3c4967he9hb7pf02bqv2b6admc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfM2M0OTY3aGU5aGI3cGYwMmJxdjJiNmFkbWMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_3c4967he9hb7pf02bqv2b6admc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240329_85b9pp80r0tj2bh3hhlfae6mmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfODViOXBwODByMHRqMmJoM2hobGZhZTZtbWcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_85b9pp80r0tj2bh3hhlfae6mmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240330_509l5l6s43ba5gb56ks1m3l4co",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfNTA5bDVsNnM0M2JhNWdiNTZrczFtM2w0Y28gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_509l5l6s43ba5gb56ks1m3l4co@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240331_9v8kcb9cpndtl2gfr5ah1ted68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfOXY4a2NiOWNwbmR0bDJnZnI1YWgxdGVkNjggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_9v8kcb9cpndtl2gfr5ah1ted68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240401_f1hcv7351jso7kkfd5hhfco2f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfZjFoY3Y3MzUxanNvN2trZmQ1aGhmY28yZjggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_f1hcv7351jso7kkfd5hhfco2f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240404_gq7h7r11368ns25m1rv8asc65k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDRfZ3E3aDdyMTEzNjhuczI1bTFydjhhc2M2NWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Tomb Sweeping Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-04"
+   },
+   "end": {
+    "date": "2024-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240404_gq7h7r11368ns25m1rv8asc65k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240501_ldjspreiinaduop5ci8ija062o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfbGRqc3ByZWlpbmFkdW9wNWNpOGlqYTA2Mm8gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_ldjspreiinaduop5ci8ija062o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240512_oihhiadjnt4qvuaflsairhiols",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfb2loaGlhZGpudDRxdnVhZmxzYWlyaGlvbHMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_oihhiadjnt4qvuaflsairhiols@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240515_j43c3o7fcn43hlkfigj974tgms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTVfajQzYzNvN2ZjbjQzaGxrZmlnajk3NHRnbXMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Buddha's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-15"
+   },
+   "end": {
+    "date": "2024-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240515_j43c3o7fcn43hlkfigj974tgms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240610_3j43tqkg4k02qsqhdbs90lfhgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTBfM2o0M3Rxa2c0azAycXNxaGRiczkwbGZoZ2cgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-10"
+   },
+   "end": {
+    "date": "2024-06-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240610_3j43tqkg4k02qsqhdbs90lfhgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240616_teuujdg0u43a1ie4l62erea28g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfdGV1dWpkZzB1NDNhMWllNGw2MmVyZWEyOGcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_teuujdg0u43a1ie4l62erea28g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240701_c15iss0nns0qlln494ct01rnqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDFfYzE1aXNzMG5uczBxbGxuNDk0Y3QwMXJucWcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Hong Kong Special Administrative Region Establishment Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-01"
+   },
+   "end": {
+    "date": "2024-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240701_c15iss0nns0qlln494ct01rnqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240817_dso3t8081mdpimkkkhfbgs0p5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTdfZHNvM3Q4MDgxbWRwaW1ra2toZmJnczBwNWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Hungry Ghost Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-17"
+   },
+   "end": {
+    "date": "2024-08-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240817_dso3t8081mdpimkkkhfbgs0p5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240917_97ruj9tp8kr1au9k6qqdhv27mk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTdfOTdydWo5dHA4a3IxYXU5azZxcWRodjI3bWsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-17"
+   },
+   "end": {
+    "date": "2024-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240917_97ruj9tp8kr1au9k6qqdhv27mk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20240918_td0c969vnadnv5pqeet2mpbb9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MThfdGQwYzk2OXZuYWRudjVwcWVldDJtcGJiOW8gZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Day after Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-18"
+   },
+   "end": {
+    "date": "2024-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240918_td0c969vnadnv5pqeet2mpbb9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20241001_k3fu9g6fngj43fornu6aeb6k88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDFfazNmdTlnNmZuZ2o0M2Zvcm51NmFlYjZrODggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "National Day of the People's Republic of China",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-01"
+   },
+   "end": {
+    "date": "2024-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241001_k3fu9g6fngj43fornu6aeb6k88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20241011_mjpsocp99debh6rqbiem42eadk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfbWpwc29jcDk5ZGViaDZycWJpZW00MmVhZGsgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Chung Yeung Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_mjpsocp99debh6rqbiem42eadk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20241225_d71afgcoi7nq372lkkshakl0n0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfZDcxYWZnY29pN25xMzcybGtrc2hha2wwbjAgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_d71afgcoi7nq372lkkshakl0n0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893953262000\"",
+   "id": "20241226_k12p49n9fcr19j0kh0scaqaavg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfazEycDQ5bjlmY3IxOWowa2gwc2NhcWFhdmcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:29:36.000Z",
+   "updated": "2022-09-23T15:29:36.631Z",
+   "summary": "First Weekday After Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_k12p49n9fcr19j0kh0scaqaavg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358701935946000\"",
+   "id": "20221231_cq5vi45hiedp8cd581aoj3ise8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfY3E1dmk0NWhpZWRwOGNkNTgxYW9qM2lzZTggZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:22:47.000Z",
+   "updated": "2023-03-20T22:22:47.973Z",
+   "summary": "New Year’s Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_cq5vi45hiedp8cd581aoj3ise8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358701935946000\"",
+   "id": "20231231_qted6ukggrof3ev4g8au0mck8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfcXRlZDZ1a2dncm9mM2V2NGc4YXUwbWNrOGcgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:22:47.000Z",
+   "updated": "2023-03-20T22:22:47.973Z",
+   "summary": "New Year’s Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_qted6ukggrof3ev4g8au0mck8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358701935946000\"",
+   "id": "20241231_vnepkm4onrvl67lman60pf6bjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfdm5lcGttNG9ucnZsNjdsbWFuNjBwZjZianMgZW4uaG9uZ19rb25nI2hvbGlkYXlAdg",
+   "created": "2023-03-20T22:22:47.000Z",
+   "updated": "2023-03-20T22:22:47.973Z",
+   "summary": "New Year’s Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Hong Kong",
+   "creator": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.hong_kong#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Hong Kong",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_vnepkm4onrvl67lman60pf6bjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

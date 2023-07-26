@@ -1,0 +1,1229 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p321s3h4crqlo00o\"",
+ "summary": "Holidays in Jersey",
+ "description": "Holidays and Observances in Jersey",
+ "updated": "2023-07-24T20:01:58.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICz_LGRqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975593056000\"",
+   "id": "20220103_03a0cumm3pa9b090uaaaaee59s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfMDNhMGN1bW0zcGE5YjA5MHVhYWFhZWU1OXMgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:16.000Z",
+   "updated": "2021-08-26T14:23:16.528Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_03a0cumm3pa9b090uaaaaee59s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975593056000\"",
+   "id": "20220418_e2f29gtgs004hpsh8sqm945jhg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfZTJmMjlndGdzMDA0aHBzaDhzcW05NDVqaGcgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:16.000Z",
+   "updated": "2021-08-26T14:23:16.528Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_e2f29gtgs004hpsh8sqm945jhg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975596176000\"",
+   "id": "20220327_bc880l1vkhpd4icdoo3dteui3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfYmM4ODBsMXZraHBkNGljZG9vM2R0ZXVpM3MgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:18.000Z",
+   "updated": "2021-08-26T14:23:18.088Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Jersey",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_bc880l1vkhpd4icdoo3dteui3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975596176000\"",
+   "id": "20220509_3kn89kt5ijfmeuctoi103sr92g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfM2tuODlrdDVpamZtZXVjdG9pMTAzc3I5MmcgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:18.000Z",
+   "updated": "2021-08-26T14:23:18.088Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_3kn89kt5ijfmeuctoi103sr92g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975596176000\"",
+   "id": "20220829_4r1bo9fd679e1lv9h9nht1jdp8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MjlfNHIxYm85ZmQ2NzllMWx2OWg5bmh0MWpkcDggZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:18.000Z",
+   "updated": "2021-08-26T14:23:18.088Z",
+   "summary": "Summer Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-29"
+   },
+   "end": {
+    "date": "2022-08-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220829_4r1bo9fd679e1lv9h9nht1jdp8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975600206000\"",
+   "id": "20220101_rjr3mb4a4rf1jgp8p62ohjnog4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfcmpyM21iNGE0cmYxamdwOHA2Mm9oam5vZzQgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:20.000Z",
+   "updated": "2021-08-26T14:23:20.103Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_rjr3mb4a4rf1jgp8p62ohjnog4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975600206000\"",
+   "id": "20220415_is2rug4i72tot6ffs53aq1c6oc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfaXMycnVnNGk3MnRvdDZmZnM1M2FxMWM2b2MgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:20.000Z",
+   "updated": "2021-08-26T14:23:20.103Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_is2rug4i72tot6ffs53aq1c6oc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975600206000\"",
+   "id": "20220502_slef9jgikft3pi96492q64592k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfc2xlZjlqZ2lrZnQzcGk5NjQ5MnE2NDU5MmsgZW4uamUjaG9saWRheUB2",
+   "created": "2021-08-26T14:23:20.000Z",
+   "updated": "2021-08-26T14:23:20.103Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_slef9jgikft3pi96492q64592k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262005755284000\"",
+   "id": "20220602_85h8u7dm7lsm4st3ndo1p1sauk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDJfODVoOHU3ZG03bHNtNHN0M25kbzFwMXNhdWsgZW4uamUjaG9saWRheUB2",
+   "created": "2021-09-07T08:21:17.000Z",
+   "updated": "2021-09-07T08:21:17.642Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-02"
+   },
+   "end": {
+    "date": "2022-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220602_85h8u7dm7lsm4st3ndo1p1sauk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326116641370000\"",
+   "id": "20220603_ivdee6c3o0hhesjfbgf8cjclf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfaXZkZWU2YzNvMGhoZXNqZmJnZjhjamNsZjQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-13T08:38:40.000Z",
+   "updated": "2022-09-13T08:38:40.685Z",
+   "summary": "Queen Elizabeth II's Platinum Jubilee",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_ivdee6c3o0hhesjfbgf8cjclf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326116641370000\"",
+   "id": "20220919_3ejcvldl655kjmlevfminq8mvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfM2VqY3ZsZGw2NTVram1sZXZmbWlucThtdmsgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-13T08:38:40.000Z",
+   "updated": "2022-09-13T08:38:40.685Z",
+   "summary": "Queen Elizabeth II's Funeral Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_3ejcvldl655kjmlevfminq8mvk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20221030_dl6tn20er10uov7q5f6pp1ofoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfZGw2dG4yMGVyMTB1b3Y3cTVmNnBwMW9mb28gZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Jersey",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_dl6tn20er10uov7q5f6pp1ofoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20221225_0jggdhpaaeetabpso55rudn4p4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfMGpnZ2RocGFhZWV0YWJwc281NXJ1ZG40cDQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_0jggdhpaaeetabpso55rudn4p4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20221226_20r5h9v4osr94o57hbm2hcu9jo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfMjByNWg5djRvc3I5NG81N2hibTJoY3U5am8gZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_20r5h9v4osr94o57hbm2hcu9jo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20221227_2hjnrrhcim5crabqgtj69evrjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfMmhqbnJyaGNpbTVjcmFicWd0ajY5ZXZyamsgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Day off for Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_2hjnrrhcim5crabqgtj69evrjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230101_5cjc7el00blbnp6gsun0b983pk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfNWNqYzdlbDAwYmxibnA2Z3N1bjBiOTgzcGsgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_5cjc7el00blbnp6gsun0b983pk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230102_v7gpn0sb4kko3kj6svrs4sbe0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfdjdncG4wc2I0a2tvM2tqNnN2cnM0c2JlMGMgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_v7gpn0sb4kko3kj6svrs4sbe0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230326_8eqg6j4etjp14ph7td00u9djio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfOGVxZzZqNGV0anAxNHBoN3RkMDB1OWRqaW8gZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Jersey",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_8eqg6j4etjp14ph7td00u9djio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230407_jon0ehaaikpiihrlgbmmqfbups",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfam9uMGVoYWFpa3BpaWhybGdibW1xZmJ1cHMgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_jon0ehaaikpiihrlgbmmqfbups@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230410_rcvj9105tfftoo68dmfnvvegp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfcmN2ajkxMDV0ZmZ0b282OGRtZm52dmVncDQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_rcvj9105tfftoo68dmfnvvegp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230501_9h62r6g1hrhp3i1bm4g0mos4tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfOWg2MnI2ZzFocmhwM2kxYm00ZzBtb3M0dGMgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_9h62r6g1hrhp3i1bm4g0mos4tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230509_m9jodej2d89srq6aq43btvvgts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDlfbTlqb2RlajJkODlzcnE2YXE0M2J0dnZndHMgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-09"
+   },
+   "end": {
+    "date": "2023-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230509_m9jodej2d89srq6aq43btvvgts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230529_glvt5klhome7a2149rofl2s81o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfZ2x2dDVrbGhvbWU3YTIxNDlyb2ZsMnM4MW8gZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_glvt5klhome7a2149rofl2s81o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20230828_f10brnbi9ljo3hejlfpnilvgnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjhfZjEwYnJuYmk5bGpvM2hlamxmcG5pbHZnbmsgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Summer Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-28"
+   },
+   "end": {
+    "date": "2023-08-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230828_f10brnbi9ljo3hejlfpnilvgnk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20231029_c2vb0lf3usn0g96a4jpfiet19c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfYzJ2YjBsZjN1c24wZzk2YTRqcGZpZXQxOWMgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Jersey",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_c2vb0lf3usn0g96a4jpfiet19c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20231225_hhok2495bfovs8j2jt6ggtvds4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfaGhvazI0OTViZm92czhqMmp0NmdndHZkczQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_hhok2495bfovs8j2jt6ggtvds4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20231226_nkbma7tg842e6dg2v0qhpd0i6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfbmtibWE3dGc4NDJlNmRnMnYwcWhwZDBpNmcgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_nkbma7tg842e6dg2v0qhpd0i6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240101_opckhadc3qb71mdo8dqq5i90n0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfb3Bja2hhZGMzcWI3MW1kbzhkcXE1aTkwbjAgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_opckhadc3qb71mdo8dqq5i90n0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240329_ojh15jaaa0oj5ldsme8ggo9vn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfb2poMTVqYWFhMG9qNWxkc21lOGdnbzl2bjQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_ojh15jaaa0oj5ldsme8ggo9vn4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240331_t1nsldo4k5jnubu0k78loijk2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfdDFuc2xkbzRrNWpudWJ1MGs3OGxvaWprMm8gZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Jersey",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_t1nsldo4k5jnubu0k78loijk2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240401_lou6bam18f0v7nc5nk9mla68o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfbG91NmJhbTE4ZjB2N25jNW5rOW1sYTY4bzggZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_lou6bam18f0v7nc5nk9mla68o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240506_bgvobnfo9sch71n22o72bbqiv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfYmd2b2JuZm85c2NoNzFuMjJvNzJiYnFpdjQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Early May Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_bgvobnfo9sch71n22o72bbqiv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240509_pgjb3pp9o8j3vmjntc1o4m43d4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfcGdqYjNwcDlvOGozdm1qbnRjMW80bTQzZDQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_pgjb3pp9o8j3vmjntc1o4m43d4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240527_lsfep6jdm88n8t8g7i8ooodoo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjdfbHNmZXA2amRtODhuOHQ4ZzdpOG9vb2RvbzQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Spring Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-27"
+   },
+   "end": {
+    "date": "2024-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240527_lsfep6jdm88n8t8g7i8ooodoo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20240826_pmkg7rhmis705k1neuh35nnkp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjZfcG1rZzdyaG1pczcwNWsxbmV1aDM1bm5rcDQgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Summer Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-26"
+   },
+   "end": {
+    "date": "2024-08-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240826_pmkg7rhmis705k1neuh35nnkp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20241027_gsoel6gevnh1ddiesfs6evq8s0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfZ3NvZWw2Z2V2bmgxZGRpZXNmczZldnE4czAgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Jersey",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_gsoel6gevnh1ddiesfs6evq8s0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20241225_qsgiajg01vbrd7kbvg9q6sf34c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcXNnaWFqZzAxdmJyZDdrYnZnOXE2c2YzNGMgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_qsgiajg01vbrd7kbvg9q6sf34c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902383552000\"",
+   "id": "20241226_ec9srn99n85h9s47njd02olpn0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZWM5c3JuOTluODVoOXM0N25qZDAyb2xwbjAgZW4uamUjaG9saWRheUB2",
+   "created": "2022-09-23T16:39:51.000Z",
+   "updated": "2022-09-23T16:39:51.776Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.je#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Jersey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_ec9srn99n85h9s47njd02olpn0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

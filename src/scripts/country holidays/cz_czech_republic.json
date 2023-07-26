@@ -1,0 +1,1837 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33fd5h45rqlo00o\"",
+ "summary": "Holidays in Czechia",
+ "description": "Holidays and Observances in Czechia",
+ "updated": "2023-07-24T23:54:10.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICZoqXFqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957818712000\"",
+   "id": "20220601_7k1jkrpb1n1gmq8dlqiqafin2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDFfN2sxamtycGIxbjFnbXE4ZGxxaXFhZmluMm8gZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:09.000Z",
+   "updated": "2021-08-26T11:55:09.356Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-01"
+   },
+   "end": {
+    "date": "2022-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220601_7k1jkrpb1n1gmq8dlqiqafin2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957818712000\"",
+   "id": "20220619_epr2pv4gg81ush44udk4vr9om0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfZXByMnB2NGdnODF1c2g0NHVkazR2cjlvbTAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:09.000Z",
+   "updated": "2021-08-26T11:55:09.356Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_epr2pv4gg81ush44udk4vr9om0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957821574000\"",
+   "id": "20220101_5daj1vnfv7a7jdd8nu6vmegv7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNWRhajF2bmZ2N2E3amRkOG51NnZtZWd2N2MgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:10.000Z",
+   "updated": "2021-08-26T11:55:10.787Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_5daj1vnfv7a7jdd8nu6vmegv7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957821574000\"",
+   "id": "20220214_7qdcg48pfi470g5g5gsm7i5jt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfN3FkY2c0OHBmaTQ3MGc1ZzVnc203aTVqdDggZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:10.000Z",
+   "updated": "2021-08-26T11:55:10.787Z",
+   "summary": "St. Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_7qdcg48pfi470g5g5gsm7i5jt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957821574000\"",
+   "id": "20220501_ofbdo6ash62b7ppbugejaukhp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfb2ZiZG82YXNoNjJiN3BwYnVnZWphdWtocDAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:10.000Z",
+   "updated": "2021-08-26T11:55:10.787Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_ofbdo6ash62b7ppbugejaukhp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957821574000\"",
+   "id": "20220705_7spcus5htiqc97be2tl51i9qig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDVfN3NwY3VzNWh0aXFjOTdiZTJ0bDUxaTlxaWcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:10.000Z",
+   "updated": "2021-08-26T11:55:10.787Z",
+   "summary": "Day of Saints Cyril and Methodius",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-05"
+   },
+   "end": {
+    "date": "2022-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220705_7spcus5htiqc97be2tl51i9qig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957824264000\"",
+   "id": "20220101_4qr04m1bpaqldp46facvsohs1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNHFyMDRtMWJwYXFsZHA0NmZhY3Zzb2hzMWMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:12.000Z",
+   "updated": "2021-08-26T11:55:12.132Z",
+   "summary": "Restoration of the Czech Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_4qr04m1bpaqldp46facvsohs1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957824264000\"",
+   "id": "20220706_sift50nsarbur1clvfq22n3hmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDZfc2lmdDUwbnNhcmJ1cjFjbHZmcTIybjNobWMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:12.000Z",
+   "updated": "2021-08-26T11:55:12.132Z",
+   "summary": "Jan Hus Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-06"
+   },
+   "end": {
+    "date": "2022-07-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220706_sift50nsarbur1clvfq22n3hmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957826452000\"",
+   "id": "20220308_cmhh4nm55er09vbu8vdenp1a54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDhfY21oaDRubTU1ZXIwOXZidTh2ZGVucDFhNTQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:13.000Z",
+   "updated": "2021-08-26T11:55:13.226Z",
+   "summary": "International Women's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-08"
+   },
+   "end": {
+    "date": "2022-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220308_cmhh4nm55er09vbu8vdenp1a54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957826452000\"",
+   "id": "20220415_06hhc8f3rmlp7idnl5ieshclg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfMDZoaGM4ZjNybWxwN2lkbmw1aWVzaGNsZzAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:13.000Z",
+   "updated": "2021-08-26T11:55:13.226Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_06hhc8f3rmlp7idnl5ieshclg0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957826452000\"",
+   "id": "20220418_jvp715gtma0j47h6v58o1mtfrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfanZwNzE1Z3RtYTBqNDdoNnY1OG8xbXRmcnMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:13.000Z",
+   "updated": "2021-08-26T11:55:13.226Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_jvp715gtma0j47h6v58o1mtfrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957826452000\"",
+   "id": "20220508_0343jggs54il23b3ifo487ckls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfMDM0M2pnZ3M1NGlsMjNiM2lmbzQ4N2NrbHMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:13.000Z",
+   "updated": "2021-08-26T11:55:13.226Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_0343jggs54il23b3ifo487ckls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259957826452000\"",
+   "id": "20220508_ddo1414v7mib070jajm03324ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfZGRvMTQxNHY3bWliMDcwamFqbTAzMzI0bnMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2021-08-26T11:55:13.000Z",
+   "updated": "2021-08-26T11:55:13.226Z",
+   "summary": "Victory in Europe Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_ddo1414v7mib070jajm03324ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20220928_g0b5f72f09oa4tuj32gb60j64k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjhfZzBiNWY3MmYwOW9hNHR1ajMyZ2I2MGo2NGsgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Wenceslas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-28"
+   },
+   "end": {
+    "date": "2022-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220928_g0b5f72f09oa4tuj32gb60j64k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20221028_4e7qar717lcdijkscv40qocgrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjhfNGU3cWFyNzE3bGNkaWprc2N2NDBxb2NncnMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Independent Czechoslovak State Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-28"
+   },
+   "end": {
+    "date": "2022-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221028_4e7qar717lcdijkscv40qocgrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20221117_pp0apdahfs4bh9lh615vitj36s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTdfcHAwYXBkYWhmczRiaDlsaDYxNXZpdGozNnMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Struggle for Freedom and Democracy Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-17"
+   },
+   "end": {
+    "date": "2022-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221117_pp0apdahfs4bh9lh615vitj36s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20221224_gm5l60vks7t3pvscg5nvaub874",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfZ201bDYwdmtzN3QzcHZzY2c1bnZhdWI4NzQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Christmas Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_gm5l60vks7t3pvscg5nvaub874@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20221225_49ekvt6k1mcnq84rdjp9gtf96g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfNDlla3Z0NmsxbWNucTg0cmRqcDlndGY5NmcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_49ekvt6k1mcnq84rdjp9gtf96g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20221226_uboosd3lj757kjo128c982ep8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfdWJvb3NkM2xqNzU3a2pvMTI4Yzk4MmVwOGcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_uboosd3lj757kjo128c982ep8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230101_a5snc8a5ec6drqnrr5dhnt1pr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfYTVzbmM4YTVlYzZkcnFucnI1ZGhudDFwcjggZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Restoration of the Czech Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_a5snc8a5ec6drqnrr5dhnt1pr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230101_dudihm9n7v27unef3k273o074c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfZHVkaWhtOW43djI3dW5lZjNrMjczbzA3NGMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_dudihm9n7v27unef3k273o074c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230214_k0u7tn3t002153n9eg8fr27llo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfazB1N3RuM3QwMDIxNTNuOWVnOGZyMjdsbG8gZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_k0u7tn3t002153n9eg8fr27llo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230308_pbvheeiefq2c8rsic9t51gjbi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfcGJ2aGVlaWVmcTJjOHJzaWM5dDUxZ2piaTQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "International Women's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_pbvheeiefq2c8rsic9t51gjbi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230407_mtke6583qetqp82i17f684nlds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfbXRrZTY1ODNxZXRxcDgyaTE3ZjY4NG5sZHMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_mtke6583qetqp82i17f684nlds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230410_301jr2ar3ribpo2u7tmjonmibo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfMzAxanIyYXIzcmlicG8ydTd0bWpvbm1pYm8gZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_301jr2ar3ribpo2u7tmjonmibo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230501_4mfd864vkgqllfb549mugaeo70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfNG1mZDg2NHZrZ3FsbGZiNTQ5bXVnYWVvNzAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_4mfd864vkgqllfb549mugaeo70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230508_305ueic74kiv5m6ri47592eo34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfMzA1dWVpYzc0a2l2NW02cmk0NzU5MmVvMzQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Victory in Europe Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_305ueic74kiv5m6ri47592eo34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230514_gmef8p38h0hcr6781591uknke8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfZ21lZjhwMzhoMGhjcjY3ODE1OTF1a25rZTggZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_gmef8p38h0hcr6781591uknke8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230601_1q3ok3esqthof0b15q6m0295o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDFfMXEzb2szZXNxdGhvZjBiMTVxNm0wMjk1bzQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-01"
+   },
+   "end": {
+    "date": "2023-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230601_1q3ok3esqthof0b15q6m0295o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230618_j9cg53pm1ncdbguistvjhnjmu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfajljZzUzcG0xbmNkYmd1aXN0dmpobmptdTggZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_j9cg53pm1ncdbguistvjhnjmu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230705_feftr13297ennu0irg03bd12ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDVfZmVmdHIxMzI5N2VubnUwaXJnMDNiZDEyZWMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Day of Saints Cyril and Methodius",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-05"
+   },
+   "end": {
+    "date": "2023-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230705_feftr13297ennu0irg03bd12ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230706_mgaerqujkfdbjae9akn85i6un0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDZfbWdhZXJxdWprZmRiamFlOWFrbjg1aTZ1bjAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Jan Hus Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-06"
+   },
+   "end": {
+    "date": "2023-07-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230706_mgaerqujkfdbjae9akn85i6un0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20230928_to388en34gm8to324j07rucfmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfdG8zODhlbjM0Z204dG8zMjRqMDdydWNmbWMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Wenceslas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_to388en34gm8to324j07rucfmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20231028_h8274qc5use99iaj71s109suf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjhfaDgyNzRxYzV1c2U5OWlhajcxczEwOXN1ZjAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Independent Czechoslovak State Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-28"
+   },
+   "end": {
+    "date": "2023-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231028_h8274qc5use99iaj71s109suf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20231117_d8ljcshm0lafuto0vk1ue39b5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTdfZDhsamNzaG0wbGFmdXRvMHZrMXVlMzliNWsgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Struggle for Freedom and Democracy Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-17"
+   },
+   "end": {
+    "date": "2023-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231117_d8ljcshm0lafuto0vk1ue39b5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20231224_or04ppl3pemfdc1e07j6gp6nng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfb3IwNHBwbDNwZW1mZGMxZTA3ajZncDZubmcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Christmas Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_or04ppl3pemfdc1e07j6gp6nng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20231225_6oj4hjfh8tpguo2vk26mjgug68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfNm9qNGhqZmg4dHBndW8ydmsyNm1qZ3VnNjggZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_6oj4hjfh8tpguo2vk26mjgug68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20231226_f9r3qpecf1kf67i4cr5rq61m7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfZjlyM3FwZWNmMWtmNjdpNGNyNXJxNjFtN2cgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_f9r3qpecf1kf67i4cr5rq61m7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240101_ak3eg3of56nvlvtfn7keuk3pts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfYWszZWczb2Y1Nm52bHZ0Zm43a2V1azNwdHMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_ak3eg3of56nvlvtfn7keuk3pts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240101_imnbgq7uvplr0caba98l1pgjag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfaW1uYmdxN3V2cGxyMGNhYmE5OGwxcGdqYWcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Restoration of the Czech Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_imnbgq7uvplr0caba98l1pgjag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240214_6067fnp04485chrguthma7qafg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfNjA2N2ZucDA0NDg1Y2hyZ3V0aG1hN3FhZmcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_6067fnp04485chrguthma7qafg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240308_2ac32d3jpdqlq0rpm8t96f0h90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfMmFjMzJkM2pwZHFscTBycG04dDk2ZjBoOTAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "International Women's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_2ac32d3jpdqlq0rpm8t96f0h90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240329_k5u6fvp92cgfioqbgoik4517es",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfazV1NmZ2cDkyY2dmaW9xYmdvaWs0NTE3ZXMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_k5u6fvp92cgfioqbgoik4517es@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240401_g5h8lhg1piq6fuf7lrc3hvc8pg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfZzVoOGxoZzFwaXE2ZnVmN2xyYzNodmM4cGcgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_g5h8lhg1piq6fuf7lrc3hvc8pg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240501_fn4s689g02nlsjrgshthargc8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfZm40czY4OWcwMm5sc2pyZ3NodGhhcmdjOGMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_fn4s689g02nlsjrgshthargc8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240508_9ul8u343m68e018pri4e60afg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDhfOXVsOHUzNDNtNjhlMDE4cHJpNGU2MGFmZzggZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Victory in Europe Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-08"
+   },
+   "end": {
+    "date": "2024-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240508_9ul8u343m68e018pri4e60afg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240512_g3en74p7cl98q6ghsjvb7lqsc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfZzNlbjc0cDdjbDk4cTZnaHNqdmI3bHFzYzQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_g3en74p7cl98q6ghsjvb7lqsc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240601_5ohdgq2sr76me5m5cdb5ddi5eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDFfNW9oZGdxMnNyNzZtZTVtNWNkYjVkZGk1ZW8gZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-01"
+   },
+   "end": {
+    "date": "2024-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240601_5ohdgq2sr76me5m5cdb5ddi5eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240616_ndd1198vn4ebaclf33jbvgbjc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfbmRkMTE5OHZuNGViYWNsZjMzamJ2Z2JqYzQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Czechia",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_ndd1198vn4ebaclf33jbvgbjc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240705_oqmolgh0i2dck6b0sh9am0mefc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDVfb3Ftb2xnaDBpMmRjazZiMHNoOWFtMG1lZmMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Day of Saints Cyril and Methodius",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-05"
+   },
+   "end": {
+    "date": "2024-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240705_oqmolgh0i2dck6b0sh9am0mefc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240706_3bppr4ttnj6pbpb475okng7bl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDZfM2JwcHI0dHRuajZwYnBiNDc1b2tuZzdibDAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Jan Hus Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-06"
+   },
+   "end": {
+    "date": "2024-07-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240706_3bppr4ttnj6pbpb475okng7bl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20240928_pl3c64ieikviesqe5nfcsdv1c0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjhfcGwzYzY0aWVpa3ZpZXNxZTVuZmNzZHYxYzAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Wenceslas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-28"
+   },
+   "end": {
+    "date": "2024-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240928_pl3c64ieikviesqe5nfcsdv1c0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20241028_qeogak2s67nvil45vkchh64ti0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjhfcWVvZ2FrMnM2N252aWw0NXZrY2hoNjR0aTAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Independent Czechoslovak State Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-28"
+   },
+   "end": {
+    "date": "2024-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241028_qeogak2s67nvil45vkchh64ti0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20241117_232ugqshn7mhltjqmfj1vlld70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTdfMjMydWdxc2huN21obHRqcW1majF2bGxkNzAgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Struggle for Freedom and Democracy Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-17"
+   },
+   "end": {
+    "date": "2024-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241117_232ugqshn7mhltjqmfj1vlld70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20241224_g5599qo2oofjdhhu18qq015fpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfZzU1OTlxbzJvb2ZqZGhodTE4cXEwMTVmcGMgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Christmas Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_g5599qo2oofjdhhu18qq015fpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20241225_gkhrg5crsrjfvg4quqgff2a414",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfZ2tocmc1Y3Jzcmpmdmc0cXVxZ2ZmMmE0MTQgZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_gkhrg5crsrjfvg4quqgff2a414@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328541027942000\"",
+   "id": "20241226_otra7hdtbu8949c4smf9k5lsgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfb3RyYTdoZHRidTg5NDljNHNtZjlrNWxzZ28gZW4uY3plY2gjaG9saWRheUB2",
+   "created": "2022-09-27T09:21:53.000Z",
+   "updated": "2022-09-27T09:21:53.971Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.czech#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Czechia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_otra7hdtbu8949c4smf9k5lsgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

@@ -1,0 +1,1837 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33fchqk5rqlo00o\"",
+ "summary": "Holidays in France",
+ "description": "Holidays and Observances in France",
+ "updated": "2023-07-24T23:34:59.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDdtoDBqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954659678000\"",
+   "id": "20220526_cc8oj363gqeebfabumo38p4oh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfY2M4b2ozNjNncWVlYmZhYnVtbzM4cDRvaDggZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:49.000Z",
+   "updated": "2021-08-26T11:28:49.839Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_cc8oj363gqeebfabumo38p4oh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954659678000\"",
+   "id": "20220619_n4kku3qbkg9u78ghrlf71ebvjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfbjRra3UzcWJrZzl1NzhnaHJsZjcxZWJ2anMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:49.000Z",
+   "updated": "2021-08-26T11:28:49.839Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_n4kku3qbkg9u78ghrlf71ebvjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954659678000\"",
+   "id": "20220815_enk428enb7noradp9flv0f2030",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfZW5rNDI4ZW5iN25vcmFkcDlmbHYwZjIwMzAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:49.000Z",
+   "updated": "2021-08-26T11:28:49.839Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_enk428enb7noradp9flv0f2030@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954663890000\"",
+   "id": "20220101_r6veieu78nj21o0ooup33gftos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfcjZ2ZWlldTc4bmoyMW8wb291cDMzZ2Z0b3MgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:51.000Z",
+   "updated": "2021-08-26T11:28:51.945Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_r6veieu78nj21o0ooup33gftos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954663890000\"",
+   "id": "20220501_v8p45hisf5cgrf2djur6l1e41c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfdjhwNDVoaXNmNWNncmYyZGp1cjZsMWU0MWMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:51.000Z",
+   "updated": "2021-08-26T11:28:51.945Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_v8p45hisf5cgrf2djur6l1e41c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954663890000\"",
+   "id": "20220605_g30t9ud5ulis1bgm0k9opgm290",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfZzMwdDl1ZDV1bGlzMWJnbTBrOW9wZ20yOTAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:51.000Z",
+   "updated": "2021-08-26T11:28:51.945Z",
+   "summary": "Whit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_g30t9ud5ulis1bgm0k9opgm290@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954663890000\"",
+   "id": "20220714_jji55loo3ssl7s56dbkfpm44jg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTRfamppNTVsb28zc3NsN3M1NmRia2ZwbTQ0amcgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:51.000Z",
+   "updated": "2021-08-26T11:28:51.945Z",
+   "summary": "Bastille Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-14"
+   },
+   "end": {
+    "date": "2022-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220714_jji55loo3ssl7s56dbkfpm44jg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954666872000\"",
+   "id": "20220417_kqvls1pao3u7u0l6ovgg7v38ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfa3F2bHMxcGFvM3U3dTBsNm92Z2c3djM4ZWsgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:53.000Z",
+   "updated": "2021-08-26T11:28:53.436Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_kqvls1pao3u7u0l6ovgg7v38ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954666872000\"",
+   "id": "20220418_pasd3b60tjgsijieica0ndg9eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfcGFzZDNiNjB0amdzaWppZWljYTBuZGc5ZWcgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:53.000Z",
+   "updated": "2021-08-26T11:28:53.436Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_pasd3b60tjgsijieica0ndg9eg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954666872000\"",
+   "id": "20220508_vifua9kv4asp30vgtqfi4nts18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfdmlmdWE5a3Y0YXNwMzB2Z3RxZmk0bnRzMTggZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:53.000Z",
+   "updated": "2021-08-26T11:28:53.436Z",
+   "summary": "WWII Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_vifua9kv4asp30vgtqfi4nts18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954669920000\"",
+   "id": "20220327_hn6f4imq5h2ukspddl4drn14ck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfaG42ZjRpbXE1aDJ1a3NwZGRsNGRybjE0Y2sgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:54.000Z",
+   "updated": "2021-08-26T11:28:54.960Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_hn6f4imq5h2ukspddl4drn14ck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954669920000\"",
+   "id": "20220529_blmq2852ke0p5npcpc6bi5iat0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjlfYmxtcTI4NTJrZTBwNW5wY3BjNmJpNWlhdDAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:54.000Z",
+   "updated": "2021-08-26T11:28:54.960Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-29"
+   },
+   "end": {
+    "date": "2022-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220529_blmq2852ke0p5npcpc6bi5iat0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259954675046000\"",
+   "id": "20220606_ea69pj0rdrnc96ft431g8olhds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfZWE2OXBqMHJkcm5jOTZmdDQzMWc4b2xoZHMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T11:28:57.000Z",
+   "updated": "2021-08-26T11:28:57.523Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_ea69pj0rdrnc96ft431g8olhds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20221030_9q7pkg64p1rnkt366am911qnrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfOXE3cGtnNjRwMXJua3QzNjZhbTkxMXFucmsgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_9q7pkg64p1rnkt366am911qnrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20221101_htvp9vl8gkobmkinhm6kupe7ds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfaHR2cDl2bDhna29ibWtpbmhtNmt1cGU3ZHMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_htvp9vl8gkobmkinhm6kupe7ds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20221111_esgshlbu82j5me6ajgt6v0hqnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfZXNnc2hsYnU4Mmo1bWU2YWpndDZ2MGhxbmMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Armistice Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_esgshlbu82j5me6ajgt6v0hqnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20221224_1ar4nqkb5cimk92m6ekcefflmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfMWFyNG5xa2I1Y2ltazkybTZla2NlZmZsbWMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_1ar4nqkb5cimk92m6ekcefflmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20221225_gje8d5cjihdpnc9h012gfep94c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZ2plOGQ1Y2ppaGRwbmM5aDAxMmdmZXA5NGMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_gje8d5cjihdpnc9h012gfep94c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20221231_88tn821d2tsvkmg78dfc7mc0so",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfODh0bjgyMWQydHN2a21nNzhkZmM3bWMwc28gZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_88tn821d2tsvkmg78dfc7mc0so@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230101_jkvk8ud97bp9rga7oke5c6dpos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfamt2azh1ZDk3YnA5cmdhN29rZTVjNmRwb3MgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_jkvk8ud97bp9rga7oke5c6dpos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230326_ckciskbgg6a1o24ibi0j77vj1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfY2tjaXNrYmdnNmExbzI0aWJpMGo3N3ZqMXMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_ckciskbgg6a1o24ibi0j77vj1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230409_iuphnteuajf42ajhvck5denmpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfaXVwaG50ZXVhamY0MmFqaHZjazVkZW5tcGsgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_iuphnteuajf42ajhvck5denmpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230410_eoqphap4cnkod957bsjm1u2b2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfZW9xcGhhcDRjbmtvZDk1N2Jzam0xdTJiMmMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_eoqphap4cnkod957bsjm1u2b2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230501_cm8jma63s8knu4k0sspbdfnj64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfY204am1hNjNzOGtudTRrMHNzcGJkZm5qNjQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_cm8jma63s8knu4k0sspbdfnj64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230508_efbs9eu9s9j4r1hb3t42ifss0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfZWZiczlldTlzOWo0cjFoYjN0NDJpZnNzMGMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "WWII Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_efbs9eu9s9j4r1hb3t42ifss0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230518_8cta2nvcptcmuohon7sso27lks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfOGN0YTJudmNwdGNtdW9ob243c3NvMjdsa3MgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_8cta2nvcptcmuohon7sso27lks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230528_tctu6v75d905rtb2denthd39po",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfdGN0dTZ2NzVkOTA1cnRiMmRlbnRoZDM5cG8gZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Whit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_tctu6v75d905rtb2denthd39po@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230529_9t1qfu5gkmsv8b4c6l0upirg2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfOXQxcWZ1NWdrbXN2OGI0YzZsMHVwaXJnMmMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_9t1qfu5gkmsv8b4c6l0upirg2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230604_ok0g4phni1j8hmpjd7e161qdtc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDRfb2swZzRwaG5pMWo4aG1wamQ3ZTE2MXFkdGMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-04"
+   },
+   "end": {
+    "date": "2023-06-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230604_ok0g4phni1j8hmpjd7e161qdtc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230618_1lmcqcqvbnrapliojtuh58ib5c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfMWxtY3FjcXZibnJhcGxpb2p0dWg1OGliNWMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_1lmcqcqvbnrapliojtuh58ib5c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230714_jrbp3l7qhf8f4aad8fr2hfcdp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTRfanJicDNsN3FoZjhmNGFhZDhmcjJoZmNkcDQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Bastille Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-14"
+   },
+   "end": {
+    "date": "2023-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230714_jrbp3l7qhf8f4aad8fr2hfcdp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20230815_drcfdoe2asd2kpdn3kao9nfc58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfZHJjZmRvZTJhc2Qya3BkbjNrYW85bmZjNTggZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_drcfdoe2asd2kpdn3kao9nfc58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20231029_n17u5u72fgil31kfidbe14he6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfbjE3dTV1NzJmZ2lsMzFrZmlkYmUxNGhlNmMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_n17u5u72fgil31kfidbe14he6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20231101_p0cdsoji4pgcmst49l4abnua1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfcDBjZHNvamk0cGdjbXN0NDlsNGFibnVhMW8gZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_p0cdsoji4pgcmst49l4abnua1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20231111_mhuoh3r307tsnvj15ggccpv840",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfbWh1b2gzcjMwN3RzbnZqMTVnZ2NjcHY4NDAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Armistice Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_mhuoh3r307tsnvj15ggccpv840@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20231224_ai9c91h0olu27ord9nljepqkuo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfYWk5YzkxaDBvbHUyN29yZDlubGplcHFrdW8gZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_ai9c91h0olu27ord9nljepqkuo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20231225_tt2uitovelssoqq0rkf7210d98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdHQydWl0b3ZlbHNzb3FxMHJrZjcyMTBkOTggZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_tt2uitovelssoqq0rkf7210d98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20231231_8hdgkjotib0vqdku1hbui27els",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfOGhkZ2tqb3RpYjB2cWRrdTFoYnVpMjdlbHMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_8hdgkjotib0vqdku1hbui27els@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240101_bu0qinlsm05rcq028j5isusqu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfYnUwcWlubHNtMDVyY3EwMjhqNWlzdXNxdTAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_bu0qinlsm05rcq028j5isusqu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240331_58h87odv1qcl62evspencd4i70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfNThoODdvZHYxcWNsNjJldnNwZW5jZDRpNzAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_58h87odv1qcl62evspencd4i70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240331_kvo5d4k86ij5t3a1unmn5at5v4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfa3ZvNWQ0azg2aWo1dDNhMXVubW41YXQ1djQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_kvo5d4k86ij5t3a1unmn5at5v4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240401_f7ul3gmnsksga65rddg0l5lfac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfZjd1bDNnbW5za3NnYTY1cmRkZzBsNWxmYWMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_f7ul3gmnsksga65rddg0l5lfac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240501_5oets30d4juko55n9ci4v2f25o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfNW9ldHMzMGQ0anVrbzU1bjljaTR2MmYyNW8gZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_5oets30d4juko55n9ci4v2f25o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240508_nhsvsvaietgpld61r51nfc22pg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDhfbmhzdnN2YWlldGdwbGQ2MXI1MW5mYzIycGcgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "WWII Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-08"
+   },
+   "end": {
+    "date": "2024-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240508_nhsvsvaietgpld61r51nfc22pg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240509_qlpmhf6m3ab8qmqqb5nnk0mt78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfcWxwbWhmNm0zYWI4cW1xcWI1bm5rMG10NzggZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_qlpmhf6m3ab8qmqqb5nnk0mt78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240519_rracoofdcd89n7oavjes05elm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfcnJhY29vZmRjZDg5bjdvYXZqZXMwNWVsbTQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Whit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_rracoofdcd89n7oavjes05elm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240520_6ln3i16cdp0rtjqhem9achjho8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfNmxuM2kxNmNkcDBydGpxaGVtOWFjaGpobzggZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_6ln3i16cdp0rtjqhem9achjho8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240526_q11i1ekeqnnp8r4bg4pgbatkq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjZfcTExaTFla2Vxbm5wOHI0Ymc0cGdiYXRrcTQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-26"
+   },
+   "end": {
+    "date": "2024-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240526_q11i1ekeqnnp8r4bg4pgbatkq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240616_0jom2pa11dj80rq3n62di682lg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfMGpvbTJwYTExZGo4MHJxM242MmRpNjgybGcgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_0jom2pa11dj80rq3n62di682lg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240714_ugrjdlier527ols26ar26rqg9g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTRfdWdyamRsaWVyNTI3b2xzMjZhcjI2cnFnOWcgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Bastille Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-14"
+   },
+   "end": {
+    "date": "2024-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240714_ugrjdlier527ols26ar26rqg9g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20240815_tvh0lu6mabv98r558d37q73bqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfdHZoMGx1Nm1hYnY5OHI1NThkMzdxNzNicW8gZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_tvh0lu6mabv98r558d37q73bqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20241027_n8t3oglead9lfsn7r114ca6km4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfbjh0M29nbGVhZDlsZnNuN3IxMTRjYTZrbTQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_n8t3oglead9lfsn7r114ca6km4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20241101_nr7qd1dqgkm51d9cff236sh0o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfbnI3cWQxZHFna201MWQ5Y2ZmMjM2c2gwbzAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_nr7qd1dqgkm51d9cff236sh0o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20241111_e108lvefvut86lsav0j0tconjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfZTEwOGx2ZWZ2dXQ4NmxzYXYwajB0Y29uamcgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Armistice Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_e108lvefvut86lsav0j0tconjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20241224_ilk9p8lkkv484aj2gducii1g70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfaWxrOXA4bGtrdjQ4NGFqMmdkdWNpaTFnNzAgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_ilk9p8lkkv484aj2gducii1g70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20241225_la9mjl1qep0ah3n7a8lnevn2rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbGE5bWpsMXFlcDBhaDNuN2E4bG5ldm4ycnMgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_la9mjl1qep0ah3n7a8lnevn2rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891303912000\"",
+   "id": "20241231_gj86r1eqri7lchsv6mdn8g2964",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfZ2o4NnIxZXFyaTdsY2hzdjZtZG44ZzI5NjQgZW4uZnJlbmNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T15:07:31.000Z",
+   "updated": "2022-09-23T15:07:31.956Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in France",
+   "creator": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.french#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in France",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_gj86r1eqri7lchsv6mdn8g2964@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

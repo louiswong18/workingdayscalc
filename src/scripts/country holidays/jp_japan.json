@@ -1,0 +1,1741 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33n9dc43rqlo00o\"",
+ "summary": "Holidays in Japan",
+ "description": "Holidays and Observances in Japan",
+ "updated": "2023-07-24T21:09:57.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDm_sqgqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220211_rtdnuukd8lta4ri0p5p5beonh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTFfcnRkbnV1a2Q4bHRhNHJpMHA1cDViZW9uaDggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "National Foundation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-11"
+   },
+   "end": {
+    "date": "2022-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220211_rtdnuukd8lta4ri0p5p5beonh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220223_e23m6pvk3dnhck0p2qvp75ek70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjNfZTIzbTZwdmszZG5oY2swcDJxdnA3NWVrNzAgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Emperor's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-23"
+   },
+   "end": {
+    "date": "2022-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220223_e23m6pvk3dnhck0p2qvp75ek70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220429_9b54dcof39o3ar3qvfvrqhjp60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjlfOWI1NGRjb2YzOW8zYXIzcXZmdnJxaGpwNjAgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Shōwa Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-29"
+   },
+   "end": {
+    "date": "2022-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220429_9b54dcof39o3ar3qvfvrqhjp60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220503_fc8o5rd1cs29qte0dr5qd3uitc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfZmM4bzVyZDFjczI5cXRlMGRyNXFkM3VpdGMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Constitution Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_fc8o5rd1cs29qte0dr5qd3uitc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220504_eincm31lk74dvs5ai3qdk741es",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfZWluY20zMWxrNzRkdnM1YWkzcWRrNzQxZXMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Greenery Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_eincm31lk74dvs5ai3qdk741es@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220505_thlmv8udatnq9u0dtf03eh84s8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfdGhsbXY4dWRhdG5xOXUwZHRmMDNlaDg0czggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_thlmv8udatnq9u0dtf03eh84s8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220811_hgqb6e03l4980njjesl8po4g58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTFfaGdxYjZlMDNsNDk4MG5qamVzbDhwbzRnNTggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Mountain Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-11"
+   },
+   "end": {
+    "date": "2022-08-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220811_hgqb6e03l4980njjesl8po4g58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938662120000\"",
+   "id": "20220919_rfak35qnr41nfhrno9c20ftd0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfcmZhazM1cW5yNDFuZmhybm85YzIwZnRkMGcgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:31.000Z",
+   "updated": "2021-08-26T09:15:31.060Z",
+   "summary": "Respect for the Aged Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_rfak35qnr41nfhrno9c20ftd0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938664696000\"",
+   "id": "20220321_n9cpv0tncp6uqn73u21bfq3ppg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjFfbjljcHYwdG5jcDZ1cW43M3UyMWJmcTNwcGcgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:32.000Z",
+   "updated": "2021-08-26T09:15:32.348Z",
+   "summary": "Spring Equinox",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-21"
+   },
+   "end": {
+    "date": "2022-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220321_n9cpv0tncp6uqn73u21bfq3ppg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938664696000\"",
+   "id": "20220718_kpubulc3vtp41umq23srmblc2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MThfa3B1YnVsYzN2dHA0MXVtcTIzc3JtYmxjMnMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:32.000Z",
+   "updated": "2021-08-26T09:15:32.348Z",
+   "summary": "Sea Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-18"
+   },
+   "end": {
+    "date": "2022-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220718_kpubulc3vtp41umq23srmblc2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938668340000\"",
+   "id": "20220101_397kdq4qnp67cipkdr04ct6074",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMzk3a2RxNHFucDY3Y2lwa2RyMDRjdDYwNzQgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:34.000Z",
+   "updated": "2021-08-26T09:15:34.170Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_397kdq4qnp67cipkdr04ct6074@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938668340000\"",
+   "id": "20220110_ok8kk08li79j9ratuse8uor7g0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTBfb2s4a2swOGxpNzlqOXJhdHVzZTh1b3I3ZzAgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2021-08-26T09:15:34.000Z",
+   "updated": "2021-08-26T09:15:34.170Z",
+   "summary": "Coming of Age Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-10"
+   },
+   "end": {
+    "date": "2022-01-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220110_ok8kk08li79j9ratuse8uor7g0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20220923_8i48684dr4ng4nt0pm9bmrp544",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjNfOGk0ODY4NGRyNG5nNG50MHBtOWJtcnA1NDQgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Autumn Equinox",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-23"
+   },
+   "end": {
+    "date": "2022-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220923_8i48684dr4ng4nt0pm9bmrp544@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20221010_rtcpuhpvop2pgj66lq22fg1568",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfcnRjcHVocHZvcDJwZ2o2NmxxMjJmZzE1NjggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_rtcpuhpvop2pgj66lq22fg1568@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20221103_8o8ucgsi2mko02b2msvbc8mqlg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDNfOG84dWNnc2kybWtvMDJiMm1zdmJjOG1xbGcgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Culture Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-03"
+   },
+   "end": {
+    "date": "2022-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221103_8o8ucgsi2mko02b2msvbc8mqlg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20221123_vuun12ojbcic5bnocijrb2s88k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjNfdnV1bjEyb2piY2ljNWJub2NpanJiMnM4OGsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Labor Thanksgiving Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-23"
+   },
+   "end": {
+    "date": "2022-11-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221123_vuun12ojbcic5bnocijrb2s88k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230101_rrk5srulrhpvc5ifjhj79olvg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfcnJrNXNydWxyaHB2YzVpZmpoajc5b2x2ZzggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_rrk5srulrhpvc5ifjhj79olvg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230102_mqj5l0u2nmi6jvek6b171958vk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfbXFqNWwwdTJubWk2anZlazZiMTcxOTU4dmsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_mqj5l0u2nmi6jvek6b171958vk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230109_bla62qgptg8hu2960q4mmdb6a4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDlfYmxhNjJxZ3B0ZzhodTI5NjBxNG1tZGI2YTQgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Coming of Age Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-09"
+   },
+   "end": {
+    "date": "2023-01-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230109_bla62qgptg8hu2960q4mmdb6a4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230211_dvqna68o5kulgcm338vt622fj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTFfZHZxbmE2OG81a3VsZ2NtMzM4dnQ2MjJmajQgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "National Foundation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-11"
+   },
+   "end": {
+    "date": "2023-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230211_dvqna68o5kulgcm338vt622fj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230223_g9slgj8989tlggqief38gfjjhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjNfZzlzbGdqODk4OXRsZ2dxaWVmMzhnZmpqaHMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Emperor's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-23"
+   },
+   "end": {
+    "date": "2023-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230223_g9slgj8989tlggqief38gfjjhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230321_dnnbq8ih3vvqi0rs2ccrgrkdos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjFfZG5uYnE4aWgzdnZxaTByczJjY3Jncmtkb3MgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Spring Equinox",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-21"
+   },
+   "end": {
+    "date": "2023-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230321_dnnbq8ih3vvqi0rs2ccrgrkdos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230429_q1j2j800n9dm7hdbqcmnabvqhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjlfcTFqMmo4MDBuOWRtN2hkYnFjbW5hYnZxaGsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Shōwa Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-29"
+   },
+   "end": {
+    "date": "2023-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230429_q1j2j800n9dm7hdbqcmnabvqhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230503_j90fqhprqvasmkfcm0pjr05078",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDNfajkwZnFocHJxdmFzbWtmY20wcGpyMDUwNzggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Constitution Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-03"
+   },
+   "end": {
+    "date": "2023-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230503_j90fqhprqvasmkfcm0pjr05078@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230504_cmbj505t90mum8m93p31mhjims",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDRfY21iajUwNXQ5MG11bThtOTNwMzFtaGppbXMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Greenery Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-04"
+   },
+   "end": {
+    "date": "2023-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230504_cmbj505t90mum8m93p31mhjims@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230505_0aht8s6qqjft4opu9dioml8jmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDVfMGFodDhzNnFxamZ0NG9wdTlkaW9tbDhqbWsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-05"
+   },
+   "end": {
+    "date": "2023-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230505_0aht8s6qqjft4opu9dioml8jmk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230717_3hf06eg8bus6qde1mma9lefhf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTdfM2hmMDZlZzhidXM2cWRlMW1tYTlsZWZoZjggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Sea Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-17"
+   },
+   "end": {
+    "date": "2023-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230717_3hf06eg8bus6qde1mma9lefhf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230811_efhua2tidv57dbm39j6envoovs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTFfZWZodWEydGlkdjU3ZGJtMzlqNmVudm9vdnMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Mountain Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-11"
+   },
+   "end": {
+    "date": "2023-08-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230811_efhua2tidv57dbm39j6envoovs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230918_oadebhtv0gpvj426ofq5i8rd4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MThfb2FkZWJodHYwZ3B2ajQyNm9mcTVpOHJkNHMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Respect for the Aged Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-18"
+   },
+   "end": {
+    "date": "2023-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230918_oadebhtv0gpvj426ofq5i8rd4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20230923_ebsrrjpu3su6viqon1gfvpj5rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjNfZWJzcnJqcHUzc3U2dmlxb24xZ2Z2cGo1cmcgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Autumn Equinox",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-23"
+   },
+   "end": {
+    "date": "2023-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230923_ebsrrjpu3su6viqon1gfvpj5rg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20231009_ft46ok6svkoutsjchbo8absc9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfZnQ0Nm9rNnN2a291dHNqY2hibzhhYnNjOWMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_ft46ok6svkoutsjchbo8absc9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20231103_3mh5aq2l6qo6crmqaq640di97c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDNfM21oNWFxMmw2cW82Y3JtcWFxNjQwZGk5N2MgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Culture Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-03"
+   },
+   "end": {
+    "date": "2023-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231103_3mh5aq2l6qo6crmqaq640di97c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20231123_h64oemaelu98ophb19q5inievc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjNfaDY0b2VtYWVsdTk4b3BoYjE5cTVpbmlldmMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Labor Thanksgiving Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-23"
+   },
+   "end": {
+    "date": "2023-11-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231123_h64oemaelu98ophb19q5inievc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240101_5cjf7ahuocoh4u5j0jkpiqc8f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNWNqZjdhaHVvY29oNHU1ajBqa3BpcWM4ZjggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_5cjf7ahuocoh4u5j0jkpiqc8f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240108_il1597ahv8fkajk0st2fg7a8ng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDhfaWwxNTk3YWh2OGZrYWprMHN0MmZnN2E4bmcgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Coming of Age Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-08"
+   },
+   "end": {
+    "date": "2024-01-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240108_il1597ahv8fkajk0st2fg7a8ng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240211_h2adm90t2vh0pju4d13h4s1ksg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfaDJhZG05MHQydmgwcGp1NGQxM2g0czFrc2cgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "National Foundation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_h2adm90t2vh0pju4d13h4s1ksg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240212_1hqbpk9cop8is7m7t75nl5lug4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfMWhxYnBrOWNvcDhpczdtN3Q3NW5sNWx1ZzQgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "National Foundation Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_1hqbpk9cop8is7m7t75nl5lug4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240223_3pp2dc8ookbmjod2hamvnmc7hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjNfM3BwMmRjOG9va2Jtam9kMmhhbXZubWM3aHMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Emperor's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-23"
+   },
+   "end": {
+    "date": "2024-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240223_3pp2dc8ookbmjod2hamvnmc7hs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240320_bsuv1j4dsc7ljb5be1repk948c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjBfYnN1djFqNGRzYzdsamI1YmUxcmVwazk0OGMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Spring Equinox",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-20"
+   },
+   "end": {
+    "date": "2024-03-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240320_bsuv1j4dsc7ljb5be1repk948c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240429_76ad1f1unpg0lv0vncaj7ohc3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjlfNzZhZDFmMXVucGcwbHYwdm5jYWo3b2hjM2MgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Shōwa Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-29"
+   },
+   "end": {
+    "date": "2024-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240429_76ad1f1unpg0lv0vncaj7ohc3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240503_a9oh2smie372d7t5082ka95k1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDNfYTlvaDJzbWllMzcyZDd0NTA4MmthOTVrMXMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Constitution Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-03"
+   },
+   "end": {
+    "date": "2024-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240503_a9oh2smie372d7t5082ka95k1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240504_ad6naou4sr7vc64klq6jsh4cd0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDRfYWQ2bmFvdTRzcjd2YzY0a2xxNmpzaDRjZDAgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Greenery Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-04"
+   },
+   "end": {
+    "date": "2024-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240504_ad6naou4sr7vc64klq6jsh4cd0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240505_164eu8qca9h3ssi9c841val90k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfMTY0ZXU4cWNhOWgzc3NpOWM4NDF2YWw5MGsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_164eu8qca9h3ssi9c841val90k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240506_ag32p25flbmfsdqaugv888acus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfYWczMnAyNWZsYm1mc2RxYXVndjg4OGFjdXMgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Children's Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_ag32p25flbmfsdqaugv888acus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240715_ne1lkv7p7jl8pnd6j3283ftl7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTVfbmUxbGt2N3A3amw4cG5kNmozMjgzZnRsN2sgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Sea Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-15"
+   },
+   "end": {
+    "date": "2024-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240715_ne1lkv7p7jl8pnd6j3283ftl7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240811_tmki993th5o0j7p33ukesosl3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTFfdG1raTk5M3RoNW8wajdwMzN1a2Vzb3NsM3MgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Mountain Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-11"
+   },
+   "end": {
+    "date": "2024-08-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240811_tmki993th5o0j7p33ukesosl3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240812_03vqt3rskj8hajdel9sp5u0cmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTJfMDN2cXQzcnNrajhoYWpkZWw5c3A1dTBjbWcgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Day off for Mountain Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-12"
+   },
+   "end": {
+    "date": "2024-08-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240812_03vqt3rskj8hajdel9sp5u0cmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240916_ou7729a1l0g8mvbr53pbr80t4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfb3U3NzI5YTFsMGc4bXZicjUzcGJyODB0NGsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Respect for the Aged Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_ou7729a1l0g8mvbr53pbr80t4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240922_504bq2b802fpot2bk3ltnovo3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjJfNTA0YnEyYjgwMmZwb3QyYmszbHRub3ZvM3MgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Autumn Equinox",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-22"
+   },
+   "end": {
+    "date": "2024-09-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240922_504bq2b802fpot2bk3ltnovo3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20240923_2djibgd27hvc4n6i7b85qm3qm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjNfMmRqaWJnZDI3aHZjNG42aTdiODVxbTNxbTAgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Autumn Equinox observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-23"
+   },
+   "end": {
+    "date": "2024-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240923_2djibgd27hvc4n6i7b85qm3qm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20241014_281184fcm9irc5nhi9d4lqe4pk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTRfMjgxMTg0ZmNtOWlyYzVuaGk5ZDRscWU0cGsgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-14"
+   },
+   "end": {
+    "date": "2024-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241014_281184fcm9irc5nhi9d4lqe4pk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20241103_th6ohd8ad7nph109d5qa7rftio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDNfdGg2b2hkOGFkN25waDEwOWQ1cWE3cmZ0aW8gZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Culture Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-03"
+   },
+   "end": {
+    "date": "2024-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241103_th6ohd8ad7nph109d5qa7rftio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20241104_n7ghcqb7cio3sq880ugnpk48p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDRfbjdnaGNxYjdjaW8zc3E4ODB1Z25wazQ4cDAgZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Culture Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-04"
+   },
+   "end": {
+    "date": "2024-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241104_n7ghcqb7cio3sq880ugnpk48p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900348354000\"",
+   "id": "20241123_brepqn59rkaetfgn37kdf6e3s8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjNfYnJlcHFuNTlya2FldGZnbjM3a2RmNmUzczggZW4uamFwYW5lc2UjaG9saWRheUB2",
+   "created": "2022-09-23T16:22:54.000Z",
+   "updated": "2022-09-23T16:22:54.177Z",
+   "summary": "Labor Thanksgiving Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.japanese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Japan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-23"
+   },
+   "end": {
+    "date": "2024-11-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241123_brepqn59rkaetfgn37kdf6e3s8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

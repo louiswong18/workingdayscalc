@@ -1,0 +1,1549 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p335uj348rqlo00o\"",
+ "summary": "Holidays in Luxembourg",
+ "description": "Holidays and Observances in Luxembourg",
+ "updated": "2023-07-25T04:05:32.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIC29rz9qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980323638000\"",
+   "id": "20220417_58htsk9acjqd1p1cgsi1rria6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfNThodHNrOWFjanFkMXAxY2dzaTFycmlhNm8gZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:41.000Z",
+   "updated": "2021-08-26T15:02:41.819Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_58htsk9acjqd1p1cgsi1rria6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980323638000\"",
+   "id": "20220418_b99hvq1vehkudnsnqkub8rboak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfYjk5aHZxMXZlaGt1ZG5zbnFrdWI4cmJvYWsgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:41.000Z",
+   "updated": "2021-08-26T15:02:41.819Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_b99hvq1vehkudnsnqkub8rboak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980323638000\"",
+   "id": "20220501_dd7int7mre896mqsknk1v8eq84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfZGQ3aW50N21yZTg5Nm1xc2tuazF2OGVxODQgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:41.000Z",
+   "updated": "2021-08-26T15:02:41.819Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_dd7int7mre896mqsknk1v8eq84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980323638000\"",
+   "id": "20220605_32g5j33luuv4b8e5i218og55bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfMzJnNWozM2x1dXY0YjhlNWkyMThvZzU1YmcgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:41.000Z",
+   "updated": "2021-08-26T15:02:41.819Z",
+   "summary": "Whit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_32g5j33luuv4b8e5i218og55bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980323638000\"",
+   "id": "20220815_04djpse61ll6kqsmh6e1nh55cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfMDRkanBzZTYxbGw2a3FzbWg2ZTFuaDU1Y2MgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:41.000Z",
+   "updated": "2021-08-26T15:02:41.819Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_04djpse61ll6kqsmh6e1nh55cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980326810000\"",
+   "id": "20220101_vfl19eud4d1kal5a01oqhurle4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfdmZsMTlldWQ0ZDFrYWw1YTAxb3FodXJsZTQgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:43.000Z",
+   "updated": "2021-08-26T15:02:43.405Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_vfl19eud4d1kal5a01oqhurle4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980326810000\"",
+   "id": "20220526_gqan16m8urbu901uaf3rtvfumg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfZ3FhbjE2bTh1cmJ1OTAxdWFmM3J0dmZ1bWcgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:43.000Z",
+   "updated": "2021-08-26T15:02:43.405Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_gqan16m8urbu901uaf3rtvfumg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980326810000\"",
+   "id": "20220623_4l92pstjviprpqa57jlph6apqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjNfNGw5MnBzdGp2aXBycHFhNTdqbHBoNmFwcWMgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:43.000Z",
+   "updated": "2021-08-26T15:02:43.405Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-23"
+   },
+   "end": {
+    "date": "2022-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220623_4l92pstjviprpqa57jlph6apqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980329480000\"",
+   "id": "20220606_svsf1vt4o8988j531o0lt36n5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfc3ZzZjF2dDRvODk4OGo1MzFvMGx0MzZuNXMgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:44.000Z",
+   "updated": "2021-08-26T15:02:44.740Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_svsf1vt4o8988j531o0lt36n5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259980332508000\"",
+   "id": "20220509_pbuc74jjpdf87v6am3dh0b17mc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfcGJ1Yzc0ampwZGY4N3Y2YW0zZGgwYjE3bWMgZW4ubHUjaG9saWRheUB2",
+   "created": "2021-08-26T15:02:46.000Z",
+   "updated": "2021-08-26T15:02:46.254Z",
+   "summary": "Europe Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_pbuc74jjpdf87v6am3dh0b17mc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307972014208000\"",
+   "id": "20220612_39u4j5pupgae4r2ffj3e2drt74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTJfMzl1NGo1cHVwZ2FlNHIyZmZqM2UyZHJ0NzQgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-05-31T08:33:27.000Z",
+   "updated": "2022-05-31T08:33:27.104Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-12"
+   },
+   "end": {
+    "date": "2022-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220612_39u4j5pupgae4r2ffj3e2drt74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20221002_413ntucmlkvq8v2ee5gt9tvnb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfNDEzbnR1Y21sa3ZxOHYyZWU1Z3Q5dHZuYjggZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_413ntucmlkvq8v2ee5gt9tvnb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20221101_ginttfgehm4i17s51msdhqbnt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfZ2ludHRmZ2VobTRpMTdzNTFtc2RocWJudDQgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_ginttfgehm4i17s51msdhqbnt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20221225_b86djf9mo3udhsnic793tmtqv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfYjg2ZGpmOW1vM3VkaHNuaWM3OTN0bXRxdjAgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_b86djf9mo3udhsnic793tmtqv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20221226_o1nuasm16vg4svj64c9jgh7js0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfbzFudWFzbTE2dmc0c3ZqNjRjOWpnaDdqczAgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "St Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_o1nuasm16vg4svj64c9jgh7js0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20221231_jcseshfhq8i6vt9017aubsvvnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfamNzZXNoZmhxOGk2dnQ5MDE3YXVic3Z2bmsgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_jcseshfhq8i6vt9017aubsvvnk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230101_qdg625263sh3r1v4a6cg3e7or4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfcWRnNjI1MjYzc2gzcjF2NGE2Y2czZTdvcjQgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_qdg625263sh3r1v4a6cg3e7or4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230409_ue9goda3lre06rmrsb0voj2dk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfdWU5Z29kYTNscmUwNnJtcnNiMHZvajJkazQgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_ue9goda3lre06rmrsb0voj2dk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230410_u4ji5ui011vbj8d8dkf521hbck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfdTRqaTV1aTAxMXZiajhkOGRrZjUyMWhiY2sgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_u4ji5ui011vbj8d8dkf521hbck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230501_rsg3t659qr11gna8qacl3onh88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcnNnM3Q2NTlxcjExZ25hOHFhY2wzb25oODggZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_rsg3t659qr11gna8qacl3onh88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230509_6qq7s025vr9tru6q2od3nkvjg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDlfNnFxN3MwMjV2cjl0cnU2cTJvZDNua3ZqZzAgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Europe Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-09"
+   },
+   "end": {
+    "date": "2023-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230509_6qq7s025vr9tru6q2od3nkvjg0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230518_gv5psj5g43pfl75pmlf84cuamo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfZ3Y1cHNqNWc0M3BmbDc1cG1sZjg0Y3VhbW8gZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_gv5psj5g43pfl75pmlf84cuamo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230528_kv545her57ietnud140pu3cjt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1Mjhfa3Y1NDVoZXI1N2lldG51ZDE0MHB1M2NqdDggZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Whit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_kv545her57ietnud140pu3cjt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230529_kdtmvk7haotejtnu6k812teptk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1Mjlfa2R0bXZrN2hhb3RlanRudTZrODEydGVwdGsgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_kdtmvk7haotejtnu6k812teptk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230611_6ae9ldqqenon9augpbsskuk72g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTFfNmFlOWxkcXFlbm9uOWF1Z3Bic3NrdWs3MmcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-11"
+   },
+   "end": {
+    "date": "2023-06-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230611_6ae9ldqqenon9augpbsskuk72g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230623_l7c3aop8rgu11aop51o16dpd90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjNfbDdjM2FvcDhyZ3UxMWFvcDUxbzE2ZHBkOTAgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-23"
+   },
+   "end": {
+    "date": "2023-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230623_l7c3aop8rgu11aop51o16dpd90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20230815_gm93tdn2o5rskdo8ceg2d0f808",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfZ205M3RkbjJvNXJza2RvOGNlZzJkMGY4MDggZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_gm93tdn2o5rskdo8ceg2d0f808@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20231001_th1hu0t3j08dc5ie4f9f7vctfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfdGgxaHUwdDNqMDhkYzVpZTRmOWY3dmN0ZmcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_th1hu0t3j08dc5ie4f9f7vctfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20231101_qlnuacr50sapbjdptt9hlj250k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfcWxudWFjcjUwc2FwYmpkcHR0OWhsajI1MGsgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_qlnuacr50sapbjdptt9hlj250k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20231225_rn3jerlhh1fj3ecnkcbmrcn91g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfcm4zamVybGhoMWZqM2VjbmtjYm1yY245MWcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_rn3jerlhh1fj3ecnkcbmrcn91g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20231226_80clgleht5k31tr7u6cqdlnias",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfODBjbGdsZWh0NWszMXRyN3U2Y3FkbG5pYXMgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "St Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_80clgleht5k31tr7u6cqdlnias@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20231231_vu5vngndnksglc7kabpru4eslg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfdnU1dm5nbmRua3NnbGM3a2FicHJ1NGVzbGcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_vu5vngndnksglc7kabpru4eslg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240101_7hf07jbsjmvefn4pbc4f256ihk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfN2hmMDdqYnNqbXZlZm40cGJjNGYyNTZpaGsgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_7hf07jbsjmvefn4pbc4f256ihk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240331_f6rmaee75b7k3kf15q57q5gq9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfZjZybWFlZTc1YjdrM2tmMTVxNTdxNWdxOWsgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_f6rmaee75b7k3kf15q57q5gq9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240401_s4dj2f0jg2khjf6cvntlnop4kk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfczRkajJmMGpnMmtoamY2Y3ZudGxub3A0a2sgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_s4dj2f0jg2khjf6cvntlnop4kk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240501_8c8o044r8voaghav0rbbbkrspo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfOGM4bzA0NHI4dm9hZ2hhdjByYmJia3JzcG8gZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_8c8o044r8voaghav0rbbbkrspo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240509_60k687b8bbk9dach377pi10vj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfNjBrNjg3YjhiYms5ZGFjaDM3N3BpMTB2ajggZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Europe Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_60k687b8bbk9dach377pi10vj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240509_lamjattur706685521rjbo4edc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfbGFtamF0dHVyNzA2Njg1NTIxcmpibzRlZGMgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_lamjattur706685521rjbo4edc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240519_0fif5n9me3amc273ppghilirh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfMGZpZjVuOW1lM2FtYzI3M3BwZ2hpbGlyaDggZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Whit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_0fif5n9me3amc273ppghilirh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240520_fgeuhsq4tq9db25kj0gagh1sqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfZmdldWhzcTR0cTlkYjI1a2owZ2FnaDFzcWcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_fgeuhsq4tq9db25kj0gagh1sqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240609_bfr30mmtjjvho73eej3jdptal4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDlfYmZyMzBtbXRqanZobzczZWVqM2pkcHRhbDQgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-09"
+   },
+   "end": {
+    "date": "2024-06-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240609_bfr30mmtjjvho73eej3jdptal4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240623_kjohqvoq970dm625ndu86bv82c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjNfa2pvaHF2b3E5NzBkbTYyNW5kdTg2YnY4MmMgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-23"
+   },
+   "end": {
+    "date": "2024-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240623_kjohqvoq970dm625ndu86bv82c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20240815_4olgargmh2ga54fr13noeo97hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfNG9sZ2FyZ21oMmdhNTRmcjEzbm9lbzk3aGcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_4olgargmh2ga54fr13noeo97hg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20241006_a8gd2lcis5hkkv48upl0f66des",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDZfYThnZDJsY2lzNWhra3Y0OHVwbDBmNjZkZXMgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-06"
+   },
+   "end": {
+    "date": "2024-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241006_a8gd2lcis5hkkv48upl0f66des@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20241101_s7i09gggdtebedjhi09oe9cnb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfczdpMDlnZ2dkdGViZWRqaGkwOW9lOWNuYjAgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_s7i09gggdtebedjhi09oe9cnb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20241225_eq7jcj9k1lg09clh0h4q968jic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfZXE3amNqOWsxbGcwOWNsaDBoNHE5NjhqaWMgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_eq7jcj9k1lg09clh0h4q968jic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20241226_f2jaj56lrnnio0k1j16hpngsjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZjJqYWo1Nmxybm5pbzBrMWoxNmhwbmdzanMgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "St Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_f2jaj56lrnnio0k1j16hpngsjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904827638000\"",
+   "id": "20241231_h3ggqh6n1hplplo88k099qit0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfaDNnZ3FoNm4xaHBscGxvODhrMDk5cWl0MGcgZW4ubHUjaG9saWRheUB2",
+   "created": "2022-09-23T17:00:13.000Z",
+   "updated": "2022-09-23T17:00:13.819Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Luxembourg",
+   "creator": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Luxembourg",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_h3ggqh6n1hplplo88k099qit0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

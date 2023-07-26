@@ -1,0 +1,1645 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33asf447rqlo00o\"",
+ "summary": "Holidays in Ireland",
+ "description": "Holidays and Observances in Ireland",
+ "updated": "2023-07-24T23:04:28.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICuq5e6qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220101_0580l3obv1oiqb09jpenk3f40s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMDU4MGwzb2J2MW9pcWIwOWpwZW5rM2Y0MHMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_0580l3obv1oiqb09jpenk3f40s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220317_g5f69qaau5k19sdh1brs3ii508",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfZzVmNjlxYWF1NWsxOXNkaDFicnMzaWk1MDggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "St. Patrick's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_g5f69qaau5k19sdh1brs3ii508@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220415_v490ujde8fmc8659pmf33rpjtk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfdjQ5MHVqZGU4Zm1jODY1OXBtZjMzcnBqdGsgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_v490ujde8fmc8659pmf33rpjtk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220417_frdoh38g9dg9tl6evg05k4t1es",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfZnJkb2gzOGc5ZGc5dGw2ZXZnMDVrNHQxZXMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "Easter",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_frdoh38g9dg9tl6evg05k4t1es@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220418_nk1hj1mfreoqe7t0okk88n9d8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfbmsxaGoxbWZyZW9xZTd0MG9razg4bjlkOHMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_nk1hj1mfreoqe7t0okk88n9d8s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220502_jpmk4atc6u9vvkk9h9if02b6p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfanBtazRhdGM2dTl2dmtrOWg5aWYwMmI2cDAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_jpmk4atc6u9vvkk9h9if02b6p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976844252000\"",
+   "id": "20220606_tdgu87r4mqdi5k89pk2vrojmic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfdGRndTg3cjRtcWRpNWs4OXBrMnZyb2ptaWMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:42.000Z",
+   "updated": "2021-08-26T14:33:42.126Z",
+   "summary": "June Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_tdgu87r4mqdi5k89pk2vrojmic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259976851134000\"",
+   "id": "20220801_3btn7phsrgb9eku90rf67j6st4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfM2J0bjdwaHNyZ2I5ZWt1OTByZjY3ajZzdDQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-08-26T14:33:45.000Z",
+   "updated": "2021-08-26T14:33:45.567Z",
+   "summary": "August Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_3btn7phsrgb9eku90rf67j6st4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274284719164000\"",
+   "id": "20220103_do3he1u90797gn1vrrci4ud4l8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfZG8zaGUxdTkwNzk3Z24xdnJyY2k0dWQ0bDggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2021-11-17T09:45:59.000Z",
+   "updated": "2021-11-17T09:45:59.582Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_do3he1u90797gn1vrrci4ud4l8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334185728000\"",
+   "id": "20220318_va4dhc361q1o5qi2slkh0hgc94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMThfdmE0ZGhjMzYxcTFvNXFpMnNsa2gwaGdjOTQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-01-26T03:18:12.000Z",
+   "updated": "2022-01-26T03:18:12.864Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-18"
+   },
+   "end": {
+    "date": "2022-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220318_va4dhc361q1o5qi2slkh0hgc94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297503535696000\"",
+   "id": "20220327_a4nik4hekuseh85udlbsrluclk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfYTRuaWs0aGVrdXNlaDg1dWRsYnNybHVjbGsgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-03-31T18:36:07.000Z",
+   "updated": "2022-03-31T18:36:07.848Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_a4nik4hekuseh85udlbsrluclk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20221031_mm82nmbf16fs966bd3kcqe9tu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfbW04Mm5tYmYxNmZzOTY2YmQza2NxZTl0dTggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "October Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_mm82nmbf16fs966bd3kcqe9tu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20221224_74ensb6rhlv2t6qm4h693meeg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfNzRlbnNiNnJobHYydDZxbTRoNjkzbWVlZzAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_74ensb6rhlv2t6qm4h693meeg0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20221225_plip98t2eb5m2rsrmpknt5du40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfcGxpcDk4dDJlYjVtMnJzcm1wa250NWR1NDAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_plip98t2eb5m2rsrmpknt5du40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20221226_bu139qe1vs7o43uq2njpacjboo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfYnUxMzlxZTF2czdvNDN1cTJuanBhY2pib28gZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_bu139qe1vs7o43uq2njpacjboo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20221231_jf77maioavs5o8bjauteck101o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfamY3N21haW9hdnM1bzhiamF1dGVjazEwMW8gZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_jf77maioavs5o8bjauteck101o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230101_tnk4rrqjba5f07ho5s4hthosqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdG5rNHJycWpiYTVmMDdobzVzNGh0aG9zcWsgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_tnk4rrqjba5f07ho5s4hthosqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230206_q601pvkncenj150f61qrg5tnn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDZfcTYwMXB2a25jZW5qMTUwZjYxcXJnNXRubjQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Brigid’s Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-06"
+   },
+   "end": {
+    "date": "2023-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230206_q601pvkncenj150f61qrg5tnn4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230317_sqc5pfqa4fa13ptlj87mkm62kg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTdfc3FjNXBmcWE0ZmExM3B0bGo4N21rbTYya2cgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Patrick's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-17"
+   },
+   "end": {
+    "date": "2023-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230317_sqc5pfqa4fa13ptlj87mkm62kg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230319_3nmc6mdeonbcgfhfia7rrj2o34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTlfM25tYzZtZGVvbmJjZ2ZoZmlhN3JyajJvMzQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-19"
+   },
+   "end": {
+    "date": "2023-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230319_3nmc6mdeonbcgfhfia7rrj2o34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230407_h4e2m077fsqanntvmrlkpt6338",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfaDRlMm0wNzdmc3Fhbm50dm1ybGtwdDYzMzggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_h4e2m077fsqanntvmrlkpt6338@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230409_qmk6msm4vb1uqgdsorfc2l37cg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfcW1rNm1zbTR2YjF1cWdkc29yZmMybDM3Y2cgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Easter",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_qmk6msm4vb1uqgdsorfc2l37cg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230410_ogmf890csllbrgjhhkdeeuqht8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfb2dtZjg5MGNzbGxicmdqaGhrZGVldXFodDggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_ogmf890csllbrgjhhkdeeuqht8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230501_te4sj2fchgbq4msbfi69f5tg5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfdGU0c2oyZmNoZ2JxNG1zYmZpNjlmNXRnNXMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_te4sj2fchgbq4msbfi69f5tg5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230605_276h8r6698qjnt2gaf5hb7cdck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDVfMjc2aDhyNjY5OHFqbnQyZ2FmNWhiN2NkY2sgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "June Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-05"
+   },
+   "end": {
+    "date": "2023-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230605_276h8r6698qjnt2gaf5hb7cdck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20230807_9oq93a2fdtbsmi6ogclre2jtko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfOW9xOTNhMmZkdGJzbWk2b2djbHJlMmp0a28gZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "August Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_9oq93a2fdtbsmi6ogclre2jtko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20231030_rmi3nr8t6igugk9m5obcr6lpq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzBfcm1pM25yOHQ2aWd1Z2s5bTVvYmNyNmxwcTAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "October Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-30"
+   },
+   "end": {
+    "date": "2023-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231030_rmi3nr8t6igugk9m5obcr6lpq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20231224_ac85aluchier8aesr27j9v4ehc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfYWM4NWFsdWNoaWVyOGFlc3IyN2o5djRlaGMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_ac85aluchier8aesr27j9v4ehc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20231225_vv3q3qa19hn29girdr25ketls4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdnYzcTNxYTE5aG4yOWdpcmRyMjVrZXRsczQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_vv3q3qa19hn29girdr25ketls4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20231226_pqmea13fart5eu5uhf3i84oc2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfcHFtZWExM2ZhcnQ1ZXU1dWhmM2k4NG9jMnMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_pqmea13fart5eu5uhf3i84oc2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20231231_47a7nha1kh9n52grdg1rjkopr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfNDdhN25oYTFraDluNTJncmRnMXJqa29wcjQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_47a7nha1kh9n52grdg1rjkopr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240101_sivkcmuj8h44vg1fe09qpag3qg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfc2l2a2NtdWo4aDQ0dmcxZmUwOXFwYWczcWcgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_sivkcmuj8h44vg1fe09qpag3qg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240205_0u8n81af98ie2nskut3v7lfkn8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDVfMHU4bjgxYWY5OGllMm5za3V0M3Y3bGZrbjggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Brigid’s Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-05"
+   },
+   "end": {
+    "date": "2024-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240205_0u8n81af98ie2nskut3v7lfkn8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240310_39pbl1a65327i23lv9a4bjpeks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTBfMzlwYmwxYTY1MzI3aTIzbHY5YTRianBla3MgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-10"
+   },
+   "end": {
+    "date": "2024-03-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240310_39pbl1a65327i23lv9a4bjpeks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240317_8nlevub27lto3cmmqlb4scigqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTdfOG5sZXZ1YjI3bHRvM2NtbXFsYjRzY2lncWMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Patrick's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-17"
+   },
+   "end": {
+    "date": "2024-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240317_8nlevub27lto3cmmqlb4scigqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240329_h30qcd05rusp2ip93u0n6g44f0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfaDMwcWNkMDVydXNwMmlwOTN1MG42ZzQ0ZjAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_h30qcd05rusp2ip93u0n6g44f0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240331_29pbq4p9ge4fi3hk3fao6ei9dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfMjlwYnE0cDlnZTRmaTNoazNmYW82ZWk5ZGMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Easter",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_29pbq4p9ge4fi3hk3fao6ei9dc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240401_dvsg4lfapsasi3fi499uesjsug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfZHZzZzRsZmFwc2FzaTNmaTQ5OXVlc2pzdWcgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_dvsg4lfapsasi3fi499uesjsug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240506_bqbavsb3mapgvr8gmlki528g64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfYnFiYXZzYjNtYXBndnI4Z21sa2k1MjhnNjQgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_bqbavsb3mapgvr8gmlki528g64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240603_p2vliv55erp9afucop1e7o2g7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDNfcDJ2bGl2NTVlcnA5YWZ1Y29wMWU3bzJnN2sgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "June Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-03"
+   },
+   "end": {
+    "date": "2024-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240603_p2vliv55erp9afucop1e7o2g7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20240805_7hmt4m41jb5rpfs9vdp711cfks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfN2htdDRtNDFqYjVycGZzOXZkcDcxMWNma3MgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "August Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_7hmt4m41jb5rpfs9vdp711cfks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20241028_u1pvtuu7sojpe2g8og2eqkfb6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjhfdTFwdnR1dTdzb2pwZTJnOG9nMmVxa2ZiNmMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "October Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-28"
+   },
+   "end": {
+    "date": "2024-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241028_u1pvtuu7sojpe2g8og2eqkfb6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20241224_e3uhvjjjg0vrr8iq6kfgdv74cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfZTN1aHZqampnMHZycjhpcTZrZmdkdjc0Y3MgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_e3uhvjjjg0vrr8iq6kfgdv74cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20241225_5dorlje6siq7q0afunhnjsd8gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfNWRvcmxqZTZzaXE3cTBhZnVuaG5qc2Q4Z2sgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_5dorlje6siq7q0afunhnjsd8gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20241226_jiq13fn93tt8aiv4rk4drlnpvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfamlxMTNmbjkzdHQ4YWl2NHJrNGRybG5wdnMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_jiq13fn93tt8aiv4rk4drlnpvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898079746000\"",
+   "id": "20241231_oormkm8l1mqs0fmqvlglk32bm8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfb29ybWttOGwxbXFzMGZtcXZsZ2xrMzJibTggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:03:59.000Z",
+   "updated": "2022-09-23T16:03:59.873Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_oormkm8l1mqs0fmqvlglk32bm8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3351451924052000\"",
+   "id": "20230201_gbas14m0khb3oc5krc6mdn2d50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDFfZ2JhczE0bTBraGIzb2M1a3JjNm1kbjJkNTAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2023-02-06T23:26:02.000Z",
+   "updated": "2023-02-06T23:26:02.026Z",
+   "summary": "St. Brigid’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-01"
+   },
+   "end": {
+    "date": "2023-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230201_gbas14m0khb3oc5krc6mdn2d50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3351451924052000\"",
+   "id": "20240201_vlgbjjp44e37jiq77pia2tp080",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDFfdmxnYmpqcDQ0ZTM3amlxNzdwaWEydHAwODAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2023-02-06T23:26:02.000Z",
+   "updated": "2023-02-06T23:26:02.026Z",
+   "summary": "St. Brigid’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-01"
+   },
+   "end": {
+    "date": "2024-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240201_vlgbjjp44e37jiq77pia2tp080@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352134846924000\"",
+   "id": "20220619_3rdu98170u381j6d4h7jrhpmu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfM3JkdTk4MTcwdTM4MWo2ZDRoN2pyaHBtdTggZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2023-02-10T22:17:03.000Z",
+   "updated": "2023-02-10T22:17:03.462Z",
+   "summary": "Father’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_3rdu98170u381j6d4h7jrhpmu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352134846924000\"",
+   "id": "20230618_n6ptk1v4mn68egrf593ehilht0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfbjZwdGsxdjRtbjY4ZWdyZjU5M2VoaWxodDAgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2023-02-10T22:17:03.000Z",
+   "updated": "2023-02-10T22:17:03.462Z",
+   "summary": "Father’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_n6ptk1v4mn68egrf593ehilht0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352134846924000\"",
+   "id": "20240616_50pccittmijn8de84rqa4867ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfNTBwY2NpdHRtaWpuOGRlODRycWE0ODY3ZWMgZW4uaXJpc2gjaG9saWRheUB2",
+   "created": "2023-02-10T22:17:03.000Z",
+   "updated": "2023-02-10T22:17:03.462Z",
+   "summary": "Father’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Ireland",
+   "creator": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.irish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Ireland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_50pccittmijn8de84rqa4867ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

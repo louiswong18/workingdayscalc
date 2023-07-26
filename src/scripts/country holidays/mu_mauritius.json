@@ -1,0 +1,1741 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p331dli7vrmlo00o\"",
+ "summary": "Holidays in Mauritius",
+ "description": "Holidays and Observances in Mauritius",
+ "updated": "2023-07-25T03:36:09.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMC4ofT2qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963848446000\"",
+   "id": "20220118_111jgqmdkdh5eaaokl7n2gf45s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMThfMTExamdxbWRrZGg1ZWFhb2tsN24yZ2Y0NXMgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:24.000Z",
+   "updated": "2021-08-26T12:45:24.223Z",
+   "summary": "Thaipoosam Cavadee",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-18"
+   },
+   "end": {
+    "date": "2022-01-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220118_111jgqmdkdh5eaaokl7n2gf45s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963848446000\"",
+   "id": "20220301_0t7754178229oqe4ovfh897770",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfMHQ3NzU0MTc4MjI5b3FlNG92Zmg4OTc3NzAgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:24.000Z",
+   "updated": "2021-08-26T12:45:24.223Z",
+   "summary": "Maha Shivaratree",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_0t7754178229oqe4ovfh897770@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963848446000\"",
+   "id": "20220402_5makbgfskln1048da83eeupnio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfNW1ha2JnZnNrbG4xMDQ4ZGE4M2VldXBuaW8gZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:24.000Z",
+   "updated": "2021-08-26T12:45:24.223Z",
+   "summary": "Ougadi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_5makbgfskln1048da83eeupnio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963848446000\"",
+   "id": "20220529_pnel9tl3ah606u9d72uecduols",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjlfcG5lbDl0bDNhaDYwNnU5ZDcydWVjZHVvbHMgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:24.000Z",
+   "updated": "2021-08-26T12:45:24.223Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-29"
+   },
+   "end": {
+    "date": "2022-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220529_pnel9tl3ah606u9d72uecduols@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963852732000\"",
+   "id": "20220102_1ctkuinri62b1a12cqm3nilvvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfMWN0a3VpbnJpNjJiMWExMmNxbTNuaWx2dnMgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:26.000Z",
+   "updated": "2021-08-26T12:45:26.366Z",
+   "summary": "New Year (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_1ctkuinri62b1a12cqm3nilvvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963852732000\"",
+   "id": "20220201_98sn6erfrc80ra7j4i466q3rtc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfOThzbjZlcmZyYzgwcmE3ajRpNDY2cTNydGMgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:26.000Z",
+   "updated": "2021-08-26T12:45:26.366Z",
+   "summary": "Abolition of Slavery",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_98sn6erfrc80ra7j4i466q3rtc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963852732000\"",
+   "id": "20220201_oa9m3ge743fml150qvf9agilr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfb2E5bTNnZTc0M2ZtbDE1MHF2ZjlhZ2lscjQgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:26.000Z",
+   "updated": "2021-08-26T12:45:26.366Z",
+   "summary": "Chinese Spring Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_oa9m3ge743fml150qvf9agilr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963852732000\"",
+   "id": "20220503_d4l5ep2jjpshd1u772jr6k8omo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfZDRsNWVwMmpqcHNoZDF1NzcyanI2azhvbW8gZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:26.000Z",
+   "updated": "2021-08-26T12:45:26.366Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_d4l5ep2jjpshd1u772jr6k8omo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963852732000\"",
+   "id": "20220815_8frngkds3tg5plu6bcuai19184",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfOGZybmdrZHMzdGc1cGx1NmJjdWFpMTkxODQgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:26.000Z",
+   "updated": "2021-08-26T12:45:26.366Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_8frngkds3tg5plu6bcuai19184@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963856204000\"",
+   "id": "20220312_p9u1hcq96a8f2tup2kt6lu1blk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTJfcDl1MWhjcTk2YThmMnR1cDJrdDZsdTFibGsgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:28.000Z",
+   "updated": "2021-08-26T12:45:28.102Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-12"
+   },
+   "end": {
+    "date": "2022-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220312_p9u1hcq96a8f2tup2kt6lu1blk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963856204000\"",
+   "id": "20220501_r7fk2n1kn4g0aq7s68dqqent9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfcjdmazJuMWtuNGcwYXE3czY4ZHFxZW50OWsgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:28.000Z",
+   "updated": "2021-08-26T12:45:28.102Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_r7fk2n1kn4g0aq7s68dqqent9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963859136000\"",
+   "id": "20220101_nitvmdhi4d7c7e47lchd0m3j0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfbml0dm1kaGk0ZDdjN2U0N2xjaGQwbTNqMHMgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:29.000Z",
+   "updated": "2021-08-26T12:45:29.568Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_nitvmdhi4d7c7e47lchd0m3j0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259963859136000\"",
+   "id": "20220619_umilbmsr157shuq2a50sp5mbog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfdW1pbGJtc3IxNTdzaHVxMmE1MHNwNW1ib2cgZW4ubXUjaG9saWRheUB2",
+   "created": "2021-08-26T12:45:29.000Z",
+   "updated": "2021-08-26T12:45:29.568Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_umilbmsr157shuq2a50sp5mbog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3282577590452000\"",
+   "id": "20220103_f67r25al45tu99h10trgshsj38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfZjY3cjI1YWw0NXR1OTloMTB0cmdzaHNqMzggZW4ubXUjaG9saWRheUB2",
+   "created": "2022-01-04T09:33:15.000Z",
+   "updated": "2022-01-04T09:33:15.226Z",
+   "summary": "New Year (Day 3)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_f67r25al45tu99h10trgshsj38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3321631359546000\"",
+   "id": "20220901_2mtok8dmksn9li5ijg8jll3nm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDFfMm10b2s4ZG1rc245bGk1aWpnOGpsbDNubTAgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-08-18T09:41:19.000Z",
+   "updated": "2022-08-18T09:41:19.773Z",
+   "summary": "Ganesh Chaturthi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-01"
+   },
+   "end": {
+    "date": "2022-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220901_2mtok8dmksn9li5ijg8jll3nm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20221024_rudsb3jb81d083mqfhcehva7bo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfcnVkc2IzamI4MWQwODNtcWZoY2VodmE3Ym8gZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Divali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_rudsb3jb81d083mqfhcehva7bo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20221102_f5osf06dhfe2bhg7q1l2q811d8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDJfZjVvc2YwNmRoZmUyYmhnN3ExbDJxODExZDggZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Arrival of Indentured Labourers",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-02"
+   },
+   "end": {
+    "date": "2022-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221102_f5osf06dhfe2bhg7q1l2q811d8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20221225_ksjthtos8em7rs4fgfho5c5idg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfa3NqdGh0b3M4ZW03cnM0ZmdmaG81YzVpZGcgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_ksjthtos8em7rs4fgfho5c5idg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230101_oovbi85id502rkks2ml0ol0e74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfb292Ymk4NWlkNTAycmtrczJtbDBvbDBlNzQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_oovbi85id502rkks2ml0ol0e74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230102_02ltr8iupqmcrdbuu4k0smk3u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfMDJsdHI4aXVwcW1jcmRidXU0azBzbWszdTQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "New Year (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_02ltr8iupqmcrdbuu4k0smk3u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230122_9p8sec2r57b1ulk4t779bdlppc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfOXA4c2VjMnI1N2IxdWxrNHQ3NzliZGxwcGMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Chinese Spring Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_9p8sec2r57b1ulk4t779bdlppc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230201_oq6rsg4r6sfd91rpj4sg90768o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDFfb3E2cnNnNHI2c2ZkOTFycGo0c2c5MDc2OG8gZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Abolition of Slavery",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-01"
+   },
+   "end": {
+    "date": "2023-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230201_oq6rsg4r6sfd91rpj4sg90768o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230218_8nd1md84l210334s07iua2tc2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfOG5kMW1kODRsMjEwMzM0czA3aXVhMnRjMmcgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Maha Shivaratree",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_8nd1md84l210334s07iua2tc2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230312_bpirlrubnj3qb1v5dq43jvnffg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTJfYnBpcmxydWJuajNxYjF2NWRxNDNqdm5mZmcgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-12"
+   },
+   "end": {
+    "date": "2023-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230312_bpirlrubnj3qb1v5dq43jvnffg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230322_s4jpl2eqf8fua1e6gq6910p2r8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjJfczRqcGwyZXFmOGZ1YTFlNmdxNjkxMHAycjggZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Ougadi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-22"
+   },
+   "end": {
+    "date": "2023-03-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230322_s4jpl2eqf8fua1e6gq6910p2r8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230422_au2o599ogoqdsls5aqfe6hgaps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfYXUybzU5OW9nb3Fkc2xzNWFxZmU2aGdhcHMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_au2o599ogoqdsls5aqfe6hgaps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230501_u42m57c68jfah6ncbobvj5jmes",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfdTQybTU3YzY4amZhaDZuY2JvYnZqNWptZXMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_u42m57c68jfah6ncbobvj5jmes@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230528_arfd2kksq9trff0i95lqakdqq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfYXJmZDJra3NxOXRyZmYwaTk1bHFha2RxcTQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_arfd2kksq9trff0i95lqakdqq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20230618_v51dp6mnn27id6aone65nlakk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfdjUxZHA2bW5uMjdpZDZhb25lNjVubGFrazQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_v51dp6mnn27id6aone65nlakk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20231101_8kpu3lcgc1gsf4g9kadtnvnhvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfOGtwdTNsY2djMWdzZjRnOWthZHRudm5odmMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "All Saints Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_8kpu3lcgc1gsf4g9kadtnvnhvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20231102_1ad67e5g2tfk9n3sid7ee4hv4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDJfMWFkNjdlNWcydGZrOW4zc2lkN2VlNGh2NGMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Arrival of Indentured Labourers",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-02"
+   },
+   "end": {
+    "date": "2023-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231102_1ad67e5g2tfk9n3sid7ee4hv4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20231112_v76mo6u9843g0vopge8eadkdts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfdjc2bW82dTk4NDNnMHZvcGdlOGVhZGtkdHMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Divali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_v76mo6u9843g0vopge8eadkdts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20231225_f6jl1jl1qmdtmpctikr7slemrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfZjZqbDFqbDFxbWR0bXBjdGlrcjdzbGVtcmMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_f6jl1jl1qmdtmpctikr7slemrc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240101_84lier0l04k35aoa09f8ijqf98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfODRsaWVyMGwwNGszNWFvYTA5ZjhpanFmOTggZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_84lier0l04k35aoa09f8ijqf98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240102_nfvp5vrbkab38p6aiak1ap1r2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfbmZ2cDV2cmJrYWIzOHA2YWlhazFhcDFyMmMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "New Year (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_nfvp5vrbkab38p6aiak1ap1r2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240125_uf795orlvcls0bhlajos9ov7qk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjVfdWY3OTVvcmx2Y2xzMGJobGFqb3M5b3Y3cWsgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Thaipoosam Cavadee",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-25"
+   },
+   "end": {
+    "date": "2024-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240125_uf795orlvcls0bhlajos9ov7qk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240201_c0a1d2dilvk5c278efv6aaj02s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDFfYzBhMWQyZGlsdms1YzI3OGVmdjZhYWowMnMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Abolition of Slavery",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-01"
+   },
+   "end": {
+    "date": "2024-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240201_c0a1d2dilvk5c278efv6aaj02s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240210_sb4016mivnm11oapeolldbdjv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfc2I0MDE2bWl2bm0xMW9hcGVvbGxkYmRqdjQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Chinese Spring Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_sb4016mivnm11oapeolldbdjv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240308_b6ojsvb7dtjcjnt5323u2kssto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfYjZvanN2YjdkdGpjam50NTMyM3Uya3NzdG8gZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Maha Shivaratree",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_b6ojsvb7dtjcjnt5323u2kssto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240312_ulbd251dslaibttb87hnh5ibf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTJfdWxiZDI1MWRzbGFpYnR0Yjg3aG5oNWliZjAgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-12"
+   },
+   "end": {
+    "date": "2024-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240312_ulbd251dslaibttb87hnh5ibf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240409_p93io90q3g5dnc5lh9g3iapb30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfcDkzaW85MHEzZzVkbmM1bGg5ZzNpYXBiMzAgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Ougadi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_p93io90q3g5dnc5lh9g3iapb30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240410_il5f6j6jrb6nbikte0mjg1csfc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfaWw1ZjZqNmpyYjZuYmlrdGUwbWpnMWNzZmMgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_il5f6j6jrb6nbikte0mjg1csfc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240501_35gp2rckq3lr1aa4dibuidls9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfMzVncDJyY2txM2xyMWFhNGRpYnVpZGxzOWsgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_35gp2rckq3lr1aa4dibuidls9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240526_rqkr9t8hgispho0gt9k0l75n6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjZfcnFrcjl0OGhnaXNwaG8wZ3Q5azBsNzVuNmcgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-26"
+   },
+   "end": {
+    "date": "2024-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240526_rqkr9t8hgispho0gt9k0l75n6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240616_v5u13srk01hm83tmu0gnnv5g4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfdjV1MTNzcmswMWhtODN0bXUwZ25udjVnNG8gZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_v5u13srk01hm83tmu0gnnv5g4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240815_fpe478q2r1pkmtaqkgrlv35jo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfZnBlNDc4cTJyMXBrbXRhcWtncmx2MzVqbzQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_fpe478q2r1pkmtaqkgrlv35jo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20240907_d5btjskq0ngacj71dl4jhoc68o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDdfZDVidGpza3EwbmdhY2o3MWRsNGpob2M2OG8gZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Ganesh Chaturthi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-07"
+   },
+   "end": {
+    "date": "2024-09-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240907_d5btjskq0ngacj71dl4jhoc68o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20241101_8s1t4biko92mmog227jep2n0sg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfOHMxdDRiaWtvOTJtbW9nMjI3amVwMm4wc2cgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Divali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_8s1t4biko92mmog227jep2n0sg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20241102_7nol3hijfntv5v8apij9223klo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDJfN25vbDNoaWpmbnR2NXY4YXBpajkyMjNrbG8gZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Arrival of Indentured Labourers",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-02"
+   },
+   "end": {
+    "date": "2024-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241102_7nol3hijfntv5v8apij9223klo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904044246000\"",
+   "id": "20241225_pr0qdcvvbim1fljdrmhnmpv814",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcHIwcWRjdnZiaW0xZmxqZHJtaG5tcHY4MTQgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-09-23T16:53:42.000Z",
+   "updated": "2022-09-23T16:53:42.123Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_pr0qdcvvbim1fljdrmhnmpv814@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3337550233438000\"",
+   "id": "20230204_utetcu61s55inro6h45e4iplsg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDRfdXRldGN1NjFzNTVpbnJvNmg0NWU0aXBsc2cgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-11-18T12:38:36.000Z",
+   "updated": "2022-11-18T12:38:36.719Z",
+   "summary": "Thaipoosam Cavadee",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-04"
+   },
+   "end": {
+    "date": "2023-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230204_utetcu61s55inro6h45e4iplsg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338738083784000\"",
+   "id": "20230920_k111m9dl0f3ovvtr12mkqpaafk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjBfazExMW05ZGwwZjNvdnZ0cjEybWtxcGFhZmsgZW4ubXUjaG9saWRheUB2",
+   "created": "2022-11-25T09:37:21.000Z",
+   "updated": "2022-11-25T09:37:21.892Z",
+   "summary": "Ganesh Chaturthi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-20"
+   },
+   "end": {
+    "date": "2023-09-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230920_k111m9dl0f3ovvtr12mkqpaafk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359219803904000\"",
+   "id": "20230324_oift98auq05dj1m2u8lm1pa86o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjRfb2lmdDk4YXVxMDVkajFtMnU4bG0xcGE4Nm8gZW4ubXUjaG9saWRheUB2",
+   "created": "2023-03-23T22:18:21.000Z",
+   "updated": "2023-03-23T22:18:21.952Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-24"
+   },
+   "end": {
+    "date": "2023-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230324_oift98auq05dj1m2u8lm1pa86o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359219803904000\"",
+   "id": "20240311_pm1frican5v3kij494hqjh3oa4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfcG0xZnJpY2FuNXYza2lqNDk0aHFqaDNvYTQgZW4ubXUjaG9saWRheUB2",
+   "created": "2023-03-23T22:18:21.000Z",
+   "updated": "2023-03-23T22:18:21.952Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mauritius",
+   "creator": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mu#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mauritius",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_pm1frican5v3kij494hqjh3oa4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

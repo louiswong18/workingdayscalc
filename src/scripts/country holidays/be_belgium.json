@@ -1,0 +1,2413 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p323dhkk4rqlo00o\"",
+ "summary": "Holidays in Belgium",
+ "description": "Holidays and Observances in Belgium",
+ "updated": "2023-07-25T05:57:57.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDGmM2WqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972961426000\"",
+   "id": "20220101_70dlbdnmg7df228lc910r0m9m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNzBkbGJkbm1nN2RmMjI4bGM5MTByMG05bTggZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:20.000Z",
+   "updated": "2021-08-26T14:01:20.713Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_70dlbdnmg7df228lc910r0m9m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972961426000\"",
+   "id": "20220106_436q5j0er1uaiv0l70or52nvsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfNDM2cTVqMGVyMXVhaXYwbDcwb3I1Mm52c2MgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:20.000Z",
+   "updated": "2021-08-26T14:01:20.713Z",
+   "summary": "Epiphany",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_436q5j0er1uaiv0l70or52nvsc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972961426000\"",
+   "id": "20220526_ujvc02kh245g8p920i9e6k399s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfdWp2YzAya2gyNDVnOHA5MjBpOWU2azM5OXMgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:20.000Z",
+   "updated": "2021-08-26T14:01:20.713Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_ujvc02kh245g8p920i9e6k399s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972961426000\"",
+   "id": "20220527_1abimeb4dg1gikfebl69ho2qnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjdfMWFiaW1lYjRkZzFnaWtmZWJsNjlobzJxbmMgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:20.000Z",
+   "updated": "2021-08-26T14:01:20.713Z",
+   "summary": "Day after Ascension Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-27"
+   },
+   "end": {
+    "date": "2022-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220527_1abimeb4dg1gikfebl69ho2qnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972961426000\"",
+   "id": "20220606_ktf0agsnnomhl5v55u44gn7q5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfa3RmMGFnc25ub21obDV2NTV1NDRnbjdxNW8gZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:20.000Z",
+   "updated": "2021-08-26T14:01:20.713Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_ktf0agsnnomhl5v55u44gn7q5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972964704000\"",
+   "id": "20220415_dpt66jismdevr2nd5nm71si2t0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfZHB0NjZqaXNtZGV2cjJuZDVubTcxc2kydDAgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:22.000Z",
+   "updated": "2021-08-26T14:01:22.352Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_dpt66jismdevr2nd5nm71si2t0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972964704000\"",
+   "id": "20220418_9tb2cqivhei7ndf32tmbhhe9n4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfOXRiMmNxaXZoZWk3bmRmMzJ0bWJoaGU5bjQgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:22.000Z",
+   "updated": "2021-08-26T14:01:22.352Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_9tb2cqivhei7ndf32tmbhhe9n4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972967762000\"",
+   "id": "20220327_uj0vmq4rarvqte4ltr7epick3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfdWowdm1xNHJhcnZxdGU0bHRyN2VwaWNrM2sgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:23.000Z",
+   "updated": "2021-08-26T14:01:23.881Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_uj0vmq4rarvqte4ltr7epick3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972967762000\"",
+   "id": "20220417_771hp63b6brupj8545cvcmb5d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfNzcxaHA2M2I2YnJ1cGo4NTQ1Y3ZjbWI1ZDAgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:23.000Z",
+   "updated": "2021-08-26T14:01:23.881Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_771hp63b6brupj8545cvcmb5d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972970804000\"",
+   "id": "20220214_gtqtoi8ru4ralfkd1g50k9b1lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfZ3RxdG9pOHJ1NHJhbGZrZDFnNTBrOWIxbG8gZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:25.000Z",
+   "updated": "2021-08-26T14:01:25.402Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_gtqtoi8ru4ralfkd1g50k9b1lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972970804000\"",
+   "id": "20220501_i7ck1dn6t4s0vpk394u18qjhek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfaTdjazFkbjZ0NHMwdnBrMzk0dTE4cWpoZWsgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:25.000Z",
+   "updated": "2021-08-26T14:01:25.402Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_i7ck1dn6t4s0vpk394u18qjhek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972970804000\"",
+   "id": "20220605_tsndhlinedsu1b4o7kblmqj3i0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfdHNuZGhsaW5lZHN1MWI0bzdrYmxtcWozaTAgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:25.000Z",
+   "updated": "2021-08-26T14:01:25.402Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_tsndhlinedsu1b4o7kblmqj3i0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972974418000\"",
+   "id": "20220721_p84keuck603k2vuj914i08if5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MjFfcDg0a2V1Y2s2MDNrMnZ1ajkxNGkwOGlmNWsgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:27.000Z",
+   "updated": "2021-08-26T14:01:27.209Z",
+   "summary": "Belgian National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-21"
+   },
+   "end": {
+    "date": "2022-07-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220721_p84keuck603k2vuj914i08if5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972974418000\"",
+   "id": "20220815_r1sjhtdun80l0riduhf3ttej4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfcjFzamh0ZHVuODBsMHJpZHVoZjN0dGVqNHMgZW4uYmUjaG9saWRheUB2",
+   "created": "2021-08-26T14:01:27.000Z",
+   "updated": "2021-08-26T14:01:27.209Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_r1sjhtdun80l0riduhf3ttej4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307971840202000\"",
+   "id": "20220508_ps8ddch96ii9pcobjfbscaucug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfcHM4ZGRjaDk2aWk5cGNvYmpmYnNjYXVjdWcgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-05-31T08:32:00.000Z",
+   "updated": "2022-05-31T08:32:00.101Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_ps8ddch96ii9pcobjfbscaucug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307971840202000\"",
+   "id": "20220612_2vh5f0g86ii793rijimok3dlgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTJfMnZoNWYwZzg2aWk3OTNyaWppbW9rM2RsZ2cgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-05-31T08:32:00.000Z",
+   "updated": "2022-05-31T08:32:00.101Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-12"
+   },
+   "end": {
+    "date": "2022-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220612_2vh5f0g86ii793rijimok3dlgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221030_nm4qeo5carq5hkf3m78vv5s1u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfbm00cWVvNWNhcnE1aGtmM203OHZ2NXMxdTggZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_nm4qeo5carq5hkf3m78vv5s1u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221031_8setpnpp45ie4i2cqlkur8papc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfOHNldHBucHA0NWllNGkyY3Fsa3VyOHBhcGMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_8setpnpp45ie4i2cqlkur8papc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221101_v5oa400aamlp5mdmoeatbrbb5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfdjVvYTQwMGFhbWxwNW1kbW9lYXRicmJiNW8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_v5oa400aamlp5mdmoeatbrbb5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221111_f6adsp8m5o5vudv695c20g3a04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfZjZhZHNwOG01bzV2dWR2Njk1YzIwZzNhMDQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Armistice Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_f6adsp8m5o5vudv695c20g3a04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221206_k0tf5psj415h7f3ahemiaitefo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDZfazB0ZjVwc2o0MTVoN2YzYWhlbWlhaXRlZm8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "St. Nicholas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-06"
+   },
+   "end": {
+    "date": "2022-12-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221206_k0tf5psj415h7f3ahemiaitefo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221224_d8u62hv2upbu22a31dkuqg4m48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfZDh1NjJodjJ1cGJ1MjJhMzFka3VxZzRtNDggZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_d8u62hv2upbu22a31dkuqg4m48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221225_9uttogevvs8ekm74auu7sb91rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfOXV0dG9nZXZ2czhla203NGF1dTdzYjkxcnMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_9uttogevvs8ekm74auu7sb91rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221226_ev9hdonu2uvl6v99kpfefdj9po",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfZXY5aGRvbnUydXZsNnY5OWtwZmVmZGo5cG8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Boxing Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_ev9hdonu2uvl6v99kpfefdj9po@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20221231_uehijlt5gbdq6gq159qqa5p77o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfdWVoaWpsdDVnYmRxNmdxMTU5cXFhNXA3N28gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_uehijlt5gbdq6gq159qqa5p77o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230101_unjul82f5f542vrfa9rmf34vfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdW5qdWw4MmY1ZjU0MnZyZmE5cm1mMzR2ZmcgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_unjul82f5f542vrfa9rmf34vfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230106_hp9qpc63g32ghm5j251u1097cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfaHA5cXBjNjNnMzJnaG01ajI1MXUxMDk3Y2MgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Epiphany",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_hp9qpc63g32ghm5j251u1097cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230214_spqk86d922gngpikor78jd4ig0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfc3Bxazg2ZDkyMmduZ3Bpa29yNzhqZDRpZzAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_spqk86d922gngpikor78jd4ig0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230326_hhjhfa434jvuj23i95fc3ffe4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfaGhqaGZhNDM0anZ1ajIzaTk1ZmMzZmZlNGcgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_hhjhfa434jvuj23i95fc3ffe4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230407_lmpovuhsjcbgthpootc257fs5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfbG1wb3Z1aHNqY2JndGhwb290YzI1N2ZzNXMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_lmpovuhsjcbgthpootc257fs5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230409_lglaq664etp1mff7qej1dnucdc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfbGdsYXE2NjRldHAxbWZmN3FlajFkbnVjZGMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_lglaq664etp1mff7qej1dnucdc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230410_lcvubq48oiahuginf128nd6adk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbGN2dWJxNDhvaWFodWdpbmYxMjhuZDZhZGsgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_lcvubq48oiahuginf128nd6adk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230501_q0hd61or7hsoc1o05hpbmkasvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcTBoZDYxb3I3aHNvYzFvMDVocGJta2Fzdm8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_q0hd61or7hsoc1o05hpbmkasvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230514_sio80s408ksp2ltfh8eaa0qfrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfc2lvODBzNDA4a3NwMmx0Zmg4ZWFhMHFmcnMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_sio80s408ksp2ltfh8eaa0qfrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230518_s0jmakolca88ipc8sgv79s0dqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfczBqbWFrb2xjYTg4aXBjOHNndjc5czBkcXMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_s0jmakolca88ipc8sgv79s0dqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230519_g256sgduo7d0pu4gjajmfpd108",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTlfZzI1NnNnZHVvN2QwcHU0Z2pham1mcGQxMDggZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Day after Ascension Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-19"
+   },
+   "end": {
+    "date": "2023-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230519_g256sgduo7d0pu4gjajmfpd108@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230528_km7gr122n90ncqgjotei84s0v0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1Mjhfa203Z3IxMjJuOTBuY3Fnam90ZWk4NHMwdjAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_km7gr122n90ncqgjotei84s0v0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230529_dp028vae9vt52s2rgl8qrbc1n4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfZHAwMjh2YWU5dnQ1MnMycmdsOHFyYmMxbjQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_dp028vae9vt52s2rgl8qrbc1n4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230611_idm5p1odq3a9n7jqh30h79q5rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTFfaWRtNXAxb2RxM2E5bjdqcWgzMGg3OXE1cmcgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-11"
+   },
+   "end": {
+    "date": "2023-06-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230611_idm5p1odq3a9n7jqh30h79q5rg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230721_iu14ffju80lm50ped6r86vof5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjFfaXUxNGZmanU4MGxtNTBwZWQ2cjg2dm9mNWcgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Belgian National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-21"
+   },
+   "end": {
+    "date": "2023-07-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230721_iu14ffju80lm50ped6r86vof5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20230815_9v2119edls4jubiaphtctnhec0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfOXYyMTE5ZWRsczRqdWJpYXBodGN0bmhlYzAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_9v2119edls4jubiaphtctnhec0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231029_6ilmbq2unvdn5a1bhi2or7volc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfNmlsbWJxMnVudmRuNWExYmhpMm9yN3ZvbGMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_6ilmbq2unvdn5a1bhi2or7volc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231031_jl94ps71vjvh5ktbsaj39pv7v4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfamw5NHBzNzF2anZoNWt0YnNhajM5cHY3djQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_jl94ps71vjvh5ktbsaj39pv7v4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231101_b055l07p0nor310bnt6gbc503g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfYjA1NWwwN3Awbm9yMzEwYm50NmdiYzUwM2cgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_b055l07p0nor310bnt6gbc503g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231111_jrvu01o9b463je8vh1f2b4luh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfanJ2dTAxbzliNDYzamU4dmgxZjJiNGx1aDggZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Armistice Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_jrvu01o9b463je8vh1f2b4luh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231206_agj81hku4vvatvdhcig9qgnfe0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDZfYWdqODFoa3U0dnZhdHZkaGNpZzlxZ25mZTAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "St. Nicholas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-06"
+   },
+   "end": {
+    "date": "2023-12-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231206_agj81hku4vvatvdhcig9qgnfe0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231224_tk92jn05t4ub1jqsvombdpdn6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfdGs5MmpuMDV0NHViMWpxc3ZvbWJkcGRuNnMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_tk92jn05t4ub1jqsvombdpdn6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231225_3qmr2qcru1v4ijc0k33et22koc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfM3FtcjJxY3J1MXY0aWpjMGszM2V0MjJrb2MgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_3qmr2qcru1v4ijc0k33et22koc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231226_s3m2oqvck9a7j4e0h1r5e9qdb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfczNtMm9xdmNrOWE3ajRlMGgxcjVlOXFkYjAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Boxing Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_s3m2oqvck9a7j4e0h1r5e9qdb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20231231_cngfnmhgic91ntl4fst3o667rc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfY25nZm5taGdpYzkxbnRsNGZzdDNvNjY3cmMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_cngfnmhgic91ntl4fst3o667rc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240101_6pi9fqjsdcfnlup245ag62ve7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNnBpOWZxanNkY2ZubHVwMjQ1YWc2MnZlN2cgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_6pi9fqjsdcfnlup245ag62ve7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240106_3upmkt8pvu0r30mmbatlnn5rjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfM3VwbWt0OHB2dTByMzBtbWJhdGxubjVyam8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Epiphany",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_3upmkt8pvu0r30mmbatlnn5rjo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240214_bu699kiuc1fmk959npdsel5s64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfYnU2OTlraXVjMWZtazk1OW5wZHNlbDVzNjQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_bu699kiuc1fmk959npdsel5s64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240329_3u8kdhnctm14ha07b70akp3of4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfM3U4a2RobmN0bTE0aGEwN2I3MGFrcDNvZjQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_3u8kdhnctm14ha07b70akp3of4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240331_gmi5qm0hq5im54f1li3k4mnq0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfZ21pNXFtMGhxNWltNTRmMWxpM2s0bW5xMG8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_gmi5qm0hq5im54f1li3k4mnq0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240331_uqup3k9gknedo9rsbr28omhv30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfdXF1cDNrOWdrbmVkbzlyc2JyMjhvbWh2MzAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_uqup3k9gknedo9rsbr28omhv30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240401_5c296iql14lka04sjrvfav36eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfNWMyOTZpcWwxNGxrYTA0c2pydmZhdjM2ZWcgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_5c296iql14lka04sjrvfav36eg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240501_8e5irgf7qsafspbveva4j3355s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfOGU1aXJnZjdxc2Fmc3BidmV2YTRqMzM1NXMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_8e5irgf7qsafspbveva4j3355s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240509_ri5f7tls5rtkchel9e7prb57ls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfcmk1Zjd0bHM1cnRrY2hlbDllN3ByYjU3bHMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_ri5f7tls5rtkchel9e7prb57ls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240510_7k1cigdaoi54aedu95bu0qauq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTBfN2sxY2lnZGFvaTU0YWVkdTk1YnUwcWF1cTQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Day after Ascension Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-10"
+   },
+   "end": {
+    "date": "2024-05-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240510_7k1cigdaoi54aedu95bu0qauq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240512_jaah41rvbr2t5pv7iofr4usi24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfamFhaDQxcnZicjJ0NXB2N2lvZnI0dXNpMjQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_jaah41rvbr2t5pv7iofr4usi24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240519_8rmur23tfv758lnbggevpvm5cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfOHJtdXIyM3Rmdjc1OGxuYmdnZXZwdm01Y3MgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_8rmur23tfv758lnbggevpvm5cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240520_qh4ndatr0nu33pvdtue5u0kh6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfcWg0bmRhdHIwbnUzM3B2ZHR1ZTV1MGtoNmMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_qh4ndatr0nu33pvdtue5u0kh6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240609_an7pq09svs1v9bpdi28nuotpb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDlfYW43cHEwOXN2czF2OWJwZGkyOG51b3RwYjggZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-09"
+   },
+   "end": {
+    "date": "2024-06-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240609_an7pq09svs1v9bpdi28nuotpb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240721_8rtv3l37pgadsiqstnl9gfm2ro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjFfOHJ0djNsMzdwZ2Fkc2lxc3RubDlnZm0ycm8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Belgian National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-21"
+   },
+   "end": {
+    "date": "2024-07-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240721_8rtv3l37pgadsiqstnl9gfm2ro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20240815_apj86accbaea1i1c9g4tj6dcvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfYXBqODZhY2NiYWVhMWkxYzlnNHRqNmRjdnMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_apj86accbaea1i1c9g4tj6dcvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241027_hu00hp5vonf4mn0pqt9giif4mo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfaHUwMGhwNXZvbmY0bW4wcHF0OWdpaWY0bW8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_hu00hp5vonf4mn0pqt9giif4mo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241031_hnefp76p27e9ebogu3481nf3oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfaG5lZnA3NnAyN2U5ZWJvZ3UzNDgxbmYzb28gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_hnefp76p27e9ebogu3481nf3oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241101_v03gc43rfpk17lb7tvfbtesijo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfdjAzZ2M0M3JmcGsxN2xiN3R2ZmJ0ZXNpam8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_v03gc43rfpk17lb7tvfbtesijo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241111_2g667i132agk4pr680qc1v0tl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfMmc2NjdpMTMyYWdrNHByNjgwcWMxdjB0bDAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Armistice Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_2g667i132agk4pr680qc1v0tl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241206_qh9kjjvqnm91fr4k0bb96vvjl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDZfcWg5a2pqdnFubTkxZnI0azBiYjk2dnZqbDAgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "St. Nicholas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-06"
+   },
+   "end": {
+    "date": "2024-12-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241206_qh9kjjvqnm91fr4k0bb96vvjl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241224_anann4fmaejv5r7mcfh2pa9m0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfYW5hbm40Zm1hZWp2NXI3bWNmaDJwYTltMHMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_anann4fmaejv5r7mcfh2pa9m0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241225_1f6bcb5reqei2hb69rfnokv6vc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfMWY2YmNiNXJlcWVpMmhiNjlyZm5va3Y2dmMgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_1f6bcb5reqei2hb69rfnokv6vc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241226_3c3livlgrkrl1qokka0i8f82qo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfM2MzbGl2bGdya3JsMXFva2thMGk4ZjgycW8gZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "Boxing Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_3c3livlgrkrl1qokka0i8f82qo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328548441844000\"",
+   "id": "20241231_d13um3v0s65lfm8fvag4qkouu4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfZDEzdW0zdjBzNjVsZm04ZnZhZzRxa291dTQgZW4uYmUjaG9saWRheUB2",
+   "created": "2022-09-27T10:23:40.000Z",
+   "updated": "2022-09-27T10:23:40.922Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Belgium",
+   "creator": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.be#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Belgium",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_d13um3v0s65lfm8fvag4qkouu4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

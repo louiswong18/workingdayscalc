@@ -1,0 +1,3117 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32rvn8kfrqlo00o\"",
+ "summary": "Holidays in Lebanon",
+ "description": "Holidays and Observances in Lebanon",
+ "updated": "2023-07-25T01:37:41.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDG87bcqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938226164000\"",
+   "id": "20220209_09sr78i8uqmsl6prs2278qga90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDlfMDlzcjc4aTh1cW1zbDZwcnMyMjc4cWdhOTAgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:53.000Z",
+   "updated": "2021-08-26T09:11:53.082Z",
+   "summary": "St Maron's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-09"
+   },
+   "end": {
+    "date": "2022-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220209_09sr78i8uqmsl6prs2278qga90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938231188000\"",
+   "id": "20220327_ri4mo1uiamhscumhbh8evqff9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfcmk0bW8xdWlhbWhzY3VtaGJoOGV2cWZmOWMgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:55.000Z",
+   "updated": "2021-08-26T09:11:55.594Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_ri4mo1uiamhscumhbh8evqff9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938231188000\"",
+   "id": "20220501_4rbjlu6c5gggjtva2i6t7p4qp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfNHJiamx1NmM1Z2dnanR2YTJpNnQ3cDRxcDQgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:55.000Z",
+   "updated": "2021-08-26T09:11:55.594Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_4rbjlu6c5gggjtva2i6t7p4qp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938231188000\"",
+   "id": "20220526_shp77f72lp416dlmdu2eb44t4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfc2hwNzdmNzJscDQxNmRsbWR1MmViNDR0NGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:55.000Z",
+   "updated": "2021-08-26T09:11:55.594Z",
+   "summary": "Ascension Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_shp77f72lp416dlmdu2eb44t4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938231188000\"",
+   "id": "20220908_rr0880aooi6vd8h4tjo2v5kecc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDhfcnIwODgwYW9vaTZ2ZDhoNHRqbzJ2NWtlY2MgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:55.000Z",
+   "updated": "2021-08-26T09:11:55.594Z",
+   "summary": "Nativity of Mary",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-08"
+   },
+   "end": {
+    "date": "2022-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220908_rr0880aooi6vd8h4tjo2v5kecc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938236734000\"",
+   "id": "20220214_a1nrktvcdub3u1tu1modd1ufc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfYTFucmt0dmNkdWIzdTF0dTFtb2RkMXVmYzggZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:58.000Z",
+   "updated": "2021-08-26T09:11:58.367Z",
+   "summary": "Commemoration of the Assasination of PM Rafic Hariri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_a1nrktvcdub3u1tu1modd1ufc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938236734000\"",
+   "id": "20220415_4o578fnigb94ubvoe4d2356a7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfNG81NzhmbmlnYjk0dWJ2b2U0ZDIzNTZhN3MgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:58.000Z",
+   "updated": "2021-08-26T09:11:58.367Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_4o578fnigb94ubvoe4d2356a7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938236734000\"",
+   "id": "20220418_g16pkfan0na40slqn29g660t9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfZzE2cGtmYW4wbmE0MHNscW4yOWc2NjB0OW8gZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:58.000Z",
+   "updated": "2021-08-26T09:11:58.367Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_g16pkfan0na40slqn29g660t9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938236734000\"",
+   "id": "20220815_3mh85vtam8nbauc1flt86n5r4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfM21oODV2dGFtOG5iYXVjMWZsdDg2bjVyNGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:11:58.000Z",
+   "updated": "2021-08-26T09:11:58.367Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_3mh85vtam8nbauc1flt86n5r4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938240972000\"",
+   "id": "20220321_s2p2ne0lpr6g0ankgs87a1neuc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjFfczJwMm5lMGxwcjZnMGFua2dzODdhMW5ldWMgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:12:00.000Z",
+   "updated": "2021-08-26T09:12:00.486Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-21"
+   },
+   "end": {
+    "date": "2022-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220321_s2p2ne0lpr6g0ankgs87a1neuc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938240972000\"",
+   "id": "20220325_kkkiqins7o6rglr9oen300k0s4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjVfa2traXFpbnM3bzZyZ2xyOW9lbjMwMGswczQgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:12:00.000Z",
+   "updated": "2021-08-26T09:12:00.486Z",
+   "summary": "Feast of the Annunciation",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-25"
+   },
+   "end": {
+    "date": "2022-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220325_kkkiqins7o6rglr9oen300k0s4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938240972000\"",
+   "id": "20220730_018tpscatsjud1j53viebcm584",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfMDE4dHBzY2F0c2p1ZDFqNTN2aWViY201ODQgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:12:00.000Z",
+   "updated": "2021-08-26T09:12:00.486Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_018tpscatsjud1j53viebcm584@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938243912000\"",
+   "id": "20220101_bb8cqj3k495slgefhlibssuu60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfYmI4Y3FqM2s0OTVzbGdlZmhsaWJzc3V1NjAgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:12:01.000Z",
+   "updated": "2021-08-26T09:12:01.956Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_bb8cqj3k495slgefhlibssuu60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938243912000\"",
+   "id": "20220309_re5gu6cjrlf5ap60csplg6aloo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDlfcmU1Z3U2Y2pybGY1YXA2MGNzcGxnNmFsb28gZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:12:01.000Z",
+   "updated": "2021-08-26T09:12:01.956Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-09"
+   },
+   "end": {
+    "date": "2022-03-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220309_re5gu6cjrlf5ap60csplg6aloo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938243912000\"",
+   "id": "20220425_9kjrnlc1jmp7al2q08ejnkl5ck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfOWtqcm5sYzFqbXA3YWwycTA4ZWpua2w1Y2sgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-08-26T09:12:01.000Z",
+   "updated": "2021-08-26T09:12:01.956Z",
+   "summary": "Orthodox Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_9kjrnlc1jmp7al2q08ejnkl5ck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418950076000\"",
+   "id": "20220106_cas7l4b8bgijmh6purnns4u0dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfY2FzN2w0YjhiZ2lqbWg2cHVybm5zNHUwZGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-11-12T09:31:15.000Z",
+   "updated": "2021-11-12T09:31:15.038Z",
+   "summary": "Orthodox Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_cas7l4b8bgijmh6purnns4u0dc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418950076000\"",
+   "id": "20220501_imrlfdts7nme64t48vof34468g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfaW1ybGZkdHM3bm1lNjR0NDh2b2YzNDQ2OGcgZW4ubGIjaG9saWRheUB2",
+   "created": "2021-11-12T09:31:15.000Z",
+   "updated": "2021-11-12T09:31:15.038Z",
+   "summary": "Martyr's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_imrlfdts7nme64t48vof34468g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418950076000\"",
+   "id": "20220502_oufsqfktsgtk5sdakm7v804ibo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfb3Vmc3Fma3RzZ3RrNXNkYWttN3Y4MDRpYm8gZW4ubGIjaG9saWRheUB2",
+   "created": "2021-11-12T09:31:15.000Z",
+   "updated": "2021-11-12T09:31:15.038Z",
+   "summary": "Day off for Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_oufsqfktsgtk5sdakm7v804ibo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3284133521496000\"",
+   "id": "20220424_mfsqtpo96qr0q8unbdvukegs34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjRfbWZzcXRwbzk2cXIwcTh1bmJkdnVrZWdzMzQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-01-13T09:39:20.000Z",
+   "updated": "2022-01-13T09:39:20.748Z",
+   "summary": "Orthodox Easter Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-24"
+   },
+   "end": {
+    "date": "2022-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220424_mfsqtpo96qr0q8unbdvukegs34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294022788342000\"",
+   "id": "20220508_p4d9b7b84un5judpjch74q1l28",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfcDRkOWI3Yjg0dW41anVkcGpjaDc0cTFsMjggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-03-11T15:09:54.000Z",
+   "updated": "2022-03-11T15:09:54.171Z",
+   "summary": "Liberation and Resistance Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_p4d9b7b84un5judpjch74q1l28@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294022788342000\"",
+   "id": "20220525_5or77flu6kta02dp5r4nal9efg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjVfNW9yNzdmbHU2a3RhMDJkcDVyNG5hbDllZmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-03-11T15:09:54.000Z",
+   "updated": "2022-03-11T15:09:54.171Z",
+   "summary": "Liberation and Resistance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-25"
+   },
+   "end": {
+    "date": "2022-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220525_5or77flu6kta02dp5r4nal9efg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302960296744000\"",
+   "id": "20220502_bpscpu194oqfqh12d1vcr58sjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfYnBzY3B1MTk0b3FmcWgxMmQxdmNyNThzamMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-05-02T08:29:08.000Z",
+   "updated": "2022-05-02T08:29:08.372Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_bpscpu194oqfqh12d1vcr58sjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302960296744000\"",
+   "id": "20220503_h9lnt5s6upi2ervnllsbh2m1r0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfaDlsbnQ1czZ1cGkyZXJ2bmxsc2JoMm0xcjAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-05-02T08:29:08.000Z",
+   "updated": "2022-05-02T08:29:08.372Z",
+   "summary": "Eid ul Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_h9lnt5s6upi2ervnllsbh2m1r0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619804108000\"",
+   "id": "20220709_r6jcml4su99j6598m4bb9ns6nc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfcjZqY21sNHN1OTlqNjU5OG00YmI5bnM2bmMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-07-14T14:45:02.000Z",
+   "updated": "2022-07-14T14:45:02.054Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_r6jcml4su99j6598m4bb9ns6nc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619804108000\"",
+   "id": "20220710_ebbg943q58tgg1cs563qgmmerg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfZWJiZzk0M3E1OHRnZzFjczU2M3FnbW1lcmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-07-14T14:45:02.000Z",
+   "updated": "2022-07-14T14:45:02.054Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_ebbg943q58tgg1cs563qgmmerg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3320072943774000\"",
+   "id": "20220809_55k4smn6248r777tcgntdai2fg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDlfNTVrNHNtbjYyNDhyNzc3dGNnbnRkYWkyZmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-08-09T09:14:31.000Z",
+   "updated": "2022-08-09T09:14:31.887Z",
+   "summary": "Ashoura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-09"
+   },
+   "end": {
+    "date": "2022-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220809_55k4smn6248r777tcgntdai2fg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20221008_v6kj73q1ptcrf3q0qsjnde92m4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfdjZrajczcTFwdGNyZjNxMHFzam5kZTkybTQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_v6kj73q1ptcrf3q0qsjnde92m4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20221030_5jnhblcp3numekc80bsme50mj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfNWpuaGJsY3AzbnVtZWtjODBic21lNTBtajAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_5jnhblcp3numekc80bsme50mj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20221101_m2qp07i24r9n49jotv1f84iu00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfbTJxcDA3aTI0cjluNDlqb3R2MWY4NGl1MDAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "All Saints' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_m2qp07i24r9n49jotv1f84iu00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20221122_qhlohvpj5qss2n7bv5lo1v7do0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjJfcWhsb2h2cGo1cXNzMm43YnY1bG8xdjdkbzAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-22"
+   },
+   "end": {
+    "date": "2022-11-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221122_qhlohvpj5qss2n7bv5lo1v7do0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20221225_as8520ve8bs3i173mqmld6imdc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfYXM4NTIwdmU4YnMzaTE3M21xbWxkNmltZGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_as8520ve8bs3i173mqmld6imdc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230101_8n76rvneul7eam4g9e43mt8c54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfOG43NnJ2bmV1bDdlYW00ZzllNDNtdDhjNTQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_8n76rvneul7eam4g9e43mt8c54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230106_h7ps246fiohvcml0e7ih5ilgqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfaDdwczI0NmZpb2h2Y21sMGU3aWg1aWxncXMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Orthodox Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_h7ps246fiohvcml0e7ih5ilgqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230209_emc8po2he8f6rgat1i7tug7i1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDlfZW1jOHBvMmhlOGY2cmdhdDFpN3R1ZzdpMXMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "St Maron's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-09"
+   },
+   "end": {
+    "date": "2023-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230209_emc8po2he8f6rgat1i7tug7i1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230214_ao22dlj6veo149hl3d0hien6e8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfYW8yMmRsajZ2ZW8xNDlobDNkMGhpZW42ZTggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Commemoration of the Assasination of PM Rafic Hariri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_ao22dlj6veo149hl3d0hien6e8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230309_6q1hbkheohtgqh4v3ek26fgkdk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDlfNnExaGJraGVvaHRncWg0djNlazI2ZmdrZGsgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-09"
+   },
+   "end": {
+    "date": "2023-03-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230309_6q1hbkheohtgqh4v3ek26fgkdk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230321_um7j3e14f4i9l2a2p9jmrluaeg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjFfdW03ajNlMTRmNGk5bDJhMnA5am1ybHVhZWcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-21"
+   },
+   "end": {
+    "date": "2023-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230321_um7j3e14f4i9l2a2p9jmrluaeg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230325_3l13r9ckbote2bljpqdrtnmboc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjVfM2wxM3I5Y2tib3RlMmJsanBxZHJ0bm1ib2MgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Feast of the Annunciation",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-25"
+   },
+   "end": {
+    "date": "2023-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230325_3l13r9ckbote2bljpqdrtnmboc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230407_peh8fd3pp2ipi4timgmspcdvfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfcGVoOGZkM3BwMmlwaTR0aW1nbXNwY2R2ZmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_peh8fd3pp2ipi4timgmspcdvfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230410_mbfhlbut7ctrlo2eg9gs40odng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbWJmaGxidXQ3Y3RybG8yZWc5Z3M0MG9kbmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_mbfhlbut7ctrlo2eg9gs40odng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230416_otlmejomqp8ehnalaabkam48lk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTZfb3RsbWVqb21xcDhlaG5hbGFhYmthbTQ4bGsgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Orthodox Easter Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-16"
+   },
+   "end": {
+    "date": "2023-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230416_otlmejomqp8ehnalaabkam48lk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230417_rg49g975f4l85v6scorp5vf3lg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTdfcmc0OWc5NzVmNGw4NXY2c2NvcnA1dmYzbGcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Orthodox Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-17"
+   },
+   "end": {
+    "date": "2023-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230417_rg49g975f4l85v6scorp5vf3lg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230501_k7q0qpl8ovffr41cj5pnjh424c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfazdxMHFwbDhvdmZmcjQxY2o1cG5qaDQyNGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_k7q0qpl8ovffr41cj5pnjh424c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230507_7fq90s4ngvo2ltbkt8kg87rl1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDdfN2ZxOTBzNG5ndm8ybHRia3Q4a2c4N3JsMW8gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Martyr's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-07"
+   },
+   "end": {
+    "date": "2023-05-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230507_7fq90s4ngvo2ltbkt8kg87rl1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230507_pgmkdkgfj4erp9bsrbmlee9gt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDdfcGdta2RrZ2ZqNGVycDlic3JibWxlZTlndDggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Liberation and Resistance Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-07"
+   },
+   "end": {
+    "date": "2023-05-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230507_pgmkdkgfj4erp9bsrbmlee9gt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230518_kv0u53raallfrht6undo5bd958",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfa3YwdTUzcmFhbGxmcmh0NnVuZG81YmQ5NTggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Ascension Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_kv0u53raallfrht6undo5bd958@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230525_qtqnhpd65t0rd2iggic95fq5u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjVfcXRxbmhwZDY1dDByZDJpZ2dpYzk1ZnE1dTggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Liberation and Resistance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-25"
+   },
+   "end": {
+    "date": "2023-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230525_qtqnhpd65t0rd2iggic95fq5u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230630_g6e36tq64541oan4e1kcvl3cbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfZzZlMzZ0cTY0NTQxb2FuNGUxa2N2bDNjYnMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_g6e36tq64541oan4e1kcvl3cbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230719_d57sngs2u9j0g448laj0usl36k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfZDU3c25nczJ1OWowZzQ0OGxhajB1c2wzNmsgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_d57sngs2u9j0g448laj0usl36k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230728_60gqm9u662gdlcfcfgfq11n8d8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjhfNjBncW05dTY2MmdkbGNmY2ZnZnExMW44ZDggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Ashoura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-28"
+   },
+   "end": {
+    "date": "2023-07-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230728_60gqm9u662gdlcfcfgfq11n8d8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230815_2h9ns8age6l64pni9an80rncv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfMmg5bnM4YWdlNmw2NHBuaTlhbjgwcm5jdjQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_2h9ns8age6l64pni9an80rncv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230908_0c9m2n09vqt3dttu0l43sbpcng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDhfMGM5bTJuMDl2cXQzZHR0dTBsNDNzYnBjbmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Nativity of Mary",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-08"
+   },
+   "end": {
+    "date": "2023-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230908_0c9m2n09vqt3dttu0l43sbpcng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20230927_fqg3sadchppmeqiraetc0nunqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfZnFnM3NhZGNocHBtZXFpcmFldGMwbnVucWsgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_fqg3sadchppmeqiraetc0nunqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20231029_vabqu54s35oscpe0c4vrpa1ge8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfdmFicXU1NHMzNW9zY3BlMGM0dnJwYTFnZTggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_vabqu54s35oscpe0c4vrpa1ge8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20231101_kmkmk16d13k9eujfo6a6e35pjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfa21rbWsxNmQxM2s5ZXVqZm82YTZlMzVwanMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "All Saints' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_kmkmk16d13k9eujfo6a6e35pjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20231122_0jde09qqr52tjc799p6va0utog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjJfMGpkZTA5cXFyNTJ0amM3OTlwNnZhMHV0b2cgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-22"
+   },
+   "end": {
+    "date": "2023-11-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231122_0jde09qqr52tjc799p6va0utog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20231225_p5bj5vkffcn43i4k3iera3nqi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfcDViajV2a2ZmY240M2k0azNpZXJhM25xaTAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_p5bj5vkffcn43i4k3iera3nqi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240101_n3v98pm4u92lr6lm7iveq1cuno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbjN2OThwbTR1OTJscjZsbTdpdmVxMWN1bm8gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_n3v98pm4u92lr6lm7iveq1cuno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240106_6pag1jetl9itovsah5p5dbgj9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfNnBhZzFqZXRsOWl0b3ZzYWg1cDVkYmdqOWMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Orthodox Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_6pag1jetl9itovsah5p5dbgj9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240209_nmgj4fjqh9e22jep0f9b0crlo0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDlfbm1najRmanFoOWUyMmplcDBmOWIwY3JsbzAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "St Maron's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-09"
+   },
+   "end": {
+    "date": "2024-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240209_nmgj4fjqh9e22jep0f9b0crlo0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240214_1jset7t0e4dnrtcv3c2fcmb4hc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfMWpzZXQ3dDBlNGRucnRjdjNjMmZjbWI0aGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Commemoration of the Assasination of PM Rafic Hariri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_1jset7t0e4dnrtcv3c2fcmb4hc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240309_r7394l4jpq2e3gadrasahfa7uk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDlfcjczOTRsNGpwcTJlM2dhZHJhc2FoZmE3dWsgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-09"
+   },
+   "end": {
+    "date": "2024-03-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240309_r7394l4jpq2e3gadrasahfa7uk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240321_mgrl7k4gcru26e3vuiicd6f8lg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjFfbWdybDdrNGdjcnUyNmUzdnVpaWNkNmY4bGcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-21"
+   },
+   "end": {
+    "date": "2024-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240321_mgrl7k4gcru26e3vuiicd6f8lg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240325_j317tit4na5vov3ddkgb431h9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjVfajMxN3RpdDRuYTV2b3YzZGRrZ2I0MzFoOXMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Feast of the Annunciation",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-25"
+   },
+   "end": {
+    "date": "2024-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240325_j317tit4na5vov3ddkgb431h9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240329_c7ij4kmu32mbp7blsdob6cqss8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfYzdpajRrbXUzMm1icDdibHNkb2I2Y3FzczggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_c7ij4kmu32mbp7blsdob6cqss8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240331_eis398fog9t0do5gi7lfad9huo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfZWlzMzk4Zm9nOXQwZG81Z2k3bGZhZDlodW8gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_eis398fog9t0do5gi7lfad9huo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240401_b43ikfevomk2d2487l905lrb3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfYjQzaWtmZXZvbWsyZDI0ODdsOTA1bHJiM28gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_b43ikfevomk2d2487l905lrb3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240410_8usc9m0q1llaedug9km0magm5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfOHVzYzltMHExbGxhZWR1ZzlrbTBtYWdtNWsgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_8usc9m0q1llaedug9km0magm5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240411_mctqbffr0brik7i2cvf0h7151o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfbWN0cWJmZnIwYnJpazdpMmN2ZjBoNzE1MW8gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Eid ul Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_mctqbffr0brik7i2cvf0h7151o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240501_9l3e03vgkkfhf3ak25a6n1imos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfOWwzZTAzdmdra2ZoZjNhazI1YTZuMWltb3MgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_9l3e03vgkkfhf3ak25a6n1imos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240505_jltlnsbrec2h1mtbtsa49a6ss0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfamx0bG5zYnJlYzJoMW10YnRzYTQ5YTZzczAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Orthodox Easter Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_jltlnsbrec2h1mtbtsa49a6ss0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240505_r846bcj6ucvmmr0m8hdhmp6kgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfcjg0NmJjajZ1Y3ZtbXIwbThoZGhtcDZrZ28gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Martyr's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_r846bcj6ucvmmr0m8hdhmp6kgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240506_3lbn2ffojfgir4nifsn7kmo4hc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfM2xibjJmZm9qZmdpcjRuaWZzbjdrbW80aGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Orthodox Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_3lbn2ffojfgir4nifsn7kmo4hc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240509_o6rvaj7cf1mptlpq2875mkmql4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfbzZydmFqN2NmMW1wdGxwcTI4NzVta21xbDQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Ascension Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_o6rvaj7cf1mptlpq2875mkmql4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240512_09j8r5tcbf84067aknhn4e8ul4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfMDlqOHI1dGNiZjg0MDY3YWtuaG40ZTh1bDQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Liberation and Resistance Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_09j8r5tcbf84067aknhn4e8ul4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240525_otj96f4rb7am8b4c18tnk9326c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjVfb3RqOTZmNHJiN2FtOGI0YzE4dG5rOTMyNmMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Liberation and Resistance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-25"
+   },
+   "end": {
+    "date": "2024-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240525_otj96f4rb7am8b4c18tnk9326c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240617_nde3ba9pra64m5l14qjdfjll0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfbmRlM2JhOXByYTY0bTVsMTRxamRmamxsMGcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_nde3ba9pra64m5l14qjdfjll0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240618_tg54c54r42egu1gkrqkemhotrg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfdGc1NGM1NHI0MmVndTFna3Jxa2VtaG90cmcgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_tg54c54r42egu1gkrqkemhotrg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240708_sgirgkb0bi2q7s9ps4nt11qb94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfc2dpcmdrYjBiaTJxN3M5cHM0bnQxMXFiOTQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_sgirgkb0bi2q7s9ps4nt11qb94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240717_ch2cmgqrm24g2qvfbejihvo9l0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfY2gyY21ncXJtMjRnMnF2ZmJlamlodm85bDAgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Ashoura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_ch2cmgqrm24g2qvfbejihvo9l0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240815_prfi0ilpnpjidd6fafi1ahbb4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfcHJmaTBpbHBucGppZGQ2ZmFmaTFhaGJiNG8gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_prfi0ilpnpjidd6fafi1ahbb4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240908_hbtil005vi1d8vmoog2b7l2oao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDhfaGJ0aWwwMDV2aTFkOHZtb29nMmI3bDJvYW8gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Nativity of Mary",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-08"
+   },
+   "end": {
+    "date": "2024-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240908_hbtil005vi1d8vmoog2b7l2oao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20240916_orgbikih8pm5cbmda907dce83o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfb3JnYmlraWg4cG01Y2JtZGE5MDdkY2U4M28gZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_orgbikih8pm5cbmda907dce83o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20241027_l409cp3phdndd9cpepva1dpsf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfbDQwOWNwM3BoZG5kZDljcGVwdmExZHBzZjQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_l409cp3phdndd9cpepva1dpsf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20241101_05qfpgc7hprt5r4d6gsgrumpp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfMDVxZnBnYzdocHJ0NXI0ZDZnc2dydW1wcDQgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "All Saints' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_05qfpgc7hprt5r4d6gsgrumpp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20241122_l93le9fp9l4rpoa3r2kujv68pc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjJfbDkzbGU5ZnA5bDRycG9hM3Iya3VqdjY4cGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-22"
+   },
+   "end": {
+    "date": "2024-11-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241122_l93le9fp9l4rpoa3r2kujv68pc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328557833904000\"",
+   "id": "20241225_6kuuis9491tvv9e483osmbio58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfNmt1dWlzOTQ5MXR2djllNDgzb3NtYmlvNTggZW4ubGIjaG9saWRheUB2",
+   "created": "2022-09-27T11:41:56.000Z",
+   "updated": "2022-09-27T11:41:56.952Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_6kuuis9491tvv9e483osmbio58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352827576762000\"",
+   "id": "20220422_0eia5s22sitikvuev2m17gp1q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjJfMGVpYTVzMjJzaXRpa3Z1ZXYybTE3Z3AxcTggZW4ubGIjaG9saWRheUB2",
+   "created": "2023-02-14T22:29:48.000Z",
+   "updated": "2023-02-14T22:29:48.381Z",
+   "summary": "Orthodox Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-22"
+   },
+   "end": {
+    "date": "2022-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220422_0eia5s22sitikvuev2m17gp1q8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352827576762000\"",
+   "id": "20230414_9bpn3jdq2t79q38ssabpmt8ja0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTRfOWJwbjNqZHEydDc5cTM4c3NhYnBtdDhqYTAgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-02-14T22:29:48.000Z",
+   "updated": "2023-02-14T22:29:48.381Z",
+   "summary": "Orthodox Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-14"
+   },
+   "end": {
+    "date": "2023-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230414_9bpn3jdq2t79q38ssabpmt8ja0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352827576762000\"",
+   "id": "20240503_au947ei7j7t16shff28g32f4tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDNfYXU5NDdlaTdqN3QxNnNoZmYyOGczMmY0dGMgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-02-14T22:29:48.000Z",
+   "updated": "2023-02-14T22:29:48.381Z",
+   "summary": "Orthodox Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-03"
+   },
+   "end": {
+    "date": "2024-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240503_au947ei7j7t16shff28g32f4tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359221193866000\"",
+   "id": "20230323_4h849sjk9o4m2mpe3nnvmioroc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfNGg4NDlzams5bzRtMm1wZTNubnZtaW9yb2MgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-03-23T22:29:56.000Z",
+   "updated": "2023-03-23T22:29:56.933Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_4h849sjk9o4m2mpe3nnvmioroc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359221193866000\"",
+   "id": "20240311_rde04plhnbp5lvl545himtieno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfcmRlMDRwbGhuYnA1bHZsNTQ1aGltdGllbm8gZW4ubGIjaG9saWRheUB2",
+   "created": "2023-03-23T22:29:56.000Z",
+   "updated": "2023-03-23T22:29:56.933Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_rde04plhnbp5lvl545himtieno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3360069837222000\"",
+   "id": "20230330_ftehu58uod0pjbskltori55kec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMzBfZnRlaHU1OHVvZDBwamJza2x0b3JpNTVrZWMgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-03-28T20:21:58.000Z",
+   "updated": "2023-03-28T20:21:58.611Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Lebanon",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-30"
+   },
+   "end": {
+    "date": "2023-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230330_ftehu58uod0pjbskltori55kec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136311134000\"",
+   "id": "20230421_0khkt2grltj9sasqqma5c4tre0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfMGtoa3QyZ3JsdGo5c2FzcXFtYTVjNHRyZTAgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-04-21T09:09:15.000Z",
+   "updated": "2023-04-21T09:09:15.567Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_0khkt2grltj9sasqqma5c4tre0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136311134000\"",
+   "id": "20230422_5bdn73rntijuffp7cits5nb7r0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfNWJkbjczcm50aWp1ZmZwN2NpdHM1bmI3cjAgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-04-21T09:09:15.000Z",
+   "updated": "2023-04-21T09:09:15.567Z",
+   "summary": "Eid ul Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_5bdn73rntijuffp7cits5nb7r0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3374673755514000\"",
+   "id": "20230628_9cjmlu2aaeo7c2rc2d01sra56c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfOWNqbWx1MmFhZW83YzJyYzJkMDFzcmE1NmMgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-06-21T08:41:17.000Z",
+   "updated": "2023-06-21T08:41:17.757Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_9cjmlu2aaeo7c2rc2d01sra56c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3374673755514000\"",
+   "id": "20230629_rf0oak4ihm0j94f535ju5ku5t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfcmYwb2FrNGlobTBqOTRmNTM1anU1a3U1dDQgZW4ubGIjaG9saWRheUB2",
+   "created": "2023-06-21T08:41:17.000Z",
+   "updated": "2023-06-21T08:41:17.757Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.lb#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Lebanon",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_rf0oak4ihm0j94f535ju5ku5t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

@@ -1,0 +1,1965 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32j8vos0rqlo00o\"",
+ "summary": "Holidays in Singapore",
+ "description": "Holidays and Observances in Singapore",
+ "updated": "2023-07-25T05:00:11.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDZvNiJqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944124934000\"",
+   "id": "20220415_bj4hntlp6sfgjgdugsoii6vev4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfYmo0aG50bHA2c2ZnamdkdWdzb2lpNnZldjQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:02.000Z",
+   "updated": "2021-08-26T10:01:02.467Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_bj4hntlp6sfgjgdugsoii6vev4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944124934000\"",
+   "id": "20220515_m2u5gfiut50lc4sual8ftrpmsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTVfbTJ1NWdmaXV0NTBsYzRzdWFsOGZ0cnBtc2MgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:02.000Z",
+   "updated": "2021-08-26T10:01:02.467Z",
+   "summary": "Vesak Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-15"
+   },
+   "end": {
+    "date": "2022-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220515_m2u5gfiut50lc4sual8ftrpmsc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944124934000\"",
+   "id": "20220516_nvrabrg65eumtujiqos6ktu84s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTZfbnZyYWJyZzY1ZXVtdHVqaXFvczZrdHU4NHMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:02.000Z",
+   "updated": "2021-08-26T10:01:02.467Z",
+   "summary": "Day off for Vesak Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-16"
+   },
+   "end": {
+    "date": "2022-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220516_nvrabrg65eumtujiqos6ktu84s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944128396000\"",
+   "id": "20220501_vng2he2cuqrldk1igklkv6t428",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfdm5nMmhlMmN1cXJsZGsxaWdrbGt2NnQ0MjggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:04.000Z",
+   "updated": "2021-08-26T10:01:04.198Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_vng2he2cuqrldk1igklkv6t428@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944133148000\"",
+   "id": "20220809_9u4a06530o6b6g0pfo9f4aih58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDlfOXU0YTA2NTMwbzZiNmcwcGZvOWY0YWloNTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:06.000Z",
+   "updated": "2021-08-26T10:01:06.574Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-09"
+   },
+   "end": {
+    "date": "2022-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220809_9u4a06530o6b6g0pfo9f4aih58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944136192000\"",
+   "id": "20220101_puloeh596k4s2ihc1ijelfdm98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfcHVsb2VoNTk2azRzMmloYzFpamVsZmRtOTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:08.000Z",
+   "updated": "2021-08-26T10:01:08.096Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_puloeh596k4s2ihc1ijelfdm98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944136192000\"",
+   "id": "20220416_50qgb2v554l3ub27f85m4qhb6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfNTBxZ2IydjU1NGwzdWIyN2Y4NW00cWhiNm8gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:08.000Z",
+   "updated": "2021-08-26T10:01:08.096Z",
+   "summary": "Easter Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_50qgb2v554l3ub27f85m4qhb6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944136192000\"",
+   "id": "20220417_398ch9e5qogsj311qlemolf554",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfMzk4Y2g5ZTVxb2dzajMxMXFsZW1vbGY1NTQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:08.000Z",
+   "updated": "2021-08-26T10:01:08.096Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_398ch9e5qogsj311qlemolf554@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259944136192000\"",
+   "id": "20220902_rfm12cpjc2tvstjivcm8g6dkk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDJfcmZtMTJjcGpjMnR2c3RqaXZjbThnNmRrazggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-08-26T10:01:08.000Z",
+   "updated": "2021-08-26T10:01:08.096Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-02"
+   },
+   "end": {
+    "date": "2022-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220902_rfm12cpjc2tvstjivcm8g6dkk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3269782881130000\"",
+   "id": "20220710_05fdb8o361k8ni409g7n0u8l80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfMDVmZGI4bzM2MWs4bmk0MDlnN24wdThsODAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-10-22T08:30:40.000Z",
+   "updated": "2021-10-22T08:30:40.565Z",
+   "summary": "Hari Raya Haji",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_05fdb8o361k8ni409g7n0u8l80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3276875068056000\"",
+   "id": "20220502_jqt9ji399f44t1b3kkvb6fdme8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfanF0OWppMzk5ZjQ0dDFiM2trdmI2ZmRtZTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2021-12-02T09:32:14.000Z",
+   "updated": "2021-12-02T09:32:14.028Z",
+   "summary": "Day off for Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_jqt9ji399f44t1b3kkvb6fdme8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286333319984000\"",
+   "id": "20220201_jvsfrvs7jbaloja7bqhqud6mq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfanZzZnJ2czdqYmFsb2phN2JxaHF1ZDZtcTQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:10:59.000Z",
+   "updated": "2022-01-26T03:10:59.992Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_jvsfrvs7jbaloja7bqhqud6mq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023919506000\"",
+   "id": "20220202_3oevi84a7k24qko2f20fa91s64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfM29ldmk4NGE3azI0cWtvMmYyMGZhOTFzNjQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-03-11T15:19:19.000Z",
+   "updated": "2022-03-11T15:19:19.753Z",
+   "summary": "Second Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_3oevi84a7k24qko2f20fa91s64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3298544620072000\"",
+   "id": "20220711_7vim7l6jpnddo1fj4do3d3lub8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfN3ZpbTdsNmpwbmRkbzFmajRkbzNkM2x1YjggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-04-06T19:11:50.000Z",
+   "updated": "2022-04-06T19:11:50.036Z",
+   "summary": "Day off for Hari Raya Haji",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_7vim7l6jpnddo1fj4do3d3lub8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354083242000\"",
+   "id": "20220503_2ufm05c12glu88vrsn4h0dascs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfMnVmbTA1YzEyZ2x1ODh2cnNuNGgwZGFzY3MgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-06-08T08:30:41.000Z",
+   "updated": "2022-06-08T08:30:41.621Z",
+   "summary": "Hari Raya Puasa",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_2ufm05c12glu88vrsn4h0dascs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20221007_rif4cn45o6ga2sbqdqt3sbnq18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDdfcmlmNGNuNDVvNmdhMnNicWRxdDNzYm5xMTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-07"
+   },
+   "end": {
+    "date": "2022-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221007_rif4cn45o6ga2sbqdqt3sbnq18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20221024_tgah5t4teiolamsat8r5bsav10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfdGdhaDV0NHRlaW9sYW1zYXQ4cjVic2F2MTAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_tgah5t4teiolamsat8r5bsav10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20221224_8qap6dvhbcdad2ufuvgeptsc84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfOHFhcDZkdmhiY2RhZDJ1ZnV2Z2VwdHNjODQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_8qap6dvhbcdad2ufuvgeptsc84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20221225_vsdsd2pb4rln87cu806f0upscc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfdnNkc2QycGI0cmxuODdjdTgwNmYwdXBzY2MgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_vsdsd2pb4rln87cu806f0upscc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20221226_8ov9tap4oto86lgf0d73l7jddc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfOG92OXRhcDRvdG84NmxnZjBkNzNsN2pkZGMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Day off for Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_8ov9tap4oto86lgf0d73l7jddc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20221231_jij35c98447culekrd153gngac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfamlqMzVjOTg0NDdjdWxla3JkMTUzZ25nYWMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_jij35c98447culekrd153gngac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230101_fnnsf8ogo01umui0ss5vpebt90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfZm5uc2Y4b2dvMDF1bXVpMHNzNXZwZWJ0OTAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_fnnsf8ogo01umui0ss5vpebt90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230102_b1cbpq5ikmgh0soumvacmvfgdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfYjFjYnBxNWlrbWdoMHNvdW12YWNtdmZnZG8gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "New Year's Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_b1cbpq5ikmgh0soumvacmvfgdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230122_9vpcdbdv904gmb4147opjfpv40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfOXZwY2RiZHY5MDRnbWI0MTQ3b3BqZnB2NDAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_9vpcdbdv904gmb4147opjfpv40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230123_5eeo8jh8593uiah7j546d1mdt0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfNWVlbzhqaDg1OTN1aWFoN2o1NDZkMW1kdDAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Second Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_5eeo8jh8593uiah7j546d1mdt0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230124_sffnr66o66m23uaroq233pjlkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfc2ZmbnI2Nm82Nm0yM3Vhcm9xMjMzcGpsa2MgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Day off for Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_sffnr66o66m23uaroq233pjlkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230407_5053jpk1pj38uk70n1odd4tem8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfNTA1M2pwazFwajM4dWs3MG4xb2RkNHRlbTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_5053jpk1pj38uk70n1odd4tem8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230408_95q78org913ilet8on8raej0sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfOTVxNzhvcmc5MTNpbGV0OG9uOHJhZWowc2MgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Easter Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_95q78org913ilet8on8raej0sc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230409_jqcqvs31rk552g1hk1hvdb1go8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfanFjcXZzMzFyazU1MmcxaGsxaHZkYjFnbzggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_jqcqvs31rk552g1hk1hvdb1go8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230422_nbil53280hqifn46ba140ogms0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfbmJpbDUzMjgwaHFpZm40NmJhMTQwb2dtczAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Hari Raya Puasa",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_nbil53280hqifn46ba140ogms0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230501_p5vu6nucaru5pb799rjm20l4eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcDV2dTZudWNhcnU1cGI3OTlyam0yMGw0ZW8gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_p5vu6nucaru5pb799rjm20l4eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230629_qb1ck7425habs72647gf6nbbvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfcWIxY2s3NDI1aGFiczcyNjQ3Z2Y2bmJidmMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Hari Raya Haji",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_qb1ck7425habs72647gf6nbbvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230809_kemba2kno80htnties42svj8mc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDlfa2VtYmEya25vODBodG50aWVzNDJzdmo4bWMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-09"
+   },
+   "end": {
+    "date": "2023-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230809_kemba2kno80htnties42svj8mc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20230901_1rius7q6cs54ntnndnb1p5qrvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDFfMXJpdXM3cTZjczU0bnRubmRuYjFwNXFydmcgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-01"
+   },
+   "end": {
+    "date": "2023-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230901_1rius7q6cs54ntnndnb1p5qrvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20231006_jf7rlhlj3tkdbb5btnofjvk21g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDZfamY3cmxobGozdGtkYmI1YnRub2ZqdmsyMWcgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-06"
+   },
+   "end": {
+    "date": "2023-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231006_jf7rlhlj3tkdbb5btnofjvk21g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20231112_3qjem2134de4lasjla3lv4k92c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfM3FqZW0yMTM0ZGU0bGFzamxhM2x2NGs5MmMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_3qjem2134de4lasjla3lv4k92c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20231113_9bth5d6qn4rqms9dche9p27es8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTNfOWJ0aDVkNnFuNHJxbXM5ZGNoZTlwMjdlczggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Day off for Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-13"
+   },
+   "end": {
+    "date": "2023-11-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231113_9bth5d6qn4rqms9dche9p27es8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20231224_43qoo78cpfp9du7d5a0n4c9se0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfNDNxb283OGNwZnA5ZHU3ZDVhMG40YzlzZTAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_43qoo78cpfp9du7d5a0n4c9se0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20231225_v19qt0d69gglkmofg00pae10ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdjE5cXQwZDY5Z2dsa21vZmcwMHBhZTEwYWMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_v19qt0d69gglkmofg00pae10ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20231231_8mtgds5i4rn9tkcjthaki3rsbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfOG10Z2RzNWk0cm45dGtjanRoYWtpM3JzYmMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_8mtgds5i4rn9tkcjthaki3rsbc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240101_1ujsvrsnvu54659s8eb74opo2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfMXVqc3Zyc252dTU0NjU5czhlYjc0b3BvMmMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_1ujsvrsnvu54659s8eb74opo2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240210_s3vepmedeur5p080a6l6ef312o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfczN2ZXBtZWRldXI1cDA4MGE2bDZlZjMxMm8gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_s3vepmedeur5p080a6l6ef312o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240329_ipl8f5douk4hqknhlgg8v9cuf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfaXBsOGY1ZG91azRocWtuaGxnZzh2OWN1ZjQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_ipl8f5douk4hqknhlgg8v9cuf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240330_ei6772153aeblr5nb9pa8n2tg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfZWk2NzcyMTUzYWVibHI1bmI5cGE4bjJ0ZzggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Easter Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_ei6772153aeblr5nb9pa8n2tg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240331_i5igp4f4ahemtpifr1jkma46k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfaTVpZ3A0ZjRhaGVtdHBpZnIxamttYTQ2azAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_i5igp4f4ahemtpifr1jkma46k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240410_bij882ku1fsmp62gnee29qm6pc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfYmlqODgya3UxZnNtcDYyZ25lZTI5cW02cGMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Hari Raya Puasa",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_bij882ku1fsmp62gnee29qm6pc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240501_ig7ddh8hrp6d9r4lenul7gvn84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfaWc3ZGRoOGhycDZkOXI0bGVudWw3Z3ZuODQgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_ig7ddh8hrp6d9r4lenul7gvn84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240522_icj7nvt2vbpfkt12q48odoodu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjJfaWNqN252dDJ2YnBma3QxMnE0OG9kb29kdTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Vesak Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-22"
+   },
+   "end": {
+    "date": "2024-05-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240522_icj7nvt2vbpfkt12q48odoodu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240617_ctsosn0tjh52jv98eq0407v6ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfY3Rzb3NuMHRqaDUyanY5OGVxMDQwN3Y2dWcgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Hari Raya Haji",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_ctsosn0tjh52jv98eq0407v6ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240809_d2vrstmlmukp7gs4i2q6e8k2og",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDlfZDJ2cnN0bWxtdWtwN2dzNGkycTZlOGsyb2cgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-09"
+   },
+   "end": {
+    "date": "2024-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240809_d2vrstmlmukp7gs4i2q6e8k2og@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20240906_vvesbmllmn7nmc8im2mnppc2ck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDZfdnZlc2JtbGxtbjdubWM4aW0ybW5wcGMyY2sgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-06"
+   },
+   "end": {
+    "date": "2024-09-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240906_vvesbmllmn7nmc8im2mnppc2ck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20241004_82iqn86db82d8ifk8dns3rimi8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDRfODJpcW44NmRiODJkOGlmazhkbnMzcmltaTggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-04"
+   },
+   "end": {
+    "date": "2024-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241004_82iqn86db82d8ifk8dns3rimi8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20241224_c6mt68d2op20agd6eg4gpisumo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfYzZtdDY4ZDJvcDIwYWdkNmVnNGdwaXN1bW8gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_c6mt68d2op20agd6eg4gpisumo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20241225_lmsqgelq6tbjfdr581oacr0lko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbG1zcWdlbHE2dGJqZmRyNTgxb2FjcjBsa28gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_lmsqgelq6tbjfdr581oacr0lko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327902782002000\"",
+   "id": "20241231_is56dds9hkkafhp9odbjhe0ho8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfaXM1NmRkczloa2thZmhwOW9kYmpoZTBobzggZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:43:11.000Z",
+   "updated": "2022-09-23T16:43:11.001Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_is56dds9hkkafhp9odbjhe0ho8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329781329178000\"",
+   "id": "20230602_ujgsm0k56b27147c6kqr23c4do",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDJfdWpnc20wazU2YjI3MTQ3YzZrcXIyM2M0ZG8gZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2022-10-04T13:37:44.000Z",
+   "updated": "2022-10-04T13:37:44.589Z",
+   "summary": "Vesak Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-02"
+   },
+   "end": {
+    "date": "2023-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230602_ujgsm0k56b27147c6kqr23c4do@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359221050116000\"",
+   "id": "20230323_td9ctmviadfa9upi7fei1qj3tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfdGQ5Y3RtdmlhZGZhOXVwaTdmZWkxcWozdGMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2023-03-23T22:28:45.000Z",
+   "updated": "2023-03-23T22:28:45.058Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_td9ctmviadfa9upi7fei1qj3tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359221050116000\"",
+   "id": "20240311_phi7sis45i5lc87u30fq0rih7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfcGhpN3NpczQ1aTVsYzg3dTMwZnEwcmloN2cgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2023-03-23T22:28:45.000Z",
+   "updated": "2023-03-23T22:28:45.058Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Singapore",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_phi7sis45i5lc87u30fq0rih7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469231932000\"",
+   "id": "20240211_od4d0bj4nrpj6nmsf0nbo79ed0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfb2Q0ZDBiajRucnBqNm5tc2YwbmJvNzllZDAgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2023-06-14T09:23:35.000Z",
+   "updated": "2023-06-14T09:23:35.966Z",
+   "summary": "Second Day of Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_od4d0bj4nrpj6nmsf0nbo79ed0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469231932000\"",
+   "id": "20240212_9v5ugea6l21jb8jd110uvb58vg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfOXY1dWdlYTZsMjFqYjhqZDExMHV2YjU4dmcgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2023-06-14T09:23:35.000Z",
+   "updated": "2023-06-14T09:23:35.966Z",
+   "summary": "Day off for Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_9v5ugea6l21jb8jd110uvb58vg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373469231932000\"",
+   "id": "20241031_b2cerqr27ji82a0cb437tk9ais",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfYjJjZXJxcjI3amk4MmEwY2I0Mzd0azlhaXMgZW4uc2luZ2Fwb3JlI2hvbGlkYXlAdg",
+   "created": "2023-06-14T09:23:35.000Z",
+   "updated": "2023-06-14T09:23:35.966Z",
+   "summary": "Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.singapore#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Singapore",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_b2cerqr27ji82a0cb437tk9ais@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

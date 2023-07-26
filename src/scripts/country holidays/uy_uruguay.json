@@ -1,0 +1,781 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p324a5jsdrqlo00o\"",
+ "summary": "Holidays in Uruguay",
+ "description": "Holidays and Observances in Uruguay",
+ "updated": "2023-07-25T01:12:34.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDJp-jWqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959786110000\"",
+   "id": "20220101_vm9722a83vj62055hv70ft7dd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfdm05NzIyYTgzdmo2MjA1NWh2NzBmdDdkZDQgZW4udXkjaG9saWRheUB2",
+   "created": "2021-08-26T12:11:33.000Z",
+   "updated": "2021-08-26T12:11:33.055Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_vm9722a83vj62055hv70ft7dd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959786110000\"",
+   "id": "20220417_rf75bvjnkhm7es145jjhv4v4b0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfcmY3NWJ2am5raG03ZXMxNDVqamh2NHY0YjAgZW4udXkjaG9saWRheUB2",
+   "created": "2021-08-26T12:11:33.000Z",
+   "updated": "2021-08-26T12:11:33.055Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_rf75bvjnkhm7es145jjhv4v4b0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959786110000\"",
+   "id": "20220501_sg59cn9729o5l3de1bmlo7p5v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfc2c1OWNuOTcyOW81bDNkZTFibWxvN3A1djggZW4udXkjaG9saWRheUB2",
+   "created": "2021-08-26T12:11:33.000Z",
+   "updated": "2021-08-26T12:11:33.055Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_sg59cn9729o5l3de1bmlo7p5v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959791018000\"",
+   "id": "20220718_4qsl9tag79bs6p87gpe1bjfgjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MThfNHFzbDl0YWc3OWJzNnA4N2dwZTFiamZnam8gZW4udXkjaG9saWRheUB2",
+   "created": "2021-08-26T12:11:35.000Z",
+   "updated": "2021-08-26T12:11:35.509Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-18"
+   },
+   "end": {
+    "date": "2022-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220718_4qsl9tag79bs6p87gpe1bjfgjo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959791018000\"",
+   "id": "20220825_4ebo5ej8l57hqu1qpsoflll8c0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MjVfNGVibzVlajhsNTdocXUxcXBzb2ZsbGw4YzAgZW4udXkjaG9saWRheUB2",
+   "created": "2021-08-26T12:11:35.000Z",
+   "updated": "2021-08-26T12:11:35.509Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-25"
+   },
+   "end": {
+    "date": "2022-08-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220825_4ebo5ej8l57hqu1qpsoflll8c0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20221224_tk5h027i3aac45gmnbev7pdf0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfdGs1aDAyN2kzYWFjNDVnbW5iZXY3cGRmMG8gZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_tk5h027i3aac45gmnbev7pdf0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20221225_d6iga78tkcra2ofvajqr03s3eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZDZpZ2E3OHRrY3JhMm9mdmFqcXIwM3MzZW8gZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_d6iga78tkcra2ofvajqr03s3eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20221231_dl41u6lp4angk64q6lpolu2qmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfZGw0MXU2bHA0YW5nazY0cTZscG9sdTJxbW8gZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_dl41u6lp4angk64q6lpolu2qmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20230101_bbbs1ncdnngf89m963taurkuvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfYmJiczFuY2RubmdmODltOTYzdGF1cmt1dmMgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_bbbs1ncdnngf89m963taurkuvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20230409_gkmbhg5utchpc160d4ocaf23fo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfZ2ttYmhnNXV0Y2hwYzE2MGQ0b2NhZjIzZm8gZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_gkmbhg5utchpc160d4ocaf23fo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20230501_hs638q5n5rlsjk5lbe5c7e5s0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfaHM2MzhxNW41cmxzams1bGJlNWM3ZTVzMHMgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_hs638q5n5rlsjk5lbe5c7e5s0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20230718_gi5mdmd7d6b9v603puonmktces",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MThfZ2k1bWRtZDdkNmI5djYwM3B1b25ta3RjZXMgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-18"
+   },
+   "end": {
+    "date": "2023-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230718_gi5mdmd7d6b9v603puonmktces@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20230825_rc343as3k9n0371734vvcatv0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjVfcmMzNDNhczNrOW4wMzcxNzM0dnZjYXR2MGMgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-25"
+   },
+   "end": {
+    "date": "2023-08-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230825_rc343as3k9n0371734vvcatv0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20231224_4f22m39prjs2gk88fvnhm9kbv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfNGYyMm0zOXByanMyZ2s4OGZ2bmhtOWtidjggZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_4f22m39prjs2gk88fvnhm9kbv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20231225_13lg9nae124dp56kg6qectigj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfMTNsZzluYWUxMjRkcDU2a2c2cWVjdGlnajAgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_13lg9nae124dp56kg6qectigj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20231231_v177vl52m9ltb09vi18efnsm0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfdjE3N3ZsNTJtOWx0YjA5dmkxOGVmbnNtMG8gZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_v177vl52m9ltb09vi18efnsm0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20240101_nl85a4slj55ba11ambb332cdeg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbmw4NWE0c2xqNTViYTExYW1iYjMzMmNkZWcgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_nl85a4slj55ba11ambb332cdeg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20240331_9ggv9an1ull5nnvb96uiq8u63c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfOWdndjlhbjF1bGw1bm52Yjk2dWlxOHU2M2MgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_9ggv9an1ull5nnvb96uiq8u63c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20240501_r26o79nqb890bte4kv5qldbaik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfcjI2bzc5bnFiODkwYnRlNGt2NXFsZGJhaWsgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_r26o79nqb890bte4kv5qldbaik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20240718_1bu51pk3ro1kbgh21n0moeq5qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MThfMWJ1NTFwazNybzFrYmdoMjFuMG1vZXE1cXMgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-18"
+   },
+   "end": {
+    "date": "2024-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240718_1bu51pk3ro1kbgh21n0moeq5qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20240825_so2qr5ltd7h2a8jb719p34mp9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjVfc28ycXI1bHRkN2gyYThqYjcxOXAzNG1wOWsgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-25"
+   },
+   "end": {
+    "date": "2024-08-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240825_so2qr5ltd7h2a8jb719p34mp9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20241224_2csbunsi1omdgvhasa0sk6ab24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfMmNzYnVuc2kxb21kZ3ZoYXNhMHNrNmFiMjQgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_2csbunsi1omdgvhasa0sk6ab24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20241225_u4r1r25iclfsillleledrl879s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfdTRyMXIyNWljbGZzaWxsbGVsZWRybDg3OXMgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_u4r1r25iclfsillleledrl879s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558258810000\"",
+   "id": "20241231_a346uscp2n0qiptf5fhr5clak4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfYTM0NnVzY3AybjBxaXB0ZjVmaHI1Y2xhazQgZW4udXkjaG9saWRheUB2",
+   "created": "2022-09-27T11:45:29.000Z",
+   "updated": "2022-09-27T11:45:29.405Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Uruguay",
+   "creator": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.uy#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Uruguay",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_a346uscp2n0qiptf5fhr5clak4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

@@ -1,0 +1,2061 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p335pj1k3rqlo00o\"",
+ "summary": "Holidays in Maldives",
+ "description": "Holidays and Observances in Maldives",
+ "updated": "2023-07-24T22:58:46.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICrofS4qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948395320000\"",
+   "id": "20220501_0hmm78o5uvmum9vlc5dtrvh5hk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfMGhtbTc4bzV1dm11bTl2bGM1ZHRydmg1aGsgZW4ubXYjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:37.000Z",
+   "updated": "2021-08-26T10:36:37.660Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_0hmm78o5uvmum9vlc5dtrvh5hk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948395320000\"",
+   "id": "20220730_6770l4ovpsrpn089q3lp7vl124",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfNjc3MGw0b3Zwc3JwbjA4OXEzbHA3dmwxMjQgZW4ubXYjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:37.000Z",
+   "updated": "2021-08-26T10:36:37.660Z",
+   "summary": "Muharram/Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_6770l4ovpsrpn089q3lp7vl124@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948400720000\"",
+   "id": "20220101_up2q0tfue2d13cv9tall07p4i4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfdXAycTB0ZnVlMmQxM2N2OXRhbGwwN3A0aTQgZW4ubXYjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:40.000Z",
+   "updated": "2021-08-26T10:36:40.360Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_up2q0tfue2d13cv9tall07p4i4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948400720000\"",
+   "id": "20220727_sqj1q9micfkuv64c5nc9op2g4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3Mjdfc3FqMXE5bWljZmt1djY0YzVuYzlvcDJnNHMgZW4ubXYjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:40.000Z",
+   "updated": "2021-08-26T10:36:40.360Z",
+   "summary": "Independence Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-27"
+   },
+   "end": {
+    "date": "2022-07-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220727_sqj1q9micfkuv64c5nc9op2g4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948409048000\"",
+   "id": "20220726_r9v4l56lhc39ta2aoluevkme40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MjZfcjl2NGw1NmxoYzM5dGEyYW9sdWV2a21lNDAgZW4ubXYjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:44.000Z",
+   "updated": "2021-08-26T10:36:44.524Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-26"
+   },
+   "end": {
+    "date": "2022-07-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220726_r9v4l56lhc39ta2aoluevkme40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334694312000\"",
+   "id": "20220402_556no789ip6j20pdbcj1jkfpdg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfNTU2bm83ODlpcDZqMjBwZGJjajFqa2ZwZGcgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.156Z",
+   "summary": "Ramadan Start",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_556no789ip6j20pdbcj1jkfpdg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334694312000\"",
+   "id": "20220502_ei3kecq9crkdbn5uk8h4ffn77c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZWkza2VjcTljcmtkYm41dWs4aDRmZm43N2MgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.156Z",
+   "summary": "Eid-ul-Fithr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_ei3kecq9crkdbn5uk8h4ffn77c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334694312000\"",
+   "id": "20220714_c2th58eu2h9ochocuetroguplo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTRfYzJ0aDU4ZXUyaDlvY2hvY3VldHJvZ3VwbG8gZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.156Z",
+   "summary": "Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-14"
+   },
+   "end": {
+    "date": "2022-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220714_c2th58eu2h9ochocuetroguplo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220503_2sa4mtmouj2aioqjhsv8k0fc3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfMnNhNG10bW91ajJhaW9xamhzdjhrMGZjM3MgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Eid-ul-Fithr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_2sa4mtmouj2aioqjhsv8k0fc3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220504_0a5tekbd7dskhcqjogs04ojulk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfMGE1dGVrYmQ3ZHNraGNxam9nczA0b2p1bGsgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Eid-ul-Fithr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_0a5tekbd7dskhcqjogs04ojulk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220505_9rh8ma5henjk1dkkgor6k4n85k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfOXJoOG1hNWhlbmprMWRra2dvcjZrNG44NWsgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_9rh8ma5henjk1dkkgor6k4n85k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220711_3pjp3l2pdmhbfid6n3qotuj7fs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfM3BqcDNsMnBkbWhiZmlkNm4zcW90dWo3ZnMgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_3pjp3l2pdmhbfid6n3qotuj7fs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220712_vlklmo2admpm9rctrtntfnkjpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfdmxrbG1vMmFkbXBtOXJjdHJ0bnRmbmtqcGsgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_vlklmo2admpm9rctrtntfnkjpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220713_eg95mlivr8387c27pj0tcs4k04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTNfZWc5NW1saXZyODM4N2MyN3BqMHRjczRrMDQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-13"
+   },
+   "end": {
+    "date": "2022-07-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220713_eg95mlivr8387c27pj0tcs4k04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334695568000\"",
+   "id": "20220728_5o04ojros62liqjb6krnn4pd18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MjhfNW8wNG9qcm9zNjJsaXFqYjZrcm5uNHBkMTggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:27.000Z",
+   "updated": "2022-01-26T03:22:27.784Z",
+   "summary": "Bank Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-28"
+   },
+   "end": {
+    "date": "2022-07-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220728_5o04ojros62liqjb6krnn4pd18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334697674000\"",
+   "id": "20220708_eufjhfv5hbihj68gop3n3c5e30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfZXVmamhmdjVoYmloajY4Z29wM24zYzVlMzAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:28.000Z",
+   "updated": "2022-01-26T03:22:28.837Z",
+   "summary": "Hajj Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_eufjhfv5hbihj68gop3n3c5e30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334697674000\"",
+   "id": "20220709_r1er8m20o3t6cf45ajvkcacmcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfcjFlcjhtMjBvM3Q2Y2Y0NWFqdmtjYWNtY2MgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:28.000Z",
+   "updated": "2022-01-26T03:22:28.837Z",
+   "summary": "Eid-ul Al'haa",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_r1er8m20o3t6cf45ajvkcacmcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334697674000\"",
+   "id": "20220710_310mveg0624fd8ifn6su68ti2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfMzEwbXZlZzA2MjRmZDhpZm42c3U2OHRpMmsgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-01-26T03:22:28.000Z",
+   "updated": "2022-01-26T03:22:28.837Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_310mveg0624fd8ifn6su68ti2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294024725272000\"",
+   "id": "20220203_c4jefgfa489od9h6p5cccemuk0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDNfYzRqZWZnZmE0ODlvZDloNnA1Y2NjZW11azAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-03-11T15:26:02.000Z",
+   "updated": "2022-03-11T15:26:02.636Z",
+   "summary": "Presidential Address Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-03"
+   },
+   "end": {
+    "date": "2022-02-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220203_c4jefgfa489od9h6p5cccemuk0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20220927_q29hgsl0nmv7kriu3j1i2u4qp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjdfcTI5aGdzbDBubXY3a3JpdTNqMWkydTRxcDAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-27"
+   },
+   "end": {
+    "date": "2022-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220927_q29hgsl0nmv7kriu3j1i2u4qp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20221003_3m65625po0fbai3360t2d6qed0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfM202NTYyNXBvMGZiYWkzMzYwdDJkNnFlZDAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "National Tourism Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_3m65625po0fbai3360t2d6qed0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20221008_6oqadbulgtquck165no0h7q7kk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfNm9xYWRidWxndHF1Y2sxNjVubzBoN3E3a2sgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Milad un Nabi (Mawlid)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_6oqadbulgtquck165no0h7q7kk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20221027_l2tv78ktap42ft5uicsc7mro14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjdfbDJ0djc4a3RhcDQyZnQ1dWljc2M3bXJvMTQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "The Day Maldives Embraced Islam",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-27"
+   },
+   "end": {
+    "date": "2022-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221027_l2tv78ktap42ft5uicsc7mro14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20221103_9orm0208jjlcj0u9iffhg5bjh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDNfOW9ybTAyMDhqamxjajB1OWlmZmhnNWJqaDggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-03"
+   },
+   "end": {
+    "date": "2022-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221103_9orm0208jjlcj0u9iffhg5bjh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20221111_kbe3uttjf13bjh9urubsm7pr88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfa2JlM3V0dGpmMTNiamg5dXJ1YnNtN3ByODggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_kbe3uttjf13bjh9urubsm7pr88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230101_r4oevv9j40n33vqnljsugmck2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfcjRvZXZ2OWo0MG4zM3Zxbmxqc3VnbWNrMm8gZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_r4oevv9j40n33vqnljsugmck2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230323_ffd24ibde1s8fa39h8v927nnic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfZmZkMjRpYmRlMXM4ZmEzOWg4djkyN25uaWMgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Ramadan Start",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_ffd24ibde1s8fa39h8v927nnic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230423_099qotv58fce1ctg47nhb408g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfMDk5cW90djU4ZmNlMWN0ZzQ3bmhiNDA4ZzggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul-Fithr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_099qotv58fce1ctg47nhb408g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230501_62njifi2oj15uj7nuru5fk0nq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfNjJuamlmaTJvajE1dWo3bnVydTVmazBucTggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_62njifi2oj15uj7nuru5fk0nq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230630_mskgt0fjgs37bodupudefo5hk0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfbXNrZ3QwZmpnczM3Ym9kdXB1ZGVmbzVoazAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_mskgt0fjgs37bodupudefo5hk0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230701_16dvt6svorrcht4l4qevssn8g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfMTZkdnQ2c3ZvcnJjaHQ0bDRxZXZzc244ZzggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_16dvt6svorrcht4l4qevssn8g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230719_8jv45sbq9eivdp9sdm8bghm07o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfOGp2NDVzYnE5ZWl2ZHA5c2RtOGJnaG0wN28gZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Muharram/Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_8jv45sbq9eivdp9sdm8bghm07o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230726_6mo31ptfb2a8tn0s0gepmketo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjZfNm1vMzFwdGZiMmE4dG4wczBnZXBta2V0bzQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-26"
+   },
+   "end": {
+    "date": "2023-07-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230726_6mo31ptfb2a8tn0s0gepmketo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230727_4jq1si0nam5m215agkprnl2el0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjdfNGpxMXNpMG5hbTVtMjE1YWdrcHJubDJlbDAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Independence Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-27"
+   },
+   "end": {
+    "date": "2023-07-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230727_4jq1si0nam5m215agkprnl2el0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230916_g2gr31lc35g3lmfj238rbkqfjo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTZfZzJncjMxbGMzNWczbG1majIzOHJia3Fmam8gZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-16"
+   },
+   "end": {
+    "date": "2023-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230916_g2gr31lc35g3lmfj238rbkqfjo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20230927_5tosgd5c5e221h4888dlcc8218",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfNXRvc2dkNWM1ZTIyMWg0ODg4ZGxjYzgyMTggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Milad un Nabi (Mawlid)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_5tosgd5c5e221h4888dlcc8218@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20231016_so2q9e24o6o0s3ac6gleh6crf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTZfc28ycTllMjRvNm8wczNhYzZnbGVoNmNyZjAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "The Day Maldives Embraced Islam",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-16"
+   },
+   "end": {
+    "date": "2023-10-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231016_so2q9e24o6o0s3ac6gleh6crf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20231103_nl4qivujmas9q6ripsbe3ofk78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDNfbmw0cWl2dWptYXM5cTZyaXBzYmUzb2ZrNzggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-03"
+   },
+   "end": {
+    "date": "2023-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231103_nl4qivujmas9q6ripsbe3ofk78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20231111_ljh05mr44acrhpb4gfun9qus34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfbGpoMDVtcjQ0YWNyaHBiNGdmdW45cXVzMzQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_ljh05mr44acrhpb4gfun9qus34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240101_nre2o2plva8pd215bip8eljl2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbnJlMm8ycGx2YThwZDIxNWJpcDhlbGpsMm8gZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_nre2o2plva8pd215bip8eljl2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240311_7nabom19ed7gov80rc0ihlk9gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfN25hYm9tMTllZDdnb3Y4MHJjMGlobGs5Z3MgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Ramadan Start",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_7nabom19ed7gov80rc0ihlk9gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240410_mnu06p0dmt2gokig5kvduklb84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfbW51MDZwMGRtdDJnb2tpZzVrdmR1a2xiODQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul-Fithr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_mnu06p0dmt2gokig5kvduklb84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240411_9t5b4gimk9rlon0r088kob5rrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfOXQ1YjRnaW1rOXJsb24wcjA4OGtvYjVycnMgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul-Fithr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_9t5b4gimk9rlon0r088kob5rrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240412_m1ne5ga8cgvajja42do723s1os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfbTFuZTVnYThjZ3ZhamphNDJkbzcyM3Mxb3MgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul-Fithr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_m1ne5ga8cgvajja42do723s1os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240501_vagk6djmjughm9lk5q8ainq6b0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfdmFnazZkam1qdWdobTlsazVxOGFpbnE2YjAgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_vagk6djmjughm9lk5q8ainq6b0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240616_nsq5p8uhrjevni37p0cdogift4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfbnNxNXA4dWhyamV2bmkzN3AwY2RvZ2lmdDQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Hajj Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_nsq5p8uhrjevni37p0cdogift4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240617_jjao1rdokiqfft5rnr5m1g6ihc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfamphbzFyZG9raXFmZnQ1cm5yNW0xZzZpaGMgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul Al'haa",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_jjao1rdokiqfft5rnr5m1g6ihc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240618_283822ljd5burnchu30c40se44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfMjgzODIybGpkNWJ1cm5jaHUzMGM0MHNlNDQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_283822ljd5burnchu30c40se44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240619_5hp97jipb0op1p8g0qtplu8vmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfNWhwOTdqaXBiMG9wMXA4ZzBxdHBsdTh2bWcgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_5hp97jipb0op1p8g0qtplu8vmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240620_jbek5mmh3leb6b0vis6c32dvjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjBfamJlazVtbWgzbGViNmIwdmlzNmMzMmR2amsgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-20"
+   },
+   "end": {
+    "date": "2024-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240620_jbek5mmh3leb6b0vis6c32dvjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240708_857s9v55un18naeoi8ja7mah9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfODU3czl2NTV1bjE4bmFlb2k4amE3bWFoOXMgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Muharram/Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_857s9v55un18naeoi8ja7mah9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240726_c3ae3te6jva209akq8t85buqk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjZfYzNhZTN0ZTZqdmEyMDlha3E4dDg1YnVxazQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-26"
+   },
+   "end": {
+    "date": "2024-07-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240726_c3ae3te6jva209akq8t85buqk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240727_uh1g8toppp2i4ou99vi2hv31b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjdfdWgxZzh0b3BwcDJpNG91OTl2aTJodjMxYjggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Independence Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-27"
+   },
+   "end": {
+    "date": "2024-07-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240727_uh1g8toppp2i4ou99vi2hv31b8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240905_88goam9j5cn41kd07646jcdc5c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDVfODhnb2FtOWo1Y240MWtkMDc2NDZqY2RjNWMgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-05"
+   },
+   "end": {
+    "date": "2024-09-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240905_88goam9j5cn41kd07646jcdc5c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20240916_sat4tn2pei1i8sptuje72bkp88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfc2F0NHRuMnBlaTFpOHNwdHVqZTcyYmtwODggZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Milad un Nabi (Mawlid)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_sat4tn2pei1i8sptuje72bkp88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20241005_c34gu0v74849m2bq6jppjecre4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDVfYzM0Z3Uwdjc0ODQ5bTJicTZqcHBqZWNyZTQgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "The Day Maldives Embraced Islam",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-05"
+   },
+   "end": {
+    "date": "2024-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241005_c34gu0v74849m2bq6jppjecre4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20241103_96vqqgevgaghrogmgh74uqpi8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDNfOTZ2cXFnZXZnYWdocm9nbWdoNzR1cXBpOGcgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-03"
+   },
+   "end": {
+    "date": "2024-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241103_96vqqgevgaghrogmgh74uqpi8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558787120000\"",
+   "id": "20241111_lgh246hml04i71sa3e4f12061k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfbGdoMjQ2aG1sMDRpNzFzYTNlNGYxMjA2MWsgZW4ubXYjaG9saWRheUB2",
+   "created": "2022-09-27T11:49:53.000Z",
+   "updated": "2022-09-27T11:49:53.560Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_lgh246hml04i71sa3e4f12061k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3350926729398000\"",
+   "id": "20230206_vlscl0mff12e8pbiro1m8ii7r0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDZfdmxzY2wwbWZmMTJlOHBiaXJvMW04aWk3cjAgZW4ubXYjaG9saWRheUB2",
+   "created": "2023-02-03T22:29:24.000Z",
+   "updated": "2023-02-03T22:29:24.699Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-06"
+   },
+   "end": {
+    "date": "2023-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230206_vlscl0mff12e8pbiro1m8ii7r0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364135091420000\"",
+   "id": "20230421_6m1h332ppltesbbss8oktqo7ks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfNm0xaDMzMnBwbHRlc2Jic3M4b2t0cW83a3MgZW4ubXYjaG9saWRheUB2",
+   "created": "2023-04-21T08:59:05.000Z",
+   "updated": "2023-04-21T08:59:05.710Z",
+   "summary": "Eid-ul-Fithr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_6m1h332ppltesbbss8oktqo7ks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364135091420000\"",
+   "id": "20230422_cm25thv4c90sbc4imiv69m6mbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfY20yNXRodjRjOTBzYmM0aW1pdjY5bTZtYmMgZW4ubXYjaG9saWRheUB2",
+   "created": "2023-04-21T08:59:05.000Z",
+   "updated": "2023-04-21T08:59:05.710Z",
+   "summary": "Eid-ul-Fithr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_cm25thv4c90sbc4imiv69m6mbc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3378334591286000\"",
+   "id": "20230627_r84vlvce39fgkpaqjt44dl0ta8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2Mjdfcjg0dmx2Y2UzOWZna3BhcWp0NDRkbDB0YTggZW4ubXYjaG9saWRheUB2",
+   "created": "2023-07-12T13:08:15.000Z",
+   "updated": "2023-07-12T13:08:15.643Z",
+   "summary": "Hajj Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-27"
+   },
+   "end": {
+    "date": "2023-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230627_r84vlvce39fgkpaqjt44dl0ta8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3378334591286000\"",
+   "id": "20230628_gnn6ammvvsq9uvifluj14jl75k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfZ25uNmFtbXZ2c3E5dXZpZmx1ajE0amw3NWsgZW4ubXYjaG9saWRheUB2",
+   "created": "2023-07-12T13:08:15.000Z",
+   "updated": "2023-07-12T13:08:15.643Z",
+   "summary": "Eid-ul Al'haa",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_gnn6ammvvsq9uvifluj14jl75k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3378334591286000\"",
+   "id": "20230629_0t57jfk0iu1i72a9jglgl7abk0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfMHQ1N2pmazBpdTFpNzJhOWpnbGdsN2FiazAgZW4ubXYjaG9saWRheUB2",
+   "created": "2023-07-12T13:08:15.000Z",
+   "updated": "2023-07-12T13:08:15.643Z",
+   "summary": "Eid-ul Al'haa Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mv#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Maldives",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_0t57jfk0iu1i72a9jglgl7abk0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

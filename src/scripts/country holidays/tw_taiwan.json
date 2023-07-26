@@ -1,0 +1,3277 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32uv1ls1rqlo00o\"",
+ "summary": "Holidays in Taiwan",
+ "description": "Holidays and Observances in Taiwan",
+ "updated": "2023-07-24T22:22:27.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDdneWwqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964179740000\"",
+   "id": "20220101_jg09dd6borfl0lnck12l1gc0ag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfamcwOWRkNmJvcmZsMGxuY2sxMmwxZ2MwYWcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:09.000Z",
+   "updated": "2021-08-26T12:48:09.870Z",
+   "summary": "Republic Day/New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_jg09dd6borfl0lnck12l1gc0ag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964179740000\"",
+   "id": "20220603_6gudfhej3j1pe6sgo4vnrgb4s8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfNmd1ZGZoZWozajFwZTZzZ280dm5yZ2I0czggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:09.000Z",
+   "updated": "2021-08-26T12:48:09.870Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_6gudfhej3j1pe6sgo4vnrgb4s8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964183498000\"",
+   "id": "20220228_1haua0iokfdp2clg8pru3nrdr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjhfMWhhdWEwaW9rZmRwMmNsZzhwcnUzbnJkcjAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:11.000Z",
+   "updated": "2021-08-26T12:48:11.749Z",
+   "summary": "Peace Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-28"
+   },
+   "end": {
+    "date": "2022-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220228_1haua0iokfdp2clg8pru3nrdr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964183498000\"",
+   "id": "20220405_itv7f1cmfq3u1r8iq8rqllqgpo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDVfaXR2N2YxY21mcTN1MXI4aXE4cnFsbHFncG8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:11.000Z",
+   "updated": "2021-08-26T12:48:11.749Z",
+   "summary": "Tomb Sweeping Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-05"
+   },
+   "end": {
+    "date": "2022-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220405_itv7f1cmfq3u1r8iq8rqllqgpo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964187616000\"",
+   "id": "20220308_fqk18tfgbf88tmrgvnns37phkg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDhfZnFrMTh0ZmdiZjg4dG1yZ3ZubnMzN3Boa2cgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:13.000Z",
+   "updated": "2021-08-26T12:48:13.808Z",
+   "summary": "International Women's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-08"
+   },
+   "end": {
+    "date": "2022-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220308_fqk18tfgbf88tmrgvnns37phkg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964187616000\"",
+   "id": "20220910_cd7u9it43fv07jarpag30pp0a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTBfY2Q3dTlpdDQzZnYwN2phcnBhZzMwcHAwYTggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:13.000Z",
+   "updated": "2021-08-26T12:48:13.808Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-10"
+   },
+   "end": {
+    "date": "2022-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220910_cd7u9it43fv07jarpag30pp0a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964192484000\"",
+   "id": "20220329_1m9gt7f1vf8gvffpl8uonjpn3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjlfMW05Z3Q3ZjF2ZjhndmZmcGw4dW9uanBuM28gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:16.000Z",
+   "updated": "2021-08-26T12:48:16.242Z",
+   "summary": "Youth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-29"
+   },
+   "end": {
+    "date": "2022-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220329_1m9gt7f1vf8gvffpl8uonjpn3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964192484000\"",
+   "id": "20220404_u6kseo9ev0a2hhue8c32se1dt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDRfdTZrc2VvOWV2MGEyaGh1ZThjMzJzZTFkdDQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:16.000Z",
+   "updated": "2021-08-26T12:48:16.242Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-04"
+   },
+   "end": {
+    "date": "2022-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220404_u6kseo9ev0a2hhue8c32se1dt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964192484000\"",
+   "id": "20220812_57fmh5ee6hmsanhdt9s9dpvj6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTJfNTdmbWg1ZWU2aG1zYW5oZHQ5czlkcHZqNmMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:16.000Z",
+   "updated": "2021-08-26T12:48:16.242Z",
+   "summary": "Hungry Ghost Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-12"
+   },
+   "end": {
+    "date": "2022-08-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220812_57fmh5ee6hmsanhdt9s9dpvj6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964197754000\"",
+   "id": "20220903_9fct3gg6mupq2rfj9ue90d69nk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDNfOWZjdDNnZzZtdXBxMnJmajl1ZTkwZDY5bmsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:18.000Z",
+   "updated": "2021-08-26T12:48:18.877Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-03"
+   },
+   "end": {
+    "date": "2022-09-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220903_9fct3gg6mupq2rfj9ue90d69nk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964202440000\"",
+   "id": "20220204_57483vj6se5afnih95t2hdm8ik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDRfNTc0ODN2ajZzZTVhZm5paDk1dDJoZG04aWsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:21.000Z",
+   "updated": "2021-08-26T12:48:21.220Z",
+   "summary": "Farmer's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-04"
+   },
+   "end": {
+    "date": "2022-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220204_57483vj6se5afnih95t2hdm8ik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964202440000\"",
+   "id": "20220215_ghbdajjeqqijsj09ifbkc2smmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTVfZ2hiZGFqamVxcWlqc2owOWlmYmtjMnNtbWcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:21.000Z",
+   "updated": "2021-08-26T12:48:21.220Z",
+   "summary": "Lantern Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-15"
+   },
+   "end": {
+    "date": "2022-02-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220215_ghbdajjeqqijsj09ifbkc2smmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964202440000\"",
+   "id": "20220909_mct8frt5688rmsu8utbbivs1n0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDlfbWN0OGZydDU2ODhybXN1OHV0YmJpdnMxbjAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T12:48:21.000Z",
+   "updated": "2021-08-26T12:48:21.220Z",
+   "summary": "Mid-Autumn Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-09"
+   },
+   "end": {
+    "date": "2022-09-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220909_mct8frt5688rmsu8utbbivs1n0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334529294000\"",
+   "id": "20220131_pms1pbktj30fqerqjgmujnra3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfcG1zMXBia3RqMzBmcWVycWpnbXVqbnJhM28gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:21:04.000Z",
+   "updated": "2022-01-26T03:21:04.647Z",
+   "summary": "Lunar New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_pms1pbktj30fqerqjgmujnra3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334529294000\"",
+   "id": "20220201_1nh0ble54hf2seuk67nmrttmvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfMW5oMGJsZTU0aGYyc2V1azY3bm1ydHRtdnMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:21:04.000Z",
+   "updated": "2022-01-26T03:21:04.647Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_1nh0ble54hf2seuk67nmrttmvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334531012000\"",
+   "id": "20220202_gfu0i2p1aqn07uhc17t4gsp2kc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfZ2Z1MGkycDFhcW4wN3VoYzE3dDRnc3Aya2MgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:21:05.000Z",
+   "updated": "2022-01-26T03:21:05.506Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_gfu0i2p1aqn07uhc17t4gsp2kc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334531012000\"",
+   "id": "20220203_ehfi6a84kl5pun1h7fk3bvgk84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDNfZWhmaTZhODRrbDVwdW4xaDdmazNidmdrODQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:21:05.000Z",
+   "updated": "2022-01-26T03:21:05.506Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-03"
+   },
+   "end": {
+    "date": "2022-02-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220203_ehfi6a84kl5pun1h7fk3bvgk84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334531012000\"",
+   "id": "20220204_bls6av0d41hb9l46m36ccdk6f4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDRfYmxzNmF2MGQ0MWhiOWw0Nm0zNmNjZGs2ZjQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:21:05.000Z",
+   "updated": "2022-01-26T03:21:05.506Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-04"
+   },
+   "end": {
+    "date": "2022-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220204_bls6av0d41hb9l46m36ccdk6f4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334531012000\"",
+   "id": "20220205_hj4mtglg4jpu4h3lq7qnb8lfjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDVfaGo0bXRnbGc0anB1NGgzbHE3cW5iOGxmamsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:21:05.000Z",
+   "updated": "2022-01-26T03:21:05.506Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-05"
+   },
+   "end": {
+    "date": "2022-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220205_hj4mtglg4jpu4h3lq7qnb8lfjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20220928_5lgcpsaep00h6fc2ltgbeso4to",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjhfNWxnY3BzYWVwMDBoNmZjMmx0Z2Jlc280dG8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-28"
+   },
+   "end": {
+    "date": "2022-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220928_5lgcpsaep00h6fc2ltgbeso4to@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20221004_l1vr91r5cfhe0q32m124g0k4r4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfbDF2cjkxcjVjZmhlMHEzMm0xMjRnMGs0cjQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Double Ninth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_l1vr91r5cfhe0q32m124g0k4r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20221010_jr81chcsej1mn8kb1rqiqcfco8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfanI4MWNoY3NlajFtbjhrYjFycWlxY2ZjbzggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_jr81chcsej1mn8kb1rqiqcfco8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20221025_7v5l4jno7o1jr57de90hu8f1go",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjVfN3Y1bDRqbm83bzFqcjU3ZGU5MGh1OGYxZ28gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Taiwan's Retrocession Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-25"
+   },
+   "end": {
+    "date": "2022-10-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221025_7v5l4jno7o1jr57de90hu8f1go@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20221225_6ige0b2g4anadj4fiklgpq4hpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfNmlnZTBiMmc0YW5hZGo0ZmlrbGdwcTRocGcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_6ige0b2g4anadj4fiklgpq4hpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230101_tov819tr6u0n09suikmfkrpsrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdG92ODE5dHI2dTBuMDlzdWlrbWZrcnBzcnMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Republic Day/New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_tov819tr6u0n09suikmfkrpsrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230102_1scqios6ao4lfdppbakrdr3tb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfMXNjcWlvczZhbzRsZmRwcGJha3JkcjN0YjAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Republic Day/New Year's Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_1scqios6ao4lfdppbakrdr3tb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230107_afg2gj3gctevgfib14bfkv356s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDdfYWZnMmdqM2djdGV2Z2ZpYjE0YmZrdjM1NnMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-07"
+   },
+   "end": {
+    "date": "2023-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230107_afg2gj3gctevgfib14bfkv356s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230120_jfdme9stmgfl7abbp9qa2ihhd8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjBfamZkbWU5c3RtZ2ZsN2FiYnA5cWEyaWhoZDggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-20"
+   },
+   "end": {
+    "date": "2023-01-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230120_jfdme9stmgfl7abbp9qa2ihhd8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230121_1ct6nkaerpsdvg4u9pakt1j24g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjFfMWN0Nm5rYWVycHNkdmc0dTlwYWt0MWoyNGcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-21"
+   },
+   "end": {
+    "date": "2023-01-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230121_1ct6nkaerpsdvg4u9pakt1j24g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230122_gqqdg2g98arkv1fhgc1v8pu3lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfZ3FxZGcyZzk4YXJrdjFmaGdjMXY4cHUzbG8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_gqqdg2g98arkv1fhgc1v8pu3lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230123_ett5nlodeep3o592cttrp9q9so",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfZXR0NW5sb2RlZXAzbzU5MmN0dHJwOXE5c28gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_ett5nlodeep3o592cttrp9q9so@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230124_cgljrbmp473vmt8vmg7j0r1brc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfY2dsanJibXA0NzN2bXQ4dm1nN2owcjFicmMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_cgljrbmp473vmt8vmg7j0r1brc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230125_25bgn3fk7o9ptj6q2ddpt39iio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjVfMjViZ24zZms3bzlwdGo2cTJkZHB0MzlpaW8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-25"
+   },
+   "end": {
+    "date": "2023-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230125_25bgn3fk7o9ptj6q2ddpt39iio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230126_om089moanu2vlaics11c33qlcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfb20wODltb2FudTJ2bGFpY3MxMWMzM3FsY2MgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_om089moanu2vlaics11c33qlcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230127_02f5qgol9db5cp2g5jdds4ip34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjdfMDJmNXFnb2w5ZGI1Y3AyZzVqZGRzNGlwMzQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-27"
+   },
+   "end": {
+    "date": "2023-01-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230127_02f5qgol9db5cp2g5jdds4ip34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230128_i53msdpjf884eik89looepvcfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjhfaTUzbXNkcGpmODg0ZWlrODlsb29lcHZjZm8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-28"
+   },
+   "end": {
+    "date": "2023-01-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230128_i53msdpjf884eik89looepvcfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230129_vulv6ic9s0668fr6hjd33o4nlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjlfdnVsdjZpYzlzMDY2OGZyNmhqZDMzbzRubG8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-29"
+   },
+   "end": {
+    "date": "2023-01-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230129_vulv6ic9s0668fr6hjd33o4nlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230204_laotg5h42nss93lheqahtjpp48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDRfbGFvdGc1aDQybnNzOTNsaGVxYWh0anBwNDggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Farmer's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-04"
+   },
+   "end": {
+    "date": "2023-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230204_laotg5h42nss93lheqahtjpp48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230205_46djsrojf2p2nso8g65a6kb0ig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDVfNDZkanNyb2pmMnAybnNvOGc2NWE2a2IwaWcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lantern Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-05"
+   },
+   "end": {
+    "date": "2023-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230205_46djsrojf2p2nso8g65a6kb0ig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230225_ulkb5dtd947uph3onhcajlui0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjVfdWxrYjVkdGQ5NDd1cGgzb25oY2FqbHVpMGMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Peace Memorial Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-25"
+   },
+   "end": {
+    "date": "2023-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230225_ulkb5dtd947uph3onhcajlui0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230226_nnbr5ok3bdl9crpqjdv8e414f8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjZfbm5icjVvazNiZGw5Y3JwcWpkdjhlNDE0ZjggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Peace Memorial Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-26"
+   },
+   "end": {
+    "date": "2023-02-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230226_nnbr5ok3bdl9crpqjdv8e414f8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230227_j9ibh52nke8gi980hki23qajcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjdfajlpYmg1Mm5rZThnaTk4MGhraTIzcWFqY3MgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Peace Memorial Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-27"
+   },
+   "end": {
+    "date": "2023-02-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230227_j9ibh52nke8gi980hki23qajcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230228_3lqd13c4vfrgh5s28m631f3418",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjhfM2xxZDEzYzR2ZnJnaDVzMjhtNjMxZjM0MTggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Peace Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-28"
+   },
+   "end": {
+    "date": "2023-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230228_3lqd13c4vfrgh5s28m631f3418@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230308_9jbsud0aj4osifa2loto06g9ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfOWpic3VkMGFqNG9zaWZhMmxvdG8wNmc5ZWMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "International Women's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_9jbsud0aj4osifa2loto06g9ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230329_vhh3pdqhorc9g3fdccd8tcocqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjlfdmhoM3BkcWhvcmM5ZzNmZGNjZDh0Y29jcWcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Youth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-29"
+   },
+   "end": {
+    "date": "2023-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230329_vhh3pdqhorc9g3fdccd8tcocqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230401_ffo0uu4kb61oivti007ur7rcb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDFfZmZvMHV1NGtiNjFvaXZ0aTAwN3VyN3JjYjggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-01"
+   },
+   "end": {
+    "date": "2023-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230401_ffo0uu4kb61oivti007ur7rcb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230402_6ijmng1750q1147ajc6k28iegg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDJfNmlqbW5nMTc1MHExMTQ3YWpjNmsyOGllZ2cgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-02"
+   },
+   "end": {
+    "date": "2023-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230402_6ijmng1750q1147ajc6k28iegg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230403_p10mhd3607d37n3qn2p7scij7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDNfcDEwbWhkMzYwN2QzN24zcW4ycDdzY2lqN2MgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-03"
+   },
+   "end": {
+    "date": "2023-04-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230403_p10mhd3607d37n3qn2p7scij7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230404_9b8273u9lflofgbe3agqk7bjgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDRfOWI4MjczdTlsZmxvZmdiZTNhZ3FrN2JqZ2cgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-04"
+   },
+   "end": {
+    "date": "2023-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230404_9b8273u9lflofgbe3agqk7bjgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230405_pk4hrn1uc8krsgl9387rpk3j6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfcGs0aHJuMXVjOGtyc2dsOTM4N3JwazNqNmsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Tomb Sweeping Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_pk4hrn1uc8krsgl9387rpk3j6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230622_a92ja1njno7d4nkkmrt9ik7g8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjJfYTkyamExbmpubzdkNG5ra21ydDlpazdnOGsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-22"
+   },
+   "end": {
+    "date": "2023-06-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230622_a92ja1njno7d4nkkmrt9ik7g8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230623_66rvasa43j3hrq71q0i46gkbpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjNfNjZydmFzYTQzajNocnE3MXEwaTQ2Z2ticGcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Dragon Boat Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-23"
+   },
+   "end": {
+    "date": "2023-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230623_66rvasa43j3hrq71q0i46gkbpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230624_c2jiaqrdobmk6uh9qbdjd7qqck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjRfYzJqaWFxcmRvYm1rNnVoOXFiZGpkN3FxY2sgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Dragon Boat Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-24"
+   },
+   "end": {
+    "date": "2023-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230624_c2jiaqrdobmk6uh9qbdjd7qqck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230625_2use6evjm9690b49um0vbdipd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjVfMnVzZTZldmptOTY5MGI0OXVtMHZiZGlwZDQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Dragon Boat Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-25"
+   },
+   "end": {
+    "date": "2023-06-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230625_2use6evjm9690b49um0vbdipd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230830_kg12o8kae1hi5r1iee8opeba2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MzBfa2cxMm84a2FlMWhpNXIxaWVlOG9wZWJhMmMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Hungry Ghost Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-30"
+   },
+   "end": {
+    "date": "2023-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230830_kg12o8kae1hi5r1iee8opeba2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230903_ltgkmqahn07chckajlk8pk9m4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDNfbHRna21xYWhuMDdjaGNrYWpsazhwazltNGsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-03"
+   },
+   "end": {
+    "date": "2023-09-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230903_ltgkmqahn07chckajlk8pk9m4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230928_26v554vg9pnl4u5sro3jeh4thk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfMjZ2NTU0dmc5cG5sNHU1c3JvM2plaDR0aGsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_26v554vg9pnl4u5sro3jeh4thk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230929_89acboqffl92r7fe9uq04pj1oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjlfODlhY2JvcWZmbDkycjdmZTl1cTA0cGoxb28gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_89acboqffl92r7fe9uq04pj1oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20230930_53p3c03cfig0qbqoffadslamn0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MzBfNTNwM2MwM2NmaWcwcWJxb2ZmYWRzbGFtbjAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Mid-Autumn Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-30"
+   },
+   "end": {
+    "date": "2023-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230930_53p3c03cfig0qbqoffadslamn0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231001_t2g3vqdk2c0fsa5s6dth0r8rtk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfdDJnM3ZxZGsyYzBmc2E1czZkdGgwcjhydGsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Mid-Autumn Festival Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_t2g3vqdk2c0fsa5s6dth0r8rtk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231007_18qlp3jl41nmlfvoegjnbtscdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDdfMThxbHAzamw0MW5tbGZ2b2Vnam5idHNjZG8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-07"
+   },
+   "end": {
+    "date": "2023-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231007_18qlp3jl41nmlfvoegjnbtscdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231008_8gql3k3qskap7bg15tpb2n84n0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDhfOGdxbDNrM3Fza2FwN2JnMTV0cGIybjg0bjAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-08"
+   },
+   "end": {
+    "date": "2023-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231008_8gql3k3qskap7bg15tpb2n84n0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231009_l2i6m7hpaajntoqu78s0cc9tdk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfbDJpNm03aHBhYWpudG9xdTc4czBjYzl0ZGsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_l2i6m7hpaajntoqu78s0cc9tdk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231010_na2602r573spod3dpbg3k3ap78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTBfbmEyNjAycjU3M3Nwb2QzZHBiZzNrM2FwNzggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-10"
+   },
+   "end": {
+    "date": "2023-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231010_na2602r573spod3dpbg3k3ap78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231023_muk8p25hqu4m4rdfncgkkuuth8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfbXVrOHAyNWhxdTRtNHJkZm5jZ2trdXV0aDggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Double Ninth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_muk8p25hqu4m4rdfncgkkuuth8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231025_b5hb5e22o7c6htk335gc8mhu8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjVfYjVoYjVlMjJvN2M2aHRrMzM1Z2M4bWh1OG8gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Taiwan's Retrocession Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-25"
+   },
+   "end": {
+    "date": "2023-10-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231025_b5hb5e22o7c6htk335gc8mhu8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20231225_12a2505lti23gi964oheo64ntc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfMTJhMjUwNWx0aTIzZ2k5NjRvaGVvNjRudGMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_12a2505lti23gi964oheo64ntc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240101_4m8r3g0avutvj1kc88p65vhbgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNG04cjNnMGF2dXR2ajFrYzg4cDY1dmhiZ28gZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Republic Day/New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_4m8r3g0avutvj1kc88p65vhbgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240204_e8b3ugluldft020ejo2m9ba39g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDRfZThiM3VnbHVsZGZ0MDIwZWpvMm05YmEzOWcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Farmer's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-04"
+   },
+   "end": {
+    "date": "2024-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240204_e8b3ugluldft020ejo2m9ba39g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240209_agk5etnn6gp2reqik7t4k91jmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDlfYWdrNWV0bm42Z3AycmVxaWs3dDRrOTFqbWMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-09"
+   },
+   "end": {
+    "date": "2024-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240209_agk5etnn6gp2reqik7t4k91jmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240210_i69ubsqe1uq2ls2ig7uke1q7j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfaTY5dWJzcWUxdXEybHMyaWc3dWtlMXE3ajQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_i69ubsqe1uq2ls2ig7uke1q7j4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240211_a8do218fkijo1mvb5gu6t6l53g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfYThkbzIxOGZraWpvMW12YjVndTZ0Nmw1M2cgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_a8do218fkijo1mvb5gu6t6l53g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240212_6su70vucliftvlvc40rsohm3pc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfNnN1NzB2dWNsaWZ0dmx2YzQwcnNvaG0zcGMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_6su70vucliftvlvc40rsohm3pc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240213_q50m504f8mf7lmdaopmnlhs670",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfcTUwbTUwNGY4bWY3bG1kYW9wbW5saHM2NzAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_q50m504f8mf7lmdaopmnlhs670@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240214_197s6k9m07mclugv4lbo2mg38c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfMTk3czZrOW0wN21jbHVndjRsYm8ybWczOGMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_197s6k9m07mclugv4lbo2mg38c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240224_lbrpo0ugfgtpqc8q2g4tvhp75g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjRfbGJycG8wdWdmZ3RwcWM4cTJnNHR2aHA3NWcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Lantern Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-24"
+   },
+   "end": {
+    "date": "2024-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240224_lbrpo0ugfgtpqc8q2g4tvhp75g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240228_4qp7l2tt49ecesphhh262pivp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjhfNHFwN2wydHQ0OWVjZXNwaGhoMjYycGl2cDAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Peace Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-28"
+   },
+   "end": {
+    "date": "2024-02-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240228_4qp7l2tt49ecesphhh262pivp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240308_dstk2egoeb1kgd6s5ffldbrqfs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfZHN0azJlZ29lYjFrZ2Q2czVmZmxkYnJxZnMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "International Women's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_dstk2egoeb1kgd6s5ffldbrqfs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240329_4get335ajvbl4nv8pb6ihnq698",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfNGdldDMzNWFqdmJsNG52OHBiNmlobnE2OTggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Youth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_4get335ajvbl4nv8pb6ihnq698@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240404_a2dcuunkv359l97a4ho2uakrq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDRfYTJkY3V1bmt2MzU5bDk3YTRobzJ1YWtycTQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Tomb Sweeping Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-04"
+   },
+   "end": {
+    "date": "2024-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240404_a2dcuunkv359l97a4ho2uakrq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240404_atcmlphre0qeau8idc8q9ldh3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDRfYXRjbWxwaHJlMHFlYXU4aWRjOHE5bGRoM2cgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-04"
+   },
+   "end": {
+    "date": "2024-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240404_atcmlphre0qeau8idc8q9ldh3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240610_9qbfnu2mb32ngh5210kgkvrau4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTBfOXFiZm51Mm1iMzJuZ2g1MjEwa2drdnJhdTQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-10"
+   },
+   "end": {
+    "date": "2024-06-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240610_9qbfnu2mb32ngh5210kgkvrau4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240818_ud3lujhs9ub3i6nc2ki9ft0igs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MThfdWQzbHVqaHM5dWIzaTZuYzJraTlmdDBpZ3MgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Hungry Ghost Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-18"
+   },
+   "end": {
+    "date": "2024-08-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240818_ud3lujhs9ub3i6nc2ki9ft0igs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240903_9t611ghmrk1inf648onqojdmjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDNfOXQ2MTFnaG1yazFpbmY2NDhvbnFvamRtamMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-03"
+   },
+   "end": {
+    "date": "2024-09-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240903_9t611ghmrk1inf648onqojdmjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240917_fmhea3l7mshtfmnnkpf0j1d9a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTdfZm1oZWEzbDdtc2h0Zm1ubmtwZjBqMWQ5YTAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-17"
+   },
+   "end": {
+    "date": "2024-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240917_fmhea3l7mshtfmnnkpf0j1d9a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20240928_03i8pvdhb6qk3lsmc5tp8sljd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjhfMDNpOHB2ZGhiNnFrM2xzbWM1dHA4c2xqZDQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-28"
+   },
+   "end": {
+    "date": "2024-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240928_03i8pvdhb6qk3lsmc5tp8sljd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20241010_ulukvtf528f1inmqsbjf4g3ujg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTBfdWx1a3Z0ZjUyOGYxaW5tcXNiamY0ZzN1amcgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-10"
+   },
+   "end": {
+    "date": "2024-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241010_ulukvtf528f1inmqsbjf4g3ujg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20241011_m3mmcqi1qt9jri4ma2b5ebq8a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfbTNtbWNxaTFxdDlqcmk0bWEyYjVlYnE4YTAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Double Ninth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_m3mmcqi1qt9jri4ma2b5ebq8a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20241025_li6vmjl3nd4rakh1hi37n6eiq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjVfbGk2dm1qbDNuZDRyYWtoMWhpMzduNmVpcTQgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Taiwan's Retrocession Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-25"
+   },
+   "end": {
+    "date": "2024-10-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241025_li6vmjl3nd4rakh1hi37n6eiq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550897978000\"",
+   "id": "20241225_jgac1r627erscvoo83f66dmc7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfamdhYzFyNjI3ZXJzY3ZvbzgzZjY2ZG1jN2cgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:44:08.000Z",
+   "updated": "2022-09-27T10:44:08.989Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_jgac1r627erscvoo83f66dmc7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20220122_jha6179l09dnbjl2k68gmhrrms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjJfamhhNjE3OWwwOWRuYmpsMms2OGdtaHJybXMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-22"
+   },
+   "end": {
+    "date": "2022-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220122_jha6179l09dnbjl2k68gmhrrms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20220501_nece7g751nvrhshrrqa0viph80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfbmVjZTdnNzUxbnZyaHNocnJxYTB2aXBoODAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Labor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_nece7g751nvrhshrrqa0viph80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20220502_tb810qqng6kargecgdfjvjasqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfdGI4MTBxcW5nNmthcmdlY2dkZmp2amFzcWMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Labor Day observed",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_tb810qqng6kargecgdfjvjasqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20230204_ua4hpeb750movgjdi40dg2aomk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDRfdWE0aHBlYjc1MG1vdmdqZGk0MGRnMmFvbWsgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-04"
+   },
+   "end": {
+    "date": "2023-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230204_ua4hpeb750movgjdi40dg2aomk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20230218_b2qp83toefi6snntif6u0n90f0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfYjJxcDgzdG9lZmk2c25udGlmNnUwbjkwZjAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_b2qp83toefi6snntif6u0n90f0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20230325_mi6vumv9klh9r3pklrluc1uiq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjVfbWk2dnVtdjlrbGg5cjNwa2xybHVjMXVpcTggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-25"
+   },
+   "end": {
+    "date": "2023-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230325_mi6vumv9klh9r3pklrluc1uiq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20230501_dcf9g1s2jvlqfr2uvjcqh2ta7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfZGNmOWcxczJqdmxxZnIydXZqY3FoMnRhN2sgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Labor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_dcf9g1s2jvlqfr2uvjcqh2ta7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20230617_m32te1rbmvvt0p3qi2jte10jls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTdfbTMydGUxcmJtdnZ0MHAzcWkyanRlMTBqbHMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-17"
+   },
+   "end": {
+    "date": "2023-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230617_m32te1rbmvvt0p3qi2jte10jls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20230923_j6svb9v99hnrqj9r0mlr0r8qvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjNfajZzdmI5djk5aG5ycWo5cjBtbHIwcjhxdmMgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-23"
+   },
+   "end": {
+    "date": "2023-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230923_j6svb9v99hnrqj9r0mlr0r8qvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343575565808000\"",
+   "id": "20240501_e3m7ue14kb73bbjj788qlge77k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfZTNtN3VlMTRrYjczYmJqajc4OHFsZ2U3N2sgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2022-12-23T09:29:42.000Z",
+   "updated": "2022-12-23T09:29:42.904Z",
+   "summary": "Labor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_e3m7ue14kb73bbjj788qlge77k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375198190652000\"",
+   "id": "20240208_q41ge8iqslmpihrce8sfhm7b30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDhfcTQxZ2U4aXFzbG1waWhyY2U4c2ZobTdiMzAgZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2023-06-24T09:31:35.000Z",
+   "updated": "2023-06-24T09:31:35.326Z",
+   "summary": "Lunar New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-08"
+   },
+   "end": {
+    "date": "2024-02-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240208_q41ge8iqslmpihrce8sfhm7b30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375198190652000\"",
+   "id": "20240217_0d3vdamaen2mmpnanmm1e0ln18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTdfMGQzdmRhbWFlbjJtbXBuYW5tbTFlMGxuMTggZW4udGFpd2FuI2hvbGlkYXlAdg",
+   "created": "2023-06-24T09:31:35.000Z",
+   "updated": "2023-06-24T09:31:35.326Z",
+   "summary": "Special Working Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Taiwan",
+   "creator": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.taiwan#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Taiwan",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-17"
+   },
+   "end": {
+    "date": "2024-02-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240217_0d3vdamaen2mmpnanmm1e0ln18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

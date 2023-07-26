@@ -1,0 +1,2157 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32vb1nk6rqlo00o\"",
+ "summary": "Holidays in Greece",
+ "description": "Holidays and Observances in Greece",
+ "updated": "2023-07-24T22:46:44.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CID6_Zu2qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220101_tgefdksa2ta6krlqqkttpt68ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfdGdlZmRrc2EydGE2a3JscXFrdHRwdDY4ZWsgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_tgefdksa2ta6krlqqkttpt68ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220214_t0qou3bct73kmaeu98iqbbbs6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfdDBxb3UzYmN0NzNrbWFldTk4aXFiYmJzNmMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_t0qou3bct73kmaeu98iqbbbs6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220307_re33vh2cort8dgl04c4uehatfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDdfcmUzM3ZoMmNvcnQ4ZGdsMDRjNHVlaGF0Zm8gZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "Clean Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-07"
+   },
+   "end": {
+    "date": "2022-03-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220307_re33vh2cort8dgl04c4uehatfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220422_utpp3m9dqc7k91476gmcc7914o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjJfdXRwcDNtOWRxYzdrOTE0NzZnbWNjNzkxNG8gZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "Orthodox Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-22"
+   },
+   "end": {
+    "date": "2022-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220422_utpp3m9dqc7k91476gmcc7914o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220425_h77849nrdhmi6n7i2j8ec02esk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfaDc3ODQ5bnJkaG1pNm43aTJqOGVjMDJlc2sgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "Orthodox Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_h77849nrdhmi6n7i2j8ec02esk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220501_gpsen169c2jig1mdtp2vvjp7v0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfZ3BzZW4xNjljMmppZzFtZHRwMnZ2anA3djAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_gpsen169c2jig1mdtp2vvjp7v0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220724_h7aqjtcu0vab63lsn5ckpjbbvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MjRfaDdhcWp0Y3UwdmFiNjNsc241Y2twamJidnMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "The Restoration of Democracy",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-24"
+   },
+   "end": {
+    "date": "2022-07-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220724_h7aqjtcu0vab63lsn5ckpjbbvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952740642000\"",
+   "id": "20220815_6b2lipranhoejf1jkmqnrrpon8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfNmIybGlwcmFuaG9lamYxamttcW5ycnBvbjggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:50.000Z",
+   "updated": "2021-08-26T11:12:50.321Z",
+   "summary": "Dormition of the Holy Virgin",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_6b2lipranhoejf1jkmqnrrpon8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952746850000\"",
+   "id": "20220130_gqda7c13i28m9l9vr7qn3r06s4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzBfZ3FkYTdjMTNpMjhtOWw5dnI3cW4zcjA2czQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:53.000Z",
+   "updated": "2021-08-26T11:12:53.425Z",
+   "summary": "The Three Holy Hierarchs",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-30"
+   },
+   "end": {
+    "date": "2022-01-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220130_gqda7c13i28m9l9vr7qn3r06s4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952749556000\"",
+   "id": "20220106_c4kghon6o21dp7sestiq66pmko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfYzRrZ2hvbjZvMjFkcDdzZXN0aXE2NnBta28gZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:54.000Z",
+   "updated": "2021-08-26T11:12:54.778Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_c4kghon6o21dp7sestiq66pmko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952749556000\"",
+   "id": "20220424_vrgq98mfg1r0ppqpi4ce0mla5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjRfdnJncTk4bWZnMXIwcHBxcGk0Y2UwbWxhNW8gZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:54.000Z",
+   "updated": "2021-08-26T11:12:54.778Z",
+   "summary": "Orthodox Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-24"
+   },
+   "end": {
+    "date": "2022-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220424_vrgq98mfg1r0ppqpi4ce0mla5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952749556000\"",
+   "id": "20220502_b9gogo4ldks9snn9norhl8gpcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfYjlnb2dvNGxka3M5c25uOW5vcmhsOGdwY2MgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:54.000Z",
+   "updated": "2021-08-26T11:12:54.778Z",
+   "summary": "Day off for Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_b9gogo4ldks9snn9norhl8gpcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952749556000\"",
+   "id": "20220612_reql1e5ita6obg865fv39c67vs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTJfcmVxbDFlNWl0YTZvYmc4NjVmdjM5YzY3dnMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:54.000Z",
+   "updated": "2021-08-26T11:12:54.778Z",
+   "summary": "Orthodox Holy Spirit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-12"
+   },
+   "end": {
+    "date": "2022-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220612_reql1e5ita6obg865fv39c67vs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259952749556000\"",
+   "id": "20220613_lhfs95r88n35m0cj85ehbuc664",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTNfbGhmczk1cjg4bjM1bTBjajg1ZWhidWM2NjQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2021-08-26T11:12:54.000Z",
+   "updated": "2021-08-26T11:12:54.778Z",
+   "summary": "Orthodox Holy Spirit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-13"
+   },
+   "end": {
+    "date": "2022-06-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220613_lhfs95r88n35m0cj85ehbuc664@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307971230304000\"",
+   "id": "20220619_2sc79sf268rj9mn7o53pbvdv64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfMnNjNzlzZjI2OHJqOW1uN281M3BidmR2NjQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-05-31T08:26:55.000Z",
+   "updated": "2022-05-31T08:26:55.152Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_2sc79sf268rj9mn7o53pbvdv64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3324767017434000\"",
+   "id": "20220325_i95kn4g8gammp688q16hi6deg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjVfaTk1a240ZzhnYW1tcDY4OHExNmhpNmRlZzggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-05T13:11:48.000Z",
+   "updated": "2022-09-05T13:11:48.717Z",
+   "summary": "Annunciation of the Virgin Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-25"
+   },
+   "end": {
+    "date": "2022-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220325_i95kn4g8gammp688q16hi6deg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3324767017434000\"",
+   "id": "20220325_skmihab17icpses64hqr1cal6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjVfc2ttaWhhYjE3aWNwc2VzNjRocXIxY2FsNm8gZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-05T13:11:48.000Z",
+   "updated": "2022-09-05T13:11:48.717Z",
+   "summary": "Greek Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-25"
+   },
+   "end": {
+    "date": "2022-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220325_skmihab17icpses64hqr1cal6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20221028_4nitvtv509jo0hc8jkvjmngf58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjhfNG5pdHZ0djUwOWpvMGhjOGprdmptbmdmNTggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Ochi day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-28"
+   },
+   "end": {
+    "date": "2022-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221028_4nitvtv509jo0hc8jkvjmngf58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20221117_js0m7q24d44fi2gqg9oq98mef0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTdfanMwbTdxMjRkNDRmaTJncWc5b3E5OG1lZjAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Polytechneio",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-17"
+   },
+   "end": {
+    "date": "2022-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221117_js0m7q24d44fi2gqg9oq98mef0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20221121_es8c9ue1a1su7tcb3q2l29p0b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjFfZXM4Yzl1ZTFhMXN1N3RjYjNxMmwyOXAwYjggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-21"
+   },
+   "end": {
+    "date": "2022-11-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221121_es8c9ue1a1su7tcb3q2l29p0b8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20221225_91a0emb1fme7c1psi5deoq9dss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfOTFhMGVtYjFmbWU3YzFwc2k1ZGVvcTlkc3MgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_91a0emb1fme7c1psi5deoq9dss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20221226_ormm3jivu1dtqftvjbuebv1r5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfb3JtbTNqaXZ1MWR0cWZ0dmpidWVidjFyNWcgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Synaxis of the Mother of God",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_ormm3jivu1dtqftvjbuebv1r5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230101_os3mcdk3t4b2eekca9as471mr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfb3MzbWNkazN0NGIyZWVrY2E5YXM0NzFtcjAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_os3mcdk3t4b2eekca9as471mr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230106_7tpn1ub8cqna5b8bbvp565d9d4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfN3RwbjF1YjhjcW5hNWI4YmJ2cDU2NWQ5ZDQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_7tpn1ub8cqna5b8bbvp565d9d4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230130_p186lrobdjn54c1v7d6jd1gi64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMzBfcDE4Nmxyb2Jkam41NGMxdjdkNmpkMWdpNjQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Three Holy Hierarchs",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-30"
+   },
+   "end": {
+    "date": "2023-01-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230130_p186lrobdjn54c1v7d6jd1gi64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230214_6doc6rroidp615ubcfmv4i2bak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfNmRvYzZycm9pZHA2MTV1YmNmbXY0aTJiYWsgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_6doc6rroidp615ubcfmv4i2bak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230227_qc0j9r0na0vbb2mei609ntkbpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjdfcWMwajlyMG5hMHZiYjJtZWk2MDludGticGMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Clean Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-27"
+   },
+   "end": {
+    "date": "2023-02-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230227_qc0j9r0na0vbb2mei609ntkbpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230325_3q7qqt4uleodj48q059p4g94a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjVfM3E3cXF0NHVsZW9kajQ4cTA1OXA0Zzk0YTggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Annunciation of the Virgin Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-25"
+   },
+   "end": {
+    "date": "2023-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230325_3q7qqt4uleodj48q059p4g94a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230325_finbim3c1kh09ahqmgdv2hiqkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjVfZmluYmltM2Mxa2gwOWFocW1nZHYyaGlxa2sgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Greek Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-25"
+   },
+   "end": {
+    "date": "2023-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230325_finbim3c1kh09ahqmgdv2hiqkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230414_6pje7ro6112ebs6ve4kjt6nl14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTRfNnBqZTdybzYxMTJlYnM2dmU0a2p0Nm5sMTQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-14"
+   },
+   "end": {
+    "date": "2023-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230414_6pje7ro6112ebs6ve4kjt6nl14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230416_aps5kqcpovbr0f1vq8i8m65bis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTZfYXBzNWtxY3BvdmJyMGYxdnE4aThtNjViaXMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-16"
+   },
+   "end": {
+    "date": "2023-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230416_aps5kqcpovbr0f1vq8i8m65bis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230417_21jdaajrr4qc0eknpu6te2t56s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTdfMjFqZGFhanJyNHFjMGVrbnB1NnRlMnQ1NnMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-17"
+   },
+   "end": {
+    "date": "2023-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230417_21jdaajrr4qc0eknpu6te2t56s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230501_1pdls65pgka2cg3v7q58q7c4ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfMXBkbHM2NXBna2EyY2czdjdxNThxN2M0ZWMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_1pdls65pgka2cg3v7q58q7c4ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230604_h5l140uaknbektolckp1b5nggc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDRfaDVsMTQwdWFrbmJla3RvbGNrcDFiNW5nZ2MgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Holy Spirit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-04"
+   },
+   "end": {
+    "date": "2023-06-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230604_h5l140uaknbektolckp1b5nggc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230605_9qqm37l91a0v6337n4u64249e8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDVfOXFxbTM3bDkxYTB2NjMzN240dTY0MjQ5ZTggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Holy Spirit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-05"
+   },
+   "end": {
+    "date": "2023-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230605_9qqm37l91a0v6337n4u64249e8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230618_98sr5fh2qelghhee4e5aqnl2e8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfOThzcjVmaDJxZWxnaGhlZTRlNWFxbmwyZTggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_98sr5fh2qelghhee4e5aqnl2e8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230724_2mhl6e6oaf1kkukf5mathh4qrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjRfMm1obDZlNm9hZjFra3VrZjVtYXRoaDRxcmsgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Restoration of Democracy",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-24"
+   },
+   "end": {
+    "date": "2023-07-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230724_2mhl6e6oaf1kkukf5mathh4qrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20230815_c3gon0k6i8lb4fgkl97m1hdvsg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfYzNnb24wazZpOGxiNGZna2w5N20xaGR2c2cgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Dormition of the Holy Virgin",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_c3gon0k6i8lb4fgkl97m1hdvsg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20231028_b7cf6qi0uojjjvuqe4fg824ap8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjhfYjdjZjZxaTB1b2pqanZ1cWU0Zmc4MjRhcDggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Ochi day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-28"
+   },
+   "end": {
+    "date": "2023-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231028_b7cf6qi0uojjjvuqe4fg824ap8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20231117_q7b5s7rof81o5802ugeiu58kj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTdfcTdiNXM3cm9mODFvNTgwMnVnZWl1NThrajQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Polytechneio",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-17"
+   },
+   "end": {
+    "date": "2023-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231117_q7b5s7rof81o5802ugeiu58kj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20231121_ef5maeujb4si095sp84ijsk4h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjFfZWY1bWFldWpiNHNpMDk1c3A4NGlqc2s0aDQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-21"
+   },
+   "end": {
+    "date": "2023-11-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231121_ef5maeujb4si095sp84ijsk4h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20231225_74gnla38i14g1snl62mgjdfp70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfNzRnbmxhMzhpMTRnMXNubDYybWdqZGZwNzAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_74gnla38i14g1snl62mgjdfp70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20231226_56strj3bfv3mi3fetnivrn20q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfNTZzdHJqM2JmdjNtaTNmZXRuaXZybjIwcTQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Synaxis of the Mother of God",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_56strj3bfv3mi3fetnivrn20q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240101_n6a1v87buai41tq01jdmtr6f1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbjZhMXY4N2J1YWk0MXRxMDFqZG10cjZmMXMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_n6a1v87buai41tq01jdmtr6f1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240106_kgpvmse3oveg1nqec164cfrg60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfa2dwdm1zZTNvdmVnMW5xZWMxNjRjZnJnNjAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_kgpvmse3oveg1nqec164cfrg60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240130_h0j7shdo5b271tvuussjrhh214",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMzBfaDBqN3NoZG81YjI3MXR2dXVzc2pyaGgyMTQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Three Holy Hierarchs",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-30"
+   },
+   "end": {
+    "date": "2024-01-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240130_h0j7shdo5b271tvuussjrhh214@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240214_a16j8ap8vj2clean1m32pi20ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfYTE2ajhhcDh2ajJjbGVhbjFtMzJwaTIwYWMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_a16j8ap8vj2clean1m32pi20ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240318_fa3mfshqhk8bekbnok6phiougs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMThfZmEzbWZzaHFoazhiZWtibm9rNnBoaW91Z3MgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Clean Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-18"
+   },
+   "end": {
+    "date": "2024-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240318_fa3mfshqhk8bekbnok6phiougs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240325_fdocp95jv87fu5h5d2a5p7gc2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjVfZmRvY3A5NWp2ODdmdTVoNWQyYTVwN2djMmMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Annunciation of the Virgin Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-25"
+   },
+   "end": {
+    "date": "2024-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240325_fdocp95jv87fu5h5d2a5p7gc2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240325_sj5f3j16h66d6oingitiuj0c74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjVfc2o1ZjNqMTZoNjZkNm9pbmdpdGl1ajBjNzQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Greek Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-25"
+   },
+   "end": {
+    "date": "2024-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240325_sj5f3j16h66d6oingitiuj0c74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240501_bn2fjtcsk9ll24bi3vo3gi4cp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfYm4yZmp0Y3NrOWxsMjRiaTN2bzNnaTRjcDAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_bn2fjtcsk9ll24bi3vo3gi4cp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240503_um4akofqt67p8fv31c2a1ec5i0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDNfdW00YWtvZnF0NjdwOGZ2MzFjMmExZWM1aTAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-03"
+   },
+   "end": {
+    "date": "2024-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240503_um4akofqt67p8fv31c2a1ec5i0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240505_6dkgcmfdu17usebdsjmibn1f5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfNmRrZ2NtZmR1MTd1c2ViZHNqbWlibjFmNWsgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_6dkgcmfdu17usebdsjmibn1f5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240506_8blb98ng11586g4fsmv86g5eqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfOGJsYjk4bmcxMTU4Nmc0ZnNtdjg2ZzVlcWMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_8blb98ng11586g4fsmv86g5eqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240616_6ihgeiumcg5v5tmgi4jf5v9lm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfNmloZ2VpdW1jZzV2NXRtZ2k0amY1djlsbTQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_6ihgeiumcg5v5tmgi4jf5v9lm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240623_ttcrglccl82l0ni8kptiuk46g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjNfdHRjcmdsY2NsODJsMG5pOGtwdGl1azQ2ZzggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Holy Spirit Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-23"
+   },
+   "end": {
+    "date": "2024-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240623_ttcrglccl82l0ni8kptiuk46g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240624_72inj17s1v73ai4m510tu8opuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjRfNzJpbmoxN3MxdjczYWk0bTUxMHR1OG9wdWsgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Orthodox Holy Spirit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-24"
+   },
+   "end": {
+    "date": "2024-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240624_72inj17s1v73ai4m510tu8opuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240724_ho2kfm1bbb57hsu2kriejf3jt0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjRfaG8ya2ZtMWJiYjU3aHN1MmtyaWVqZjNqdDAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Restoration of Democracy",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-24"
+   },
+   "end": {
+    "date": "2024-07-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240724_ho2kfm1bbb57hsu2kriejf3jt0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20240815_r43ugmgga14sal55o6a2gjor7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfcjQzdWdtZ2dhMTRzYWw1NW82YTJnam9yN2cgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Dormition of the Holy Virgin",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_r43ugmgga14sal55o6a2gjor7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20241028_hckrgikdguf3s51orbrg567f10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjhfaGNrcmdpa2RndWYzczUxb3Jicmc1NjdmMTAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "The Ochi day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-28"
+   },
+   "end": {
+    "date": "2024-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241028_hckrgikdguf3s51orbrg567f10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20241117_d79s5q63irgdl6e93pp08qntu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTdfZDc5czVxNjNpcmdkbDZlOTNwcDA4cW50dTggZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Polytechneio",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-17"
+   },
+   "end": {
+    "date": "2024-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241117_d79s5q63irgdl6e93pp08qntu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20241121_kf0clq7iv51g2os1rbo670sk30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjFfa2YwY2xxN2l2NTFnMm9zMXJibzY3MHNrMzAgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Armed Forces Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-21"
+   },
+   "end": {
+    "date": "2024-11-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241121_kf0clq7iv51g2os1rbo670sk30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20241225_n7hhesp8nvq2vj4naphbees8sg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbjdoaGVzcDhudnEydmo0bmFwaGJlZXM4c2cgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_n7hhesp8nvq2vj4naphbees8sg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327904767270000\"",
+   "id": "20241226_dt8t596a9u0c1j1met05urtmko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZHQ4dDU5NmE5dTBjMWoxbWV0MDV1cnRta28gZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2022-09-23T16:59:43.000Z",
+   "updated": "2022-09-23T16:59:43.635Z",
+   "summary": "Synaxis of the Mother of God",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_dt8t596a9u0c1j1met05urtmko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352135565286000\"",
+   "id": "20220508_8rmdr5qsvmj2csljqqe8pfom54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfOHJtZHI1cXN2bWoyY3NsanFxZThwZm9tNTQgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2023-02-10T22:23:02.000Z",
+   "updated": "2023-02-10T22:23:02.643Z",
+   "summary": "Mother’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_8rmdr5qsvmj2csljqqe8pfom54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352135565286000\"",
+   "id": "20230514_lklmbphd0eldqfcb6iu3mpovhc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfbGtsbWJwaGQwZWxkcWZjYjZpdTNtcG92aGMgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2023-02-10T22:23:02.000Z",
+   "updated": "2023-02-10T22:23:02.643Z",
+   "summary": "Mother’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_lklmbphd0eldqfcb6iu3mpovhc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3352135565286000\"",
+   "id": "20240512_ebnfs9mireu4rtdboodqbi5iik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfZWJuZnM5bWlyZXU0cnRkYm9vZHFiaTVpaWsgZW4uZ3JlZWsjaG9saWRheUB2",
+   "created": "2023-02-10T22:23:02.000Z",
+   "updated": "2023-02-10T22:23:02.643Z",
+   "summary": "Mother’s Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Greece",
+   "creator": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.greek#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Greece",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_ebnfs9mireu4rtdboodqbi5iik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

@@ -1,0 +1,3405 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p323p1o4hrqlo00o\"",
+ "summary": "Holidays in United States",
+ "description": "Holidays and Observances in United States",
+ "updated": "2023-07-25T05:26:43.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDVzM-PqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600847118000\"",
+   "id": "20220417_3s7sr1qa2d9o9oe5cbgd3b6ju0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfM3M3c3IxcWEyZDlvOW9lNWNiZ2QzYjZqdTAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:23.000Z",
+   "updated": "2021-09-10T19:00:23.559Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_3s7sr1qa2d9o9oe5cbgd3b6ju0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600847118000\"",
+   "id": "20220905_9qfkiuho50ingbggv94h4svbis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDVfOXFma2l1aG81MGluZ2JnZ3Y5NGg0c3ZiaXMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:23.000Z",
+   "updated": "2021-09-10T19:00:23.559Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-05"
+   },
+   "end": {
+    "date": "2022-09-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220905_9qfkiuho50ingbggv94h4svbis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600850864000\"",
+   "id": "20220101_s1t4egh3li0g082fqkuvevmkq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfczF0NGVnaDNsaTBnMDgyZnFrdXZldm1rcTQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:25.000Z",
+   "updated": "2021-09-10T19:00:25.432Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_s1t4egh3li0g082fqkuvevmkq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600850864000\"",
+   "id": "20220601_i22r3so7ahvvng92aakskg64o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDFfaTIycjNzbzdhaHZ2bmc5MmFha3NrZzY0bzQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:25.000Z",
+   "updated": "2021-09-10T19:00:25.432Z",
+   "summary": "First Day of LGBTQ+ Pride Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-01"
+   },
+   "end": {
+    "date": "2022-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220601_i22r3so7ahvvng92aakskg64o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600850864000\"",
+   "id": "20220614_afb0e5hutl5v33gf1a3gvqg070",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTRfYWZiMGU1aHV0bDV2MzNnZjFhM2d2cWcwNzAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:25.000Z",
+   "updated": "2021-09-10T19:00:25.432Z",
+   "summary": "Flag Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-14"
+   },
+   "end": {
+    "date": "2022-06-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220614_afb0e5hutl5v33gf1a3gvqg070@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600854160000\"",
+   "id": "20220201_mu85q94gmfjqkf7je57t4koff0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfbXU4NXE5NGdtZmpxa2Y3amU1N3Q0a29mZjAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:27.000Z",
+   "updated": "2021-09-10T19:00:27.080Z",
+   "summary": "First Day of Black History Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_mu85q94gmfjqkf7je57t4koff0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600854160000\"",
+   "id": "20220221_9107h5bvj0daipoo5oq1fr1j7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfOTEwN2g1YnZqMGRhaXBvbzVvcTFmcjFqN2cgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:27.000Z",
+   "updated": "2021-09-10T19:00:27.080Z",
+   "summary": "Presidents' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_9107h5bvj0daipoo5oq1fr1j7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600854160000\"",
+   "id": "20220313_4k6mqpjvh52h82uasjatksbtpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTNfNGs2bXFwanZoNTJoODJ1YXNqYXRrc2J0cGsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:27.000Z",
+   "updated": "2021-09-10T19:00:27.080Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-13"
+   },
+   "end": {
+    "date": "2022-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220313_4k6mqpjvh52h82uasjatksbtpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600857884000\"",
+   "id": "20220214_hahfjb9tapacrm71nkh6qs6egk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfaGFoZmpiOXRhcGFjcm03MW5raDZxczZlZ2sgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:28.000Z",
+   "updated": "2021-09-10T19:00:28.942Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_hahfjb9tapacrm71nkh6qs6egk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600857884000\"",
+   "id": "20220418_e5hpiqfqkmoe4d34p9d3fcio8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfZTVocGlxZnFrbW9lNGQzNHA5ZDNmY2lvOHMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:28.000Z",
+   "updated": "2021-09-10T19:00:28.942Z",
+   "summary": "Tax Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_e5hpiqfqkmoe4d34p9d3fcio8s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600857884000\"",
+   "id": "20220619_7ctrqsm38ndrv6oopsqviti6rk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfN2N0cnFzbTM4bmRydjZvb3BzcXZpdGk2cmsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:28.000Z",
+   "updated": "2021-09-10T19:00:28.942Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_7ctrqsm38ndrv6oopsqviti6rk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600857884000\"",
+   "id": "20220619_ik9o5ivf47d0lpgavip4bvg8t8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfaWs5bzVpdmY0N2QwbHBnYXZpcDRidmc4dDggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:28.000Z",
+   "updated": "2021-09-10T19:00:28.942Z",
+   "summary": "Juneteenth",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_ik9o5ivf47d0lpgavip4bvg8t8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600861098000\"",
+   "id": "20220418_0jkinfo1hgk7sane6d06im3m0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfMGpraW5mbzFoZ2s3c2FuZTZkMDZpbTNtMGMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:30.000Z",
+   "updated": "2021-09-10T19:00:30.549Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_0jkinfo1hgk7sane6d06im3m0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600861098000\"",
+   "id": "20220505_gnpcourkrjsdqgd6l5p8m00kko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfZ25wY291cmtyanNkcWdkNmw1cDhtMDBra28gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:30.000Z",
+   "updated": "2021-09-10T19:00:30.549Z",
+   "summary": "Cinco de Mayo",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_gnpcourkrjsdqgd6l5p8m00kko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600865460000\"",
+   "id": "20220301_jmeh9p188joa4s1f7udqmi7vcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfam1laDlwMTg4am9hNHMxZjd1ZHFtaTd2Y2cgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:32.000Z",
+   "updated": "2021-09-10T19:00:32.730Z",
+   "summary": "First Day of Women's History Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_jmeh9p188joa4s1f7udqmi7vcg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600865460000\"",
+   "id": "20220501_4nvga8ab05san3rljmk8gogmek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfNG52Z2E4YWIwNXNhbjNybGptazhnb2dtZWsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:32.000Z",
+   "updated": "2021-09-10T19:00:32.730Z",
+   "summary": "First Day of Asian Pacific American Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_4nvga8ab05san3rljmk8gogmek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600865460000\"",
+   "id": "20220915_6lba3248elmatsabr013c544ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTVfNmxiYTMyNDhlbG1hdHNhYnIwMTNjNTQ0bnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:32.000Z",
+   "updated": "2021-09-10T19:00:32.730Z",
+   "summary": "First Day of Hispanic Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-15"
+   },
+   "end": {
+    "date": "2022-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220915_6lba3248elmatsabr013c544ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600869496000\"",
+   "id": "20220317_mnqa8ubhi14rjesehu00kn46fg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfbW5xYTh1YmhpMTRyamVzZWh1MDBrbjQ2ZmcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:34.000Z",
+   "updated": "2021-09-10T19:00:34.748Z",
+   "summary": "St. Patrick's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_mnqa8ubhi14rjesehu00kn46fg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600869496000\"",
+   "id": "20220508_5j9tt75njq2mc9s84ktghv5uo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfNWo5dHQ3NW5qcTJtYzlzODRrdGdodjV1bzQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:34.000Z",
+   "updated": "2021-09-10T19:00:34.748Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_5j9tt75njq2mc9s84ktghv5uo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600869496000\"",
+   "id": "20220530_mubrcfb1ema52icfs7jvo52i8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MzBfbXVicmNmYjFlbWE1MmljZnM3anZvNTJpOG8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:34.000Z",
+   "updated": "2021-09-10T19:00:34.748Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-30"
+   },
+   "end": {
+    "date": "2022-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220530_mubrcfb1ema52icfs7jvo52i8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600875270000\"",
+   "id": "20220117_a8pam0i5kuqajqn3gih7bsdfn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTdfYThwYW0waTVrdXFhanFuM2dpaDdic2RmbjQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:37.000Z",
+   "updated": "2021-09-10T19:00:37.635Z",
+   "summary": "Martin Luther King Jr. Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-17"
+   },
+   "end": {
+    "date": "2022-01-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220117_a8pam0i5kuqajqn3gih7bsdfn4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3262600875270000\"",
+   "id": "20220704_7mjropb9h0lmq9902t7jhanq94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDRfN21qcm9wYjloMGxtcTk5MDJ0N2poYW5xOTQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2021-09-10T19:00:37.000Z",
+   "updated": "2021-09-10T19:00:37.635Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-04"
+   },
+   "end": {
+    "date": "2022-07-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220704_7mjropb9h0lmq9902t7jhanq94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286333615664000\"",
+   "id": "20220620_2ggfpo9bnaj019jh2jn4m15934",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjBfMmdnZnBvOWJuYWowMTlqaDJqbjRtMTU5MzQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-01-26T03:13:27.000Z",
+   "updated": "2022-01-26T03:13:27.832Z",
+   "summary": "Juneteenth (substitute)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-20"
+   },
+   "end": {
+    "date": "2022-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220620_2ggfpo9bnaj019jh2jn4m15934@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221010_e5gn60nvooi7b5n63lgt95svvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfZTVnbjYwbnZvb2k3YjVuNjNsZ3Q5NXN2dmMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Indigenous Peoples' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_e5gn60nvooi7b5n63lgt95svvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221010_h9m1g7t7hs8jujq8o3ub5fmapc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfaDltMWc3dDdoczhqdWpxOG8zdWI1Zm1hcGMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Columbus Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_h9m1g7t7hs8jujq8o3ub5fmapc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221031_6glp9tsh22arlfd0ob8jbpneqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfNmdscDl0c2gyMmFybGZkMG9iOGpicG5lcXMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_6glp9tsh22arlfd0ob8jbpneqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221101_ek6rjrt8667gnvq9gm3h88ad98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfZWs2cmpydDg2NjdnbnZxOWdtM2g4OGFkOTggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of American Indian Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_ek6rjrt8667gnvq9gm3h88ad98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221106_lgt8p48405gsmojtl6jcoenne0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDZfbGd0OHA0ODQwNWdzbW9qdGw2amNvZW5uZTAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-06"
+   },
+   "end": {
+    "date": "2022-11-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221106_lgt8p48405gsmojtl6jcoenne0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221108_homlier8gatje3hh76f2ai5lio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDhfaG9tbGllcjhnYXRqZTNoaDc2ZjJhaTVsaW8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Election Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-08"
+   },
+   "end": {
+    "date": "2022-11-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221108_homlier8gatje3hh76f2ai5lio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221111_lv2fh3r4enk5a5742uidp649a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfbHYyZmgzcjRlbms1YTU3NDJ1aWRwNjQ5YTAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Veterans Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_lv2fh3r4enk5a5742uidp649a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221124_q2bltm9681722h5dm8b4nksen4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjRfcTJibHRtOTY4MTcyMmg1ZG04YjRua3NlbjQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Thanksgiving Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-24"
+   },
+   "end": {
+    "date": "2022-11-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221124_q2bltm9681722h5dm8b4nksen4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221125_5fsp6cfd26fr9m158ot932b994",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjVfNWZzcDZjZmQyNmZyOW0xNThvdDkzMmI5OTQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Native American Heritage Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-25"
+   },
+   "end": {
+    "date": "2022-11-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221125_5fsp6cfd26fr9m158ot932b994@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221224_mr7j751ra55nn0kd1lf4objb9g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfbXI3ajc1MXJhNTVubjBrZDFsZjRvYmpiOWcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_mr7j751ra55nn0kd1lf4objb9g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221225_j9ti48so951iffnrvplkvirvmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfajl0aTQ4c285NTFpZmZucnZwbGt2aXJ2bWcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_j9ti48so951iffnrvplkvirvmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221226_j7qpbluailblij0c1i09uuia8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfajdxcGJsdWFpbGJsaWowYzFpMDl1dWlhOG8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Day (substitute)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_j7qpbluailblij0c1i09uuia8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20221231_sis3hnml9ikf19e59a6etn9qug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfc2lzM2hubWw5aWtmMTllNTlhNmV0bjlxdWcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_sis3hnml9ikf19e59a6etn9qug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230101_nhnms9gk6eamd27mbtcnbma84k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfbmhubXM5Z2s2ZWFtZDI3bWJ0Y25ibWE4NGsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_nhnms9gk6eamd27mbtcnbma84k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230102_qn82d48cimkdg6jtog71ssphi8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfcW44MmQ0OGNpbWtkZzZqdG9nNzFzc3BoaTggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "New Year's Day (substitute)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_qn82d48cimkdg6jtog71ssphi8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230116_jqnr1evsqf4psdprffkt3seirs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMTZfanFucjFldnNxZjRwc2RwcmZma3Qzc2VpcnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Martin Luther King Jr. Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-16"
+   },
+   "end": {
+    "date": "2023-01-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230116_jqnr1evsqf4psdprffkt3seirs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230201_jqf6jfp34j27r3htoj5djp243o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDFfanFmNmpmcDM0ajI3cjNodG9qNWRqcDI0M28gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Black History Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-01"
+   },
+   "end": {
+    "date": "2023-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230201_jqf6jfp34j27r3htoj5djp243o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230214_d59pfu6h8u8fq6s4sj2lnoo5gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfZDU5cGZ1Nmg4dThmcTZzNHNqMmxub281Z3MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_d59pfu6h8u8fq6s4sj2lnoo5gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230220_icou39sbkm37nn1nrktk0ne0k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfaWNvdTM5c2JrbTM3bm4xbnJrdGswbmUwazAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Presidents' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_icou39sbkm37nn1nrktk0ne0k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230301_6555jab2tqmq1ip9mikifjpbp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDFfNjU1NWphYjJ0cW1xMWlwOW1pa2lmanBicDAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Women's History Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-01"
+   },
+   "end": {
+    "date": "2023-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230301_6555jab2tqmq1ip9mikifjpbp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230312_lt6srv5ushtc031pd4s5t6ri7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTJfbHQ2c3J2NXVzaHRjMDMxcGQ0czV0NnJpN2sgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-12"
+   },
+   "end": {
+    "date": "2023-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230312_lt6srv5ushtc031pd4s5t6ri7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230317_mam3qbsfcdm0jhm86rme5mfbos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTdfbWFtM3Fic2ZjZG0wamhtODZybWU1bWZib3MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "St. Patrick's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-17"
+   },
+   "end": {
+    "date": "2023-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230317_mam3qbsfcdm0jhm86rme5mfbos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230409_75pm8qfnrbseuaga8d13e1glo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfNzVwbThxZm5yYnNldWFnYThkMTNlMWdsbzQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_75pm8qfnrbseuaga8d13e1glo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230410_d8pdh1sdo610bu7kbv15mrpvak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfZDhwZGgxc2RvNjEwYnU3a2J2MTVtcnB2YWsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_d8pdh1sdo610bu7kbv15mrpvak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230418_fdjpuvbba1bjjqobbvpsf062fs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MThfZmRqcHV2YmJhMWJqanFvYmJ2cHNmMDYyZnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Tax Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-18"
+   },
+   "end": {
+    "date": "2023-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230418_fdjpuvbba1bjjqobbvpsf062fs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230501_k826tj3euiqb7bd2bknnvrduvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfazgyNnRqM2V1aXFiN2JkMmJrbm52cmR1dnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Asian Pacific American Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_k826tj3euiqb7bd2bknnvrduvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230505_tl426lafthi6vvnjlms6b0u0n8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDVfdGw0MjZsYWZ0aGk2dnZuamxtczZiMHUwbjggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Cinco de Mayo",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-05"
+   },
+   "end": {
+    "date": "2023-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230505_tl426lafthi6vvnjlms6b0u0n8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230514_4tku8pd1d4vqvrompkbqt51bps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfNHRrdThwZDFkNHZxdnJvbXBrYnF0NTFicHMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_4tku8pd1d4vqvrompkbqt51bps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230529_f0vqs3ucctachbjeqeqbc9f3os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfZjB2cXMzdWNjdGFjaGJqZXFlcWJjOWYzb3MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_f0vqs3ucctachbjeqeqbc9f3os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230601_2vhknhkbc0vkcd1ks1orb0qtq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDFfMnZoa25oa2JjMHZrY2Qxa3Mxb3JiMHF0cTQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of LGBTQ+ Pride Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-01"
+   },
+   "end": {
+    "date": "2023-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230601_2vhknhkbc0vkcd1ks1orb0qtq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230614_jntb38u1dq4oedjihsmvu0auj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTRfam50YjM4dTFkcTRvZWRqaWhzbXZ1MGF1ajggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Flag Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-14"
+   },
+   "end": {
+    "date": "2023-06-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230614_jntb38u1dq4oedjihsmvu0auj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230618_l6s2hg250270pbl2f5maovouno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfbDZzMmhnMjUwMjcwcGJsMmY1bWFvdm91bm8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_l6s2hg250270pbl2f5maovouno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230619_t1h5lk8nd1lbhfatjsib3lpuag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTlfdDFoNWxrOG5kMWxiaGZhdGpzaWIzbHB1YWcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Juneteenth",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-19"
+   },
+   "end": {
+    "date": "2023-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230619_t1h5lk8nd1lbhfatjsib3lpuag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230704_1ri8najbdk2o7uj1f8t8a1o6ks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDRfMXJpOG5hamJkazJvN3VqMWY4dDhhMW82a3MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-04"
+   },
+   "end": {
+    "date": "2023-07-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230704_1ri8najbdk2o7uj1f8t8a1o6ks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230904_sv1h93jbkec423gmvvebn3eblk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDRfc3YxaDkzamJrZWM0MjNnbXZ2ZWJuM2VibGsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-04"
+   },
+   "end": {
+    "date": "2023-09-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230904_sv1h93jbkec423gmvvebn3eblk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20230915_ph91tpp5mb73h9ihafa7cqnmb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTVfcGg5MXRwcDVtYjczaDlpaGFmYTdjcW5tYjAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Hispanic Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-15"
+   },
+   "end": {
+    "date": "2023-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230915_ph91tpp5mb73h9ihafa7cqnmb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231009_e8vvu38c3icj97ls28mtfidkp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfZTh2dnUzOGMzaWNqOTdsczI4bXRmaWRrcDQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Columbus Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_e8vvu38c3icj97ls28mtfidkp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231009_t9s1rpkceqp8vjg2g2606tq8bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfdDlzMXJwa2NlcXA4dmpnMmcyNjA2dHE4YmMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Indigenous Peoples' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_t9s1rpkceqp8vjg2g2606tq8bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231031_36klpu9coljcnm9nfgjth27al4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfMzZrbHB1OWNvbGpjbm05bmZnanRoMjdhbDQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_36klpu9coljcnm9nfgjth27al4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231101_tvl7hiji8jipl7hrutr4h62v5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfdHZsN2hpamk4amlwbDdocnV0cjRoNjJ2NW8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of American Indian Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_tvl7hiji8jipl7hrutr4h62v5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231105_drikm9rqmroskv6c07ug7t5l8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDVfZHJpa205cnFtcm9za3Y2YzA3dWc3dDVsOG8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-05"
+   },
+   "end": {
+    "date": "2023-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231105_drikm9rqmroskv6c07ug7t5l8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231107_fc8f1530s41qftcnc9c75jccok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDdfZmM4ZjE1MzBzNDFxZnRjbmM5Yzc1amNjb2sgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Election Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-07"
+   },
+   "end": {
+    "date": "2023-11-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231107_fc8f1530s41qftcnc9c75jccok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231110_rhv0a9kca8mmmdo4ei84ubu46s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTBfcmh2MGE5a2NhOG1tbWRvNGVpODR1YnU0NnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Veterans Day (substitute)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-10"
+   },
+   "end": {
+    "date": "2023-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231110_rhv0a9kca8mmmdo4ei84ubu46s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231111_ggtdplapook243vpjat2er758c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfZ2d0ZHBsYXBvb2syNDN2cGphdDJlcjc1OGMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Veterans Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_ggtdplapook243vpjat2er758c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231123_6b64ndbva1c6ptufj345j4opno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjNfNmI2NG5kYnZhMWM2cHR1ZmozNDVqNG9wbm8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Thanksgiving Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-23"
+   },
+   "end": {
+    "date": "2023-11-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231123_6b64ndbva1c6ptufj345j4opno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231124_6g4mhi5vinqr5kpe2j2p09bumc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjRfNmc0bWhpNXZpbnFyNWtwZTJqMnAwOWJ1bWMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Native American Heritage Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-24"
+   },
+   "end": {
+    "date": "2023-11-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231124_6g4mhi5vinqr5kpe2j2p09bumc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231224_84424vvnc1o6o6ranpihu0b33k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfODQ0MjR2dm5jMW82bzZyYW5waWh1MGIzM2sgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_84424vvnc1o6o6ranpihu0b33k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231225_ep50rip4a58phj35sevloms2hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfZXA1MHJpcDRhNThwaGozNXNldmxvbXMyaGcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_ep50rip4a58phj35sevloms2hg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20231231_ucldqhu3apcoop6nflgm07k0c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfdWNsZHFodTNhcGNvb3A2bmZsZ20wN2swYzQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_ucldqhu3apcoop6nflgm07k0c4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240101_du130vrp9iqufsbsbg8q8gksj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZHUxMzB2cnA5aXF1ZnNic2JnOHE4Z2tzajQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_du130vrp9iqufsbsbg8q8gksj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240115_21lb65quveasv9rdjuj8vm6t90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMTVfMjFsYjY1cXV2ZWFzdjlyZGp1ajh2bTZ0OTAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Martin Luther King Jr. Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-15"
+   },
+   "end": {
+    "date": "2024-01-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240115_21lb65quveasv9rdjuj8vm6t90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240201_gac2gdq2u0leffh81o0dvic8q0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDFfZ2FjMmdkcTJ1MGxlZmZoODFvMGR2aWM4cTAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Black History Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-01"
+   },
+   "end": {
+    "date": "2024-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240201_gac2gdq2u0leffh81o0dvic8q0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240214_kr7ues1sec0hd6bje9f7p0sigs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfa3I3dWVzMXNlYzBoZDZiamU5ZjdwMHNpZ3MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_kr7ues1sec0hd6bje9f7p0sigs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240219_fdsm9mun0m26b4mo9seeoj6a1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTlfZmRzbTltdW4wbTI2YjRtbzlzZWVvajZhMXMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Presidents' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-19"
+   },
+   "end": {
+    "date": "2024-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240219_fdsm9mun0m26b4mo9seeoj6a1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240301_i6bpl6l0barhift66selk9q748",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDFfaTZicGw2bDBiYXJoaWZ0NjZzZWxrOXE3NDggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Women's History Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-01"
+   },
+   "end": {
+    "date": "2024-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240301_i6bpl6l0barhift66selk9q748@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240310_a2coml76t7b3dgirf4a3mu4fj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTBfYTJjb21sNzZ0N2IzZGdpcmY0YTNtdTRmajQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-10"
+   },
+   "end": {
+    "date": "2024-03-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240310_a2coml76t7b3dgirf4a3mu4fj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240317_9aqs8hqqme85rpqle5pak2ccfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTdfOWFxczhocXFtZTg1cnBxbGU1cGFrMmNjZm8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "St. Patrick's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-17"
+   },
+   "end": {
+    "date": "2024-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240317_9aqs8hqqme85rpqle5pak2ccfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240331_degnvguoo2f14v2nkqo2dqeft4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfZGVnbnZndW9vMmYxNHYybmtxbzJkcWVmdDQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_degnvguoo2f14v2nkqo2dqeft4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240401_qecgsj7jli03q12nhh5ugilt9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfcWVjZ3NqN2psaTAzcTEybmhoNXVnaWx0OXMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_qecgsj7jli03q12nhh5ugilt9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240415_4jnf3pg8utn0trfn0gmcn372vs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTVfNGpuZjNwZzh1dG4wdHJmbjBnbWNuMzcydnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Tax Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-15"
+   },
+   "end": {
+    "date": "2024-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240415_4jnf3pg8utn0trfn0gmcn372vs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240501_0tajr6v4vn45a4n77akmg8ka88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfMHRhanI2djR2bjQ1YTRuNzdha21nOGthODggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Asian Pacific American Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_0tajr6v4vn45a4n77akmg8ka88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240505_ialbsasrb3ub6fok8t0o3cgdsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfaWFsYnNhc3JiM3ViNmZvazh0MG8zY2dkc2MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Cinco de Mayo",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_ialbsasrb3ub6fok8t0o3cgdsc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240512_b6u83mj4k696s82dvo11im8cus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfYjZ1ODNtajRrNjk2czgyZHZvMTFpbThjdXMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_b6u83mj4k696s82dvo11im8cus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240527_q7amo1k78c2lb4pr0ojik11lbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjdfcTdhbW8xazc4YzJsYjRwcjBvamlrMTFsYnMgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-27"
+   },
+   "end": {
+    "date": "2024-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240527_q7amo1k78c2lb4pr0ojik11lbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240601_fqptupoq3veldl0jd4mcoo66ks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDFfZnFwdHVwb3EzdmVsZGwwamQ0bWNvbzY2a3MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of LGBTQ+ Pride Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-01"
+   },
+   "end": {
+    "date": "2024-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240601_fqptupoq3veldl0jd4mcoo66ks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240614_mmk5q2bq0i0n4b47a5s6pes9tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTRfbW1rNXEyYnEwaTBuNGI0N2E1czZwZXM5dGsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Flag Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-14"
+   },
+   "end": {
+    "date": "2024-06-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240614_mmk5q2bq0i0n4b47a5s6pes9tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240616_ut0m9dehf0k1bj01ogc1p60lj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfdXQwbTlkZWhmMGsxYmowMW9nYzFwNjBsajQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_ut0m9dehf0k1bj01ogc1p60lj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240619_jttg0b24s02pc37i095rilaefo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfanR0ZzBiMjRzMDJwYzM3aTA5NXJpbGFlZm8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Juneteenth",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_jttg0b24s02pc37i095rilaefo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240704_aabco6sf136p42v1mjvld3utfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDRfYWFiY282c2YxMzZwNDJ2MW1qdmxkM3V0Zm8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-04"
+   },
+   "end": {
+    "date": "2024-07-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240704_aabco6sf136p42v1mjvld3utfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240902_0kqhkubl4i4lcfek6uhd05i23o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDJfMGtxaGt1Ymw0aTRsY2ZlazZ1aGQwNWkyM28gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-02"
+   },
+   "end": {
+    "date": "2024-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240902_0kqhkubl4i4lcfek6uhd05i23o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20240915_2o4ggikrnf402jg8u00g28fih0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTVfMm80Z2dpa3JuZjQwMmpnOHUwMGcyOGZpaDAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of Hispanic Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-15"
+   },
+   "end": {
+    "date": "2024-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240915_2o4ggikrnf402jg8u00g28fih0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241014_82crgrho0ln4amrlt6qko1sgs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTRfODJjcmdyaG8wbG40YW1ybHQ2cWtvMXNnczQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Indigenous Peoples' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-14"
+   },
+   "end": {
+    "date": "2024-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241014_82crgrho0ln4amrlt6qko1sgs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241014_n751hunq0gtd29c5iagjdgds2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTRfbjc1MWh1bnEwZ3RkMjljNWlhZ2pkZ2RzMmsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Columbus Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-14"
+   },
+   "end": {
+    "date": "2024-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241014_n751hunq0gtd29c5iagjdgds2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241031_umsmgk1u9krlgnus3uue5d5oj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfdW1zbWdrMXU5a3JsZ251czN1dWU1ZDVvajggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_umsmgk1u9krlgnus3uue5d5oj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241101_i0ah5hmrsdu0o3b15a3oe3h2l4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfaTBhaDVobXJzZHUwbzNiMTVhM29lM2gybDQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "First Day of American Indian Heritage Month",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_i0ah5hmrsdu0o3b15a3oe3h2l4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241103_22hngrlk5bv5773vqi4vhq7e88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDNfMjJobmdybGs1YnY1NzczdnFpNHZocTdlODggZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-03"
+   },
+   "end": {
+    "date": "2024-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241103_22hngrlk5bv5773vqi4vhq7e88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241105_6l53p8a0t7ll53d80fgtgqnl1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDVfNmw1M3A4YTB0N2xsNTNkODBmZ3RncW5sMW8gZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Election Day (General Election)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-05"
+   },
+   "end": {
+    "date": "2024-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241105_6l53p8a0t7ll53d80fgtgqnl1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241111_8ab7b5tg01ghdu8ufobkduimfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfOGFiN2I1dGcwMWdoZHU4dWZvYmtkdWltZmsgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Veterans Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_8ab7b5tg01ghdu8ufobkduimfk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241128_neskrnakebc2ibde6vv48k6is0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjhfbmVza3JuYWtlYmMyaWJkZTZ2djQ4azZpczAgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Thanksgiving Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-28"
+   },
+   "end": {
+    "date": "2024-11-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241128_neskrnakebc2ibde6vv48k6is0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241129_v2bnihterht2aflp4u7vhv8igg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjlfdjJibmlodGVyaHQyYWZscDR1N3ZodjhpZ2cgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Native American Heritage Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-29"
+   },
+   "end": {
+    "date": "2024-11-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241129_v2bnihterht2aflp4u7vhv8igg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241224_80knge169vnc9lnl876nujm0q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfODBrbmdlMTY5dm5jOWxubDg3Nm51am0wcTQgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_80knge169vnc9lnl876nujm0q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241225_l4sgjf35036fkj1hmu8akhmdpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbDRzZ2pmMzUwMzZma2oxaG11OGFraG1kcGcgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_l4sgjf35036fkj1hmu8akhmdpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327723171984000\"",
+   "id": "20241231_f4ei4a07181bejhr0f1lk5o43c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfZjRlaTRhMDcxODFiZWpocjBmMWxrNW80M2MgZW4udXNhI2hvbGlkYXlAdg",
+   "created": "2022-09-22T15:46:25.000Z",
+   "updated": "2022-09-22T15:46:25.992Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United States",
+   "creator": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.usa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United States",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_f4ei4a07181bejhr0f1lk5o43c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

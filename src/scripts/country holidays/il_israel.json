@@ -1,0 +1,3917 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p321v3ec7rqlo00o\"",
+ "summary": "Holidays in Israel",
+ "description": "Holidays and Observances in Israel",
+ "updated": "2023-07-25T00:15:07.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMCx0_zJqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973176056000\"",
+   "id": "20220416_7v15mh6echhnmjhtu3mabd61m0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfN3YxNW1oNmVjaGhubWpodHUzbWFiZDYxbTAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:08.000Z",
+   "updated": "2021-08-26T14:03:08.028Z",
+   "summary": "Passover (Day 1)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_7v15mh6echhnmjhtu3mabd61m0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973180914000\"",
+   "id": "20220605_d9sbro7866fugf2915at0fe3u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfZDlzYnJvNzg2NmZ1Z2YyOTE1YXQwZmUzdTggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:10.000Z",
+   "updated": "2021-08-26T14:03:10.457Z",
+   "summary": "Shavuot",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_d9sbro7866fugf2915at0fe3u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973184336000\"",
+   "id": "20220411_pd4r0eqno0f4u1epj65nss7avs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTFfcGQ0cjBlcW5vMGY0dTFlcGo2NW5zczdhdnMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:12.000Z",
+   "updated": "2021-08-26T14:03:12.168Z",
+   "summary": "Aliyah Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-11"
+   },
+   "end": {
+    "date": "2022-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220411_pd4r0eqno0f4u1epj65nss7avs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973184336000\"",
+   "id": "20220415_lt6kiobnega1ug7hm0sggn0c5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfbHQ2a2lvYm5lZ2ExdWc3aG0wc2dnbjBjNXMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:12.000Z",
+   "updated": "2021-08-26T14:03:12.168Z",
+   "summary": "Passover Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_lt6kiobnega1ug7hm0sggn0c5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973184336000\"",
+   "id": "20220505_9gh738rtduvribqi59q65mmep8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfOWdoNzM4cnRkdXZyaWJxaTU5cTY1bW1lcDggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:12.000Z",
+   "updated": "2021-08-26T14:03:12.168Z",
+   "summary": "Yom HaAtzmaut",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_9gh738rtduvribqi59q65mmep8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973184336000\"",
+   "id": "20220529_duokbufaaoooggk1hh3aru99vc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjlfZHVva2J1ZmFhb29vZ2drMWhoM2FydTk5dmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:12.000Z",
+   "updated": "2021-08-26T14:03:12.168Z",
+   "summary": "Jerusalem Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-29"
+   },
+   "end": {
+    "date": "2022-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220529_duokbufaaoooggk1hh3aru99vc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973188162000\"",
+   "id": "20220316_t43so4q88vp7lh41nv770fg0k4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTZfdDQzc280cTg4dnA3bGg0MW52NzcwZmcwazQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:14.000Z",
+   "updated": "2021-08-26T14:03:14.081Z",
+   "summary": "Purim Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-16"
+   },
+   "end": {
+    "date": "2022-03-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220316_t43so4q88vp7lh41nv770fg0k4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973188162000\"",
+   "id": "20220418_ogkm7t40tqg160e3ft7n5i67o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfb2drbTd0NDB0cWcxNjBlM2Z0N241aTY3bzAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:14.000Z",
+   "updated": "2021-08-26T14:03:14.081Z",
+   "summary": "Passover (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_ogkm7t40tqg160e3ft7n5i67o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973191338000\"",
+   "id": "20220421_furpbf9cmo18bl11i9ama26tfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjFfZnVycGJmOWNtbzE4YmwxMWk5YW1hMjZ0ZmcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:15.000Z",
+   "updated": "2021-08-26T14:03:15.669Z",
+   "summary": "Passover (Day 6)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-21"
+   },
+   "end": {
+    "date": "2022-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220421_furpbf9cmo18bl11i9ama26tfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973191338000\"",
+   "id": "20220807_klbp6sbqd4skd790765vu2m0mo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDdfa2xicDZzYnFkNHNrZDc5MDc2NXZ1Mm0wbW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:15.000Z",
+   "updated": "2021-08-26T14:03:15.669Z",
+   "summary": "Tisha B'Av",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-07"
+   },
+   "end": {
+    "date": "2022-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220807_klbp6sbqd4skd790765vu2m0mo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973200520000\"",
+   "id": "20220419_lo7msaotdqck72uoh16d9ug5eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTlfbG83bXNhb3RkcWNrNzJ1b2gxNmQ5dWc1ZWcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:20.000Z",
+   "updated": "2021-08-26T14:03:20.260Z",
+   "summary": "Passover (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-19"
+   },
+   "end": {
+    "date": "2022-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220419_lo7msaotdqck72uoh16d9ug5eg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973200520000\"",
+   "id": "20220604_77qnlfhg3akeagc6oh9jllvkh0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDRfNzdxbmxmaGczYWtlYWdjNm9oOWpsbHZraDAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:20.000Z",
+   "updated": "2021-08-26T14:03:20.260Z",
+   "summary": "Shavuot Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-04"
+   },
+   "end": {
+    "date": "2022-06-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220604_77qnlfhg3akeagc6oh9jllvkh0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973206808000\"",
+   "id": "20220417_75n5bhktrft0a4i2sb2vlq49eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfNzVuNWJoa3RyZnQwYTRpMnNiMnZscTQ5ZW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:23.000Z",
+   "updated": "2021-08-26T14:03:23.404Z",
+   "summary": "Passover (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_75n5bhktrft0a4i2sb2vlq49eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973206808000\"",
+   "id": "20220420_rv9nf63oane7ptjqle7vofb3o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjBfcnY5bmY2M29hbmU3cHRqcWxlN3ZvZmIzbzQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:23.000Z",
+   "updated": "2021-08-26T14:03:23.404Z",
+   "summary": "Passover (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-20"
+   },
+   "end": {
+    "date": "2022-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220420_rv9nf63oane7ptjqle7vofb3o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973206808000\"",
+   "id": "20220422_fm4pop2hi0kaqlfd4r4e56nkns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjJfZm00cG9wMmhpMGthcWxmZDRyNGU1Nm5rbnMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:23.000Z",
+   "updated": "2021-08-26T14:03:23.404Z",
+   "summary": "Passover (Day 7)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-22"
+   },
+   "end": {
+    "date": "2022-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220422_fm4pop2hi0kaqlfd4r4e56nkns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973206808000\"",
+   "id": "20220806_63o1mngijphnr114pps4lm55ds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDZfNjNvMW1uZ2lqcGhucjExNHBwczRsbTU1ZHMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:23.000Z",
+   "updated": "2021-08-26T14:03:23.404Z",
+   "summary": "Tisha B'Av Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-06"
+   },
+   "end": {
+    "date": "2022-08-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220806_63o1mngijphnr114pps4lm55ds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973211478000\"",
+   "id": "20220504_5touecgjvvroi7etapnjopvccg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfNXRvdWVjZ2p2dnJvaTdldGFwbmpvcHZjY2cgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T14:03:25.000Z",
+   "updated": "2021-08-26T14:03:25.739Z",
+   "summary": "Yom HaZikaron",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_5touecgjvvroi7etapnjopvccg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3275319421322000\"",
+   "id": "20220428_nkc0rim3rf88ssfiq868ae8ddk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjhfbmtjMHJpbTNyZjg4c3NmaXE4NjhhZThkZGsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2021-11-23T09:28:30.000Z",
+   "updated": "2021-11-23T09:28:30.661Z",
+   "summary": "Yom HaShoah",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-28"
+   },
+   "end": {
+    "date": "2022-04-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220428_nkc0rim3rf88ssfiq868ae8ddk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20220925_mskp5lg6b153lag4nfhnoti6o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjVfbXNrcDVsZzZiMTUzbGFnNG5maG5vdGk2bzAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-25"
+   },
+   "end": {
+    "date": "2022-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220925_mskp5lg6b153lag4nfhnoti6o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20220926_748mjsvco53hroa108bitq5dbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjZfNzQ4bWpzdmNvNTNocm9hMTA4Yml0cTVkYmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-26"
+   },
+   "end": {
+    "date": "2022-09-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220926_748mjsvco53hroa108bitq5dbc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20220927_51lf1j4jdn055ihev8fpvam7i0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjdfNTFsZjFqNGpkbjA1NWloZXY4ZnB2YW03aTAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-27"
+   },
+   "end": {
+    "date": "2022-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220927_51lf1j4jdn055ihev8fpvam7i0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221004_ird0dsrsilirkadoi9creo94ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfaXJkMGRzcnNpbGlya2Fkb2k5Y3Jlbzk0ZWsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom Kippur Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_ird0dsrsilirkadoi9creo94ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221005_ip25amjq17i7c8utnuh4jq9cr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfaXAyNWFtanExN2k3Yzh1dG51aDRqcTljcjAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom Kippur",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_ip25amjq17i7c8utnuh4jq9cr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221009_espgb9j46fja6p1b82f1sv3pv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfZXNwZ2I5ajQ2ZmphNnAxYjgyZjFzdjNwdjggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_espgb9j46fja6p1b82f1sv3pv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221010_18e0ml6ah74nr60o0scb8vlsrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfMThlMG1sNmFoNzRucjYwbzBzY2I4dmxzcmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 1)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_18e0ml6ah74nr60o0scb8vlsrc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221011_j7t6fa43oij9lpj2i5ocljn1ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTFfajd0NmZhNDNvaWo5bHBqMmk1b2Nsam4xa28gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-11"
+   },
+   "end": {
+    "date": "2022-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221011_j7t6fa43oij9lpj2i5ocljn1ko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221012_m2h5pvhcofj0b1f9gn8d05kr60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTJfbTJoNXB2aGNvZmowYjFmOWduOGQwNWtyNjAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-12"
+   },
+   "end": {
+    "date": "2022-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221012_m2h5pvhcofj0b1f9gn8d05kr60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221013_4hj0u8uu4h4i23a8tfvd3vro1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTNfNGhqMHU4dXU0aDRpMjNhOHRmdmQzdnJvMWMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-13"
+   },
+   "end": {
+    "date": "2022-10-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221013_4hj0u8uu4h4i23a8tfvd3vro1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221014_vs0j8o8up6p91vnbd7ukdcqvn8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTRfdnMwajhvOHVwNnA5MXZuYmQ3dWtkY3F2bjggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-14"
+   },
+   "end": {
+    "date": "2022-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221014_vs0j8o8up6p91vnbd7ukdcqvn8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221015_1rs80qmbeeulpt5pjehbp10gs0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTVfMXJzODBxbWJlZXVscHQ1cGplaGJwMTBnczAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 6)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-15"
+   },
+   "end": {
+    "date": "2022-10-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221015_1rs80qmbeeulpt5pjehbp10gs0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221016_p7u1997c5qfp0aomk8v2hdslu4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTZfcDd1MTk5N2M1cWZwMGFvbWs4djJoZHNsdTQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 7) / Hoshanah Rabah",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-16"
+   },
+   "end": {
+    "date": "2022-10-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221016_p7u1997c5qfp0aomk8v2hdslu4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221017_2q3s4l6o3lpi8rnhv6jmfplov4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTdfMnEzczRsNm8zbHBpOHJuaHY2am1mcGxvdjQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shemini Atzeret / Simchat Torah",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-17"
+   },
+   "end": {
+    "date": "2022-10-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221017_2q3s4l6o3lpi8rnhv6jmfplov4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221101_fvuqrvb1gi2kelijm3vekbsbe4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfZnZ1cXJ2YjFnaTJrZWxpam0zdmVrYnNiZTQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Aliyah Day School Observance",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_fvuqrvb1gi2kelijm3vekbsbe4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221219_5p4j123fq99rc0lhbdriauqfls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTlfNXA0ajEyM2ZxOTlyYzBsaGJkcmlhdXFmbHMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 1)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-19"
+   },
+   "end": {
+    "date": "2022-12-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221219_5p4j123fq99rc0lhbdriauqfls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221220_ad968sjb5g19agmveuflpds920",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjBfYWQ5NjhzamI1ZzE5YWdtdmV1ZmxwZHM5MjAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-20"
+   },
+   "end": {
+    "date": "2022-12-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221220_ad968sjb5g19agmveuflpds920@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221221_t66lsp9g3v56r48b5v29q3a0eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjFfdDY2bHNwOWczdjU2cjQ4YjV2MjlxM2EwZW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-21"
+   },
+   "end": {
+    "date": "2022-12-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221221_t66lsp9g3v56r48b5v29q3a0eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221222_m1np1tb9pjtkjivtbqsrs5jcks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjJfbTFucDF0YjlwanRraml2dGJxc3JzNWpja3MgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-22"
+   },
+   "end": {
+    "date": "2022-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221222_m1np1tb9pjtkjivtbqsrs5jcks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221223_akt5q6kjhakd44oc5sfvmaebgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjNfYWt0NXE2a2poYWtkNDRvYzVzZnZtYWViZ28gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-23"
+   },
+   "end": {
+    "date": "2022-12-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221223_akt5q6kjhakd44oc5sfvmaebgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221224_0oqlj8mc65as83hifv3cslflfs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfMG9xbGo4bWM2NWFzODNoaWZ2M2NzbGZsZnMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_0oqlj8mc65as83hifv3cslflfs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221225_q9edhan9k79rc9c1s29c9a8nps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfcTllZGhhbjlrNzlyYzljMXMyOWM5YThucHMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 7)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_q9edhan9k79rc9c1s29c9a8nps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20221226_lc5kvcp7khnkmif8s7n5mg93ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfbGM1a3ZjcDdraG5rbWlmOHM3bjVtZzkzdWcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 8)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_lc5kvcp7khnkmif8s7n5mg93ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230306_9vq39qnmiopnmlho2r3nhmvnac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDZfOXZxMzlxbm1pb3BubWxobzJyM25obXZuYWMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Purim Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-06"
+   },
+   "end": {
+    "date": "2023-03-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230306_9vq39qnmiopnmlho2r3nhmvnac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230401_qhlgsdlnkil53kgi227okaufd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDFfcWhsZ3NkbG5raWw1M2tnaTIyN29rYXVmZDQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Aliyah Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-01"
+   },
+   "end": {
+    "date": "2023-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230401_qhlgsdlnkil53kgi227okaufd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230405_t4b21lnnmr04vtejf7vclgjeb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfdDRiMjFsbm5tcjA0dnRlamY3dmNsZ2plYjQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_t4b21lnnmr04vtejf7vclgjeb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230406_8p0k3c6li72fvm0k76prdhds4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfOHAwazNjNmxpNzJmdm0wazc2cHJkaGRzNG8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 1)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_8p0k3c6li72fvm0k76prdhds4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230407_9s23mnu4mdka321jge0htughmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfOXMyM21udTRtZGthMzIxamdlMGh0dWdobW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_9s23mnu4mdka321jge0htughmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230408_6rglqbq9ps0tggicv81vbg38a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfNnJnbHFicTlwczB0Z2dpY3Y4MXZiZzM4YTAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_6rglqbq9ps0tggicv81vbg38a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230409_qfd43bs17n5ufmjb8bbquvb4g0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfcWZkNDNiczE3bjV1Zm1qYjhiYnF1dmI0ZzAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_qfd43bs17n5ufmjb8bbquvb4g0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230410_rrqf356hi2g4md0voffpg9uv94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfcnJxZjM1NmhpMmc0bWQwdm9mZnBnOXV2OTQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_rrqf356hi2g4md0voffpg9uv94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230411_v30ht2ad88j0u0cr1c80j7c8jk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTFfdjMwaHQyYWQ4OGowdTBjcjFjODBqN2M4amsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 6)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-11"
+   },
+   "end": {
+    "date": "2023-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230411_v30ht2ad88j0u0cr1c80j7c8jk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230412_e7hjahv94q146j0t5djq3e8huc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTJfZTdoamFodjk0cTE0NmowdDVkanEzZThodWMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 7)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-12"
+   },
+   "end": {
+    "date": "2023-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230412_e7hjahv94q146j0t5djq3e8huc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230418_ho59jf3g8t59i6vi4el1mkhtto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MThfaG81OWpmM2c4dDU5aTZ2aTRlbDFta2h0dG8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom HaShoah",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-18"
+   },
+   "end": {
+    "date": "2023-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230418_ho59jf3g8t59i6vi4el1mkhtto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230425_gb59jbrr3otrme5h2mvkc3j9rk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfZ2I1OWpicnIzb3RybWU1aDJtdmtjM2o5cmsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom HaZikaron",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_gb59jbrr3otrme5h2mvkc3j9rk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230426_kkulresfu37pe3l5eo277ds9k4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjZfa2t1bHJlc2Z1MzdwZTNsNWVvMjc3ZHM5azQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom HaAtzmaut",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-26"
+   },
+   "end": {
+    "date": "2023-04-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230426_kkulresfu37pe3l5eo277ds9k4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230519_etfs87hidqer4qij0v2duauv7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTlfZXRmczg3aGlkcWVyNHFpajB2MmR1YXV2N2sgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Jerusalem Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-19"
+   },
+   "end": {
+    "date": "2023-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230519_etfs87hidqer4qij0v2duauv7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230525_f3l3nk9h5150gd3mglk0er87ak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjVfZjNsM25rOWg1MTUwZ2QzbWdsazBlcjg3YWsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shavuot Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-25"
+   },
+   "end": {
+    "date": "2023-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230525_f3l3nk9h5150gd3mglk0er87ak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230526_7kmfkp2u2nb054ikqnuhfc59fk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjZfN2ttZmtwMnUybmIwNTRpa3FudWhmYzU5ZmsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shavuot",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-26"
+   },
+   "end": {
+    "date": "2023-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230526_7kmfkp2u2nb054ikqnuhfc59fk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230726_9gtdv096qc20me6cnk702ukcfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjZfOWd0ZHYwOTZxYzIwbWU2Y25rNzAydWtjZmcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Tisha B'Av Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-26"
+   },
+   "end": {
+    "date": "2023-07-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230726_9gtdv096qc20me6cnk702ukcfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230727_ftkdp957irisl0u95djfcgs8p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjdfZnRrZHA5NTdpcmlzbDB1OTVkamZjZ3M4cDAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Tisha B'Av",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-27"
+   },
+   "end": {
+    "date": "2023-07-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230727_ftkdp957irisl0u95djfcgs8p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230915_15qc7e35l0o0fmjrgd4a7tcr2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTVfMTVxYzdlMzVsMG8wZm1qcmdkNGE3dGNyMm8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-15"
+   },
+   "end": {
+    "date": "2023-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230915_15qc7e35l0o0fmjrgd4a7tcr2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230916_3qmqo3lhcdjeqile0sut7hrir8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTZfM3FtcW8zbGhjZGplcWlsZTBzdXQ3aHJpcjggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-16"
+   },
+   "end": {
+    "date": "2023-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230916_3qmqo3lhcdjeqile0sut7hrir8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230917_l2as4gojae2ugf5ih65edgj4as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTdfbDJhczRnb2phZTJ1Z2Y1aWg2NWVkZ2o0YXMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-17"
+   },
+   "end": {
+    "date": "2023-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230917_l2as4gojae2ugf5ih65edgj4as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230924_1omk4gau733gohjecileoeunhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjRfMW9tazRnYXU3MzNnb2hqZWNpbGVvZXVuaHMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom Kippur Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-24"
+   },
+   "end": {
+    "date": "2023-09-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230924_1omk4gau733gohjecileoeunhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230925_dt9032kppdfsvvhmh2papdthp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjVfZHQ5MDMya3BwZGZzdnZobWgycGFwZHRocDQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom Kippur",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-25"
+   },
+   "end": {
+    "date": "2023-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230925_dt9032kppdfsvvhmh2papdthp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230929_ojn4flfibfvftco5q408cjtv1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5Mjlfb2puNGZsZmliZnZmdGNvNXE0MDhjanR2MWsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_ojn4flfibfvftco5q408cjtv1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20230930_q4clq45tr5gvre7j6m9eobe94g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MzBfcTRjbHE0NXRyNWd2cmU3ajZtOWVvYmU5NGcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 1)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-30"
+   },
+   "end": {
+    "date": "2023-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230930_q4clq45tr5gvre7j6m9eobe94g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231001_9g84hrdpif0h93f509n8cpufik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfOWc4NGhyZHBpZjBoOTNmNTA5bjhjcHVmaWsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_9g84hrdpif0h93f509n8cpufik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231002_t71n9l6rp5ibi2r005oh80rprk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfdDcxbjlsNnJwNWliaTJyMDA1b2g4MHJwcmsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_t71n9l6rp5ibi2r005oh80rprk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231003_pgbmufutcpgpagc2picv7ehaio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDNfcGdibXVmdXRjcGdwYWdjMnBpY3Y3ZWhhaW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-03"
+   },
+   "end": {
+    "date": "2023-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231003_pgbmufutcpgpagc2picv7ehaio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231004_gfgrchmk1p08ki8hr8ddi0sd38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDRfZ2ZncmNobWsxcDA4a2k4aHI4ZGRpMHNkMzggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-04"
+   },
+   "end": {
+    "date": "2023-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231004_gfgrchmk1p08ki8hr8ddi0sd38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231005_2c63jtc9rud7fe9q73vkqnk6qk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDVfMmM2M2p0YzlydWQ3ZmU5cTczdmtxbms2cWsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 6)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-05"
+   },
+   "end": {
+    "date": "2023-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231005_2c63jtc9rud7fe9q73vkqnk6qk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231006_jdugjk49qaiqshnan9ebiaof8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDZfamR1Z2prNDlxYWlxc2huYW45ZWJpYW9mOGMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 7) / Hoshanah Rabah",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-06"
+   },
+   "end": {
+    "date": "2023-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231006_jdugjk49qaiqshnan9ebiaof8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231007_43qupu6f9o3o6u2qdvvuqr9e3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDdfNDNxdXB1NmY5bzNvNnUycWR2dnVxcjllM3MgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shemini Atzeret / Simchat Torah",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-07"
+   },
+   "end": {
+    "date": "2023-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231007_43qupu6f9o3o6u2qdvvuqr9e3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231022_4ukeq13fla35jpmln25sq7rems",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjJfNHVrZXExM2ZsYTM1anBtbG4yNXNxN3JlbXMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Aliyah Day School Observance",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-22"
+   },
+   "end": {
+    "date": "2023-10-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231022_4ukeq13fla35jpmln25sq7rems@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231208_g3k0uc4t4lr88mrot2ph8kg9gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfZzNrMHVjNHQ0bHI4OG1yb3QycGg4a2c5Z3MgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 1)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_g3k0uc4t4lr88mrot2ph8kg9gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231209_4bisn6p40g05fpfqffpj6clpc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDlfNGJpc242cDQwZzA1ZnBmcWZmcGo2Y2xwYzggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-09"
+   },
+   "end": {
+    "date": "2023-12-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231209_4bisn6p40g05fpfqffpj6clpc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231210_kh9bui2415tq8gft314dks2a7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTBfa2g5YnVpMjQxNXRxOGdmdDMxNGRrczJhN28gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-10"
+   },
+   "end": {
+    "date": "2023-12-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231210_kh9bui2415tq8gft314dks2a7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231211_jo7he64r5d6q4b0acut109grhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTFfam83aGU2NHI1ZDZxNGIwYWN1dDEwOWdyaGsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-11"
+   },
+   "end": {
+    "date": "2023-12-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231211_jo7he64r5d6q4b0acut109grhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231212_dio8lbdqjomb4mm51bj1rl48ng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTJfZGlvOGxiZHFqb21iNG1tNTFiajFybDQ4bmcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-12"
+   },
+   "end": {
+    "date": "2023-12-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231212_dio8lbdqjomb4mm51bj1rl48ng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231213_p3qe9mhofjldmrepumlkm1p7o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTNfcDNxZTltaG9mamxkbXJlcHVtbGttMXA3bzAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-13"
+   },
+   "end": {
+    "date": "2023-12-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231213_p3qe9mhofjldmrepumlkm1p7o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231214_vcvchpqtmvp2agrlldmgmbtkeo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTRfdmN2Y2hwcXRtdnAyYWdybGxkbWdtYnRrZW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 7)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-14"
+   },
+   "end": {
+    "date": "2023-12-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231214_vcvchpqtmvp2agrlldmgmbtkeo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20231215_6gr2bh9vitsk79le2mkkf3lm5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTVfNmdyMmJoOXZpdHNrNzlsZTJta2tmM2xtNXMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 8)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-15"
+   },
+   "end": {
+    "date": "2023-12-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231215_6gr2bh9vitsk79le2mkkf3lm5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240323_1tmmdu1eku7rlvds7qa4u2rntc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjNfMXRtbWR1MWVrdTdybHZkczdxYTR1MnJudGMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Purim Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-23"
+   },
+   "end": {
+    "date": "2024-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240323_1tmmdu1eku7rlvds7qa4u2rntc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240418_f5f2sa1eujrel51gff9et0e018",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MThfZjVmMnNhMWV1anJlbDUxZ2ZmOWV0MGUwMTggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Aliyah Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-18"
+   },
+   "end": {
+    "date": "2024-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240418_f5f2sa1eujrel51gff9et0e018@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240422_4gt6406knb5daaq2989k0dogq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjJfNGd0NjQwNmtuYjVkYWFxMjk4OWswZG9ncTQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-22"
+   },
+   "end": {
+    "date": "2024-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240422_4gt6406knb5daaq2989k0dogq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240423_d30mb242s5hdduooabab496aqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjNfZDMwbWIyNDJzNWhkZHVvb2FiYWI0OTZhcW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 1)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-23"
+   },
+   "end": {
+    "date": "2024-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240423_d30mb242s5hdduooabab496aqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240424_ampotl7v67ki9svo2sck8o1qs8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjRfYW1wb3RsN3Y2N2tpOXN2bzJzY2s4bzFxczggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-24"
+   },
+   "end": {
+    "date": "2024-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240424_ampotl7v67ki9svo2sck8o1qs8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240425_dck7a1a44gjk1q23q6ifjqc0u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjVfZGNrN2ExYTQ0Z2prMXEyM3E2aWZqcWMwdTQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-25"
+   },
+   "end": {
+    "date": "2024-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240425_dck7a1a44gjk1q23q6ifjqc0u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240426_27pfc5ccrehp61ns3p6euuq8rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjZfMjdwZmM1Y2NyZWhwNjFuczNwNmV1dXE4cmcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-26"
+   },
+   "end": {
+    "date": "2024-04-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240426_27pfc5ccrehp61ns3p6euuq8rg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240427_4ukaco9l915rb2gs7eqqn15nbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjdfNHVrYWNvOWw5MTVyYjJnczdlcXFuMTVuYmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-27"
+   },
+   "end": {
+    "date": "2024-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240427_4ukaco9l915rb2gs7eqqn15nbc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240428_qkrq377u7cq1cb6skpnr162c5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjhfcWtycTM3N3U3Y3ExY2I2c2twbnIxNjJjNW8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 6)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-28"
+   },
+   "end": {
+    "date": "2024-04-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240428_qkrq377u7cq1cb6skpnr162c5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240429_jeh2jvmv1trmufugiq4gbulrc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjlfamVoMmp2bXYxdHJtdWZ1Z2lxNGdidWxyYzggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Passover (Day 7)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-29"
+   },
+   "end": {
+    "date": "2024-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240429_jeh2jvmv1trmufugiq4gbulrc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240506_75sscd3vlr7q5k7j5afklkrh60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfNzVzc2NkM3ZscjdxNWs3ajVhZmtsa3JoNjAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom HaShoah",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_75sscd3vlr7q5k7j5afklkrh60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240513_1svormodvrspcm4p562mbd3578",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTNfMXN2b3Jtb2R2cnNwY200cDU2Mm1iZDM1NzggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom HaZikaron",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-13"
+   },
+   "end": {
+    "date": "2024-05-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240513_1svormodvrspcm4p562mbd3578@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240514_c41ooep1sbo9ljjjrci6guo348",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTRfYzQxb29lcDFzYm85bGpqanJjaTZndW8zNDggZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom HaAtzmaut",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-14"
+   },
+   "end": {
+    "date": "2024-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240514_c41ooep1sbo9ljjjrci6guo348@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240605_aj1t7qd8ggk1v3ktihi9c0p0fc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDVfYWoxdDdxZDhnZ2sxdjNrdGloaTljMHAwZmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Jerusalem Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-05"
+   },
+   "end": {
+    "date": "2024-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240605_aj1t7qd8ggk1v3ktihi9c0p0fc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240611_17u2fl23h9dsdt4qs61oun33o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTFfMTd1MmZsMjNoOWRzZHQ0cXM2MW91bjMzbzAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shavuot Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-11"
+   },
+   "end": {
+    "date": "2024-06-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240611_17u2fl23h9dsdt4qs61oun33o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240612_njtbfifica0fi2m7b3ot8bfik4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTJfbmp0YmZpZmljYTBmaTJtN2Izb3Q4YmZpazQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shavuot",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-12"
+   },
+   "end": {
+    "date": "2024-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240612_njtbfifica0fi2m7b3ot8bfik4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240812_a7c6o1rup6hkmf9mq2sc70qs4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTJfYTdjNm8xcnVwNmhrbWY5bXEyc2M3MHFzNG8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Tisha B'Av Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-12"
+   },
+   "end": {
+    "date": "2024-08-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240812_a7c6o1rup6hkmf9mq2sc70qs4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20240813_o0gcdicijfevjbu6e1ok4casc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTNfbzBnY2RpY2lqZmV2amJ1NmUxb2s0Y2FzYzQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Tisha B'Av",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-13"
+   },
+   "end": {
+    "date": "2024-08-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240813_o0gcdicijfevjbu6e1ok4casc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241002_hq2kkdeveumirqdkcu7sv5bce4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDJfaHEya2tkZXZldW1pcnFka2N1N3N2NWJjZTQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-02"
+   },
+   "end": {
+    "date": "2024-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241002_hq2kkdeveumirqdkcu7sv5bce4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241003_n7efpc1nth1obeae181vtonb2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDNfbjdlZnBjMW50aDFvYmVhZTE4MXZ0b25iMmcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-03"
+   },
+   "end": {
+    "date": "2024-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241003_n7efpc1nth1obeae181vtonb2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241004_4pfvjaoco8o03sk33sg7pquch4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDRfNHBmdmphb2NvOG8wM3NrMzNzZzdwcXVjaDQgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Rosh Hashana (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-04"
+   },
+   "end": {
+    "date": "2024-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241004_4pfvjaoco8o03sk33sg7pquch4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241011_lnacgpd0fbtb4ni47u42k40f0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfbG5hY2dwZDBmYnRiNG5pNDd1NDJrNDBmMGcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom Kippur Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_lnacgpd0fbtb4ni47u42k40f0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241012_evfhqdsvqbmrpje4906h8j8pvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfZXZmaHFkc3ZxYm1ycGplNDkwNmg4ajhwdmsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Yom Kippur",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_evfhqdsvqbmrpje4906h8j8pvk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241016_9b3hc5hv5k5m2tf3c5vdrgglds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTZfOWIzaGM1aHY1azVtMnRmM2M1dmRyZ2dsZHMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-16"
+   },
+   "end": {
+    "date": "2024-10-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241016_9b3hc5hv5k5m2tf3c5vdrgglds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241017_l3bvurnh7ga3thn3h9t4dnk7oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTdfbDNidnVybmg3Z2EzdGhuM2g5dDRkbms3b28gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 1)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-17"
+   },
+   "end": {
+    "date": "2024-10-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241017_l3bvurnh7ga3thn3h9t4dnk7oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241018_pqo6i487ls31uc4otgrafmuibs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMThfcHFvNmk0ODdsczMxdWM0b3RncmFmbXVpYnMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-18"
+   },
+   "end": {
+    "date": "2024-10-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241018_pqo6i487ls31uc4otgrafmuibs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241019_l90d0oc6evrrbuttuskh1707nc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTlfbDkwZDBvYzZldnJyYnV0dHVza2gxNzA3bmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-19"
+   },
+   "end": {
+    "date": "2024-10-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241019_l90d0oc6evrrbuttuskh1707nc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241020_4o1kjkha8jlgbtok2p5q0taq20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjBfNG8xa2praGE4amxnYnRvazJwNXEwdGFxMjAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-20"
+   },
+   "end": {
+    "date": "2024-10-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241020_4o1kjkha8jlgbtok2p5q0taq20@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241021_4nrj3dsd84ouuimp9nfjmv9tic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjFfNG5yajNkc2Q4NG91dWltcDluZmptdjl0aWMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-21"
+   },
+   "end": {
+    "date": "2024-10-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241021_4nrj3dsd84ouuimp9nfjmv9tic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241022_2amgb8qvc171ko4r7jrpnjg2j0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjJfMmFtZ2I4cXZjMTcxa280cjdqcnBuamcyajAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 6)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-22"
+   },
+   "end": {
+    "date": "2024-10-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241022_2amgb8qvc171ko4r7jrpnjg2j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241023_bp2nafm3tjc3vvrd2g98qcmmig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjNfYnAybmFmbTN0amMzdnZyZDJnOThxY21taWcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Sukkot (Day 7) / Hoshanah Rabah",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-23"
+   },
+   "end": {
+    "date": "2024-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241023_bp2nafm3tjc3vvrd2g98qcmmig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241024_gh36fhlfa2td4jr93omds830q0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjRfZ2gzNmZobGZhMnRkNGpyOTNvbWRzODMwcTAgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Shemini Atzeret / Simchat Torah",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-24"
+   },
+   "end": {
+    "date": "2024-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241024_gh36fhlfa2td4jr93omds830q0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241108_teje2n8ijrvoh62gsdcnjq4pno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDhfdGVqZTJuOGlqcnZvaDYyZ3NkY25qcTRwbm8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Aliyah Day School Observance",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-08"
+   },
+   "end": {
+    "date": "2024-11-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241108_teje2n8ijrvoh62gsdcnjq4pno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241226_a9j9q6o24l1dei8karu2a8o8bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfYTlqOXE2bzI0bDFkZWk4a2FydTJhOG84YmMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 1)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_a9j9q6o24l1dei8karu2a8o8bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241227_160n8g3jhjv5mfdb8dt1j1ts5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjdfMTYwbjhnM2poanY1bWZkYjhkdDFqMXRzNWcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 2)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-27"
+   },
+   "end": {
+    "date": "2024-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241227_160n8g3jhjv5mfdb8dt1j1ts5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241228_6buo7ulk2onv5pqmuou09jgogo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjhfNmJ1bzd1bGsyb252NXBxbXVvdTA5amdvZ28gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 3)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-28"
+   },
+   "end": {
+    "date": "2024-12-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241228_6buo7ulk2onv5pqmuou09jgogo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241229_q5051p264chig1q5lt5mtl7jfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjlfcTUwNTFwMjY0Y2hpZzFxNWx0NW10bDdqZmcgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 4)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-29"
+   },
+   "end": {
+    "date": "2024-12-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241229_q5051p264chig1q5lt5mtl7jfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241230_hgomp8pj3084b6v12fscc2860o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzBfaGdvbXA4cGozMDg0YjZ2MTJmc2NjMjg2MG8gZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 5)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-30"
+   },
+   "end": {
+    "date": "2024-12-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241230_hgomp8pj3084b6v12fscc2860o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327899918128000\"",
+   "id": "20241231_28uc6p6h7v27tqh3j4ktf2gl9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfMjh1YzZwNmg3djI3dHFoM2o0a3RmMmdsOXMgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:19:19.000Z",
+   "updated": "2022-09-23T16:19:19.064Z",
+   "summary": "Hanukkah (Day 6) / Rosh Chodesh Tevet",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Israel",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_28uc6p6h7v27tqh3j4ktf2gl9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329781015926000\"",
+   "id": "20221101_f7orivpsm3qnnu0jrg3oqke19k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfZjdvcml2cHNtM3FubnUwanJnM29xa2UxOWsgZW4uamV3aXNoI2hvbGlkYXlAdg",
+   "created": "2022-10-04T13:35:07.000Z",
+   "updated": "2022-10-04T13:35:07.963Z",
+   "summary": "Election Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.jewish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Israel",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_f7orivpsm3qnnu0jrg3oqke19k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

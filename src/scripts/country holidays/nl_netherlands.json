@@ -1,0 +1,1741 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33ffbvc8rqlo00o\"",
+ "summary": "Holidays in Netherlands",
+ "description": "Holidays and Observances in Netherlands",
+ "updated": "2023-07-25T04:33:38.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDZ7-CDqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941906498000\"",
+   "id": "20220417_au34utul7h8b6hbacekjtq12o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfYXUzNHV0dWw3aDhiNmhiYWNla2p0cTEybzQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:33.000Z",
+   "updated": "2021-08-26T09:42:33.249Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_au34utul7h8b6hbacekjtq12o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941906498000\"",
+   "id": "20220418_43odcoapenll1bn7ln9civcrvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfNDNvZGNvYXBlbmxsMWJuN2xuOWNpdmNydnMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:33.000Z",
+   "updated": "2021-08-26T09:42:33.249Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_43odcoapenll1bn7ln9civcrvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941906498000\"",
+   "id": "20220606_6v3a69dl6lkepn5gonkm1ma5f0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfNnYzYTY5ZGw2bGtlcG41Z29ua20xbWE1ZjAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:33.000Z",
+   "updated": "2021-08-26T09:42:33.249Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_6v3a69dl6lkepn5gonkm1ma5f0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941909592000\"",
+   "id": "20220101_vrdl2ajpteh19o5tgdt8gsu83c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfdnJkbDJhanB0ZWgxOW81dGdkdDhnc3U4M2MgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:34.000Z",
+   "updated": "2021-08-26T09:42:34.796Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_vrdl2ajpteh19o5tgdt8gsu83c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941909592000\"",
+   "id": "20220427_in3ob6o1g9hj8c5aipgs7pc2sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjdfaW4zb2I2bzFnOWhqOGM1YWlwZ3M3cGMyc2MgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:34.000Z",
+   "updated": "2021-08-26T09:42:34.796Z",
+   "summary": "King's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-27"
+   },
+   "end": {
+    "date": "2022-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220427_in3ob6o1g9hj8c5aipgs7pc2sc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941909592000\"",
+   "id": "20220605_lafklnp23nullsbdmiitgmatd0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfbGFma2xucDIzbnVsbHNiZG1paXRnbWF0ZDAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:34.000Z",
+   "updated": "2021-08-26T09:42:34.796Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_lafklnp23nullsbdmiitgmatd0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941909592000\"",
+   "id": "20220701_ej1837al9rpksjds2uq8lq66io",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDFfZWoxODM3YWw5cnBrc2pkczJ1cThscTY2aW8gZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:34.000Z",
+   "updated": "2021-08-26T09:42:34.796Z",
+   "summary": "Keti Koti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-01"
+   },
+   "end": {
+    "date": "2022-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220701_ej1837al9rpksjds2uq8lq66io@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941912824000\"",
+   "id": "20220214_2ot2bsv8t3cqqegbfs6kuu9csk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfMm90MmJzdjh0M2NxcWVnYmZzNmt1dTljc2sgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:36.000Z",
+   "updated": "2021-08-26T09:42:36.412Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_2ot2bsv8t3cqqegbfs6kuu9csk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941912824000\"",
+   "id": "20220415_2h5kk40q9a7olm7j3h1uimu7ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfMmg1a2s0MHE5YTdvbG03ajNoMXVpbXU3b2sgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:36.000Z",
+   "updated": "2021-08-26T09:42:36.412Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_2h5kk40q9a7olm7j3h1uimu7ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941912824000\"",
+   "id": "20220505_9bg72fnu11on1fpkudaatr3gbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfOWJnNzJmbnUxMW9uMWZwa3VkYWF0cjNnYnMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:36.000Z",
+   "updated": "2021-08-26T09:42:36.412Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_9bg72fnu11on1fpkudaatr3gbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941912824000\"",
+   "id": "20220526_6971d153b880f3g8s3ipo548t0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfNjk3MWQxNTNiODgwZjNnOHMzaXBvNTQ4dDAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2021-08-26T09:42:36.000Z",
+   "updated": "2021-08-26T09:42:36.412Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_6971d153b880f3g8s3ipo548t0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297503494698000\"",
+   "id": "20220508_bf1h4tv6akniol5if1qjofud60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfYmYxaDR0djZha25pb2w1aWYxcWpvZnVkNjAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-03-31T18:35:47.000Z",
+   "updated": "2022-03-31T18:35:47.349Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_bf1h4tv6akniol5if1qjofud60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297503494698000\"",
+   "id": "20220619_feommve53p6jl8nkc3n9fjvbi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfZmVvbW12ZTUzcDZqbDhua2MzbjlmanZiaTAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-03-31T18:35:47.000Z",
+   "updated": "2022-03-31T18:35:47.349Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_feommve53p6jl8nkc3n9fjvbi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20221205_idn4rnkcgdbtm29bp69djuqir4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDVfaWRuNHJua2NnZGJ0bTI5YnA2OWRqdXFpcjQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "St Nicholas' Eve/Sinterklaas",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-05"
+   },
+   "end": {
+    "date": "2022-12-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221205_idn4rnkcgdbtm29bp69djuqir4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20221224_hcs2bv3268pjjcsn68a6mmo54c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfaGNzMmJ2MzI2OHBqamNzbjY4YTZtbW81NGMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_hcs2bv3268pjjcsn68a6mmo54c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20221225_95eog6qigb8n9kjdasvn521qes",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfOTVlb2c2cWlnYjhuOWtqZGFzdm41MjFxZXMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_95eog6qigb8n9kjdasvn521qes@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20221226_3dmotseem1dm9sbqk2bof4v6hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfM2Rtb3RzZWVtMWRtOXNicWsyYm9mNHY2aHMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Second Day of Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_3dmotseem1dm9sbqk2bof4v6hs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20221231_36grh7keh91a08iebinefk48k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfMzZncmg3a2VoOTFhMDhpZWJpbmVmazQ4azggZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_36grh7keh91a08iebinefk48k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230101_doq9t09idbdik58mls926dahi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfZG9xOXQwOWlkYmRpazU4bWxzOTI2ZGFoaTAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_doq9t09idbdik58mls926dahi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230214_106d60dpej8g858etqa36h50ms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfMTA2ZDYwZHBlajhnODU4ZXRxYTM2aDUwbXMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_106d60dpej8g858etqa36h50ms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230407_je13ojf83a1ir3sursthpaqbq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfamUxM29qZjgzYTFpcjNzdXJzdGhwYXFicTAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_je13ojf83a1ir3sursthpaqbq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230409_a25bgaai38n34arqn2eln25g58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfYTI1YmdhYWkzOG4zNGFycW4yZWxuMjVnNTggZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_a25bgaai38n34arqn2eln25g58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230410_nk5blouj6ilc8lc2qbirkronlc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbms1YmxvdWo2aWxjOGxjMnFiaXJrcm9ubGMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_nk5blouj6ilc8lc2qbirkronlc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230427_s0rr9nr49bcaf42q5af2gobpgk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjdfczBycjlucjQ5YmNhZjQycTVhZjJnb2JwZ2sgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "King's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-27"
+   },
+   "end": {
+    "date": "2023-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230427_s0rr9nr49bcaf42q5af2gobpgk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230505_auf1obprin5oadvlcq7kmbeecc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDVfYXVmMW9icHJpbjVvYWR2bGNxN2ttYmVlY2MgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-05"
+   },
+   "end": {
+    "date": "2023-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230505_auf1obprin5oadvlcq7kmbeecc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230514_9q8js4snr6eknt72fcsdfkr08c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfOXE4anM0c25yNmVrbnQ3MmZjc2Rma3IwOGMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_9q8js4snr6eknt72fcsdfkr08c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230518_m43u81dvgn787tkljmfbsrkkf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfbTQzdTgxZHZnbjc4N3RrbGptZmJzcmtrZjggZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_m43u81dvgn787tkljmfbsrkkf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230528_k3ec0h5878rq96epvtlv053ick",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfazNlYzBoNTg3OHJxOTZlcHZ0bHYwNTNpY2sgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_k3ec0h5878rq96epvtlv053ick@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230529_30mg5486cp7lef8h2cii8uf780",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjlfMzBtZzU0ODZjcDdsZWY4aDJjaWk4dWY3ODAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_30mg5486cp7lef8h2cii8uf780@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230618_dk26dfkqhfpgof9ijajlg00ots",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfZGsyNmRma3FoZnBnb2Y5aWphamxnMDBvdHMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_dk26dfkqhfpgof9ijajlg00ots@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20230701_j9lc8efqq2t1kbo8qaiqkdrids",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfajlsYzhlZnFxMnQxa2JvOHFhaXFrZHJpZHMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Keti Koti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_j9lc8efqq2t1kbo8qaiqkdrids@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20231205_2ji6kpnlbcrjrnjf1hup3id1sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDVfMmppNmtwbmxiY3Jqcm5qZjFodXAzaWQxc2MgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "St Nicholas' Eve/Sinterklaas",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-05"
+   },
+   "end": {
+    "date": "2023-12-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231205_2ji6kpnlbcrjrnjf1hup3id1sc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20231224_3mujhklfvupinp0ft9anmbtrm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfM211amhrbGZ2dXBpbnAwZnQ5YW5tYnRybTQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_3mujhklfvupinp0ft9anmbtrm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20231225_9rjknu041j3hemt850fhci1c2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfOXJqa251MDQxajNoZW10ODUwZmhjaTFjMm8gZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_9rjknu041j3hemt850fhci1c2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20231226_keh639llafrca2frpku3uo4vn0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfa2VoNjM5bGxhZnJjYTJmcnBrdTN1bzR2bjAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Second Day of Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_keh639llafrca2frpku3uo4vn0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20231231_t85qv3t0og5oj2gtknri1p1dvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfdDg1cXYzdDBvZzVvajJndGtucmkxcDFkdmMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_t85qv3t0og5oj2gtknri1p1dvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240101_m2b8nsrch1trieirhhhpf0olm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbTJiOG5zcmNoMXRyaWVpcmhoaHBmMG9sbTQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_m2b8nsrch1trieirhhhpf0olm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240214_9mk9vhsqno7alseb6tobfnfas4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfOW1rOXZoc3FubzdhbHNlYjZ0b2JmbmZhczQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_9mk9vhsqno7alseb6tobfnfas4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240329_vk7mbgsc827ljc0bg6f9nj8s68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfdms3bWJnc2M4MjdsamMwYmc2ZjluajhzNjggZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_vk7mbgsc827ljc0bg6f9nj8s68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240331_n10jf2og3prs6o19k22v0pe74c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfbjEwamYyb2czcHJzNm8xOWsyMnYwcGU3NGMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_n10jf2og3prs6o19k22v0pe74c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240401_h11jd6dq5jn6787fk2qk1jfvls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfaDExamQ2ZHE1am42Nzg3ZmsycWsxamZ2bHMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_h11jd6dq5jn6787fk2qk1jfvls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240427_g6jeehoa8bnen5kg1c74im9dpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjdfZzZqZWVob2E4Ym5lbjVrZzFjNzRpbTlkcGMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "King's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-27"
+   },
+   "end": {
+    "date": "2024-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240427_g6jeehoa8bnen5kg1c74im9dpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240505_92ecsfuojk56livdm41skp644k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfOTJlY3NmdW9qazU2bGl2ZG00MXNrcDY0NGsgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_92ecsfuojk56livdm41skp644k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240509_rb0sukea5248f9obl25u595178",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfcmIwc3VrZWE1MjQ4ZjlvYmwyNXU1OTUxNzggZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Ascension Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_rb0sukea5248f9obl25u595178@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240512_bklvgupn9ep4sg8l9pv9aqqco4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfYmtsdmd1cG45ZXA0c2c4bDlwdjlhcXFjbzQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_bklvgupn9ep4sg8l9pv9aqqco4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240519_etj4fhbbu72tmlvpfv3pq6fo5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfZXRqNGZoYmJ1NzJ0bWx2cGZ2M3BxNmZvNWsgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_etj4fhbbu72tmlvpfv3pq6fo5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240520_g3e8amhg6hc2ig3mq7a5cnig38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfZzNlOGFtaGc2aGMyaWczbXE3YTVjbmlnMzggZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Whit Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_g3e8amhg6hc2ig3mq7a5cnig38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240616_tn3pf2oj81ecnraa95kf40hnq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfdG4zcGYyb2o4MWVjbnJhYTk1a2Y0MGhucTQgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_tn3pf2oj81ecnraa95kf40hnq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20240701_25f8sq67kch6n5jvlh1hvjqh3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDFfMjVmOHNxNjdrY2g2bjVqdmxoMWh2anFoM28gZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Keti Koti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-01"
+   },
+   "end": {
+    "date": "2024-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240701_25f8sq67kch6n5jvlh1hvjqh3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20241205_i0cjtcaidcmv0icrotmcakd0po",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDVfaTBjanRjYWlkY212MGljcm90bWNha2QwcG8gZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "St Nicholas' Eve/Sinterklaas",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-05"
+   },
+   "end": {
+    "date": "2024-12-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241205_i0cjtcaidcmv0icrotmcakd0po@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20241224_gethljp17o3tbalg280b3ad12s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfZ2V0aGxqcDE3bzN0YmFsZzI4MGIzYWQxMnMgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_gethljp17o3tbalg280b3ad12s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20241225_kibg0cap2pnqlt5p0n7dhrgi80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfa2liZzBjYXAycG5xbHQ1cDBuN2RocmdpODAgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_kibg0cap2pnqlt5p0n7dhrgi80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20241226_74sji773tl7ba9foi14e6ppvuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfNzRzamk3NzN0bDdiYTlmb2kxNGU2cHB2dWsgZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "Second Day of Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_74sji773tl7ba9foi14e6ppvuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901797306000\"",
+   "id": "20241231_n9qipk5n54kdipmqhkjcrjoqvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfbjlxaXBrNW41NGtkaXBtcWhramNyam9xdm8gZW4uZHV0Y2gjaG9saWRheUB2",
+   "created": "2022-09-23T16:34:58.000Z",
+   "updated": "2022-09-23T16:34:58.653Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Netherlands",
+   "creator": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dutch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Netherlands",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_n9qipk5n54kdipmqhkjcrjoqvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

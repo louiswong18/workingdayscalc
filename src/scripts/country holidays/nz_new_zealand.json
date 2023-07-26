@@ -1,0 +1,3405 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p337cnrvvrmlo00o\"",
+ "summary": "Holidays in New Zealand",
+ "description": "Holidays and Observances in New Zealand",
+ "updated": "2023-07-25T03:14:12.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICSooDyqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935444936000\"",
+   "id": "20220131_hl6fchru439t8m0cb53ronqjkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfaGw2ZmNocnU0Mzl0OG0wY2I1M3JvbnFqa2sgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:42.000Z",
+   "updated": "2021-08-26T08:48:42.468Z",
+   "summary": "Northland Anniversary Day (Northland)",
+   "description": "Public holiday in Northland",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_hl6fchru439t8m0cb53ronqjkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935444936000\"",
+   "id": "20220214_u24gcdig5f2uroe7rllt82usms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfdTI0Z2NkaWc1ZjJ1cm9lN3JsbHQ4MnVzbXMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:42.000Z",
+   "updated": "2021-08-26T08:48:42.468Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_u24gcdig5f2uroe7rllt82usms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935447970000\"",
+   "id": "20220418_d49r1mme40qau1s6s80bss3980",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfZDQ5cjFtbWU0MHFhdTFzNnM4MGJzczM5ODAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:43.000Z",
+   "updated": "2021-08-26T08:48:43.985Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_d49r1mme40qau1s6s80bss3980@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935447970000\"",
+   "id": "20220624_t0dhihhhroa5ccmv4bmsdfienc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjRfdDBkaGloaGhyb2E1Y2NtdjRibXNkZmllbmMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:43.000Z",
+   "updated": "2021-08-26T08:48:43.985Z",
+   "summary": "Matariki",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-24"
+   },
+   "end": {
+    "date": "2022-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220624_t0dhihhhroa5ccmv4bmsdfienc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935451682000\"",
+   "id": "20220102_3tmmeoji8npn2gghglbg0vckc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfM3RtbWVvamk4bnBuMmdnaGdsYmcwdmNrYzQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:45.000Z",
+   "updated": "2021-08-26T08:48:45.841Z",
+   "summary": "Day after New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_3tmmeoji8npn2gghglbg0vckc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935451682000\"",
+   "id": "20220131_6kdf2l10mb8luqbrohsvflocmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfNmtkZjJsMTBtYjhsdXFicm9oc3ZmbG9jbW8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:45.000Z",
+   "updated": "2021-08-26T08:48:45.841Z",
+   "summary": "Nelson Anniversary Day (regional holiday)",
+   "description": "Public holiday in Nelson, Tasman, West Coast, Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_6kdf2l10mb8luqbrohsvflocmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935451682000\"",
+   "id": "20220508_cgsu0skah56lf11g251gcqcmns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfY2dzdTBza2FoNTZsZjExZzI1MWdjcWNtbnMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:45.000Z",
+   "updated": "2021-08-26T08:48:45.841Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_cgsu0skah56lf11g251gcqcmns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935454862000\"",
+   "id": "20220124_qpt2rgmembq26vfugpkesubi48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjRfcXB0MnJnbWVtYnEyNnZmdWdwa2VzdWJpNDggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:47.000Z",
+   "updated": "2021-08-26T08:48:47.431Z",
+   "summary": "Wellington Anniversary Day (regional holiday)",
+   "description": "Public holiday in Wellington, Manawatu-Whanganui",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-24"
+   },
+   "end": {
+    "date": "2022-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220124_qpt2rgmembq26vfugpkesubi48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935454862000\"",
+   "id": "20220131_4gngscp5ml4th5mbgd2l7tknro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfNGduZ3NjcDVtbDR0aDVtYmdkMmw3dGtucm8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:47.000Z",
+   "updated": "2021-08-26T08:48:47.431Z",
+   "summary": "Auckland Anniversary Day (regional holiday)",
+   "description": "Public holiday in Auckland, Waikato, Bay of Plenty, Gisborne, Manawatu-Whanganui, Hawke's Bay",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_4gngscp5ml4th5mbgd2l7tknro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935454862000\"",
+   "id": "20220207_pgq3qaail9umpg3uh838p8eedk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDdfcGdxM3FhYWlsOXVtcGczdWg4MzhwOGVlZGsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:47.000Z",
+   "updated": "2021-08-26T08:48:47.431Z",
+   "summary": "Day off for Waitangi Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-07"
+   },
+   "end": {
+    "date": "2022-02-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220207_pgq3qaail9umpg3uh838p8eedk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935454862000\"",
+   "id": "20220417_e06dmphee55o1ca2rjheed7d9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfZTA2ZG1waGVlNTVvMWNhMnJqaGVlZDdkOWsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:47.000Z",
+   "updated": "2021-08-26T08:48:47.431Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_e06dmphee55o1ca2rjheed7d9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935458614000\"",
+   "id": "20220401_7i8q48142lv5h3pj98mmr37j1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDFfN2k4cTQ4MTQybHY1aDNwajk4bW1yMzdqMW8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:49.000Z",
+   "updated": "2021-08-26T08:48:49.307Z",
+   "summary": "April Fools",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-01"
+   },
+   "end": {
+    "date": "2022-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220401_7i8q48142lv5h3pj98mmr37j1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935458614000\"",
+   "id": "20220415_h4qhdurkaelqftef96gso0vnik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfaDRxaGR1cmthZWxxZnRlZjk2Z3NvMHZuaWsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:49.000Z",
+   "updated": "2021-08-26T08:48:49.307Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_h4qhdurkaelqftef96gso0vnik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935461316000\"",
+   "id": "20220101_slletj3of9fcio9p0l201jl9gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfc2xsZXRqM29mOWZjaW85cDBsMjAxamw5Z2sgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:50.000Z",
+   "updated": "2021-08-26T08:48:50.658Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_slletj3of9fcio9p0l201jl9gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935461316000\"",
+   "id": "20220103_qsgjqg8o7cknh3dp68b5eaqioo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfcXNnanFnOG83Y2tuaDNkcDY4YjVlYXFpb28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:50.000Z",
+   "updated": "2021-08-26T08:48:50.658Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_qsgjqg8o7cknh3dp68b5eaqioo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935461316000\"",
+   "id": "20220206_lsq29q8j2bs5bd4rh2lujdknko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDZfbHNxMjlxOGoyYnM1YmQ0cmgybHVqZGtua28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:50.000Z",
+   "updated": "2021-08-26T08:48:50.658Z",
+   "summary": "Waitangi Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-06"
+   },
+   "end": {
+    "date": "2022-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220206_lsq29q8j2bs5bd4rh2lujdknko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935461316000\"",
+   "id": "20220314_b48b15jtdftmrct787vcktdkl8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfYjQ4YjE1anRkZnRtcmN0Nzg3dmNrdGRrbDggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:50.000Z",
+   "updated": "2021-08-26T08:48:50.658Z",
+   "summary": "Taranaki Anniversary Day (Taranaki)",
+   "description": "Public holiday in Taranaki",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_b48b15jtdftmrct787vcktdkl8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935461316000\"",
+   "id": "20220416_t86iquol9ku83n13jkloaucrj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfdDg2aXF1b2w5a3U4M24xM2prbG9hdWNyajQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:50.000Z",
+   "updated": "2021-08-26T08:48:50.658Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_t86iquol9ku83n13jkloaucrj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935461316000\"",
+   "id": "20220425_doa3kadond1krhvof5it4okv9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfZG9hM2thZG9uZDFrcmh2b2Y1aXQ0b2t2OXMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:50.000Z",
+   "updated": "2021-08-26T08:48:50.658Z",
+   "summary": "ANZAC Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_doa3kadond1krhvof5it4okv9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935465020000\"",
+   "id": "20220104_t01tqsla26lp5dk079rnnec9qo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDRfdDAxdHFzbGEyNmxwNWRrMDc5cm5uZWM5cW8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:52.000Z",
+   "updated": "2021-08-26T08:48:52.510Z",
+   "summary": "Day off for Day after New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-04"
+   },
+   "end": {
+    "date": "2022-01-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220104_t01tqsla26lp5dk079rnnec9qo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935465020000\"",
+   "id": "20220321_mupphk0svj82gt0642prcg8l4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjFfbXVwcGhrMHN2ajgyZ3QwNjQycHJjZzhsNHMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:52.000Z",
+   "updated": "2021-08-26T08:48:52.510Z",
+   "summary": "Otago Anniversary Day (Otago)",
+   "description": "Public holiday in Otago",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-21"
+   },
+   "end": {
+    "date": "2022-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220321_mupphk0svj82gt0642prcg8l4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935465020000\"",
+   "id": "20220419_cuks3pqqkr7t16a9etr62u6vrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTlfY3VrczNwcXFrcjd0MTZhOWV0cjYydTZ2cmsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:52.000Z",
+   "updated": "2021-08-26T08:48:52.510Z",
+   "summary": "Southland Anniversary Day (Southland)",
+   "description": "Public holiday in Southland",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-19"
+   },
+   "end": {
+    "date": "2022-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220419_cuks3pqqkr7t16a9etr62u6vrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259935468098000\"",
+   "id": "20220904_c20bqba5rou9eq5nij2155nfi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDRfYzIwYnFiYTVyb3U5ZXE1bmlqMjE1NW5maTAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2021-08-26T08:48:54.000Z",
+   "updated": "2021-08-26T08:48:54.049Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-04"
+   },
+   "end": {
+    "date": "2022-09-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220904_c20bqba5rou9eq5nij2155nfi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326287958646000\"",
+   "id": "20220606_ldp5edhbrra21f4h7l2qdod5rg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfbGRwNWVkaGJycmEyMWY0aDdsMnFkb2Q1cmcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-14T08:26:19.000Z",
+   "updated": "2022-09-14T08:26:19.323Z",
+   "summary": "Queen Elizabeth II's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_ldp5edhbrra21f4h7l2qdod5rg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20220926_8nd0u3ofgl98f5qduslttpqhso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjZfOG5kMHUzb2ZnbDk4ZjVxZHVzbHR0cHFoc28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Queen Elizabeth II Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-26"
+   },
+   "end": {
+    "date": "2022-09-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220926_8nd0u3ofgl98f5qduslttpqhso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20220926_g25s90qlcug2bkg3loe5q9sjig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjZfZzI1czkwcWxjdWcyYmtnM2xvZTVxOXNqaWcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "South Canterbury Anniversary Day (Canterbury)",
+   "description": "Public holiday in Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-26"
+   },
+   "end": {
+    "date": "2022-09-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220926_g25s90qlcug2bkg3loe5q9sjig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221021_8r1rlqgoj3elmd3e1rt87fub0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjFfOHIxcmxxZ29qM2VsbWQzZTFydDg3ZnViMGsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Hawke's Bay Anniversary Day (Hawke's Bay)",
+   "description": "Public holiday in Hawke's Bay",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-21"
+   },
+   "end": {
+    "date": "2022-10-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221021_8r1rlqgoj3elmd3e1rt87fub0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221024_4cr9ii5h6mu3kqtruvbrsi549c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfNGNyOWlpNWg2bXUza3F0cnV2YnJzaTU0OWMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_4cr9ii5h6mu3kqtruvbrsi549c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221031_06p9qp65lt161vnq3cvj6drr3s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfMDZwOXFwNjVsdDE2MXZucTNjdmo2ZHJyM3MgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Marlborough Anniversary Day (Marlborough)",
+   "description": "Public holiday in Marlborough",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_06p9qp65lt161vnq3cvj6drr3s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221105_up01mv38os24phdbcq9l01i8pg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDVfdXAwMW12MzhvczI0cGhkYmNxOWwwMWk4cGcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Guy Fawkes Night",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-05"
+   },
+   "end": {
+    "date": "2022-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221105_up01mv38os24phdbcq9l01i8pg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221111_cc8e0je63jkrrtpb6f3kailomc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfY2M4ZTBqZTYzamtycnRwYjZmM2thaWxvbWMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Canterbury Anniversary Day (Canterbury)",
+   "description": "Public holiday in Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_cc8e0je63jkrrtpb6f3kailomc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221128_504b02305ml2t2tf0gsg6592tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjhfNTA0YjAyMzA1bWwydDJ0ZjBnc2c2NTkydGMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Chatham Islands Anniversary Day (Chatham Islands)",
+   "description": "Public holiday in Chatham Islands",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-28"
+   },
+   "end": {
+    "date": "2022-11-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221128_504b02305ml2t2tf0gsg6592tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221128_l7aumt813vmqgue9kp390dupis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjhfbDdhdW10ODEzdm1xZ3VlOWtwMzkwZHVwaXMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Westland Anniversary Day (West Coast)",
+   "description": "Public holiday in West Coast",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-28"
+   },
+   "end": {
+    "date": "2022-11-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221128_l7aumt813vmqgue9kp390dupis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221224_eja60n3d35vqcfv6pod7ij0s8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfZWphNjBuM2QzNXZxY2Z2NnBvZDdpajBzOGMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_eja60n3d35vqcfv6pod7ij0s8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221225_14qkg8ik71584o2k9g61qp8pgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfMTRxa2c4aWs3MTU4NG8yazlnNjFxcDhwZ3MgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_14qkg8ik71584o2k9g61qp8pgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221226_ojn7f3ct9hi5830n56s99j651g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfb2puN2YzY3Q5aGk1ODMwbjU2czk5ajY1MWcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_ojn7f3ct9hi5830n56s99j651g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221227_t6cgh82c0lhve96obh9j5t0rq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfdDZjZ2g4MmMwbGh2ZTk2b2JoOWo1dDBycTggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Day off for Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_t6cgh82c0lhve96obh9j5t0rq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20221231_0iecog3h9o41orsfp6qm656974",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfMGllY29nM2g5bzQxb3JzZnA2cW02NTY5NzQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_0iecog3h9o41orsfp6qm656974@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230101_8lshe3l0tiep1oqar9oo1vthfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfOGxzaGUzbDB0aWVwMW9xYXI5b28xdnRoZmsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_8lshe3l0tiep1oqar9oo1vthfk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230102_mut4laj6rivvo0vcbni4l5236g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfbXV0NGxhajZyaXZ2bzB2Y2JuaTRsNTIzNmcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Day after New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_mut4laj6rivvo0vcbni4l5236g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230103_e4l8rbg8rgdrstjuhrphbbbu6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDNfZTRsOHJiZzhyZ2Ryc3RqdWhycGhiYmJ1Nm8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-03"
+   },
+   "end": {
+    "date": "2023-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230103_e4l8rbg8rgdrstjuhrphbbbu6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230123_f86dd8oree0qebfo1jm2ghpemk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfZjg2ZGQ4b3JlZTBxZWJmbzFqbTJnaHBlbWsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Wellington Anniversary Day (regional holiday)",
+   "description": "Public holiday in Wellington, Manawatu-Whanganui",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_f86dd8oree0qebfo1jm2ghpemk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230130_hd1l9aeugp0e95a4t73bte84fk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMzBfaGQxbDlhZXVncDBlOTVhNHQ3M2J0ZTg0ZmsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Auckland Anniversary Day (regional holiday)",
+   "description": "Public holiday in Auckland, Waikato, Bay of Plenty, Gisborne, Manawatu-Whanganui, Hawke's Bay",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-30"
+   },
+   "end": {
+    "date": "2023-01-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230130_hd1l9aeugp0e95a4t73bte84fk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230130_nj6flbriuk7ui6lllvd502n760",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMzBfbmo2Zmxicml1azd1aTZsbGx2ZDUwMm43NjAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Northland Anniversary Day (Northland)",
+   "description": "Public holiday in Northland",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-30"
+   },
+   "end": {
+    "date": "2023-01-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230130_nj6flbriuk7ui6lllvd502n760@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230130_q2nlhing68dnjtunq3uaa1isco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMzBfcTJubGhpbmc2OGRuanR1bnEzdWFhMWlzY28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Nelson Anniversary Day (regional holiday)",
+   "description": "Public holiday in Nelson, Tasman, West Coast, Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-30"
+   },
+   "end": {
+    "date": "2023-01-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230130_q2nlhing68dnjtunq3uaa1isco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230206_gs3e5e1rf77kjcdoo582od5b38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDZfZ3MzZTVlMXJmNzdramNkb281ODJvZDViMzggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Waitangi Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-06"
+   },
+   "end": {
+    "date": "2023-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230206_gs3e5e1rf77kjcdoo582od5b38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230214_uq9dvd215iudc0o8e6ts6jtns0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfdXE5ZHZkMjE1aXVkYzBvOGU2dHM2anRuczAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_uq9dvd215iudc0o8e6ts6jtns0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230313_ai629fsj70lkredmuinamgtpvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTNfYWk2Mjlmc2o3MGxrcmVkbXVpbmFtZ3RwdmMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Taranaki Anniversary Day (Taranaki)",
+   "description": "Public holiday in Taranaki",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-13"
+   },
+   "end": {
+    "date": "2023-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230313_ai629fsj70lkredmuinamgtpvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230320_71t0s3oh5f051kn9t52imtpig8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjBfNzF0MHMzb2g1ZjA1MWtuOXQ1MmltdHBpZzggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Otago Anniversary Day (Otago)",
+   "description": "Public holiday in Otago",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-20"
+   },
+   "end": {
+    "date": "2023-03-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230320_71t0s3oh5f051kn9t52imtpig8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230401_4ajfiiqpbhb6aqjstvf6mselso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDFfNGFqZmlpcXBiaGI2YXFqc3R2ZjZtc2Vsc28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "April Fools",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-01"
+   },
+   "end": {
+    "date": "2023-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230401_4ajfiiqpbhb6aqjstvf6mselso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230407_6p66svob2ajtjepdf67g6ji23s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfNnA2NnN2b2IyYWp0amVwZGY2N2c2amkyM3MgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_6p66svob2ajtjepdf67g6ji23s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230408_g6skh55m8mten8ehret3cdqm8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfZzZza2g1NW04bXRlbjhlaHJldDNjZHFtOG8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_g6skh55m8mten8ehret3cdqm8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230409_cin4uccq565i35tio3f5hkokvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfY2luNHVjY3E1NjVpMzV0aW8zZjVoa29rdmcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_cin4uccq565i35tio3f5hkokvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230410_4tsbad6ld3uu0sgh7vtjm2cqb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfNHRzYmFkNmxkM3V1MHNnaDd2dGptMmNxYjggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_4tsbad6ld3uu0sgh7vtjm2cqb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230411_rcnt5cuih3sd80nu81bdq7biuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTFfcmNudDVjdWloM3NkODBudTgxYmRxN2JpdWsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Southland Anniversary Day (Southland)",
+   "description": "Public holiday in Southland",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-11"
+   },
+   "end": {
+    "date": "2023-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230411_rcnt5cuih3sd80nu81bdq7biuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230425_7q16o8ars2v95dulnqp6jfg9o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfN3ExNm84YXJzMnY5NWR1bG5xcDZqZmc5bzggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "ANZAC Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_7q16o8ars2v95dulnqp6jfg9o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230514_5ppoj8adcg2ambjbhhfgea3kdk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfNXBwb2o4YWRjZzJhbWJqYmhoZmdlYTNrZGsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_5ppoj8adcg2ambjbhhfgea3kdk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230605_2t6ernuso85vc5ttic8vla4dvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDVfMnQ2ZXJudXNvODV2YzV0dGljOHZsYTRkdmcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "King's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-05"
+   },
+   "end": {
+    "date": "2023-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230605_2t6ernuso85vc5ttic8vla4dvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230714_0dv0vu07pgrio2q60egb3mv2rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTRfMGR2MHZ1MDdwZ3JpbzJxNjBlZ2IzbXYycnMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Matariki",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-14"
+   },
+   "end": {
+    "date": "2023-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230714_0dv0vu07pgrio2q60egb3mv2rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230903_ouf4i70otestoife2du86dpq84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDNfb3VmNGk3MG90ZXN0b2lmZTJkdTg2ZHBxODQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-03"
+   },
+   "end": {
+    "date": "2023-09-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230903_ouf4i70otestoife2du86dpq84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20230925_ma70dtqttfi72lrbphevrmq64k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjVfbWE3MGR0cXR0Zmk3MmxyYnBoZXZybXE2NGsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "South Canterbury Anniversary Day (Canterbury)",
+   "description": "Public holiday in Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-25"
+   },
+   "end": {
+    "date": "2023-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230925_ma70dtqttfi72lrbphevrmq64k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231020_fm05fcu7on3tm1b1schsacqqoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjBfZm0wNWZjdTdvbjN0bTFiMXNjaHNhY3Fxb28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Hawke's Bay Anniversary Day (Hawke's Bay)",
+   "description": "Public holiday in Hawke's Bay",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-20"
+   },
+   "end": {
+    "date": "2023-10-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231020_fm05fcu7on3tm1b1schsacqqoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231023_fie5sng5k6e4gofl87v6jr1dtg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfZmllNXNuZzVrNmU0Z29mbDg3djZqcjFkdGcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_fie5sng5k6e4gofl87v6jr1dtg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231030_fuiiicg5m7s0a7js34qgba52q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzBfZnVpaWljZzVtN3MwYTdqczM0cWdiYTUycTggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Marlborough Anniversary Day (Marlborough)",
+   "description": "Public holiday in Marlborough",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-30"
+   },
+   "end": {
+    "date": "2023-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231030_fuiiicg5m7s0a7js34qgba52q8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231105_rv0cus6tq8olp7la3pprnqjtus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDVfcnYwY3VzNnRxOG9scDdsYTNwcHJucWp0dXMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Guy Fawkes Night",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-05"
+   },
+   "end": {
+    "date": "2023-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231105_rv0cus6tq8olp7la3pprnqjtus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231117_paagb8oklo99na7qp7mat4g770",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTdfcGFhZ2I4b2tsbzk5bmE3cXA3bWF0NGc3NzAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Canterbury Anniversary Day (Canterbury)",
+   "description": "Public holiday in Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-17"
+   },
+   "end": {
+    "date": "2023-11-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231117_paagb8oklo99na7qp7mat4g770@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231127_aut9nq4naju3boq1l35c8qa35s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjdfYXV0OW5xNG5hanUzYm9xMWwzNWM4cWEzNXMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Chatham Islands Anniversary Day (Chatham Islands)",
+   "description": "Public holiday in Chatham Islands",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-27"
+   },
+   "end": {
+    "date": "2023-11-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231127_aut9nq4naju3boq1l35c8qa35s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231204_qdfeoh201re52t5624tsl9a3ao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDRfcWRmZW9oMjAxcmU1MnQ1NjI0dHNsOWEzYW8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Westland Anniversary Day (West Coast)",
+   "description": "Public holiday in West Coast",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-04"
+   },
+   "end": {
+    "date": "2023-12-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231204_qdfeoh201re52t5624tsl9a3ao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231224_6gvr6idpj809cqmp1v15b4o1tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfNmd2cjZpZHBqODA5Y3FtcDF2MTViNG8xdGMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_6gvr6idpj809cqmp1v15b4o1tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231225_u612li856orons6nbl5fnq4q30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdTYxMmxpODU2b3JvbnM2bmJsNWZucTRxMzAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_u612li856orons6nbl5fnq4q30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231226_e9n3roagrr7no9ojn3rm3o6uk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfZTluM3JvYWdycjdubzlvam4zcm0zbzZ1azggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_e9n3roagrr7no9ojn3rm3o6uk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20231231_ejsdtcju4m3je7e3023nubj9u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfZWpzZHRjanU0bTNqZTdlMzAyM251Ymo5dTggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_ejsdtcju4m3je7e3023nubj9u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240101_gvdv6fbpoprbcjnh5bsbsojpjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZ3ZkdjZmYnBvcHJiY2puaDVic2Jzb2pwamMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_gvdv6fbpoprbcjnh5bsbsojpjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240102_0pgkmgk4f4flgvqfbqgdmavmlk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfMHBna21nazRmNGZsZ3ZxZmJxZ2RtYXZtbGsgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Day after New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_0pgkmgk4f4flgvqfbqgdmavmlk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240122_1tni2bel4bmsh5f1e4oai6r6o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjJfMXRuaTJiZWw0Ym1zaDVmMWU0b2FpNnI2bzggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Wellington Anniversary Day (regional holiday)",
+   "description": "Public holiday in Wellington, Manawatu-Whanganui",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-22"
+   },
+   "end": {
+    "date": "2024-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240122_1tni2bel4bmsh5f1e4oai6r6o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240129_4eva8ecm4lqpj90rhsos1ausvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjlfNGV2YThlY200bHFwajkwcmhzb3MxYXVzdmMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Northland Anniversary Day (Northland)",
+   "description": "Public holiday in Northland",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-29"
+   },
+   "end": {
+    "date": "2024-01-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240129_4eva8ecm4lqpj90rhsos1ausvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240129_cj55td6qb10h9s0l3k8o09oia0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjlfY2o1NXRkNnFiMTBoOXMwbDNrOG8wOW9pYTAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Auckland Anniversary Day (regional holiday)",
+   "description": "Public holiday in Auckland, Waikato, Bay of Plenty, Gisborne, Manawatu-Whanganui, Hawke's Bay",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-29"
+   },
+   "end": {
+    "date": "2024-01-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240129_cj55td6qb10h9s0l3k8o09oia0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240129_dlp9lmepm0abc22vpubpu33734",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjlfZGxwOWxtZXBtMGFiYzIydnB1YnB1MzM3MzQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Nelson Anniversary Day (regional holiday)",
+   "description": "Public holiday in Nelson, Tasman, West Coast, Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-29"
+   },
+   "end": {
+    "date": "2024-01-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240129_dlp9lmepm0abc22vpubpu33734@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240206_mluurdbpvaccrdaoq7l0cuc2lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDZfbWx1dXJkYnB2YWNjcmRhb3E3bDBjdWMybG8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Waitangi Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-06"
+   },
+   "end": {
+    "date": "2024-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240206_mluurdbpvaccrdaoq7l0cuc2lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240214_87738hgarlim51rb6ag4ooav84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfODc3MzhoZ2FybGltNTFyYjZhZzRvb2F2ODQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_87738hgarlim51rb6ag4ooav84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240311_0u9bpulbsvhrcujgef5mo11j18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfMHU5YnB1bGJzdmhyY3VqZ2VmNW1vMTFqMTggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Taranaki Anniversary Day (Taranaki)",
+   "description": "Public holiday in Taranaki",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_0u9bpulbsvhrcujgef5mo11j18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240325_553k13h0vu65n1ja9c4357l9as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjVfNTUzazEzaDB2dTY1bjFqYTljNDM1N2w5YXMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Otago Anniversary Day (Otago)",
+   "description": "Public holiday in Otago",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-25"
+   },
+   "end": {
+    "date": "2024-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240325_553k13h0vu65n1ja9c4357l9as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240329_i29962jdsveopvdkolr106m4n8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfaTI5OTYyamRzdmVvcHZka29scjEwNm00bjggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_i29962jdsveopvdkolr106m4n8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240330_vlvfurnvf9ujhm58nnan5g15j0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfdmx2ZnVybnZmOXVqaG01OG5uYW41ZzE1ajAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_vlvfurnvf9ujhm58nnan5g15j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240331_hpvufod1530u0s2bhfehcj0d40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfaHB2dWZvZDE1MzB1MHMyYmhmZWhjajBkNDAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_hpvufod1530u0s2bhfehcj0d40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240401_j9oojji95j1el1ot3bel4m812o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfajlvb2pqaTk1ajFlbDFvdDNiZWw0bTgxMm8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "April Fools",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_j9oojji95j1el1ot3bel4m812o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240401_khk0o23ce3ugvhgq6848jpner8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfa2hrMG8yM2NlM3VndmhncTY4NDhqcG5lcjggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_khk0o23ce3ugvhgq6848jpner8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240402_p8inlvbggjmiuhn7hko4ivh4cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDJfcDhpbmx2Ymdnam1pdWhuN2hrbzRpdmg0Y2MgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Southland Anniversary Day (Southland)",
+   "description": "Public holiday in Southland",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-02"
+   },
+   "end": {
+    "date": "2024-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240402_p8inlvbggjmiuhn7hko4ivh4cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240425_kvid833r1ucifm3jlu0j5ftfo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjVfa3ZpZDgzM3IxdWNpZm0zamx1MGo1ZnRmbzQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "ANZAC Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-25"
+   },
+   "end": {
+    "date": "2024-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240425_kvid833r1ucifm3jlu0j5ftfo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240512_45rhmjci5ejhndggdlf4n189e4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfNDVyaG1qY2k1ZWpobmRnZ2RsZjRuMTg5ZTQgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_45rhmjci5ejhndggdlf4n189e4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240603_tht7go2s84js49kpfnjetdmo4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDNfdGh0N2dvMnM4NGpzNDlrcGZuamV0ZG1vNGMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "King's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-03"
+   },
+   "end": {
+    "date": "2024-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240603_tht7go2s84js49kpfnjetdmo4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240628_s2bfitmc8c1ua07l6fd9qor4j0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjhfczJiZml0bWM4YzF1YTA3bDZmZDlxb3I0ajAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Matariki",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-28"
+   },
+   "end": {
+    "date": "2024-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240628_s2bfitmc8c1ua07l6fd9qor4j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240901_5ol9tjrc9qee3ispiqjh1ea6t0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDFfNW9sOXRqcmM5cWVlM2lzcGlxamgxZWE2dDAgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-01"
+   },
+   "end": {
+    "date": "2024-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240901_5ol9tjrc9qee3ispiqjh1ea6t0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20240923_p1pv2a9otu8rt2d8e5vctja5t8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjNfcDFwdjJhOW90dThydDJkOGU1dmN0amE1dDggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "South Canterbury Anniversary Day (Canterbury)",
+   "description": "Public holiday in Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-23"
+   },
+   "end": {
+    "date": "2024-09-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240923_p1pv2a9otu8rt2d8e5vctja5t8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241025_nd5ltpinruk5baj4uehoua6gio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjVfbmQ1bHRwaW5ydWs1YmFqNHVlaG91YTZnaW8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Hawke's Bay Anniversary Day (Hawke's Bay)",
+   "description": "Public holiday in Hawke's Bay",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-25"
+   },
+   "end": {
+    "date": "2024-10-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241025_nd5ltpinruk5baj4uehoua6gio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241028_2h2bqpto6c7g2aevokmmd36icc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjhfMmgyYnFwdG82YzdnMmFldm9rbW1kMzZpY2MgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-28"
+   },
+   "end": {
+    "date": "2024-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241028_2h2bqpto6c7g2aevokmmd36icc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241104_eirvdrqggbjtlqbuf4sg78jj8g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDRfZWlydmRycWdnYmp0bHFidWY0c2c3OGpqOGcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Marlborough Anniversary Day (Marlborough)",
+   "description": "Public holiday in Marlborough",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-04"
+   },
+   "end": {
+    "date": "2024-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241104_eirvdrqggbjtlqbuf4sg78jj8g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241105_0fuesju64942nph1ac8vqm92rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDVfMGZ1ZXNqdTY0OTQybnBoMWFjOHZxbTkycnMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Guy Fawkes Night",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-05"
+   },
+   "end": {
+    "date": "2024-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241105_0fuesju64942nph1ac8vqm92rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241115_i6md6cga7tmqm5hi0e22saqju8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTVfaTZtZDZjZ2E3dG1xbTVoaTBlMjJzYXFqdTggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Canterbury Anniversary Day (Canterbury)",
+   "description": "Public holiday in Canterbury",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-15"
+   },
+   "end": {
+    "date": "2024-11-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241115_i6md6cga7tmqm5hi0e22saqju8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241202_5n2aj7i2mqhapethj2dllvedd8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDJfNW4yYWo3aTJtcWhhcGV0aGoyZGxsdmVkZDggZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Chatham Islands Anniversary Day (Chatham Islands)",
+   "description": "Public holiday in Chatham Islands",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-02"
+   },
+   "end": {
+    "date": "2024-12-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241202_5n2aj7i2mqhapethj2dllvedd8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241202_97oa6ql8s6jdutid98p7nh284g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDJfOTdvYTZxbDhzNmpkdXRpZDk4cDduaDI4NGcgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Westland Anniversary Day (West Coast)",
+   "description": "Public holiday in West Coast",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-02"
+   },
+   "end": {
+    "date": "2024-12-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241202_97oa6ql8s6jdutid98p7nh284g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241224_luv3hms49r4mo5r5nt8qtk28io",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfbHV2M2htczQ5cjRtbzVyNW50OHF0azI4aW8gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_luv3hms49r4mo5r5nt8qtk28io@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241225_p14l9gpaf44g92iqg59v3djlgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcDE0bDlncGFmNDRnOTJpcWc1OXYzZGpsZ28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_p14l9gpaf44g92iqg59v3djlgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241226_gi3ormmfc1s6qqav040pujcsoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZ2kzb3JtbWZjMXM2cXFhdjA0MHB1amNzb28gZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_gi3ormmfc1s6qqav040pujcsoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327897928218000\"",
+   "id": "20241231_laoesrj9kbg1f3invaicuohaec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfbGFvZXNyajlrYmcxZjNpbnZhaWN1b2hhZWMgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-09-23T16:02:44.000Z",
+   "updated": "2022-09-23T16:02:44.109Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_laoesrj9kbg1f3invaicuohaec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331202318800000\"",
+   "id": "20230506_2ts5o3lt87bp8h7mvsrcr5lo7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfMnRzNW8zbHQ4N2JwOGg3bXZzcmNyNWxvN2MgZW4ubmV3X3plYWxhbmQjaG9saWRheUB2",
+   "created": "2022-10-12T18:59:19.000Z",
+   "updated": "2022-10-12T18:59:19.400Z",
+   "summary": "The Coronation of King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in New Zealand",
+   "creator": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.new_zealand#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in New Zealand",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_2ts5o3lt87bp8h7mvsrcr5lo7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

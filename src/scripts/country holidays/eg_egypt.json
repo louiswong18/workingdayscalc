@@ -1,0 +1,2797 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32ucnhkerqlo00o\"",
+ "summary": "Holidays in Egypt",
+ "description": "Holidays and Observances in Egypt",
+ "updated": "2023-07-25T00:39:02.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDr9KjPqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940049772000\"",
+   "id": "20220504_6ngd8fjc87lgvj0lhndfqqpni8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfNm5nZDhmamM4N2xndmowbGhuZGZxcXBuaTggZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:04.000Z",
+   "updated": "2021-08-26T09:27:04.886Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_6ngd8fjc87lgvj0lhndfqqpni8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940049772000\"",
+   "id": "20220505_6s340197hqvbemkgcurtdja08c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfNnMzNDAxOTdocXZiZW1rZ2N1cnRkamEwOGMgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:04.000Z",
+   "updated": "2021-08-26T09:27:04.886Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_6s340197hqvbemkgcurtdja08c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940053194000\"",
+   "id": "20220712_t4b27h0rribambcnp5aujn56jg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfdDRiMjdoMHJyaWJhbWJjbnA1YXVqbjU2amcgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:06.000Z",
+   "updated": "2021-08-26T09:27:06.597Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_t4b27h0rribambcnp5aujn56jg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940056610000\"",
+   "id": "20220107_dah88fhqlckhp1l20t2s3ubnrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDdfZGFoODhmaHFsY2tocDFsMjB0MnMzdWJucnMgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:08.000Z",
+   "updated": "2021-08-26T09:27:08.305Z",
+   "summary": "Coptic Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-07"
+   },
+   "end": {
+    "date": "2022-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220107_dah88fhqlckhp1l20t2s3ubnrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940060846000\"",
+   "id": "20220422_u945r3fpbjojalbkbvi20e2ej0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjJfdTk0NXIzZnBiam9qYWxia2J2aTIwZTJlajAgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:10.000Z",
+   "updated": "2021-08-26T09:27:10.423Z",
+   "summary": "Coptic Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-22"
+   },
+   "end": {
+    "date": "2022-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220422_u945r3fpbjojalbkbvi20e2ej0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940060846000\"",
+   "id": "20220423_u0oqh0sdp4cns2u3femmpt5gek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjNfdTBvcWgwc2RwNGNuczJ1M2ZlbW1wdDVnZWsgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:10.000Z",
+   "updated": "2021-08-26T09:27:10.423Z",
+   "summary": "Coptic Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-23"
+   },
+   "end": {
+    "date": "2022-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220423_u0oqh0sdp4cns2u3femmpt5gek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940064438000\"",
+   "id": "20220425_53o9gvk238n9s239fkrm9s0sa8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfNTNvOWd2azIzOG45czIzOWZrcm05czBzYTggZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:12.000Z",
+   "updated": "2021-08-26T09:27:12.219Z",
+   "summary": "Sinai Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_53o9gvk238n9s239fkrm9s0sa8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940064438000\"",
+   "id": "20220425_ov0b5uqvi6g1ogioliaig4b760",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfb3YwYjV1cXZpNmcxb2dpb2xpYWlnNGI3NjAgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:12.000Z",
+   "updated": "2021-08-26T09:27:12.219Z",
+   "summary": "Spring Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_ov0b5uqvi6g1ogioliaig4b760@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940064438000\"",
+   "id": "20220501_v43dor8pjcb5n5186l337k0lr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfdjQzZG9yOHBqY2I1bjUxODZsMzM3azBscjAgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:12.000Z",
+   "updated": "2021-08-26T09:27:12.219Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_v43dor8pjcb5n5186l337k0lr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940064438000\"",
+   "id": "20220711_itd0ck0o4hcjjjh74ast7rk4h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfaXRkMGNrMG80aGNqampoNzRhc3Q3cms0aDQgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:12.000Z",
+   "updated": "2021-08-26T09:27:12.219Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_itd0ck0o4hcjjjh74ast7rk4h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940064438000\"",
+   "id": "20220723_tqnhd0s31ce3371b43eo3tvk94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MjNfdHFuaGQwczMxY2UzMzcxYjQzZW8zdHZrOTQgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:12.000Z",
+   "updated": "2021-08-26T09:27:12.219Z",
+   "summary": "Revolution Day July 23",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-23"
+   },
+   "end": {
+    "date": "2022-07-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220723_tqnhd0s31ce3371b43eo3tvk94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940067250000\"",
+   "id": "20220125_patolhi4ndtbur8cg98gv7ds68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjVfcGF0b2xoaTRuZHRidXI4Y2c5OGd2N2RzNjggZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:13.000Z",
+   "updated": "2021-08-26T09:27:13.625Z",
+   "summary": "Revolution Day January 25",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-25"
+   },
+   "end": {
+    "date": "2022-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220125_patolhi4ndtbur8cg98gv7ds68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940067250000\"",
+   "id": "20220815_2aa136f020m2eqa3tm0n85beko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfMmFhMTM2ZjAyMG0yZXFhM3RtMG44NWJla28gZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:13.000Z",
+   "updated": "2021-08-26T09:27:13.625Z",
+   "summary": "Flooding of the Nile",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_2aa136f020m2eqa3tm0n85beko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940067250000\"",
+   "id": "20220911_r1k9ird63q3os0jac69donf1cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTFfcjFrOWlyZDYzcTNvczBqYWM2OWRvbmYxY3MgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-08-26T09:27:13.000Z",
+   "updated": "2021-08-26T09:27:13.625Z",
+   "summary": "Nayrouz",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-11"
+   },
+   "end": {
+    "date": "2022-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220911_r1k9ird63q3os0jac69donf1cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3268573298198000\"",
+   "id": "20220127_09oscrvuuainulmm8j7jf155vc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjdfMDlvc2NydnV1YWludWxtbThqN2pmMTU1dmMgZW4uZWcjaG9saWRheUB2",
+   "created": "2021-10-15T08:30:49.000Z",
+   "updated": "2021-10-15T08:30:49.099Z",
+   "summary": "Day off for Revolution Day January 25",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-27"
+   },
+   "end": {
+    "date": "2022-01-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220127_09oscrvuuainulmm8j7jf155vc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294022894910000\"",
+   "id": "20220106_5q8v9s2kkvn0d6mg2eu36ilmv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfNXE4djlzMmtrdm4wZDZtZzJldTM2aWxtdjggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-03-11T15:10:47.000Z",
+   "updated": "2022-03-11T15:10:47.455Z",
+   "summary": "Day off for Coptic Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_5q8v9s2kkvn0d6mg2eu36ilmv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294022894910000\"",
+   "id": "20220424_lcq5e6dkqhgrsns2gf539qojgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjRfbGNxNWU2ZGtxaGdyc25zMmdmNTM5cW9qZ2cgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-03-11T15:10:47.000Z",
+   "updated": "2022-03-11T15:10:47.455Z",
+   "summary": "Coptic Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-24"
+   },
+   "end": {
+    "date": "2022-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220424_lcq5e6dkqhgrsns2gf539qojgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302310996662000\"",
+   "id": "20220430_736r998rqtq63an6m2buppulcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MzBfNzM2cjk5OHJxdHE2M2FuNm0yYnVwcHVsY2MgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-04-28T14:18:18.000Z",
+   "updated": "2022-04-28T14:18:18.331Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-30"
+   },
+   "end": {
+    "date": "2022-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220430_736r998rqtq63an6m2buppulcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302787534556000\"",
+   "id": "20220502_bbkt3inebdp10p5pun0nsnmk74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfYmJrdDNpbmViZHAxMHA1cHVuMG5zbm1rNzQgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-05-01T08:29:27.000Z",
+   "updated": "2022-05-01T08:29:27.278Z",
+   "summary": "Eid el Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_bbkt3inebdp10p5pun0nsnmk74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619471260000\"",
+   "id": "20220503_j999fbvsgbja96bh35mpom48mc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfajk5OWZidnNnYmphOTZiaDM1bXBvbTQ4bWMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:15.000Z",
+   "updated": "2022-07-14T14:42:15.630Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_j999fbvsgbja96bh35mpom48mc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619471260000\"",
+   "id": "20220708_sb9skcopejpkmpjmg1id7q3ap0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfc2I5c2tjb3BlanBrbXBqbWcxaWQ3cTNhcDAgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:15.000Z",
+   "updated": "2022-07-14T14:42:15.630Z",
+   "summary": "Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_sb9skcopejpkmpjmg1id7q3ap0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619471260000\"",
+   "id": "20220709_b1m0ckg0mmthbrdt4hp3be1d7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfYjFtMGNrZzBtbXRoYnJkdDRocDNiZTFkN28gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:15.000Z",
+   "updated": "2022-07-14T14:42:15.630Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_b1m0ckg0mmthbrdt4hp3be1d7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619471260000\"",
+   "id": "20220710_eetl6cvps4jnuqktfq8u6arl40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfZWV0bDZjdnBzNGpudXFrdGZxOHU2YXJsNDAgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:15.000Z",
+   "updated": "2022-07-14T14:42:15.630Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_eetl6cvps4jnuqktfq8u6arl40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619471260000\"",
+   "id": "20220713_t0ljk0qjrbc90mb1vl99bb2328",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTNfdDBsamswcWpyYmM5MG1iMXZsOTliYjIzMjggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:15.000Z",
+   "updated": "2022-07-14T14:42:15.630Z",
+   "summary": "Eid al-Adha Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-13"
+   },
+   "end": {
+    "date": "2022-07-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220713_t0ljk0qjrbc90mb1vl99bb2328@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619471260000\"",
+   "id": "20220714_otmjr9p9okb2ldvgas8da5hvg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTRfb3RtanI5cDlva2IybGR2Z2FzOGRhNWh2ZzQgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:15.000Z",
+   "updated": "2022-07-14T14:42:15.630Z",
+   "summary": "Eid al-Adha Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-14"
+   },
+   "end": {
+    "date": "2022-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220714_otmjr9p9okb2ldvgas8da5hvg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3319570710816000\"",
+   "id": "20220730_6saahuulnohq7bf9oodnk7am6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfNnNhYWh1dWxub2hxN2JmOW9vZG5rN2FtNm8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-08-06T11:29:15.000Z",
+   "updated": "2022-08-06T11:29:15.408Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_6saahuulnohq7bf9oodnk7am6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3320073259346000\"",
+   "id": "20220808_ah7g0tvcvragr59fmfmtrf7a1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDhfYWg3ZzB0dmN2cmFncjU5Zm1mbXRyZjdhMW8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-08-09T09:17:09.000Z",
+   "updated": "2022-08-09T09:17:09.673Z",
+   "summary": "Ashura",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-08"
+   },
+   "end": {
+    "date": "2022-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220808_ah7g0tvcvragr59fmfmtrf7a1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20221006_f8is5rhp1t0icfqfi5ss3kbfe8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDZfZjhpczVyaHAxdDBpY2ZxZmk1c3Mza2JmZTggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-06"
+   },
+   "end": {
+    "date": "2022-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221006_f8is5rhp1t0icfqfi5ss3kbfe8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230107_ao6lf5glb3jifmjdrrkua3k2v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDdfYW82bGY1Z2xiM2ppZm1qZHJya3VhM2sydjggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-07"
+   },
+   "end": {
+    "date": "2023-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230107_ao6lf5glb3jifmjdrrkua3k2v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230125_tjde7h92ruubbmruv8nu7cenk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjVfdGpkZTdoOTJydXViYm1ydXY4bnU3Y2VuazggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Revolution Day January 25",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-25"
+   },
+   "end": {
+    "date": "2023-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230125_tjde7h92ruubbmruv8nu7cenk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230126_rqh0sas39jk68pe81edfoqshg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfcnFoMHNhczM5ams2OHBlODFlZGZvcXNoZzggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Day off for Revolution Day January 25",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_rqh0sas39jk68pe81edfoqshg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230414_8b6artskaqqj01rl4ehltrrfao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTRfOGI2YXJ0c2thcXFqMDFybDRlaGx0cnJmYW8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-14"
+   },
+   "end": {
+    "date": "2023-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230414_8b6artskaqqj01rl4ehltrrfao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230415_ab3ap0i0gui7mnuhbl4d8a0s3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTVfYWIzYXAwaTBndWk3bW51aGJsNGQ4YTBzM28gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-15"
+   },
+   "end": {
+    "date": "2023-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230415_ab3ap0i0gui7mnuhbl4d8a0s3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230416_91v7gu2uf3tehgf9ckqk26f1bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTZfOTF2N2d1MnVmM3RlaGdmOWNrcWsyNmYxYmMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-16"
+   },
+   "end": {
+    "date": "2023-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230416_91v7gu2uf3tehgf9ckqk26f1bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230417_5k7a6ltbkj7fe3kso30n73q3ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTdfNWs3YTZsdGJrajdmZTNrc28zMG43M3EzZWsgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Spring Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-17"
+   },
+   "end": {
+    "date": "2023-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230417_5k7a6ltbkj7fe3kso30n73q3ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230423_cu657vqsiln3l58mm0q2pqqang",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfY3U2NTd2cXNpbG4zbDU4bW0wcTJwcXFhbmcgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_cu657vqsiln3l58mm0q2pqqang@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230424_gfifsc0b9rjclbtiqg9dti15ao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfZ2ZpZnNjMGI5cmpjbGJ0aXFnOWR0aTE1YW8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_gfifsc0b9rjclbtiqg9dti15ao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230425_j3971llbuvkusaqtpq0fljiqdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfajM5NzFsbGJ1dmt1c2FxdHBxMGZsamlxZG8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Sinai Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_j3971llbuvkusaqtpq0fljiqdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230501_g1a2q988mffoh1s1pqul2i88bk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfZzFhMnE5ODhtZmZvaDFzMXBxdWwyaTg4YmsgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_g1a2q988mffoh1s1pqul2i88bk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230630_7rov18ok26fmam97u86s813fm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfN3JvdjE4b2syNmZtYW05N3U4NnM4MTNmbTQgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_7rov18ok26fmam97u86s813fm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230630_ue2jm6f788il502u338467c3dg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfdWUyam02Zjc4OGlsNTAydTMzODQ2N2MzZGcgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "June 30 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_ue2jm6f788il502u338467c3dg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230723_htshrbpvifdb0rs0a995upr9tc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjNfaHRzaHJicHZpZmRiMHJzMGE5OTV1cHI5dGMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Revolution Day July 23",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-23"
+   },
+   "end": {
+    "date": "2023-07-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230723_htshrbpvifdb0rs0a995upr9tc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230729_jpgqo2bab38sm3qvl8mbjj83rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjlfanBncW8yYmFiMzhzbTNxdmw4bWJqajgzcnMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Ashura",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-29"
+   },
+   "end": {
+    "date": "2023-07-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230729_jpgqo2bab38sm3qvl8mbjj83rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230815_ntiradt4sucsjoobblt5ctn04o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfbnRpcmFkdDRzdWNzam9vYmJsdDVjdG4wNG8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Flooding of the Nile",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_ntiradt4sucsjoobblt5ctn04o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230912_ghq8ivu4nabrvbqcjfjbqu81so",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTJfZ2hxOGl2dTRuYWJydmJxY2pmamJxdTgxc28gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Nayrouz",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-12"
+   },
+   "end": {
+    "date": "2023-09-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230912_ghq8ivu4nabrvbqcjfjbqu81so@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20230928_4c9ebb2i86ijvsvdr0m9ach4ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfNGM5ZWJiMmk4NmlqdnN2ZHIwbTlhY2g0a28gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Prophet Mohamed's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_4c9ebb2i86ijvsvdr0m9ach4ko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20231006_n864kudgbg8mmjak0ahejbct2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDZfbjg2NGt1ZGdiZzhtbWphazBhaGVqYmN0MnMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-06"
+   },
+   "end": {
+    "date": "2023-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231006_n864kudgbg8mmjak0ahejbct2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240107_t3mf97ma04g1q6b723o1m0t82s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDdfdDNtZjk3bWEwNGcxcTZiNzIzbzFtMHQ4MnMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-07"
+   },
+   "end": {
+    "date": "2024-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240107_t3mf97ma04g1q6b723o1m0t82s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240125_mqjo9j3j47nds6f2sce9j2grbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjVfbXFqbzlqM2o0N25kczZmMnNjZTlqMmdyYm8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Revolution Day January 25",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-25"
+   },
+   "end": {
+    "date": "2024-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240125_mqjo9j3j47nds6f2sce9j2grbo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240410_kltmrueuc064h0tbrhs100hl44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfa2x0bXJ1ZXVjMDY0aDB0YnJoczEwMGhsNDQgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid el Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_kltmrueuc064h0tbrhs100hl44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240411_j57armsvcooj67aitunmkbtd4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfajU3YXJtc3Zjb29qNjdhaXR1bm1rYnRkNGMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_j57armsvcooj67aitunmkbtd4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240412_2t2q5gk8lvg0rgmp3seo2r4org",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfMnQycTVnazhsdmcwcmdtcDNzZW8ycjRvcmcgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_2t2q5gk8lvg0rgmp3seo2r4org@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240425_cef8k2qrhhn8ni1mak7v9apq9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjVfY2VmOGsycXJoaG44bmkxbWFrN3Y5YXBxOW8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Sinai Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-25"
+   },
+   "end": {
+    "date": "2024-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240425_cef8k2qrhhn8ni1mak7v9apq9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240501_sdon8bhk47s7bdi894kv6917h0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfc2RvbjhiaGs0N3M3YmRpODk0a3Y2OTE3aDAgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_sdon8bhk47s7bdi894kv6917h0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240503_4svvfcju4kl0ssho8k6nm4umq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDNfNHN2dmZjanU0a2wwc3NobzhrNm5tNHVtcTAgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-03"
+   },
+   "end": {
+    "date": "2024-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240503_4svvfcju4kl0ssho8k6nm4umq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240504_145la8d04urcluph45qt41k3ag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDRfMTQ1bGE4ZDA0dXJjbHVwaDQ1cXQ0MWszYWcgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-04"
+   },
+   "end": {
+    "date": "2024-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240504_145la8d04urcluph45qt41k3ag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240505_6ujetfff76rudefojuiaugults",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDVfNnVqZXRmZmY3NnJ1ZGVmb2p1aWF1Z3VsdHMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Coptic Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-05"
+   },
+   "end": {
+    "date": "2024-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240505_6ujetfff76rudefojuiaugults@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240506_j02o9g606hi92hqs91luradpr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDZfajAybzlnNjA2aGk5MmhxczkxbHVyYWRwcjQgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Spring Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-06"
+   },
+   "end": {
+    "date": "2024-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240506_j02o9g606hi92hqs91luradpr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240616_rdcdj3v8teaasg0dmpgft883nk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfcmRjZGozdjh0ZWFhc2cwZG1wZ2Z0ODgzbmsgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_rdcdj3v8teaasg0dmpgft883nk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240617_2gv47ns909q77ougji1fui61jk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfMmd2NDduczkwOXE3N291Z2ppMWZ1aTYxamsgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_2gv47ns909q77ougji1fui61jk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240618_pi8ljbfc43g7m1h2nl3cqqh3sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfcGk4bGpiZmM0M2c3bTFoMm5sM2NxcWgzc2sgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_pi8ljbfc43g7m1h2nl3cqqh3sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240619_uijdifias3vf3cue017g9lk5js",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfdWlqZGlmaWFzM3ZmM2N1ZTAxN2c5bGs1anMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_uijdifias3vf3cue017g9lk5js@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240630_q0q0keiqqtege85vgr7vjs1fgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MzBfcTBxMGtlaXFxdGVnZTg1dmdyN3ZqczFmZ2MgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "June 30 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-30"
+   },
+   "end": {
+    "date": "2024-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240630_q0q0keiqqtege85vgr7vjs1fgc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240704_1c5si9630c8fevo6005t7lhlh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDRfMWM1c2k5NjMwYzhmZXZvNjAwNXQ3bGhsaDggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Day off for June 30 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-04"
+   },
+   "end": {
+    "date": "2024-07-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240704_1c5si9630c8fevo6005t7lhlh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240708_7ul8lo3fntoh1c6o56404fu5nc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfN3VsOGxvM2ZudG9oMWM2bzU2NDA0ZnU1bmMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_7ul8lo3fntoh1c6o56404fu5nc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240717_v906r66r0phui3a30vudbjuao8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfdjkwNnI2NnIwcGh1aTNhMzB2dWRianVhbzggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Ashura",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_v906r66r0phui3a30vudbjuao8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240723_5k58a9tdrrch57gbft3ns3ekq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjNfNWs1OGE5dGRycmNoNTdnYmZ0M25zM2VrcTQgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Revolution Day July 23",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-23"
+   },
+   "end": {
+    "date": "2024-07-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240723_5k58a9tdrrch57gbft3ns3ekq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240725_64mvm7f8t25rhpuea29c97i26o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MjVfNjRtdm03Zjh0MjVyaHB1ZWEyOWM5N2kyNm8gZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Day off for Revolution Day July 23",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-25"
+   },
+   "end": {
+    "date": "2024-07-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240725_64mvm7f8t25rhpuea29c97i26o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240815_6gkb5dsa93gpkl3kvbsurhtmcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfNmdrYjVkc2E5M2dwa2wza3Zic3VyaHRtY3MgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Flooding of the Nile",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_6gkb5dsa93gpkl3kvbsurhtmcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240911_bsbu5botvsqao0mfglk797j6as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTFfYnNidTVib3R2c3FhbzBtZmdsazc5N2o2YXMgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Nayrouz",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-11"
+   },
+   "end": {
+    "date": "2024-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240911_bsbu5botvsqao0mfglk797j6as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20240916_a3o0c3fpco202r82h36c9htkt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfYTNvMGMzZnBjbzIwMnI4MmgzNmM5aHRrdDggZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Prophet Mohamed's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_a3o0c3fpco202r82h36c9htkt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20241006_af4bcid662l0gfikbaqiql9r3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDZfYWY0YmNpZDY2MmwwZ2Zpa2JhcWlxbDlyM2sgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-06"
+   },
+   "end": {
+    "date": "2024-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241006_af4bcid662l0gfikbaqiql9r3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328558834448000\"",
+   "id": "20241010_gvpo1j6i571tthsmn93ka5dflg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTBfZ3ZwbzFqNmk1NzF0dGhzbW45M2thNWRmbGcgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-09-27T11:50:17.000Z",
+   "updated": "2022-09-27T11:50:17.224Z",
+   "summary": "Day off for Armed Forces Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-10"
+   },
+   "end": {
+    "date": "2024-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241010_gvpo1j6i571tthsmn93ka5dflg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3330091382712000\"",
+   "id": "20221008_me9ofj7r483nvsn1hv67gkrd10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfbWU5b2ZqN3I0ODNudnNuMWh2Njdna3JkMTAgZW4uZWcjaG9saWRheUB2",
+   "created": "2022-10-06T08:41:31.000Z",
+   "updated": "2022-10-06T08:41:31.356Z",
+   "summary": "Prophet Mohamed's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_me9ofj7r483nvsn1hv67gkrd10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047998914000\"",
+   "id": "20230323_k0pl2f5reo49o16vour8db942k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfazBwbDJmNXJlbzQ5bzE2dm91cjhkYjk0MmsgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-03-22T22:26:39.000Z",
+   "updated": "2023-03-22T22:26:39.457Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_k0pl2f5reo49o16vour8db942k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047998914000\"",
+   "id": "20240312_olbd03lv08qf5bhfquaaf0iqq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTJfb2xiZDAzbHYwOHFmNWJoZnF1YWFmMGlxcTAgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-03-22T22:26:39.000Z",
+   "updated": "2023-03-22T22:26:39.457Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Egypt",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-12"
+   },
+   "end": {
+    "date": "2024-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240312_olbd03lv08qf5bhfquaaf0iqq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364135550862000\"",
+   "id": "20230420_chnqk2n7gqed84fq4ar9631bic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfY2hucWsybjdncWVkODRmcTRhcjk2MzFiaWMgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-04-21T09:02:55.000Z",
+   "updated": "2023-04-21T09:02:55.431Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_chnqk2n7gqed84fq4ar9631bic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364135550862000\"",
+   "id": "20230421_lv9007k93rtc8kku7us1o0n834",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfbHY5MDA3azkzcnRjOGtrdTd1czFvMG44MzQgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-04-21T09:02:55.000Z",
+   "updated": "2023-04-21T09:02:55.431Z",
+   "summary": "Eid el Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_lv9007k93rtc8kku7us1o0n834@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364135550862000\"",
+   "id": "20230422_m4o0p8l8ldl1n2j0o9f1g5epm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfbTRvMHA4bDhsZGwxbjJqMG85ZjFnNWVwbTQgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-04-21T09:02:55.000Z",
+   "updated": "2023-04-21T09:02:55.431Z",
+   "summary": "Eid el Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_m4o0p8l8ldl1n2j0o9f1g5epm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197389536000\"",
+   "id": "20230627_cr9h1r15fu0cmcvad9too2htvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjdfY3I5aDFyMTVmdTBjbWN2YWQ5dG9vMmh0dmsgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-06-24T09:24:54.000Z",
+   "updated": "2023-06-24T09:24:54.768Z",
+   "summary": "Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-27"
+   },
+   "end": {
+    "date": "2023-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230627_cr9h1r15fu0cmcvad9too2htvk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197389536000\"",
+   "id": "20230628_6s1uk6e7huv3r5fuo9k7dkpul8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfNnMxdWs2ZTdodXYzcjVmdW85azdka3B1bDggZW4uZWcjaG9saWRheUB2",
+   "created": "2023-06-24T09:24:54.000Z",
+   "updated": "2023-06-24T09:24:54.768Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_6s1uk6e7huv3r5fuo9k7dkpul8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197389536000\"",
+   "id": "20230629_v5lbpb3q8pbmda3qrnqgspf084",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfdjVsYnBiM3E4cGJtZGEzcXJucWdzcGYwODQgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-06-24T09:24:54.000Z",
+   "updated": "2023-06-24T09:24:54.768Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_v5lbpb3q8pbmda3qrnqgspf084@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197389536000\"",
+   "id": "20230703_d8no56v31v8r8suv0kvi1li96s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDNfZDhubzU2djMxdjhyOHN1djBrdmkxbGk5NnMgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-06-24T09:24:54.000Z",
+   "updated": "2023-06-24T09:24:54.768Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-03"
+   },
+   "end": {
+    "date": "2023-07-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230703_d8no56v31v8r8suv0kvi1li96s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3377438485996000\"",
+   "id": "20220730_6fqrubmd4ht4d51q6eurt26v4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfNmZxcnVibWQ0aHQ0ZDUxcTZldXJ0MjZ2NGMgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-07-07T08:40:42.000Z",
+   "updated": "2023-07-07T08:40:42.998Z",
+   "summary": "June 30 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_6fqrubmd4ht4d51q6eurt26v4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3377438485996000\"",
+   "id": "20230702_1g4c05qs77di0qqg5f0tc0an80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDJfMWc0YzA1cXM3N2RpMHFxZzVmMHRjMGFuODAgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-07-07T08:40:42.000Z",
+   "updated": "2023-07-07T08:40:42.998Z",
+   "summary": "Day off for June 30 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-02"
+   },
+   "end": {
+    "date": "2023-07-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230702_1g4c05qs77di0qqg5f0tc0an80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3378334857548000\"",
+   "id": "20230701_nlueb5gd1pcp5lbrp6a98ng0m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfbmx1ZWI1Z2QxcGNwNWxicnA2YTk4bmcwbTggZW4uZWcjaG9saWRheUB2",
+   "created": "2023-07-12T13:10:28.000Z",
+   "updated": "2023-07-12T13:10:28.774Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_nlueb5gd1pcp5lbrp6a98ng0m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3379511423346000\"",
+   "id": "20230719_654hi14gbr992kmkc8pgdoo9os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfNjU0aGkxNGdicjk5Mmtta2M4cGdkb285b3MgZW4uZWcjaG9saWRheUB2",
+   "created": "2023-07-19T08:35:11.000Z",
+   "updated": "2023-07-19T08:35:11.673Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.eg#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Egypt",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_654hi14gbr992kmkc8pgdoo9os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

@@ -1,0 +1,3853 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p334ft8sbrqlo00o\"",
+ "summary": "Holidays in Switzerland",
+ "description": "Holidays and Observances in Switzerland",
+ "updated": "2023-07-25T03:30:31.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDHi9P1qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964541330000\"",
+   "id": "20220102_1m4gu8j9rov3fc7gsiiqhkgkq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfMW00Z3U4ajlyb3YzZmM3Z3NpaXFoa2drcTggZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:10.000Z",
+   "updated": "2021-08-26T12:51:10.665Z",
+   "summary": "Berchtold Day (regional holiday)",
+   "description": "Public holiday in Aargau, Bern, Fribourg, Glarus, Jura, Lucerne, Neuchâtel, Obwalden, Schaffhausen, Solothurn, Thurgau, Vaud, Zug, Zurich, Nidwalden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_1m4gu8j9rov3fc7gsiiqhkgkq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964541330000\"",
+   "id": "20220415_q4otgi6ult3vghpl0fd0i47frc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfcTRvdGdpNnVsdDN2Z2hwbDBmZDBpNDdmcmMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:10.000Z",
+   "updated": "2021-08-26T12:51:10.665Z",
+   "summary": "Good Friday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Vaud, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_q4otgi6ult3vghpl0fd0i47frc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964541330000\"",
+   "id": "20220425_f94piin286e8dgls956b5sr6vg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfZjk0cGlpbjI4NmU4ZGdsczk1NmI1c3I2dmcgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:10.000Z",
+   "updated": "2021-08-26T12:51:10.665Z",
+   "summary": "Sechseläuten (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_f94piin286e8dgls956b5sr6vg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964541330000\"",
+   "id": "20220501_hcpn5jao807os4tki37or3tfs0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfaGNwbjVqYW84MDdvczR0a2kzN29yM3RmczAgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:10.000Z",
+   "updated": "2021-08-26T12:51:10.665Z",
+   "summary": "May Day (Half-Day) (regional holiday)",
+   "description": "Observance in Solothurn, Thurgau, Ticino\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_hcpn5jao807os4tki37or3tfs0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964541330000\"",
+   "id": "20220910_bb63j3de4h0tmi9md0f9bvagqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTBfYmI2M2ozZGU0aDB0bWk5bWQwZjlidmFncWcgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:10.000Z",
+   "updated": "2021-08-26T12:51:10.665Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-10"
+   },
+   "end": {
+    "date": "2022-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220910_bb63j3de4h0tmi9md0f9bvagqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964549586000\"",
+   "id": "20220501_d9l34al7i10c41vt1lhfn2ae8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfZDlsMzRhbDdpMTBjNDF2dDFsaGZuMmFlOGMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:14.000Z",
+   "updated": "2021-08-26T12:51:14.793Z",
+   "summary": "May Day (regional holiday)",
+   "description": "Public holiday in Basel-Land, Basel-Stadt, Jura, Schaffhausen, Zurich",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_d9l34al7i10c41vt1lhfn2ae8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964549586000\"",
+   "id": "20220526_2snitnqotoajq24m5affpu2kb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfMnNuaXRucW90b2FqcTI0bTVhZmZwdTJrYjAgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:14.000Z",
+   "updated": "2021-08-26T12:51:14.793Z",
+   "summary": "Ascension Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_2snitnqotoajq24m5affpu2kb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964553378000\"",
+   "id": "20220327_31p8ao77lnu8mvq8erd050eq6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjdfMzFwOGFvNzdsbnU4bXZxOGVyZDA1MGVxNmcgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:16.000Z",
+   "updated": "2021-08-26T12:51:16.689Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-27"
+   },
+   "end": {
+    "date": "2022-03-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220327_31p8ao77lnu8mvq8erd050eq6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964553378000\"",
+   "id": "20220418_q4bhu88h7ma69qelhcgdth8guc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfcTRiaHU4OGg3bWE2OXFlbGhjZ2R0aDhndWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:16.000Z",
+   "updated": "2021-08-26T12:51:16.689Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_q4bhu88h7ma69qelhcgdth8guc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964553378000\"",
+   "id": "20220815_ndmrmd37bceh3a8oqneau4lbuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfbmRtcm1kMzdiY2VoM2E4b3FuZWF1NGxidWsgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:16.000Z",
+   "updated": "2021-08-26T12:51:16.689Z",
+   "summary": "Assumption of Mary (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Jura, Lucerne, Nidwalden, Obwalden, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_ndmrmd37bceh3a8oqneau4lbuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964553378000\"",
+   "id": "20220911_3f31vd8dctaj6g31qghocsgg98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTFfM2YzMXZkOGRjdGFqNmczMXFnaG9jc2dnOTggZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:16.000Z",
+   "updated": "2021-08-26T12:51:16.689Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-11"
+   },
+   "end": {
+    "date": "2022-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220911_3f31vd8dctaj6g31qghocsgg98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964557454000\"",
+   "id": "20220106_f4om03h41rksutmfltjelk506c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfZjRvbTAzaDQxcmtzdXRtZmx0amVsazUwNmMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:18.000Z",
+   "updated": "2021-08-26T12:51:18.727Z",
+   "summary": "Epiphany (regional holiday)",
+   "description": "Public holiday in Graubünden, Schwyz, Ticino, Uri",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_f4om03h41rksutmfltjelk506c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964557454000\"",
+   "id": "20220417_ir95eg4p7i29mvoh2s59b1dv08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfaXI5NWVnNHA3aTI5bXZvaDJzNTliMWR2MDggZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:18.000Z",
+   "updated": "2021-08-26T12:51:18.727Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_ir95eg4p7i29mvoh2s59b1dv08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964557454000\"",
+   "id": "20220606_urv0iug60au7btubrf63287ja8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDZfdXJ2MGl1ZzYwYXU3YnR1YnJmNjMyODdqYTggZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:18.000Z",
+   "updated": "2021-08-26T12:51:18.727Z",
+   "summary": "Pentecost Monday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-06"
+   },
+   "end": {
+    "date": "2022-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220606_urv0iug60au7btubrf63287ja8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964557454000\"",
+   "id": "20220616_2k4drndfbbn1bupb0jl7m3ojhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTZfMms0ZHJuZGZiYm4xYnVwYjBqbDdtM29qaHMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:18.000Z",
+   "updated": "2021-08-26T12:51:18.727Z",
+   "summary": "Corpus Christi (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Neuchâtel, Jura, Lucerne, Nidwalden, Obwalden, Solothurn, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-16"
+   },
+   "end": {
+    "date": "2022-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220616_2k4drndfbbn1bupb0jl7m3ojhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964557454000\"",
+   "id": "20220629_6oq5mtvugfl67l2f9vtoa3vsag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjlfNm9xNW10dnVnZmw2N2wyZjl2dG9hM3ZzYWcgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:18.000Z",
+   "updated": "2021-08-26T12:51:18.727Z",
+   "summary": "St. Peter and St. Paul (Ticino)",
+   "description": "Observance in Ticino\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-29"
+   },
+   "end": {
+    "date": "2022-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220629_6oq5mtvugfl67l2f9vtoa3vsag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964557454000\"",
+   "id": "20220912_ddecs1ejbedm3btiee5o8nq4fs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTJfZGRlY3MxZWpiZWRtM2J0aWVlNW84bnE0ZnMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:18.000Z",
+   "updated": "2021-08-26T12:51:18.727Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-12"
+   },
+   "end": {
+    "date": "2022-09-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220912_ddecs1ejbedm3btiee5o8nq4fs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964561226000\"",
+   "id": "20220605_seli2jl668buggp6ha6hr757h8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfc2VsaTJqbDY2OGJ1Z2dwNmhhNmhyNzU3aDggZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:20.000Z",
+   "updated": "2021-08-26T12:51:20.613Z",
+   "summary": "Pentecost (regional holiday)",
+   "description": "Observance in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_seli2jl668buggp6ha6hr757h8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964561226000\"",
+   "id": "20220623_a52dop45bbruad27lmhub22nek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjNfYTUyZG9wNDViYnJ1YWQyN2xtaHViMjJuZWsgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:20.000Z",
+   "updated": "2021-08-26T12:51:20.613Z",
+   "summary": "Jura Independence Day (Jura)",
+   "description": "Public holiday in Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-23"
+   },
+   "end": {
+    "date": "2022-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220623_a52dop45bbruad27lmhub22nek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964561226000\"",
+   "id": "20220801_ek2cii28btn1plomtm09c5377g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfZWsyY2lpMjhidG4xcGxvbXRtMDljNTM3N2cgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:20.000Z",
+   "updated": "2021-08-26T12:51:20.613Z",
+   "summary": "Swiss National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_ek2cii28btn1plomtm09c5377g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964561226000\"",
+   "id": "20220918_9vbfuvhd48m5jscupnoc87g7p4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MThfOXZiZnV2aGQ0OG01anNjdXBub2M4N2c3cDQgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:20.000Z",
+   "updated": "2021-08-26T12:51:20.613Z",
+   "summary": "Swiss Federal Fast (regional holiday)",
+   "description": "Observance in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Jura\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-18"
+   },
+   "end": {
+    "date": "2022-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220918_9vbfuvhd48m5jscupnoc87g7p4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964565408000\"",
+   "id": "20220101_0or9f7idak497uoquvioq4vnac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMG9yOWY3aWRhazQ5N3VvcXV2aW9xNHZuYWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:22.000Z",
+   "updated": "2021-08-26T12:51:22.704Z",
+   "summary": "New Year's Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_0or9f7idak497uoquvioq4vnac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964565408000\"",
+   "id": "20220214_d9bqsgbkbi8muaglu060d2vlio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfZDlicXNnYmtiaThtdWFnbHUwNjBkMnZsaW8gZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:22.000Z",
+   "updated": "2021-08-26T12:51:22.704Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_d9bqsgbkbi8muaglu060d2vlio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964565408000\"",
+   "id": "20220319_h8o3eqd86ihvjtgp0e7jssv704",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTlfaDhvM2VxZDg2aWh2anRncDBlN2pzc3Y3MDQgZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:22.000Z",
+   "updated": "2021-08-26T12:51:22.704Z",
+   "summary": "Saint Joseph's Day (regional holiday)",
+   "description": "Public holiday in Lucerne, Nidwalden, Solothurn, Schwyz, Ticino, Uri, Valais",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-19"
+   },
+   "end": {
+    "date": "2022-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220319_h8o3eqd86ihvjtgp0e7jssv704@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964565408000\"",
+   "id": "20220922_9hgjcm5toqc6tchhkpi5mnq06o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjJfOWhnamNtNXRvcWM2dGNoaGtwaTVtbnEwNm8gZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:22.000Z",
+   "updated": "2021-08-26T12:51:22.704Z",
+   "summary": "Mauritius Day (Appenzell Innerrhoden)",
+   "description": "Public holiday in Appenzell Innerrhoden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-22"
+   },
+   "end": {
+    "date": "2022-09-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220922_9hgjcm5toqc6tchhkpi5mnq06o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964569778000\"",
+   "id": "20220301_9k3i6h4upsgbj828qek3hvr3e8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfOWszaTZoNHVwc2diajgyOHFlazNodnIzZTggZW4uY2gjaG9saWRheUB2",
+   "created": "2021-08-26T12:51:24.000Z",
+   "updated": "2021-08-26T12:51:24.889Z",
+   "summary": "Republic Day (Neuchâtel)",
+   "description": "Public holiday in Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_9k3i6h4upsgbj828qek3hvr3e8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307972376808000\"",
+   "id": "20220508_q0497qgj0ki7t7ft86v47s4o30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfcTA0OTdxZ2owa2k3dDdmdDg2djQ3czRvMzAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-05-31T08:36:28.000Z",
+   "updated": "2022-05-31T08:36:28.404Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_q0497qgj0ki7t7ft86v47s4o30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307972376808000\"",
+   "id": "20220605_evugi4rng4n1m8s3f773prdoio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfZXZ1Z2k0cm5nNG4xbThzM2Y3NzNwcmRvaW8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-05-31T08:36:28.000Z",
+   "updated": "2022-05-31T08:36:28.404Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_evugi4rng4n1m8s3f773prdoio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327506717630000\"",
+   "id": "20220919_0geu026ou7mbj0v71kpsechc6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfMGdldTAyNm91N21iajB2NzFrcHNlY2hjNm8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-21T09:42:38.000Z",
+   "updated": "2022-09-21T09:42:38.815Z",
+   "summary": "Federal Fast Monday (regional holiday)",
+   "description": "Public holiday in Vaud, Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_0geu026ou7mbj0v71kpsechc6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20220925_o5031lt3gqo168uo8n30n39pas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjVfbzUwMzFsdDNncW8xNjh1bzhuMzBuMzlwYXMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Nicholas of Flüe (Obwalden)",
+   "description": "Public holiday in Obwalden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-25"
+   },
+   "end": {
+    "date": "2022-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220925_o5031lt3gqo168uo8n30n39pas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221030_m5v16icd1j4lpbjuvjv2psp39c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfbTV2MTZpY2QxajRscGJqdXZqdjJwc3AzOWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_m5v16icd1j4lpbjuvjv2psp39c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221101_iqmpf03onm38uds02uhcod8ji0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfaXFtcGYwM29ubTM4dWRzMDJ1aGNvZDhqaTAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "All Saints' Day (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Glarus, Jura, Lucerne, Nidwalden, Obwalden, St. Gallen, Solothurn, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_iqmpf03onm38uds02uhcod8ji0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221208_bifep5biqldosfie95jcj2lajc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfYmlmZXA1YmlxbGRvc2ZpZTk1amNqMmxhamMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Immaculate Conception (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Graubünden, Lucerne, Nidwalden, Obwalden, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_bifep5biqldosfie95jcj2lajc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221224_qjjoviut1dgc99v6usjqejugdg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfcWpqb3ZpdXQxZGdjOTl2NnVzanFlanVnZGcgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_qjjoviut1dgc99v6usjqejugdg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221225_ggk1nungnjh80vfk9dekqps8a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZ2drMW51bmduamg4MHZmazlkZWtxcHM4YTggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Christmas Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_ggk1nungnjh80vfk9dekqps8a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221226_qdb29ogn0dpk7slecr31bte01c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfcWRiMjlvZ24wZHBrN3NsZWNyMzFidGUwMWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Stephen's Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Valais, Neuchâtel, Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_qdb29ogn0dpk7slecr31bte01c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221231_74fmp3ngnmqlpu1dgtgcs8vrtc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfNzRmbXAzbmdubXFscHUxZGd0Z2NzOHZydGMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_74fmp3ngnmqlpu1dgtgcs8vrtc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20221231_b63s57ibi4taultpcoc3vabufg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfYjYzczU3aWJpNHRhdWx0cGNvYzN2YWJ1ZmcgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Restoration Day (Geneva)",
+   "description": "Public holiday in Geneva",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_b63s57ibi4taultpcoc3vabufg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230101_k8ecfvu216csb3o5ussq13eg9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfazhlY2Z2dTIxNmNzYjNvNXVzc3ExM2VnOWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "New Year's Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_k8ecfvu216csb3o5ussq13eg9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230102_61uebut7cblece9srfan065428",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfNjF1ZWJ1dDdjYmxlY2U5c3JmYW4wNjU0MjggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Berchtold Day (regional holiday)",
+   "description": "Public holiday in Aargau, Bern, Fribourg, Glarus, Jura, Lucerne, Neuchâtel, Obwalden, Schaffhausen, Solothurn, Thurgau, Vaud, Zug, Zurich, Nidwalden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_61uebut7cblece9srfan065428@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230106_eldlbck5013kjep9nobeie0pmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfZWxkbGJjazUwMTNramVwOW5vYmVpZTBwbWcgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Epiphany (regional holiday)",
+   "description": "Public holiday in Graubünden, Schwyz, Ticino, Uri",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_eldlbck5013kjep9nobeie0pmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230214_djs1u1l9m9b4tn7utpjpvul860",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfZGpzMXUxbDltOWI0dG43dXRwanB2dWw4NjAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_djs1u1l9m9b4tn7utpjpvul860@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230301_90e6942hs8s234cd16mu2tjm34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDFfOTBlNjk0MmhzOHMyMzRjZDE2bXUydGptMzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Republic Day (Neuchâtel)",
+   "description": "Public holiday in Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-01"
+   },
+   "end": {
+    "date": "2023-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230301_90e6942hs8s234cd16mu2tjm34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230319_hlm5olt48tkl22e8sq6oibu9o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTlfaGxtNW9sdDQ4dGtsMjJlOHNxNm9pYnU5bzAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Saint Joseph's Day (regional holiday)",
+   "description": "Public holiday in Lucerne, Nidwalden, Solothurn, Schwyz, Ticino, Uri, Valais",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-19"
+   },
+   "end": {
+    "date": "2023-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230319_hlm5olt48tkl22e8sq6oibu9o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230326_2v1g9ti67m7i9c3h92p2brs3d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjZfMnYxZzl0aTY3bTdpOWMzaDkycDJicnMzZDAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-26"
+   },
+   "end": {
+    "date": "2023-03-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230326_2v1g9ti67m7i9c3h92p2brs3d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230407_9eg3sop6pcq7hu7rn0eegb815o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfOWVnM3NvcDZwY3E3aHU3cm4wZWVnYjgxNW8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Good Friday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Vaud, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_9eg3sop6pcq7hu7rn0eegb815o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230409_sbajo08a48f3450mse5jeesd80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfc2Jham8wOGE0OGYzNDUwbXNlNWplZXNkODAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_sbajo08a48f3450mse5jeesd80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230410_rfds11idhdnr7s7i3jnhboadto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfcmZkczExaWRoZG5yN3M3aTNqbmhib2FkdG8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_rfds11idhdnr7s7i3jnhboadto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230417_g7u9pvc93md80mp1h7982k1c64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTdfZzd1OXB2YzkzbWQ4MG1wMWg3OTgyazFjNjQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Sechseläuten (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-17"
+   },
+   "end": {
+    "date": "2023-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230417_g7u9pvc93md80mp1h7982k1c64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230501_rl2ughi9btqh921eh6egscq4e4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcmwydWdoaTlidHFoOTIxZWg2ZWdzY3E0ZTQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "May Day (Half-Day) (regional holiday)",
+   "description": "Public holiday in Solothurn, Thurgau, Ticino",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_rl2ughi9btqh921eh6egscq4e4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230501_ttqdakpi8n8g2p7kc9kmv155es",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfdHRxZGFrcGk4bjhnMnA3a2M5a212MTU1ZXMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "May Day (regional holiday)",
+   "description": "Public holiday in Basel-Land, Basel-Stadt, Jura, Schaffhausen, Zurich",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_ttqdakpi8n8g2p7kc9kmv155es@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230514_bammq8ctd2pndodae27nu37nc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfYmFtbXE4Y3RkMnBuZG9kYWUyN251MzduYzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_bammq8ctd2pndodae27nu37nc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230518_5qk83gv0iqjdm2knpuva10r2o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfNXFrODNndjBpcWpkbTJrbnB1dmExMHIybzggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Ascension Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_5qk83gv0iqjdm2knpuva10r2o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230528_g0dh17n65dhbp1arn1muqbver0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfZzBkaDE3bjY1ZGhicDFhcm4xbXVxYnZlcjAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Pentecost (regional holiday)",
+   "description": "Observance in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_g0dh17n65dhbp1arn1muqbver0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230529_shnrj3gts906v8cmfbo1aanq3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1Mjlfc2hucmozZ3RzOTA2djhjbWZibzFhYW5xM2cgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Pentecost Monday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-29"
+   },
+   "end": {
+    "date": "2023-05-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230529_shnrj3gts906v8cmfbo1aanq3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230604_cvi1aet0k0nll7oo9a02pv657c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDRfY3ZpMWFldDBrMG5sbDdvbzlhMDJwdjY1N2MgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-04"
+   },
+   "end": {
+    "date": "2023-06-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230604_cvi1aet0k0nll7oo9a02pv657c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230608_n70drf2mufo542to1hc8iukbq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDhfbjcwZHJmMm11Zm81NDJ0bzFoYzhpdWticTQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Corpus Christi (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Neuchâtel, Jura, Lucerne, Nidwalden, Obwalden, Solothurn, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-08"
+   },
+   "end": {
+    "date": "2023-06-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230608_n70drf2mufo542to1hc8iukbq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230623_vd64d14l36sorjfplrh7eeolq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjNfdmQ2NGQxNGwzNnNvcmpmcGxyaDdlZW9scTAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Jura Independence Day (Jura)",
+   "description": "Public holiday in Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-23"
+   },
+   "end": {
+    "date": "2023-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230623_vd64d14l36sorjfplrh7eeolq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230629_t416jv79hqte4jou9vlehncco8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfdDQxNmp2NzlocXRlNGpvdTl2bGVobmNjbzggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Peter and St. Paul (Ticino)",
+   "description": "Observance in Ticino\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_t416jv79hqte4jou9vlehncco8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230801_ei4aqbmechis7ihp8knvt2e2v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDFfZWk0YXFibWVjaGlzN2locDhrbnZ0MmUydjggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Swiss National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-01"
+   },
+   "end": {
+    "date": "2023-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230801_ei4aqbmechis7ihp8knvt2e2v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230815_f7v4uja5cidehenr08801s3qs8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfZjd2NHVqYTVjaWRlaGVucjA4ODAxczNxczggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Assumption of Mary (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Jura, Lucerne, Nidwalden, Obwalden, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_f7v4uja5cidehenr08801s3qs8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230909_94tqq7olslbrot8ba00haelu0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDlfOTR0cXE3b2xzbGJyb3Q4YmEwMGhhZWx1MG8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-09"
+   },
+   "end": {
+    "date": "2023-09-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230909_94tqq7olslbrot8ba00haelu0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230910_qjiabqisj4uv4i8oddc4h2id88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTBfcWppYWJxaXNqNHV2NGk4b2RkYzRoMmlkODggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-10"
+   },
+   "end": {
+    "date": "2023-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230910_qjiabqisj4uv4i8oddc4h2id88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230911_6bh92ipc68slctq562o7j3upc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTFfNmJoOTJpcGM2OHNsY3RxNTYybzdqM3VwYzAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-11"
+   },
+   "end": {
+    "date": "2023-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230911_6bh92ipc68slctq562o7j3upc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230917_2dk80on0bnkt41fha8mcn9fo9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTdfMmRrODBvbjBibmt0NDFmaGE4bWNuOWZvOWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Swiss Federal Fast (regional holiday)",
+   "description": "Observance in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Jura\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-17"
+   },
+   "end": {
+    "date": "2023-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230917_2dk80on0bnkt41fha8mcn9fo9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230918_42qm6su3iubvuhfiol52v9p4jg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MThfNDJxbTZzdTNpdWJ2dWhmaW9sNTJ2OXA0amcgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Federal Fast Monday (regional holiday)",
+   "description": "Public holiday in Vaud, Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-18"
+   },
+   "end": {
+    "date": "2023-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230918_42qm6su3iubvuhfiol52v9p4jg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230922_6dr592r99rbop49kimj10aki7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjJfNmRyNTkycjk5cmJvcDQ5a2ltajEwYWtpN3MgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Mauritius Day (Appenzell Innerrhoden)",
+   "description": "Public holiday in Appenzell Innerrhoden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-22"
+   },
+   "end": {
+    "date": "2023-09-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230922_6dr592r99rbop49kimj10aki7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20230925_d5t89b6ovqlfado718v7m9ngi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjVfZDV0ODliNm92cWxmYWRvNzE4djdtOW5naTQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Nicholas of Flüe (Obwalden)",
+   "description": "Public holiday in Obwalden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-25"
+   },
+   "end": {
+    "date": "2023-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230925_d5t89b6ovqlfado718v7m9ngi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231029_vd155s0pmn0fpqndamqeg43rfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfdmQxNTVzMHBtbjBmcHFuZGFtcWVnNDNyZm8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_vd155s0pmn0fpqndamqeg43rfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231101_l58c5ufkkdsbfbrfu9j64thlac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfbDU4YzV1ZmtrZHNiZmJyZnU5ajY0dGhsYWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "All Saints' Day (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Glarus, Jura, Lucerne, Nidwalden, Obwalden, St. Gallen, Solothurn, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_l58c5ufkkdsbfbrfu9j64thlac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231208_1q0dq5g9gemaj1s5chbm1aj0s4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfMXEwZHE1ZzlnZW1hajFzNWNoYm0xYWowczQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Immaculate Conception (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Graubünden, Lucerne, Nidwalden, Obwalden, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_1q0dq5g9gemaj1s5chbm1aj0s4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231224_5e0c1q9aitj4msmm2vn51v6mo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfNWUwYzFxOWFpdGo0bXNtbTJ2bjUxdjZtbzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_5e0c1q9aitj4msmm2vn51v6mo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231225_0dtbsf189r3889pvmmimqdncg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfMGR0YnNmMTg5cjM4ODlwdm1taW1xZG5jZzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Christmas Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_0dtbsf189r3889pvmmimqdncg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231226_6a1ashqvr2d7iembnr69ge17b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfNmExYXNocXZyMmQ3aWVtYm5yNjlnZTE3YjggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Stephen's Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Valais, Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_6a1ashqvr2d7iembnr69ge17b8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231231_ach793psnhddvptpuutc72j5qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfYWNoNzkzcHNuaGRkdnB0cHV1dGM3Mmo1cXMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Restoration Day (Geneva)",
+   "description": "Public holiday in Geneva",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_ach793psnhddvptpuutc72j5qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20231231_qf98vnv05jinbl3hs22dbmbhlc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfcWY5OHZudjA1amluYmwzaHMyMmRibWJobGMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_qf98vnv05jinbl3hs22dbmbhlc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240101_e0urvlf9pubd4e7fke8eorgut8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZTB1cnZsZjlwdWJkNGU3ZmtlOGVvcmd1dDggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "New Year's Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_e0urvlf9pubd4e7fke8eorgut8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240102_rceo8ur3c3120f6bupp9venjho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfcmNlbzh1cjNjMzEyMGY2YnVwcDl2ZW5qaG8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Berchtold Day (regional holiday)",
+   "description": "Public holiday in Aargau, Bern, Fribourg, Glarus, Jura, Lucerne, Neuchâtel, Obwalden, Schaffhausen, Solothurn, Thurgau, Vaud, Zug, Zurich, Nidwalden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_rceo8ur3c3120f6bupp9venjho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240106_2kn0hfl55ai31nha68m9ga4p94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfMmtuMGhmbDU1YWkzMW5oYTY4bTlnYTRwOTQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Epiphany (regional holiday)",
+   "description": "Public holiday in Graubünden, Schwyz, Ticino, Uri",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_2kn0hfl55ai31nha68m9ga4p94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240214_ovmg9eqq8qm4hn9d2lcv1idq34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfb3ZtZzllcXE4cW00aG45ZDJsY3YxaWRxMzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_ovmg9eqq8qm4hn9d2lcv1idq34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240301_l26idnu8msb005gtuo520l9erk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDFfbDI2aWRudThtc2IwMDVndHVvNTIwbDllcmsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Republic Day (Neuchâtel)",
+   "description": "Public holiday in Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-01"
+   },
+   "end": {
+    "date": "2024-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240301_l26idnu8msb005gtuo520l9erk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240319_tlv13m1ot1qd4d6ik4pi8722p4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTlfdGx2MTNtMW90MXFkNGQ2aWs0cGk4NzIycDQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Saint Joseph's Day (regional holiday)",
+   "description": "Public holiday in Lucerne, Nidwalden, Solothurn, Schwyz, Ticino, Uri, Valais",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-19"
+   },
+   "end": {
+    "date": "2024-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240319_tlv13m1ot1qd4d6ik4pi8722p4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240329_hqdhj48lr4q28249sss6sl5s0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfaHFkaGo0OGxyNHEyODI0OXNzczZzbDVzMGcgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Good Friday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Vaud, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_hqdhj48lr4q28249sss6sl5s0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240331_hd6dlut7gojr83m7m6nvegee4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfaGQ2ZGx1dDdnb2pyODNtN202bnZlZ2VlNHMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_hd6dlut7gojr83m7m6nvegee4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240331_kgf43lgo0fagdls203jn4ks86k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfa2dmNDNsZ28wZmFnZGxzMjAzam40a3M4NmsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_kgf43lgo0fagdls203jn4ks86k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240401_0okqtae8phvkupseb4avdl1ghc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfMG9rcXRhZThwaHZrdXBzZWI0YXZkbDFnaGMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_0okqtae8phvkupseb4avdl1ghc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240415_d1thsheu7vf6om9tua7qb5tpmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTVfZDF0aHNoZXU3dmY2b205dHVhN3FiNXRwbW8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Sechseläuten (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-15"
+   },
+   "end": {
+    "date": "2024-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240415_d1thsheu7vf6om9tua7qb5tpmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240501_fuka9mf7632lf67cce2i40g0mk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfZnVrYTltZjc2MzJsZjY3Y2NlMmk0MGcwbWsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "May Day (regional holiday)",
+   "description": "Public holiday in Basel-Land, Basel-Stadt, Jura, Schaffhausen, Zurich",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_fuka9mf7632lf67cce2i40g0mk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240501_prhpusk72279dm7vtcrr02rl24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfcHJocHVzazcyMjc5ZG03dnRjcnIwMnJsMjQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "May Day (Half-Day) (regional holiday)",
+   "description": "Observance in Solothurn, Thurgau, Ticino\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_prhpusk72279dm7vtcrr02rl24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240509_d8sk7s9eag3bc3e8vutcalig3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfZDhzazdzOWVhZzNiYzNlOHZ1dGNhbGlnM2MgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Ascension Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_d8sk7s9eag3bc3e8vutcalig3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240512_3emv91bpfrk3j5vrh9ga717r9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfM2VtdjkxYnBmcmszajV2cmg5Z2E3MTdyOXMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_3emv91bpfrk3j5vrh9ga717r9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240519_n1lpc343ok8fdf5jdib6f2kl7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfbjFscGMzNDNvazhmZGY1amRpYjZmMmtsN2MgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Pentecost (regional holiday)",
+   "description": "Observance in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_n1lpc343ok8fdf5jdib6f2kl7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240520_7b0d4po2g95ttgadjrcn0vq4c8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfN2IwZDRwbzJnOTV0dGdhZGpyY24wdnE0YzggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Pentecost Monday (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_7b0d4po2g95ttgadjrcn0vq4c8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240530_rgre2np9nimcr24fgc0ru0qtk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MzBfcmdyZTJucDluaW1jcjI0ZmdjMHJ1MHF0azQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Corpus Christi (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Neuchâtel, Jura, Lucerne, Nidwalden, Obwalden, Solothurn, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-30"
+   },
+   "end": {
+    "date": "2024-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240530_rgre2np9nimcr24fgc0ru0qtk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240602_glk4bdmc4qqj5ge091j6i48kv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDJfZ2xrNGJkbWM0cXFqNWdlMDkxajZpNDhrdjggZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-02"
+   },
+   "end": {
+    "date": "2024-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240602_glk4bdmc4qqj5ge091j6i48kv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240623_fm4scr1kekp2ajirlb1t5e6e9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjNfZm00c2NyMWtla3AyYWppcmxiMXQ1ZTZlOXMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Jura Independence Day (Jura)",
+   "description": "Public holiday in Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-23"
+   },
+   "end": {
+    "date": "2024-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240623_fm4scr1kekp2ajirlb1t5e6e9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240629_msk0e487h8i37ont3m71mdcn74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjlfbXNrMGU0ODdoOGkzN29udDNtNzFtZGNuNzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Peter and St. Paul (Ticino)",
+   "description": "Observance in Ticino\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-29"
+   },
+   "end": {
+    "date": "2024-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240629_msk0e487h8i37ont3m71mdcn74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240801_odelc3f1jc5avjd2klod0n57fk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDFfb2RlbGMzZjFqYzVhdmpkMmtsb2QwbjU3ZmsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Swiss National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-01"
+   },
+   "end": {
+    "date": "2024-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240801_odelc3f1jc5avjd2klod0n57fk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240815_e9lpa53a7h4g7v7ueces2qq63k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfZTlscGE1M2E3aDRnN3Y3dWVjZXMycXE2M2sgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Assumption of Mary (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Jura, Lucerne, Nidwalden, Obwalden, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_e9lpa53a7h4g7v7ueces2qq63k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240907_jhqr023heq9ji0mufih9qb8gac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDdfamhxcjAyM2hlcTlqaTBtdWZpaDlxYjhnYWMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-07"
+   },
+   "end": {
+    "date": "2024-09-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240907_jhqr023heq9ji0mufih9qb8gac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240908_oqmefs4gpd11oldio2ij9jhlg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDhfb3FtZWZzNGdwZDExb2xkaW8yaWo5amhsZzQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-08"
+   },
+   "end": {
+    "date": "2024-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240908_oqmefs4gpd11oldio2ij9jhlg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240909_u7cntsknjruon5931549r10rcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDlfdTdjbnRza25qcnVvbjU5MzE1NDlyMTByY2MgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Knabenschiessen (Zurich)",
+   "description": "Observance in Zurich\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-09"
+   },
+   "end": {
+    "date": "2024-09-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240909_u7cntsknjruon5931549r10rcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240915_ig13h1vrqvpe64b5f3ihkmvl40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTVfaWcxM2gxdnJxdnBlNjRiNWYzaWhrbXZsNDAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Swiss Federal Fast (regional holiday)",
+   "description": "Observance in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Jura\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-15"
+   },
+   "end": {
+    "date": "2024-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240915_ig13h1vrqvpe64b5f3ihkmvl40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240916_pk3slf8nc1hvnerdfip7l9oimk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfcGszc2xmOG5jMWh2bmVyZGZpcDdsOW9pbWsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Federal Fast Monday (regional holiday)",
+   "description": "Public holiday in Vaud, Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_pk3slf8nc1hvnerdfip7l9oimk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240922_0banvo3pi41oitklvfklt8g0r4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjJfMGJhbnZvM3BpNDFvaXRrbHZma2x0OGcwcjQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Mauritius Day (Appenzell Innerrhoden)",
+   "description": "Public holiday in Appenzell Innerrhoden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-22"
+   },
+   "end": {
+    "date": "2024-09-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240922_0banvo3pi41oitklvfklt8g0r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20240925_2ged9kkqantjpop5l4v8tljevk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjVfMmdlZDlra3FhbnRqcG9wNWw0djh0bGpldmsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Nicholas of Flüe (Obwalden)",
+   "description": "Public holiday in Obwalden",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-25"
+   },
+   "end": {
+    "date": "2024-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240925_2ged9kkqantjpop5l4v8tljevk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241027_9s4bbtg7nb1p1ehhm2ascuok90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjdfOXM0YmJ0ZzduYjFwMWVoaG0yYXNjdW9rOTAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-27"
+   },
+   "end": {
+    "date": "2024-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241027_9s4bbtg7nb1p1ehhm2ascuok90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241101_e873f17om2fuppj3nsan7kg900",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfZTg3M2YxN29tMmZ1cHBqM25zYW43a2c5MDAgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "All Saints' Day (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Glarus, Jura, Lucerne, Nidwalden, Obwalden, St. Gallen, Solothurn, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_e873f17om2fuppj3nsan7kg900@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241208_qtcb3ubflbh0nkmjleh8e8s5vo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfcXRjYjN1YmZsYmgwbmttamxlaDhlOHM1dm8gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Immaculate Conception (regional holiday)",
+   "description": "Public holiday in Aargau, Appenzell Innerrhoden, Fribourg, Graubünden, Lucerne, Nidwalden, Obwalden, Schwyz, Ticino, Uri, Valais, Zug",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_qtcb3ubflbh0nkmjleh8e8s5vo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241224_jkoe8hv9hhrhhr2eifmqkgf9ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfamtvZThodjloaHJoaHIyZWlmbXFrZ2Y5ZWsgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_jkoe8hv9hhrhhr2eifmqkgf9ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241225_n8004f6kp63pu09jcpb4f4h5hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbjgwMDRmNmtwNjNwdTA5amNwYjRmNGg1aHMgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Christmas Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Vaud, Valais, Neuchâtel, Geneva, Jura",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_n8004f6kp63pu09jcpb4f4h5hs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241226_p49o2v0t8kd4b7hacdih7ph2oc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfcDQ5bzJ2MHQ4a2Q0YjdoYWNkaWg3cGgyb2MgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "St. Stephen's Day (regional holiday)",
+   "description": "Public holiday in Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel-Stadt, Basel-Land, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Aargau, Graubünden, Thurgau, Ticino, Valais, Neuchâtel",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_p49o2v0t8kd4b7hacdih7ph2oc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241231_t4kq1pi77ipv9tq8he0ovhjos4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfdDRrcTFwaTc3aXB2OXRxOGhlMG92aGpvczQgZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "Restoration Day (Geneva)",
+   "description": "Public holiday in Geneva",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_t4kq1pi77ipv9tq8he0ovhjos4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327880639792000\"",
+   "id": "20241231_tm86lorkjmlil351uv20depa7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfdG04NmxvcmtqbWxpbDM1MXV2MjBkZXBhN28gZW4uY2gjaG9saWRheUB2",
+   "created": "2022-09-23T13:38:39.000Z",
+   "updated": "2022-09-23T13:38:39.896Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Switzerland",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_tm86lorkjmlil351uv20depa7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353171593946000\"",
+   "id": "20220407_i4spviatp1v101c0vrub85m3p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDdfaTRzcHZpYXRwMXYxMDFjMHZydWI4NW0zcDAgZW4uY2gjaG9saWRheUB2",
+   "created": "2023-02-16T22:16:36.000Z",
+   "updated": "2023-02-16T22:16:36.973Z",
+   "summary": "Näfels Procession (Glarus)",
+   "description": "Public holiday in Glarus",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-07"
+   },
+   "end": {
+    "date": "2022-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220407_i4spviatp1v101c0vrub85m3p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353171593946000\"",
+   "id": "20220908_ii299vhbiskd3kjiueqc8p3u24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDhfaWkyOTl2aGJpc2tkM2tqaXVlcWM4cDN1MjQgZW4uY2gjaG9saWRheUB2",
+   "created": "2023-02-16T22:16:36.000Z",
+   "updated": "2023-02-16T22:16:36.973Z",
+   "summary": "Genevese Fast (Geneva)",
+   "description": "Public holiday in Geneva",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-08"
+   },
+   "end": {
+    "date": "2022-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220908_ii299vhbiskd3kjiueqc8p3u24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353171593946000\"",
+   "id": "20230406_qcuqsa6ieabfp6dl5v9t790vkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfcWN1cXNhNmllYWJmcDZkbDV2OXQ3OTB2a2sgZW4uY2gjaG9saWRheUB2",
+   "created": "2023-02-16T22:16:36.000Z",
+   "updated": "2023-02-16T22:16:36.973Z",
+   "summary": "Näfels Procession (Glarus)",
+   "description": "Public holiday in Glarus",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_qcuqsa6ieabfp6dl5v9t790vkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353171593946000\"",
+   "id": "20230907_aq7978hu017a0ea1ns07714cs0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDdfYXE3OTc4aHUwMTdhMGVhMW5zMDc3MTRjczAgZW4uY2gjaG9saWRheUB2",
+   "created": "2023-02-16T22:16:36.000Z",
+   "updated": "2023-02-16T22:16:36.973Z",
+   "summary": "Genevese Fast (Geneva)",
+   "description": "Public holiday in Geneva",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-07"
+   },
+   "end": {
+    "date": "2023-09-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230907_aq7978hu017a0ea1ns07714cs0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353171593946000\"",
+   "id": "20240404_1uuqr5e1fkdllaarf9pdi40h00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDRfMXV1cXI1ZTFma2RsbGFhcmY5cGRpNDBoMDAgZW4uY2gjaG9saWRheUB2",
+   "created": "2023-02-16T22:16:36.000Z",
+   "updated": "2023-02-16T22:16:36.973Z",
+   "summary": "Näfels Procession (Glarus)",
+   "description": "Public holiday in Glarus",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-04"
+   },
+   "end": {
+    "date": "2024-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240404_1uuqr5e1fkdllaarf9pdi40h00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353171593946000\"",
+   "id": "20240905_pq63d0guo7pqt0ehn908ijq3m0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDVfcHE2M2QwZ3VvN3BxdDBlaG45MDhpanEzbTAgZW4uY2gjaG9saWRheUB2",
+   "created": "2023-02-16T22:16:36.000Z",
+   "updated": "2023-02-16T22:16:36.973Z",
+   "summary": "Genevese Fast (Geneva)",
+   "description": "Public holiday in Geneva",
+   "creator": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ch#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Switzerland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-05"
+   },
+   "end": {
+    "date": "2024-09-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240905_pq63d0guo7pqt0ehn908ijq3m0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

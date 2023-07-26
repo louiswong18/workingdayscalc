@@ -1,0 +1,3565 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33hsr5c4rqlo00o\"",
+ "summary": "Holidays in Armenia",
+ "description": "Holidays and Observances in Armenia",
+ "updated": "2023-07-24T23:46:34.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICV6svDqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977508576000\"",
+   "id": "20220128_nah58v4qelrf15v3lk345hop3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjhfbmFoNTh2NHFlbHJmMTV2M2xrMzQ1aG9wM2cgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:14.000Z",
+   "updated": "2021-08-26T14:39:14.288Z",
+   "summary": "Army Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-28"
+   },
+   "end": {
+    "date": "2022-01-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220128_nah58v4qelrf15v3lk345hop3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977508576000\"",
+   "id": "20220416_lu5etv43nlcuk4f109afm4mjfs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfbHU1ZXR2NDNubGN1azRmMTA5YWZtNG1qZnMgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:14.000Z",
+   "updated": "2021-08-26T14:39:14.288Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_lu5etv43nlcuk4f109afm4mjfs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977508576000\"",
+   "id": "20220418_r0ulp0eqiqftl99u8tntjm4prs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfcjB1bHAwZXFpcWZ0bDk5dTh0bnRqbTRwcnMgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:14.000Z",
+   "updated": "2021-08-26T14:39:14.288Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_r0ulp0eqiqftl99u8tntjm4prs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977508576000\"",
+   "id": "20220705_8nmj7ip7ers7b8vrthejbrds7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDVfOG5tajdpcDdlcnM3Yjh2cnRoZWpicmRzN2MgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:14.000Z",
+   "updated": "2021-08-26T14:39:14.288Z",
+   "summary": "Day of State Symbols",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-05"
+   },
+   "end": {
+    "date": "2022-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220705_8nmj7ip7ers7b8vrthejbrds7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977508576000\"",
+   "id": "20220921_80tnnmu65ps1oct5a26bp2f40g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjFfODB0bm5tdTY1cHMxb2N0NWEyNmJwMmY0MGcgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:14.000Z",
+   "updated": "2021-08-26T14:39:14.288Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-21"
+   },
+   "end": {
+    "date": "2022-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220921_80tnnmu65ps1oct5a26bp2f40g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977515266000\"",
+   "id": "20220102_m2hjvslvg4cclfklh90050l564",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfbTJoanZzbHZnNGNjbGZrbGg5MDA1MGw1NjQgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:17.000Z",
+   "updated": "2021-08-26T14:39:17.633Z",
+   "summary": "New Year's Day (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_m2hjvslvg4cclfklh90050l564@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977515266000\"",
+   "id": "20220224_np5ie5o5kmlbkddj7cjdc0a2gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjRfbnA1aWU1bzVrbWxia2RkajdjamRjMGEyZ2sgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:17.000Z",
+   "updated": "2021-08-26T14:39:17.633Z",
+   "summary": "Feast of Saint Vartan",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-24"
+   },
+   "end": {
+    "date": "2022-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220224_np5ie5o5kmlbkddj7cjdc0a2gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977515266000\"",
+   "id": "20220308_nho775ldhoonlg1d1es72e6jos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDhfbmhvNzc1bGRob29ubGcxZDFlczcyZTZqb3MgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:17.000Z",
+   "updated": "2021-08-26T14:39:17.633Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-08"
+   },
+   "end": {
+    "date": "2022-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220308_nho775ldhoonlg1d1es72e6jos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977515266000\"",
+   "id": "20220424_h5160cmhalot0dqpoj04ambc18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjRfaDUxNjBjbWhhbG90MGRxcG9qMDRhbWJjMTggZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:17.000Z",
+   "updated": "2021-08-26T14:39:17.633Z",
+   "summary": "Genocide Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-24"
+   },
+   "end": {
+    "date": "2022-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220424_h5160cmhalot0dqpoj04ambc18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977515266000\"",
+   "id": "20220528_pb0sakbbh9sagvv7d4im11lnis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjhfcGIwc2FrYmJoOXNhZ3Z2N2Q0aW0xMWxuaXMgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:17.000Z",
+   "updated": "2021-08-26T14:39:17.633Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-28"
+   },
+   "end": {
+    "date": "2022-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220528_pb0sakbbh9sagvv7d4im11lnis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977515266000\"",
+   "id": "20220901_l3sfjbm7alegcq9kpjneqel1p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDFfbDNzZmpibTdhbGVnY3E5a3BqbmVxZWwxcDAgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:17.000Z",
+   "updated": "2021-08-26T14:39:17.633Z",
+   "summary": "Knowledge and Literature Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-01"
+   },
+   "end": {
+    "date": "2022-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220901_l3sfjbm7alegcq9kpjneqel1p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977520022000\"",
+   "id": "20220106_jmrajo64rulmo1cldpjb18dc3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfam1yYWpvNjRydWxtbzFjbGRwamIxOGRjM2cgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:20.000Z",
+   "updated": "2021-08-26T14:39:20.011Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_jmrajo64rulmo1cldpjb18dc3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977520022000\"",
+   "id": "20220407_2nek12hv3i2c86e5m678oesdhg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDdfMm5lazEyaHYzaTJjODZlNW02NzhvZXNkaGcgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:20.000Z",
+   "updated": "2021-08-26T14:39:20.011Z",
+   "summary": "Motherhood and Beauty Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-07"
+   },
+   "end": {
+    "date": "2022-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220407_2nek12hv3i2c86e5m678oesdhg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977520022000\"",
+   "id": "20220509_90j63s6iovii036q166gjbvdf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfOTBqNjNzNmlvdmlpMDM2cTE2NmdqYnZkZjAgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:20.000Z",
+   "updated": "2021-08-26T14:39:20.011Z",
+   "summary": "Victory and Peace Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_90j63s6iovii036q166gjbvdf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977520022000\"",
+   "id": "20220601_bqt0lnh56kuuialgf5vim8iblk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDFfYnF0MGxuaDU2a3V1aWFsZ2Y1dmltOGlibGsgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:20.000Z",
+   "updated": "2021-08-26T14:39:20.011Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-01"
+   },
+   "end": {
+    "date": "2022-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220601_bqt0lnh56kuuialgf5vim8iblk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977523244000\"",
+   "id": "20220101_ci0hkokmj9jt6bi3v6b7345g5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfY2kwaGtva21qOWp0NmJpM3Y2YjczNDVnNWcgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:21.000Z",
+   "updated": "2021-08-26T14:39:21.622Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_ci0hkokmj9jt6bi3v6b7345g5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977523244000\"",
+   "id": "20220415_50ratrj51giakhn970j21sm9ng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfNTByYXRyajUxZ2lha2huOTcwajIxc205bmcgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:21.000Z",
+   "updated": "2021-08-26T14:39:21.622Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_50ratrj51giakhn970j21sm9ng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977523244000\"",
+   "id": "20220417_djrlrrd3ajr19i71jgf84id3i8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfZGpybHJyZDNhanIxOWk3MWpnZjg0aWQzaTggZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:21.000Z",
+   "updated": "2021-08-26T14:39:21.622Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_djrlrrd3ajr19i71jgf84id3i8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977523244000\"",
+   "id": "20220508_k1c36noi2sh4de578m6osiuqmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfazFjMzZub2kyc2g0ZGU1NzhtNm9zaXVxbW8gZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:21.000Z",
+   "updated": "2021-08-26T14:39:21.622Z",
+   "summary": "Yerkrapah Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_k1c36noi2sh4de578m6osiuqmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259977523244000\"",
+   "id": "20220705_2p2mbc4dtp9rmk3anu9spiacck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDVfMnAybWJjNGR0cDlybWszYW51OXNwaWFjY2sgZW4uYW0jaG9saWRheUB2",
+   "created": "2021-08-26T14:39:21.000Z",
+   "updated": "2021-08-26T14:39:21.622Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-05"
+   },
+   "end": {
+    "date": "2022-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220705_2p2mbc4dtp9rmk3anu9spiacck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294024569930000\"",
+   "id": "20220105_vjrgie0d5aefu8jddo6akr75pg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDVfdmpyZ2llMGQ1YWVmdThqZGRvNmFrcjc1cGcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-03-11T15:24:44.000Z",
+   "updated": "2022-03-11T15:24:44.965Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-05"
+   },
+   "end": {
+    "date": "2022-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220105_vjrgie0d5aefu8jddo6akr75pg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294024569930000\"",
+   "id": "20220107_sb4uf6e4jd16jnfn6niclppmag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDdfc2I0dWY2ZTRqZDE2am5mbjZuaWNscHBtYWcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-03-11T15:24:44.000Z",
+   "updated": "2022-03-11T15:24:44.965Z",
+   "summary": "Christmas Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-07"
+   },
+   "end": {
+    "date": "2022-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220107_sb4uf6e4jd16jnfn6niclppmag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618365164000\"",
+   "id": "20220515_rlr7eovcrbicmjbqq2imqb3h2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTVfcmxyN2VvdmNyYmljbWpicXEyaW1xYjNoMnMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:02.000Z",
+   "updated": "2022-07-14T14:33:02.582Z",
+   "summary": "Family Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-15"
+   },
+   "end": {
+    "date": "2022-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220515_rlr7eovcrbicmjbqq2imqb3h2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618365164000\"",
+   "id": "20220516_f7v4upguf4hfv5vo5f16o3gmog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTZfZjd2NHVwZ3VmNGhmdjV2bzVmMTZvM2dtb2cgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:02.000Z",
+   "updated": "2022-07-14T14:33:02.582Z",
+   "summary": "Day of Students and Youth",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-16"
+   },
+   "end": {
+    "date": "2022-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220516_f7v4upguf4hfv5vo5f16o3gmog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618365164000\"",
+   "id": "20220614_ask9s2q9tp2gl5bse5q90fdrck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTRfYXNrOXMycTl0cDJnbDVic2U1cTkwZmRyY2sgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:02.000Z",
+   "updated": "2022-07-14T14:33:02.582Z",
+   "summary": "Remembrance Day of the Oppressed",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-14"
+   },
+   "end": {
+    "date": "2022-06-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220614_ask9s2q9tp2gl5bse5q90fdrck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618368222000\"",
+   "id": "20220221_6u390s8rgv5a3ln5150ofloub8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfNnUzOTBzOHJndjVhM2xuNTE1MG9mbG91YjggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:04.000Z",
+   "updated": "2022-07-14T14:33:04.111Z",
+   "summary": "Mother Language Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_6u390s8rgv5a3ln5150ofloub8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618368222000\"",
+   "id": "20220416_2dbj4qosvg1v3q99th5n4r3jqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfMmRiajRxb3N2ZzF2M3E5OXRoNW40cjNqcXMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:04.000Z",
+   "updated": "2022-07-14T14:33:04.111Z",
+   "summary": "Armenian Cinema Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_2dbj4qosvg1v3q99th5n4r3jqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618373094000\"",
+   "id": "20220419_q6j9sgvo9dc4p0rtl9ut34418c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTlfcTZqOXNndm85ZGM0cDBydGw5dXQzNDQxOGMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:06.000Z",
+   "updated": "2022-07-14T14:33:06.547Z",
+   "summary": "Taxpayer's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-19"
+   },
+   "end": {
+    "date": "2022-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220419_q6j9sgvo9dc4p0rtl9ut34418c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618373094000\"",
+   "id": "20220430_iavnift67pk09ooijiugm5a7r4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MzBfaWF2bmlmdDY3cGswOW9vaWppdWdtNWE3cjQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-07-14T14:33:06.000Z",
+   "updated": "2022-07-14T14:33:06.547Z",
+   "summary": "Citizens' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-30"
+   },
+   "end": {
+    "date": "2022-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220430_iavnift67pk09ooijiugm5a7r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221002_uidp23s5k1bc6ce979ivmq2ip0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfdWlkcDIzczVrMWJjNmNlOTc5aXZtcTJpcDAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of National Minorities of the Republic of Armenia",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_uidp23s5k1bc6ce979ivmq2ip0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221005_adquv6mo9djjgmq1sdoa55aefc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfYWRxdXY2bW85ZGpqZ21xMXNkb2E1NWFlZmMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_adquv6mo9djjgmq1sdoa55aefc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221008_71nqumaihfc08egukdvi0agsl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfNzFucXVtYWloZmMwOGVndWtkdmkwYWdzbDAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Translators' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_71nqumaihfc08egukdvi0agsl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221110_7kkcd09p917rnrt2230hbcjv4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTBfN2trY2QwOXA5MTdybnJ0MjIzMGhiY2p2NGsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Local Self-Government Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-10"
+   },
+   "end": {
+    "date": "2022-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221110_7kkcd09p917rnrt2230hbcjv4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221207_rslkj94rcrmv5ovo1afbl68b28",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDdfcnNsa2o5NHJjcm12NW92bzFhZmJsNjhiMjggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Spitak Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-07"
+   },
+   "end": {
+    "date": "2022-12-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221207_rslkj94rcrmv5ovo1afbl68b28@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221209_7p913ugu9669nttstvm4mjp95c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDlfN3A5MTN1Z3U5NjY5bnR0c3R2bTRtanA5NWMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Genocide Condemnation and Prevention Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-09"
+   },
+   "end": {
+    "date": "2022-12-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221209_7p913ugu9669nttstvm4mjp95c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20221231_bh249l67intnvg3usq2tv27k80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfYmgyNDlsNjdpbnRudmczdXNxMnR2MjdrODAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_bh249l67intnvg3usq2tv27k80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230101_i5uqh64mens4d0gmc925n6val4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfaTV1cWg2NG1lbnM0ZDBnbWM5MjVuNnZhbDQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_i5uqh64mens4d0gmc925n6val4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230102_q1js6pnqd4s9000h9q8ad57tns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfcTFqczZwbnFkNHM5MDAwaDlxOGFkNTd0bnMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Day (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_q1js6pnqd4s9000h9q8ad57tns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230105_nhctofj0rr7223h5hscnb8co1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDVfbmhjdG9majBycjcyMjNoNWhzY25iOGNvMWsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-05"
+   },
+   "end": {
+    "date": "2023-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230105_nhctofj0rr7223h5hscnb8co1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230106_2moh29ea98t2tb512sfsmnbpbk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfMm1vaDI5ZWE5OHQydGI1MTJzZnNtbmJwYmsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_2moh29ea98t2tb512sfsmnbpbk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230107_t2u3osve5fn0oc7co0hgvfleo8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDdfdDJ1M29zdmU1Zm4wb2M3Y28waGd2ZmxlbzggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Christmas Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-07"
+   },
+   "end": {
+    "date": "2023-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230107_t2u3osve5fn0oc7co0hgvfleo8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230128_lddth9v076qdovrvhcg7pqu278",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjhfbGRkdGg5djA3NnFkb3ZydmhjZzdwcXUyNzggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Army Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-28"
+   },
+   "end": {
+    "date": "2023-01-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230128_lddth9v076qdovrvhcg7pqu278@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230216_6kk8bml419c9u3ud8gplkv19qk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTZfNmtrOGJtbDQxOWM5dTN1ZDhncGxrdjE5cWsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Feast of Saint Vartan",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-16"
+   },
+   "end": {
+    "date": "2023-02-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230216_6kk8bml419c9u3ud8gplkv19qk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230221_nq0ts9jd6s9qpttp9kauh89q70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfbnEwdHM5amQ2czlxcHR0cDlrYXVoODlxNzAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Mother Language Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_nq0ts9jd6s9qpttp9kauh89q70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230308_g7fgsl9if38cc3hv2o5q2jvn70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfZzdmZ3NsOWlmMzhjYzNodjJvNXEyanZuNzAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_g7fgsl9if38cc3hv2o5q2jvn70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230407_02f2rfdpj4k5cto331mlhaoa30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfMDJmMnJmZHBqNGs1Y3RvMzMxbWxoYW9hMzAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Motherhood and Beauty Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_02f2rfdpj4k5cto331mlhaoa30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230407_rmkprmjhmmn1jpaubscuenb0po",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfcm1rcHJtamhtbW4xanBhdWJzY3VlbmIwcG8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_rmkprmjhmmn1jpaubscuenb0po@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230408_amhknup9qk46t1q6vq02v6utpo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfYW1oa251cDlxazQ2dDFxNnZxMDJ2NnV0cG8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_amhknup9qk46t1q6vq02v6utpo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230409_otfnqinq78r8kjj0lv0cpan2vk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfb3RmbnFpbnE3OHI4a2pqMGx2MGNwYW4ydmsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_otfnqinq78r8kjj0lv0cpan2vk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230410_34kovrhilqm34un30a2d2c1sp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfMzRrb3ZyaGlscW0zNHVuMzBhMmQyYzFzcDQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_34kovrhilqm34un30a2d2c1sp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230416_dk7d5ghi6rs6c8o3e0djo5pvo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTZfZGs3ZDVnaGk2cnM2YzhvM2UwZGpvNXB2bzQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Armenian Cinema Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-16"
+   },
+   "end": {
+    "date": "2023-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230416_dk7d5ghi6rs6c8o3e0djo5pvo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230419_bqshjfcp2kpo4ga3vrpb65cqg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTlfYnFzaGpmY3Aya3BvNGdhM3ZycGI2NWNxZzQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Taxpayer's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-19"
+   },
+   "end": {
+    "date": "2023-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230419_bqshjfcp2kpo4ga3vrpb65cqg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230424_pc932qka40m0vqc5mr4f9k3ops",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfcGM5MzJxa2E0MG0wdnFjNW1yNGY5azNvcHMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Genocide Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_pc932qka40m0vqc5mr4f9k3ops@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230429_qh48bvpnf6u30blijmh0eprj58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjlfcWg0OGJ2cG5mNnUzMGJsaWptaDBlcHJqNTggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Citizens' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-29"
+   },
+   "end": {
+    "date": "2023-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230429_qh48bvpnf6u30blijmh0eprj58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230508_qrjq9vrthch5h14iq7ns7qmts4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfcXJqcTl2cnRoY2g1aDE0aXE3bnM3cW10czQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Yerkrapah Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_qrjq9vrthch5h14iq7ns7qmts4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230509_qi61hi1m8s3nk83el326sq3meo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDlfcWk2MWhpMW04czNuazgzZWwzMjZzcTNtZW8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Victory and Peace Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-09"
+   },
+   "end": {
+    "date": "2023-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230509_qi61hi1m8s3nk83el326sq3meo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230515_12t2a921ss01sj7cuj7oopa384",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTVfMTJ0MmE5MjFzczAxc2o3Y3VqN29vcGEzODQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Family Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-15"
+   },
+   "end": {
+    "date": "2023-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230515_12t2a921ss01sj7cuj7oopa384@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230516_f38dbvnb9mv7p2k856qhd1vu7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTZfZjM4ZGJ2bmI5bXY3cDJrODU2cWhkMXZ1N3MgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of Students and Youth",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-16"
+   },
+   "end": {
+    "date": "2023-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230516_f38dbvnb9mv7p2k856qhd1vu7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230528_uf0vdlvh9esphjb6c9i9uobm9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfdWYwdmRsdmg5ZXNwaGpiNmM5aTl1b2JtOW8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_uf0vdlvh9esphjb6c9i9uobm9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230601_i8ags0abfauvefuuunjfiqo390",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDFfaThhZ3MwYWJmYXV2ZWZ1dXVuamZpcW8zOTAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-01"
+   },
+   "end": {
+    "date": "2023-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230601_i8ags0abfauvefuuunjfiqo390@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230614_qp9tuo9idoif3f6nk1dtd326fg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTRfcXA5dHVvOWlkb2lmM2Y2bmsxZHRkMzI2ZmcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Remembrance Day of the Oppressed",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-14"
+   },
+   "end": {
+    "date": "2023-06-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230614_qp9tuo9idoif3f6nk1dtd326fg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230705_842qubl04vpfuuufpsqctalsag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDVfODQycXVibDA0dnBmdXV1ZnBzcWN0YWxzYWcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of State Symbols",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-05"
+   },
+   "end": {
+    "date": "2023-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230705_842qubl04vpfuuufpsqctalsag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230705_ofiskvu11cf21t1sfvgqg3quts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDVfb2Zpc2t2dTExY2YyMXQxc2Z2Z3FnM3F1dHMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-05"
+   },
+   "end": {
+    "date": "2023-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230705_ofiskvu11cf21t1sfvgqg3quts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230901_dj03ilk3h63a05fkadbidvolms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDFfZGowM2lsazNoNjNhMDVma2FkYmlkdm9sbXMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Knowledge and Literature Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-01"
+   },
+   "end": {
+    "date": "2023-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230901_dj03ilk3h63a05fkadbidvolms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20230921_pfu4vs59vu98m5okprr17ln3u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjFfcGZ1NHZzNTl2dTk4bTVva3BycjE3bG4zdTggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-21"
+   },
+   "end": {
+    "date": "2023-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230921_pfu4vs59vu98m5okprr17ln3u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231001_kenoth9rnt8iu5cp242eckj7d8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfa2Vub3RoOXJudDhpdTVjcDI0MmVja2o3ZDggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of National Minorities of the Republic of Armenia",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_kenoth9rnt8iu5cp242eckj7d8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231005_df3nerjspeujp4t91v3av5mjbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDVfZGYzbmVyanNwZXVqcDR0OTF2M2F2NW1qYmcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-05"
+   },
+   "end": {
+    "date": "2023-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231005_df3nerjspeujp4t91v3av5mjbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231014_gh9g2if92pp1j5ht22f0u4brcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTRfZ2g5ZzJpZjkycHAxajVodDIyZjB1NGJyY3MgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Translators' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-14"
+   },
+   "end": {
+    "date": "2023-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231014_gh9g2if92pp1j5ht22f0u4brcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231110_bh50enpeft3msru82rrgrpj080",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTBfYmg1MGVucGVmdDNtc3J1ODJycmdycGowODAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Local Self-Government Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-10"
+   },
+   "end": {
+    "date": "2023-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231110_bh50enpeft3msru82rrgrpj080@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231207_8h1a4vivrffh4v56585kjiu21g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDdfOGgxYTR2aXZyZmZoNHY1NjU4NWtqaXUyMWcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Spitak Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-07"
+   },
+   "end": {
+    "date": "2023-12-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231207_8h1a4vivrffh4v56585kjiu21g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231209_mkoheh02i318ojpdcmguqncm2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDlfbWtvaGVoMDJpMzE4b2pwZGNtZ3VxbmNtMmcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Genocide Condemnation and Prevention Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-09"
+   },
+   "end": {
+    "date": "2023-12-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231209_mkoheh02i318ojpdcmguqncm2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20231231_g0ad2qd7kc46hdrgmn5lkb1670",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfZzBhZDJxZDdrYzQ2aGRyZ21uNWxrYjE2NzAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_g0ad2qd7kc46hdrgmn5lkb1670@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240101_gl93j66rgogofttgld82qpd1oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZ2w5M2o2NnJnb2dvZnR0Z2xkODJxcGQxb28gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_gl93j66rgogofttgld82qpd1oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240102_e23o9lvnp1db68uhdl9a830u7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfZTIzbzlsdm5wMWRiNjh1aGRsOWE4MzB1N28gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Day (Day 2)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_e23o9lvnp1db68uhdl9a830u7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240105_fsm0q1asso3i33l5pigr2nddis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDVfZnNtMHExYXNzbzNpMzNsNXBpZ3IybmRkaXMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-05"
+   },
+   "end": {
+    "date": "2024-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240105_fsm0q1asso3i33l5pigr2nddis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240106_59bdmvlbi2dr1b6fokd66puco4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfNTliZG12bGJpMmRyMWI2Zm9rZDY2cHVjbzQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_59bdmvlbi2dr1b6fokd66puco4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240107_v1h0g3f9abn59g31o61jud232o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDdfdjFoMGczZjlhYm41OWczMW82MWp1ZDIzMm8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Christmas Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-07"
+   },
+   "end": {
+    "date": "2024-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240107_v1h0g3f9abn59g31o61jud232o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240128_mvm0ikat4k08o6ekfldam7nklk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjhfbXZtMGlrYXQ0azA4bzZla2ZsZGFtN25rbGsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Army Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-28"
+   },
+   "end": {
+    "date": "2024-01-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240128_mvm0ikat4k08o6ekfldam7nklk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240208_s1rphquk2v6mfivalkkaipn1tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDhfczFycGhxdWsydjZtZml2YWxra2FpcG4xdGsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Feast of Saint Vartan",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-08"
+   },
+   "end": {
+    "date": "2024-02-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240208_s1rphquk2v6mfivalkkaipn1tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240221_cgnhbqqa6m3kgufm9n2u4e68to",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjFfY2duaGJxcWE2bTNrZ3VmbTluMnU0ZTY4dG8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Mother Language Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-21"
+   },
+   "end": {
+    "date": "2024-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240221_cgnhbqqa6m3kgufm9n2u4e68to@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240308_rv84u7lvc5mpfvh9hlnp6t7kog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfcnY4NHU3bHZjNW1wZnZoOWhsbnA2dDdrb2cgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_rv84u7lvc5mpfvh9hlnp6t7kog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240329_9f8dljj53c4gsecb9ucu34b2bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfOWY4ZGxqajUzYzRnc2VjYjl1Y3UzNGIyYmMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_9f8dljj53c4gsecb9ucu34b2bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240330_4bpl389vpmu7sbjp8cj6446r34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfNGJwbDM4OXZwbXU3c2JqcDhjajY0NDZyMzQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_4bpl389vpmu7sbjp8cj6446r34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240331_ijdv8qs86t26qpuh83q8vn45eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfaWpkdjhxczg2dDI2cXB1aDgzcTh2bjQ1ZWcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_ijdv8qs86t26qpuh83q8vn45eg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240401_jg35gkmbu5ormqgbrovmvg18vc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfamczNWdrbWJ1NW9ybXFnYnJvdm12ZzE4dmMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Easter Monday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_jg35gkmbu5ormqgbrovmvg18vc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240407_f0jf3li3b07mareiu2smcghsss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDdfZjBqZjNsaTNiMDdtYXJlaXUyc21jZ2hzc3MgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Motherhood and Beauty Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-07"
+   },
+   "end": {
+    "date": "2024-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240407_f0jf3li3b07mareiu2smcghsss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240416_83nm2a4cs515c7nior10hk0gd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTZfODNubTJhNGNzNTE1YzduaW9yMTBoazBnZDQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Armenian Cinema Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-16"
+   },
+   "end": {
+    "date": "2024-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240416_83nm2a4cs515c7nior10hk0gd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240419_mdmsigindi1kdo3o8h4auo7hhg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTlfbWRtc2lnaW5kaTFrZG8zbzhoNGF1bzdoaGcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Taxpayer's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-19"
+   },
+   "end": {
+    "date": "2024-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240419_mdmsigindi1kdo3o8h4auo7hhg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240424_3qdq1ponrnkehpf9j9u41aofp0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjRfM3FkcTFwb25ybmtlaHBmOWo5dTQxYW9mcDAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Genocide Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-24"
+   },
+   "end": {
+    "date": "2024-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240424_3qdq1ponrnkehpf9j9u41aofp0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240427_8gd7f8juntnf430l1iokfmq5o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjdfOGdkN2Y4anVudG5mNDMwbDFpb2tmbXE1bzAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Citizens' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-27"
+   },
+   "end": {
+    "date": "2024-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240427_8gd7f8juntnf430l1iokfmq5o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240508_r54b9hsq780rfmesl1hdm3ho7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDhfcjU0Yjloc3E3ODByZm1lc2wxaGRtM2hvN2cgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Yerkrapah Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-08"
+   },
+   "end": {
+    "date": "2024-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240508_r54b9hsq780rfmesl1hdm3ho7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240509_jrr1gk9o12nedafb9ckauccf94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfanJyMWdrOW8xMm5lZGFmYjlja2F1Y2NmOTQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Victory and Peace Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_jrr1gk9o12nedafb9ckauccf94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240515_u4jjhg39o4dmfgiv768lc21agg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTVfdTRqamhnMzlvNGRtZmdpdjc2OGxjMjFhZ2cgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Family Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-15"
+   },
+   "end": {
+    "date": "2024-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240515_u4jjhg39o4dmfgiv768lc21agg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240516_tkgbjvkkgavb6bical6n8n4430",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTZfdGtnYmp2a2tnYXZiNmJpY2FsNm44bjQ0MzAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of Students and Youth",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-16"
+   },
+   "end": {
+    "date": "2024-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240516_tkgbjvkkgavb6bical6n8n4430@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240528_970q2tonf46uve4djkntdga5os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjhfOTcwcTJ0b25mNDZ1dmU0ZGprbnRkZ2E1b3MgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-28"
+   },
+   "end": {
+    "date": "2024-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240528_970q2tonf46uve4djkntdga5os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240601_0b8i9e067lg3csi5vul7vc9rf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDFfMGI4aTllMDY3bGczY3NpNXZ1bDd2YzlyZjAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-01"
+   },
+   "end": {
+    "date": "2024-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240601_0b8i9e067lg3csi5vul7vc9rf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240614_5dfeibc8oemcfdsg242f5pr6sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTRfNWRmZWliYzhvZW1jZmRzZzI0MmY1cHI2c2sgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Remembrance Day of the Oppressed",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-14"
+   },
+   "end": {
+    "date": "2024-06-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240614_5dfeibc8oemcfdsg242f5pr6sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240705_6e8ugf3pjl07jglf64oe8b67ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDVfNmU4dWdmM3BqbDA3amdsZjY0b2U4YjY3bnMgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-05"
+   },
+   "end": {
+    "date": "2024-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240705_6e8ugf3pjl07jglf64oe8b67ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240705_oa349nmlkqi7c1raen9f9ip0ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDVfb2EzNDlubWxrcWk3YzFyYWVuOWY5aXAwc3MgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of State Symbols",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-05"
+   },
+   "end": {
+    "date": "2024-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240705_oa349nmlkqi7c1raen9f9ip0ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240901_4c1ng700cmssaqung312u59m24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDFfNGMxbmc3MDBjbXNzYXF1bmczMTJ1NTltMjQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Knowledge and Literature Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-01"
+   },
+   "end": {
+    "date": "2024-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240901_4c1ng700cmssaqung312u59m24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20240921_kmb94bn3fkuoli2ecalh2ehn0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjFfa21iOTRibjNma3VvbGkyZWNhbGgyZWhuMGsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-21"
+   },
+   "end": {
+    "date": "2024-09-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240921_kmb94bn3fkuoli2ecalh2ehn0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241005_89s53rc3umrlicnh5k16cesjl8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDVfODlzNTNyYzN1bXJsaWNuaDVrMTZjZXNqbDggZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-05"
+   },
+   "end": {
+    "date": "2024-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241005_89s53rc3umrlicnh5k16cesjl8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241006_jgqsrma2ns4huthcra1p0tm7bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDZfamdxc3JtYTJuczRodXRoY3JhMXAwdG03YmcgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Day of National Minorities of the Republic of Armenia",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-06"
+   },
+   "end": {
+    "date": "2024-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241006_jgqsrma2ns4huthcra1p0tm7bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241012_8uomnl9s6vq7lb6su7q6n46k20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfOHVvbW5sOXM2dnE3bGI2c3U3cTZuNDZrMjAgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Translators' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_8uomnl9s6vq7lb6su7q6n46k20@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241110_okp0mb92h9kn05t8mnrfo018v4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTBfb2twMG1iOTJoOWtuMDV0OG1ucmZvMDE4djQgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Local Self-Government Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-10"
+   },
+   "end": {
+    "date": "2024-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241110_okp0mb92h9kn05t8mnrfo018v4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241207_ira57iippje8gdqrvhs2fcs5to",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDdfaXJhNTdpaXBwamU4Z2RxcnZoczJmY3M1dG8gZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Spitak Remembrance Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-07"
+   },
+   "end": {
+    "date": "2024-12-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241207_ira57iippje8gdqrvhs2fcs5to@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241209_vvdpgvhhanucdftjjpj7nsftnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDlfdnZkcGd2aGhhbnVjZGZ0ampwajduc2Z0bmsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "Genocide Condemnation and Prevention Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Armenia",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-09"
+   },
+   "end": {
+    "date": "2024-12-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241209_vvdpgvhhanucdftjjpj7nsftnk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900322290000\"",
+   "id": "20241231_51nm28380msi0tp8bb5kbhquvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfNTFubTI4MzgwbXNpMHRwOGJiNWtiaHF1dmsgZW4uYW0jaG9saWRheUB2",
+   "created": "2022-09-23T16:22:41.000Z",
+   "updated": "2022-09-23T16:22:41.145Z",
+   "summary": "New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_51nm28380msi0tp8bb5kbhquvk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3365342178592000\"",
+   "id": "20220501_ajnhaln0teajhs0shvf6hhahro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfYWpuaGFsbjB0ZWFqaHMwc2h2ZjZoaGFocm8gZW4uYW0jaG9saWRheUB2",
+   "created": "2023-04-28T08:38:09.000Z",
+   "updated": "2023-04-28T08:38:09.296Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_ajnhaln0teajhs0shvf6hhahro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3365342178592000\"",
+   "id": "20230501_kkl9g10afsrb0l83or1nqbfas8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfa2tsOWcxMGFmc3JiMGw4M29yMW5xYmZhczggZW4uYW0jaG9saWRheUB2",
+   "created": "2023-04-28T08:38:09.000Z",
+   "updated": "2023-04-28T08:38:09.296Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_kkl9g10afsrb0l83or1nqbfas8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3365342178592000\"",
+   "id": "20240501_c2pkf2t8f2ffc31jmgccc7udo8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfYzJwa2YydDhmMmZmYzMxam1nY2NjN3VkbzggZW4uYW0jaG9saWRheUB2",
+   "created": "2023-04-28T08:38:09.000Z",
+   "updated": "2023-04-28T08:38:09.296Z",
+   "summary": "Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.am#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Armenia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_c2pkf2t8f2ffc31jmgccc7udo8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

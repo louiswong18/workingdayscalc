@@ -1,0 +1,1421 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p337q35sgrqlo00o\"",
+ "summary": "Holidays in Qatar",
+ "description": "Holidays and Observances in Qatar",
+ "updated": "2023-07-24T20:21:13.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMCA3NiVqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975364866000\"",
+   "id": "20220504_qo5k3cl6o0vsmsi5rc1dksl7f0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfcW81azNjbDZvMHZzbXNpNXJjMWRrc2w3ZjAgZW4ucWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:21:22.000Z",
+   "updated": "2021-08-26T14:21:22.433Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_qo5k3cl6o0vsmsi5rc1dksl7f0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975364866000\"",
+   "id": "20220712_351kq2kct4fk9dcs2d7jqge9ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfMzUxa3Eya2N0NGZrOWRjczJkN2pxZ2U5YWMgZW4ucWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:21:22.000Z",
+   "updated": "2021-08-26T14:21:22.433Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_351kq2kct4fk9dcs2d7jqge9ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975369658000\"",
+   "id": "20220208_qca3h9chtnv3c3u84ro5agv788",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDhfcWNhM2g5Y2h0bnYzYzN1ODRybzVhZ3Y3ODggZW4ucWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:21:24.000Z",
+   "updated": "2021-08-26T14:21:24.829Z",
+   "summary": "National Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-08"
+   },
+   "end": {
+    "date": "2022-02-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220208_qca3h9chtnv3c3u84ro5agv788@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259975369658000\"",
+   "id": "20220711_sebjpkan4525fi6p0pbdas4g84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfc2VianBrYW40NTI1Zmk2cDBwYmRhczRnODQgZW4ucWEjaG9saWRheUB2",
+   "created": "2021-08-26T14:21:24.000Z",
+   "updated": "2021-08-26T14:21:24.829Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_sebjpkan4525fi6p0pbdas4g84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023240310000\"",
+   "id": "20220502_otidind082k1ft9uods4o7cd2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfb3RpZGluZDA4MmsxZnQ5dW9kczRvN2NkMm8gZW4ucWEjaG9saWRheUB2",
+   "created": "2022-03-11T15:13:40.000Z",
+   "updated": "2022-03-11T15:13:40.155Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_otidind082k1ft9uods4o7cd2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023240310000\"",
+   "id": "20220503_ek91ia1741hd1frhekqj3t23uo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfZWs5MWlhMTc0MWhkMWZyaGVrcWozdDIzdW8gZW4ucWEjaG9saWRheUB2",
+   "created": "2022-03-11T15:13:40.000Z",
+   "updated": "2022-03-11T15:13:40.155Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_ek91ia1741hd1frhekqj3t23uo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354334556000\"",
+   "id": "20220429_e1ujclmmofpfisekba71o5btms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjlfZTF1amNsbW1vZnBmaXNla2JhNzFvNWJ0bXMgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-06-08T08:32:47.000Z",
+   "updated": "2022-06-08T08:32:47.278Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-29"
+   },
+   "end": {
+    "date": "2022-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220429_e1ujclmmofpfisekba71o5btms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354334556000\"",
+   "id": "20220430_17acl35eih90fd7rumdpiufv1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MzBfMTdhY2wzNWVpaDkwZmQ3cnVtZHBpdWZ2MXMgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-06-08T08:32:47.000Z",
+   "updated": "2022-06-08T08:32:47.278Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-30"
+   },
+   "end": {
+    "date": "2022-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220430_17acl35eih90fd7rumdpiufv1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354334556000\"",
+   "id": "20220501_km8ft5dhc4m7idhd3gl6orq2mg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfa204ZnQ1ZGhjNG03aWRoZDNnbDZvcnEybWcgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-06-08T08:32:47.000Z",
+   "updated": "2022-06-08T08:32:47.278Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_km8ft5dhc4m7idhd3gl6orq2mg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354334556000\"",
+   "id": "20220505_e6srubsfusgopshu6geis79i00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfZTZzcnVic2Z1c2dvcHNodTZnZWlzNzlpMDAgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-06-08T08:32:47.000Z",
+   "updated": "2022-06-08T08:32:47.278Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_e6srubsfusgopshu6geis79i00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354334556000\"",
+   "id": "20220506_kjjgjlbnhk635rsi5q3b6mnrj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDZfa2pqZ2psYm5oazYzNXJzaTVxM2I2bW5yajAgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-06-08T08:32:47.000Z",
+   "updated": "2022-06-08T08:32:47.278Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-06"
+   },
+   "end": {
+    "date": "2022-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220506_kjjgjlbnhk635rsi5q3b6mnrj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3309354334556000\"",
+   "id": "20220507_85ge6cttimnnqq9un9rf56v2gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDdfODVnZTZjdHRpbW5ucXE5dW45cmY1NnYyZ3MgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-06-08T08:32:47.000Z",
+   "updated": "2022-06-08T08:32:47.278Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-07"
+   },
+   "end": {
+    "date": "2022-05-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220507_85ge6cttimnnqq9un9rf56v2gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618079252000\"",
+   "id": "20220709_nftnh7aaoplbr5rsdkis6278a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfbmZ0bmg3YWFvcGxicjVyc2RraXM2Mjc4YTggZW4ucWEjaG9saWRheUB2",
+   "created": "2022-07-14T14:30:39.000Z",
+   "updated": "2022-07-14T14:30:39.626Z",
+   "summary": "Eid al-Adha (Feast of Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_nftnh7aaoplbr5rsdkis6278a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618079252000\"",
+   "id": "20220710_bmiqaub2qngt94fa378uob3tgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfYm1pcWF1YjJxbmd0OTRmYTM3OHVvYjN0Z2cgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-07-14T14:30:39.000Z",
+   "updated": "2022-07-14T14:30:39.626Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_bmiqaub2qngt94fa378uob3tgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618079252000\"",
+   "id": "20220713_t4j0iv6g1dvs9h4b1b9iuokt9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTNfdDRqMGl2NmcxZHZzOWg0YjFiOWl1b2t0OWMgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-07-14T14:30:39.000Z",
+   "updated": "2022-07-14T14:30:39.626Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-13"
+   },
+   "end": {
+    "date": "2022-07-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220713_t4j0iv6g1dvs9h4b1b9iuokt9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20221218_lcjdpa1j216vb75nemkcaabdjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMThfbGNqZHBhMWoyMTZ2Yjc1bmVta2NhYWJkamsgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-18"
+   },
+   "end": {
+    "date": "2022-12-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221218_lcjdpa1j216vb75nemkcaabdjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20221231_5m0m4276fup1lvcvo9l1rldfb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfNW0wbTQyNzZmdXAxbHZjdm85bDFybGRmYjggZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Qatar",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_5m0m4276fup1lvcvo9l1rldfb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20230214_1t1pob43cs7okf12qpgkn5r2q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfMXQxcG9iNDNjczdva2YxMnFwZ2tuNXIycTggZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "National Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_1t1pob43cs7okf12qpgkn5r2q8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20230423_fgacdpf4t35ifmlu54vuvsi680",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfZmdhY2RwZjR0MzVpZm1sdTU0dnV2c2k2ODAgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_fgacdpf4t35ifmlu54vuvsi680@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20230630_lj0hvnojpus8psartf8ilpnkl8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfbGowaHZub2pwdXM4cHNhcnRmOGlscG5rbDggZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_lj0hvnojpus8psartf8ilpnkl8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20230701_bagigvmcdp7vuubmrijlhhoop4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfYmFnaWd2bWNkcDd2dXVibXJpamxoaG9vcDQgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_bagigvmcdp7vuubmrijlhhoop4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20231218_97f7er3sepqh0doi416u9bgnf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMThfOTdmN2VyM3NlcHFoMGRvaTQxNnU5YmduZjAgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-18"
+   },
+   "end": {
+    "date": "2023-12-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231218_97f7er3sepqh0doi416u9bgnf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20231231_jufb3j1ktn1hn9gv80psaqp6co",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfanVmYjNqMWt0bjFobjlndjgwcHNhcXA2Y28gZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Qatar",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_jufb3j1ktn1hn9gv80psaqp6co@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240213_6bpag1mfogttfffmii9f7s6hs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfNmJwYWcxbWZvZ3R0ZmZmbWlpOWY3czZoczQgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "National Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_6bpag1mfogttfffmii9f7s6hs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240410_nta23i5151oukff0g9rtr10bts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfbnRhMjNpNTE1MW91a2ZmMGc5cnRyMTBidHMgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_nta23i5151oukff0g9rtr10bts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240411_b7bov2sj6l7kcrb99l00q6i8ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfYjdib3Yyc2o2bDdrY3JiOTlsMDBxNmk4dWcgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_b7bov2sj6l7kcrb99l00q6i8ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240412_q3vefq8be9l12qvg4g7b59atmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfcTN2ZWZxOGJlOWwxMnF2ZzRnN2I1OWF0bW8gZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_q3vefq8be9l12qvg4g7b59atmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240617_r9m0tdtbk43ehbff6elatkqojo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfcjltMHRkdGJrNDNlaGJmZjZlbGF0a3Fvam8gZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Adha (Feast of Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_r9m0tdtbk43ehbff6elatkqojo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240618_uoogase7bbf348kl2pgjut8628",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfdW9vZ2FzZTdiYmYzNDhrbDJwZ2p1dDg2MjggZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_uoogase7bbf348kl2pgjut8628@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20240619_qnva20a7d80u53dapo2ugtgpec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfcW52YTIwYTdkODB1NTNkYXBvMnVndGdwZWMgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_qnva20a7d80u53dapo2ugtgpec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20241218_d3d2jts68qrjbckiiv9gjgcllo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMThfZDNkMmp0czY4cXJqYmNraWl2OWdqZ2NsbG8gZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-18"
+   },
+   "end": {
+    "date": "2024-12-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241218_d3d2jts68qrjbckiiv9gjgcllo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327893454128000\"",
+   "id": "20241231_l8n0c9e1dq6mjdu10cusfoj17s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfbDhuMGM5ZTFkcTZtamR1MTBjdXNmb2oxN3MgZW4ucWEjaG9saWRheUB2",
+   "created": "2022-09-23T15:25:27.000Z",
+   "updated": "2022-09-23T15:25:27.064Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Qatar",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_l8n0c9e1dq6mjdu10cusfoj17s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3349625091204000\"",
+   "id": "20230421_lu449vk6rtjskkkc2ek7ghili8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfbHU0NDl2azZydGpza2trYzJlazdnaGlsaTggZW4ucWEjaG9saWRheUB2",
+   "created": "2023-01-27T09:42:25.000Z",
+   "updated": "2023-01-27T09:42:25.602Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_lu449vk6rtjskkkc2ek7ghili8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3349625091204000\"",
+   "id": "20230422_hs5l9f4ovreb911gu7hd10ku6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfaHM1bDlmNG92cmViOTExZ3U3aGQxMGt1NmMgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-01-27T09:42:25.000Z",
+   "updated": "2023-01-27T09:42:25.602Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_hs5l9f4ovreb911gu7hd10ku6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3349625091204000\"",
+   "id": "20230628_s9lgejaq5ejqh87mcn3bnlrmuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfczlsZ2VqYXE1ZWpxaDg3bWNuM2JubHJtdWsgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-01-27T09:42:25.000Z",
+   "updated": "2023-01-27T09:42:25.602Z",
+   "summary": "Eid al-Adha (Feast of Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_s9lgejaq5ejqh87mcn3bnlrmuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3349625091204000\"",
+   "id": "20230629_i6jgo529f7ks0sn2c4dskarr78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfaTZqZ281MjlmN2tzMHNuMmM0ZHNrYXJyNzggZW4ucWEjaG9saWRheUB2",
+   "created": "2023-01-27T09:42:25.000Z",
+   "updated": "2023-01-27T09:42:25.602Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_i6jgo529f7ks0sn2c4dskarr78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359046923756000\"",
+   "id": "20230323_150ufn35q80n0q1ujrt5sctv5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfMTUwdWZuMzVxODBuMHExdWpydDVzY3R2NWcgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-03-22T22:17:41.000Z",
+   "updated": "2023-03-22T22:17:41.878Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Qatar",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_150ufn35q80n0q1ujrt5sctv5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359046923756000\"",
+   "id": "20240311_8gr4c6b0pihfdereug077hneg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfOGdyNGM2YjBwaWhmZGVyZXVnMDc3aG5lZzAgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-03-22T22:17:41.000Z",
+   "updated": "2023-03-22T22:17:41.878Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Qatar",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_8gr4c6b0pihfdereug077hneg0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363785574404000\"",
+   "id": "20230419_0mj53q4mpif78tkq5o4igbtee4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTlfMG1qNTNxNG1waWY3OHRrcTVvNGlnYnRlZTQgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-04-19T08:26:27.000Z",
+   "updated": "2023-04-19T08:26:27.202Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-19"
+   },
+   "end": {
+    "date": "2023-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230419_0mj53q4mpif78tkq5o4igbtee4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363785574404000\"",
+   "id": "20230420_0a8kne3bd5rdq7rsph2d888g18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfMGE4a25lM2JkNXJkcTdyc3BoMmQ4ODhnMTggZW4ucWEjaG9saWRheUB2",
+   "created": "2023-04-19T08:26:27.000Z",
+   "updated": "2023-04-19T08:26:27.202Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_0a8kne3bd5rdq7rsph2d888g18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363785574404000\"",
+   "id": "20230424_q2n84plk5aqf41q60r5qs82jmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfcTJuODRwbGs1YXFmNDFxNjByNXFzODJqbW8gZW4ucWEjaG9saWRheUB2",
+   "created": "2023-04-19T08:26:27.000Z",
+   "updated": "2023-04-19T08:26:27.202Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_q2n84plk5aqf41q60r5qs82jmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363785574404000\"",
+   "id": "20230425_pmbbkcktii78fikemg6pvt4hrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfcG1iYmtja3RpaTc4ZmlrZW1nNnB2dDRocnMgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-04-19T08:26:27.000Z",
+   "updated": "2023-04-19T08:26:27.202Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_pmbbkcktii78fikemg6pvt4hrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363785574404000\"",
+   "id": "20230426_hl8d87b7a6t21kmoio49ps4oio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjZfaGw4ZDg3YjdhNnQyMWttb2lvNDlwczRvaW8gZW4ucWEjaG9saWRheUB2",
+   "created": "2023-04-19T08:26:27.000Z",
+   "updated": "2023-04-19T08:26:27.202Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-26"
+   },
+   "end": {
+    "date": "2023-04-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230426_hl8d87b7a6t21kmoio49ps4oio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363785574404000\"",
+   "id": "20230427_u1au3nog5mama08a4tdac8h6dk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjdfdTFhdTNub2c1bWFtYTA4YTR0ZGFjOGg2ZGsgZW4ucWEjaG9saWRheUB2",
+   "created": "2023-04-19T08:26:27.000Z",
+   "updated": "2023-04-19T08:26:27.202Z",
+   "summary": "Eid al-Fitr Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.qa#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Qatar",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-27"
+   },
+   "end": {
+    "date": "2023-04-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230427_u1au3nog5mama08a4tdac8h6dk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

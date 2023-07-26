@@ -1,0 +1,2893 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33dth4nurmlo00o\"",
+ "summary": "Holidays in Indonesia",
+ "description": "Holidays and Observances in Indonesia",
+ "updated": "2023-07-25T08:31:04.620Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "COCvmOq4qYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972264604000\"",
+   "id": "20220101_f3jljnf8l62cvjagbn91tbo20c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfZjNqbGpuZjhsNjJjdmphZ2JuOTF0Ym8yMGMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:32.000Z",
+   "updated": "2021-08-26T13:55:32.302Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_f3jljnf8l62cvjagbn91tbo20c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972264604000\"",
+   "id": "20220817_eog37qgqq51u0hjvuvu0vptaq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTdfZW9nMzdxZ3FxNTF1MGhqdnV2dTB2cHRhcTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:32.000Z",
+   "updated": "2021-08-26T13:55:32.302Z",
+   "summary": "Indonesian Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-17"
+   },
+   "end": {
+    "date": "2022-08-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220817_eog37qgqq51u0hjvuvu0vptaq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972271106000\"",
+   "id": "20220415_gcugah4mc33l2pc37sps4c4dms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfZ2N1Z2FoNG1jMzNsMnBjMzdzcHM0YzRkbXMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:35.000Z",
+   "updated": "2021-08-26T13:55:35.553Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_gcugah4mc33l2pc37sps4c4dms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972271106000\"",
+   "id": "20220501_5vkk5bd1u1p18gh7vspablddn0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfNXZrazViZDF1MXAxOGdoN3ZzcGFibGRkbjAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:35.000Z",
+   "updated": "2021-08-26T13:55:35.553Z",
+   "summary": "International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_5vkk5bd1u1p18gh7vspablddn0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972271106000\"",
+   "id": "20220601_i6hc04kn45l9gqp93i9ftm8g4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDFfaTZoYzA0a240NWw5Z3FwOTNpOWZ0bThnNGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:35.000Z",
+   "updated": "2021-08-26T13:55:35.553Z",
+   "summary": "Pancasila Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-01"
+   },
+   "end": {
+    "date": "2022-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220601_i6hc04kn45l9gqp93i9ftm8g4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972275760000\"",
+   "id": "20220417_r11jjjc82ag8v14g6cgnu87rag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfcjExampqYzgyYWc4djE0ZzZjZ251ODdyYWcgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:37.000Z",
+   "updated": "2021-08-26T13:55:37.880Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_r11jjjc82ag8v14g6cgnu87rag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972275760000\"",
+   "id": "20220421_8ut3t84kjo5kg2gvve1fmdbcf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjFfOHV0M3Q4NGtqbzVrZzJndnZlMWZtZGJjZjAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:37.000Z",
+   "updated": "2021-08-26T13:55:37.880Z",
+   "summary": "Kartini Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-21"
+   },
+   "end": {
+    "date": "2022-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220421_8ut3t84kjo5kg2gvve1fmdbcf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259972275760000\"",
+   "id": "20220526_lck4kav2cnq5gupik42otq8bo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfbGNrNGthdjJjbnE1Z3VwaWs0Mm90cThibzQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T13:55:37.000Z",
+   "updated": "2021-08-26T13:55:37.880Z",
+   "summary": "Ascension Day of Jesus Christ",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_lck4kav2cnq5gupik42otq8bo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3266319769934000\"",
+   "id": "20220228_ursh73g00qllfakagp6ghq6ud4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjhfdXJzaDczZzAwcWxsZmFrYWdwNmdocTZ1ZDQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-10-02T07:31:24.000Z",
+   "updated": "2021-10-02T07:31:24.967Z",
+   "summary": "Ascension of the Prophet Muhammad",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-28"
+   },
+   "end": {
+    "date": "2022-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220228_ursh73g00qllfakagp6ghq6ud4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3266319769934000\"",
+   "id": "20220303_c4h9bmq2fgskjg180o2p8fcclo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDNfYzRoOWJtcTJmZ3NramcxODBvMnA4ZmNjbG8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-10-02T07:31:24.000Z",
+   "updated": "2021-10-02T07:31:24.967Z",
+   "summary": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-03"
+   },
+   "end": {
+    "date": "2022-03-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220303_c4h9bmq2fgskjg180o2p8fcclo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3266319769934000\"",
+   "id": "20220502_suq3ec8mgjktvs99punpljar7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfc3VxM2VjOG1namt0dnM5OXB1bnBsamFyN28gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-10-02T07:31:24.000Z",
+   "updated": "2021-10-02T07:31:24.967Z",
+   "summary": "Idul Fitri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_suq3ec8mgjktvs99punpljar7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3266319769934000\"",
+   "id": "20220503_9mq1tktn05ok72trbqc6o6p8a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfOW1xMXRrdG4wNW9rNzJ0cmJxYzZvNnA4YTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-10-02T07:31:24.000Z",
+   "updated": "2021-10-02T07:31:24.967Z",
+   "summary": "Idul Fitri Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_9mq1tktn05ok72trbqc6o6p8a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3266319769934000\"",
+   "id": "20220516_qt81mipj938nslbc5a78s15lb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTZfcXQ4MW1pcGo5Mzhuc2xiYzVhNzhzMTVsYjggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2021-10-02T07:31:24.000Z",
+   "updated": "2021-10-02T07:31:24.967Z",
+   "summary": "Waisak Day (Buddha's Anniversary)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-16"
+   },
+   "end": {
+    "date": "2022-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220516_qt81mipj938nslbc5a78s15lb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334725226000\"",
+   "id": "20220201_1qepbfh1afpjm55toeq1150kvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfMXFlcGJmaDFhZnBqbTU1dG9lcTExNTBrdmMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-01-26T03:22:42.000Z",
+   "updated": "2022-01-26T03:22:42.613Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_1qepbfh1afpjm55toeq1150kvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3305033766354000\"",
+   "id": "20220429_bjo5tgq3htco17g51eu0sma3u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjlfYmpvNXRncTNodGNvMTdnNTFldTBzbWEzdTggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-05-14T08:28:03.000Z",
+   "updated": "2022-05-14T08:28:03.177Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-29"
+   },
+   "end": {
+    "date": "2022-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220429_bjo5tgq3htco17g51eu0sma3u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3305033766354000\"",
+   "id": "20220504_ot3p0ucbdk11cavgaout6j3sts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfb3QzcDB1Y2JkazExY2F2Z2FvdXQ2ajNzdHMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-05-14T08:28:03.000Z",
+   "updated": "2022-05-14T08:28:03.177Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_ot3p0ucbdk11cavgaout6j3sts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3305033766354000\"",
+   "id": "20220505_ge9vhjdg2ec3p1ps0ghv7cud1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfZ2U5dmhqZGcyZWMzcDFwczBnaHY3Y3VkMXMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-05-14T08:28:03.000Z",
+   "updated": "2022-05-14T08:28:03.177Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_ge9vhjdg2ec3p1ps0ghv7cud1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3305033766354000\"",
+   "id": "20220506_0p4t2dvddj77abbqa2s0dsdl7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDZfMHA0dDJkdmRkajc3YWJicWEyczBkc2RsN2cgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-05-14T08:28:03.000Z",
+   "updated": "2022-05-14T08:28:03.177Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-06"
+   },
+   "end": {
+    "date": "2022-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220506_0p4t2dvddj77abbqa2s0dsdl7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619597462000\"",
+   "id": "20220710_ice1udc6620fdo21g8bkc49pa0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfaWNlMXVkYzY2MjBmZG8yMWc4YmtjNDlwYTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-07-14T14:43:18.000Z",
+   "updated": "2022-07-14T14:43:18.731Z",
+   "summary": "Idul Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_ice1udc6620fdo21g8bkc49pa0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3319570661342000\"",
+   "id": "20220730_t6ge5oi4ogdd2ef9kh1o3ghrfs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfdDZnZTVvaTRvZ2RkMmVmOWtoMW8zZ2hyZnMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-08-06T11:28:50.000Z",
+   "updated": "2022-08-06T11:28:50.671Z",
+   "summary": "Muharram / Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_t6ge5oi4ogdd2ef9kh1o3ghrfs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221002_p3l9cq6d2m4rla5rls7lbrgqhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfcDNsOWNxNmQybTRybGE1cmxzN2xicmdxaGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Batik Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_p3l9cq6d2m4rla5rls7lbrgqhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221112_68qj4p6onb0jrk0ju1cnu6ppuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTJfNjhxajRwNm9uYjBqcmswanUxY251NnBwdWsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-12"
+   },
+   "end": {
+    "date": "2022-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221112_68qj4p6onb0jrk0ju1cnu6ppuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221125_gnd10oetn9oa6h1e2es9d88gfs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjVfZ25kMTBvZXRuOW9hNmgxZTJlczlkODhnZnMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-25"
+   },
+   "end": {
+    "date": "2022-11-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221125_gnd10oetn9oa6h1e2es9d88gfs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221222_tv5qa1uf66kbdp03l3vf42ni9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjJfdHY1cWExdWY2NmtiZHAwM2wzdmY0Mm5pOXMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-22"
+   },
+   "end": {
+    "date": "2022-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221222_tv5qa1uf66kbdp03l3vf42ni9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221224_c54b6dcdav705qiv4nlcbenldc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfYzU0YjZkY2RhdjcwNXFpdjRubGNiZW5sZGMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_c54b6dcdav705qiv4nlcbenldc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221225_3u23fh090vismov6lr72cs99t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfM3UyM2ZoMDkwdmlzbW92NmxyNzJjczk5dDQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_3u23fh090vismov6lr72cs99t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20221231_9bo4dgv30dbob07626i5clkbm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfOWJvNGRndjMwZGJvYjA3NjI2aTVjbGtibTQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_9bo4dgv30dbob07626i5clkbm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230101_ar543f6od0iha19pobka29tq4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfYXI1NDNmNm9kMGloYTE5cG9ia2EyOXRxNHMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_ar543f6od0iha19pobka29tq4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230407_26f1vgjvkor2odo23l39fh1tmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfMjZmMXZnanZrb3Iyb2RvMjNsMzlmaDF0bWcgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_26f1vgjvkor2odo23l39fh1tmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230409_c84si93l7td49i01pnpqchq34k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfYzg0c2k5M2w3dGQ0OWkwMXBucHFjaHEzNGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_c84si93l7td49i01pnpqchq34k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230421_32h3d1dd0ke0inq3fsri30u4ho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfMzJoM2QxZGQwa2UwaW5xM2ZzcmkzMHU0aG8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Kartini Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_32h3d1dd0ke0inq3fsri30u4ho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230422_e04qos5airc2728vnfg7q29nk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfZTA0cW9zNWFpcmMyNzI4dm5mZzdxMjluazggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Idul Fitri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_e04qos5airc2728vnfg7q29nk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230423_409ksl12ao6t9utef0mueu6mng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfNDA5a3NsMTJhbzZ0OXV0ZWYwbXVldTZtbmcgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Idul Fitri Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_409ksl12ao6t9utef0mueu6mng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230501_ajkjmobcg10ab6otbi5pcv0l90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfYWpram1vYmNnMTBhYjZvdGJpNXBjdjBsOTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_ajkjmobcg10ab6otbi5pcv0l90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230518_ojd64jou2jcsduidtgcfhkdgc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MThfb2pkNjRqb3UyamNzZHVpZHRnY2Zoa2RnYzAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Ascension Day of Jesus Christ",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-18"
+   },
+   "end": {
+    "date": "2023-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230518_ojd64jou2jcsduidtgcfhkdgc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230601_3egtb93l085vs89i4gvhvg0qi8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDFfM2VndGI5M2wwODV2czg5aTRndmh2ZzBxaTggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Pancasila Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-01"
+   },
+   "end": {
+    "date": "2023-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230601_3egtb93l085vs89i4gvhvg0qi8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230629_fni44up1c05bjurnk3p62jvbas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfZm5pNDR1cDFjMDVianVybmszcDYyanZiYXMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Idul Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_fni44up1c05bjurnk3p62jvbas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230817_a535sjhtg2fkg8g6o8ekrkfpjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTdfYTUzNXNqaHRnMmZrZzhnNm84ZWtya2ZwamMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Indonesian Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-17"
+   },
+   "end": {
+    "date": "2023-08-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230817_a535sjhtg2fkg8g6o8ekrkfpjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20230928_44kf6h716sr69r9femgp7b6glc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfNDRrZjZoNzE2c3I2OXI5ZmVtZ3A3YjZnbGMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_44kf6h716sr69r9femgp7b6glc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231002_e9v4io7bond5b1t61pnc9h8o8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfZTl2NGlvN2JvbmQ1YjF0NjFwbmM5aDhvOGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Batik Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_e9v4io7bond5b1t61pnc9h8o8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231112_vucaapqkol8tulfp2smpcuonao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfdnVjYWFwcWtvbDh0dWxmcDJzbXBjdW9uYW8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_vucaapqkol8tulfp2smpcuonao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231125_faimkbmfha0l5u2i4bdhtfiecc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjVfZmFpbWtibWZoYTBsNXUyaTRiZGh0ZmllY2MgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-25"
+   },
+   "end": {
+    "date": "2023-11-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231125_faimkbmfha0l5u2i4bdhtfiecc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231222_jsltmnj53ohii7iceqham58ue8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjJfanNsdG1uajUzb2hpaTdpY2VxaGFtNTh1ZTggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-22"
+   },
+   "end": {
+    "date": "2023-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231222_jsltmnj53ohii7iceqham58ue8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231224_kt4gnak8ordqdd8ceacu0q85vs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfa3Q0Z25hazhvcmRxZGQ4Y2VhY3UwcTg1dnMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_kt4gnak8ordqdd8ceacu0q85vs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231225_jglo22398tfugin7ktqq27ec3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfamdsbzIyMzk4dGZ1Z2luN2t0cXEyN2VjM2cgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_jglo22398tfugin7ktqq27ec3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20231231_hpe5sree5dm2icao0af6ploum4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfaHBlNXNyZWU1ZG0yaWNhbzBhZjZwbG91bTQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_hpe5sree5dm2icao0af6ploum4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240101_64t7odo6u2jlrnhd8c7kpukqmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNjR0N29kbzZ1Mmpscm5oZDhjN2twdWtxbWsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_64t7odo6u2jlrnhd8c7kpukqmk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240208_qelss0gsptm52a8ck5mpovss04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDhfcWVsc3MwZ3NwdG01MmE4Y2s1bXBvdnNzMDQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Ascension of the Prophet Muhammad",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-08"
+   },
+   "end": {
+    "date": "2024-02-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240208_qelss0gsptm52a8ck5mpovss04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240210_o84ahpmh8irkj2unvv2bdq548c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfbzg0YWhwbWg4aXJrajJ1bnZ2MmJkcTU0OGMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_o84ahpmh8irkj2unvv2bdq548c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240329_t86h8jij2kph3suq0qambetjvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfdDg2aDhqaWoya3BoM3N1cTBxYW1iZXRqdnMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_t86h8jij2kph3suq0qambetjvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240331_jrjbdufmivvgi83ao9ka9dptu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfanJqYmR1Zm1pdnZnaTgzYW85a2E5ZHB0dTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_jrjbdufmivvgi83ao9ka9dptu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240421_sppfibc8q2b8qgmmbgl5gulg0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjFfc3BwZmliYzhxMmI4cWdtbWJnbDVndWxnMGcgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Kartini Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-21"
+   },
+   "end": {
+    "date": "2024-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240421_sppfibc8q2b8qgmmbgl5gulg0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240501_vh5m2lobdmhoqa87i45d53v1p4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfdmg1bTJsb2JkbWhvcWE4N2k0NWQ1M3YxcDQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_vh5m2lobdmhoqa87i45d53v1p4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240509_0mt3plv4dec8tmolnlekj5l8hk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfMG10M3BsdjRkZWM4dG1vbG5sZWtqNWw4aGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Ascension Day of Jesus Christ",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_0mt3plv4dec8tmolnlekj5l8hk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240601_905nvp12c3gak2nv74jvor7cc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDFfOTA1bnZwMTJjM2dhazJudjc0anZvcjdjYzggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Pancasila Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-01"
+   },
+   "end": {
+    "date": "2024-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240601_905nvp12c3gak2nv74jvor7cc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20240817_k9ju8lnlng8hd8342vlitmpkeo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTdfazlqdThsbmxuZzhoZDgzNDJ2bGl0bXBrZW8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Indonesian Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-17"
+   },
+   "end": {
+    "date": "2024-08-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240817_k9ju8lnlng8hd8342vlitmpkeo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241002_rgu48vg4jr38ct6k5te6i4slbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDJfcmd1NDh2ZzRqcjM4Y3Q2azV0ZTZpNHNsYmcgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Batik Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-02"
+   },
+   "end": {
+    "date": "2024-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241002_rgu48vg4jr38ct6k5te6i4slbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241112_pq1902cn6jqno7f0lfidgqv41s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTJfcHExOTAyY242anFubzdmMGxmaWRncXY0MXMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-12"
+   },
+   "end": {
+    "date": "2024-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241112_pq1902cn6jqno7f0lfidgqv41s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241125_1usvldjsi9rfbsks1pme5u92as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjVfMXVzdmxkanNpOXJmYnNrczFwbWU1dTkyYXMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-25"
+   },
+   "end": {
+    "date": "2024-11-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241125_1usvldjsi9rfbsks1pme5u92as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241222_b8lquq24r41h5lenmbkqs9rg4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjJfYjhscXVxMjRyNDFoNWxlbm1ia3FzOXJnNG8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-22"
+   },
+   "end": {
+    "date": "2024-12-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241222_b8lquq24r41h5lenmbkqs9rg4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241224_7d8ubp3pr4d97fja87ub31ju4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfN2Q4dWJwM3ByNGQ5N2ZqYTg3dWIzMWp1NGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_7d8ubp3pr4d97fja87ub31ju4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241225_0go3sml8qcs4kboc02u4v2a79k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfMGdvM3NtbDhxY3M0a2JvYzAydTR2MmE3OWsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_0go3sml8qcs4kboc02u4v2a79k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553316910000\"",
+   "id": "20241231_2jlef6mtlapkr2dn6qtllqibu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfMmpsZWY2bXRsYXBrcjJkbjZxdGxscWlidTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-27T11:04:18.000Z",
+   "updated": "2022-09-27T11:04:18.455Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_2jlef6mtlapkr2dn6qtllqibu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20221008_9t1ndp0cuejcsi4h2b5u692tao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfOXQxbmRwMGN1ZWpjc2k0aDJiNXU2OTJ0YW8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_9t1ndp0cuejcsi4h2b5u692tao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230122_896fe2b97c18qkm51aodnb1774",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfODk2ZmUyYjk3YzE4cWttNTFhb2RuYjE3NzQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Lunar New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_896fe2b97c18qkm51aodnb1774@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230123_l9ds57m6tgh6o0b91jr0dmp28s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfbDlkczU3bTZ0Z2g2bzBiOTFqcjBkbXAyOHMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Lunar New Year Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_l9ds57m6tgh6o0b91jr0dmp28s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230218_uqmo242k25kj092e9mts5ambds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfdXFtbzI0MmsyNWtqMDkyZTltdHM1YW1iZHMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Ascension of the Prophet Muhammad",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_uqmo242k25kj092e9mts5ambds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230322_7qrpfoda2qm9ka8e61l7auncpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjJfN3FycGZvZGEycW05a2E4ZTYxbDdhdW5jcGMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-22"
+   },
+   "end": {
+    "date": "2023-03-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230322_7qrpfoda2qm9ka8e61l7auncpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230323_kh66m7vjajoeere0ronkgqp5h8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfa2g2Nm03dmpham9lZXJlMHJvbmtncXA1aDggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Joint Holiday for Bali's Day of Silence and Hindu New Year (Nyepi)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_kh66m7vjajoeere0ronkgqp5h8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230421_54m8v2pqp2c9lg47h5qkrarv88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfNTRtOHYycHFwMmM5bGc0N2g1cWtyYXJ2ODggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_54m8v2pqp2c9lg47h5qkrarv88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230424_s3tuq8d4tqpbeknvl0aingqbt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfczN0dXE4ZDR0cXBiZWtudmwwYWluZ3FidDQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_s3tuq8d4tqpbeknvl0aingqbt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230425_j5fs092l935c71kuf0muvc5d64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfajVmczA5Mmw5MzVjNzFrdWYwbXV2YzVkNjQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_j5fs092l935c71kuf0muvc5d64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230602_lqv964p70bd5i8q012dgm90ae8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDJfbHF2OTY0cDcwYmQ1aThxMDEyZGdtOTBhZTggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Joint Holiday before Waisak Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-02"
+   },
+   "end": {
+    "date": "2023-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230602_lqv964p70bd5i8q012dgm90ae8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230604_3damjesc9ek7dom9gql36r0qf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDRfM2RhbWplc2M5ZWs3ZG9tOWdxbDM2cjBxZjggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Waisak Day (Buddha's Anniversary)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-04"
+   },
+   "end": {
+    "date": "2023-06-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230604_3damjesc9ek7dom9gql36r0qf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20230719_r092n0avaov709gtt1r0gl2ja0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfcjA5Mm4wYXZhb3Y3MDlndHQxcjBnbDJqYTAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Muharram / Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_r092n0avaov709gtt1r0gl2ja0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3331201283894000\"",
+   "id": "20231226_lg3d7n89p7u3v7k1r9caaevt54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfbGczZDduODlwN3UzdjdrMXI5Y2FhZXZ0NTQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-12T18:50:41.000Z",
+   "updated": "2022-10-12T18:50:41.947Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_lg3d7n89p7u3v7k1r9caaevt54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353000297590000\"",
+   "id": "20221024_c8l67h89kdrjsil4155lan1gd0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfYzhsNjdoODlrZHJqc2lsNDE1NWxhbjFnZDAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-02-15T22:29:08.000Z",
+   "updated": "2023-02-15T22:29:08.795Z",
+   "summary": "Diwali",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_c8l67h89kdrjsil4155lan1gd0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353000297590000\"",
+   "id": "20231112_4u1ptpkh9kfn6ap021k106e6l8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfNHUxcHRwa2g5a2ZuNmFwMDIxazEwNmU2bDggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-02-15T22:29:08.000Z",
+   "updated": "2023-02-15T22:29:08.795Z",
+   "summary": "Diwali",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_4u1ptpkh9kfn6ap021k106e6l8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3353000297590000\"",
+   "id": "20241101_5u5bi782uehpk8k529v3deml80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfNXU1Ymk3ODJ1ZWhwazhrNTI5djNkZW1sODAgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-02-15T22:29:08.000Z",
+   "updated": "2023-02-15T22:29:08.795Z",
+   "summary": "Diwali",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_5u5bi782uehpk8k529v3deml80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047210394000\"",
+   "id": "20230323_9c01qe9m72eubnngmpbt8rt988",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfOWMwMXFlOW03MmV1Ym5uZ21wYnQ4cnQ5ODggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-03-22T22:20:05.000Z",
+   "updated": "2023-03-22T22:20:05.197Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_9c01qe9m72eubnngmpbt8rt988@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047210394000\"",
+   "id": "20240312_bbtle4i72ebs0mdsam3amts05c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTJfYmJ0bGU0aTcyZWJzMG1kc2FtM2FtdHMwNWMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-03-22T22:20:05.000Z",
+   "updated": "2023-03-22T22:20:05.197Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Indonesia",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-12"
+   },
+   "end": {
+    "date": "2024-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240312_bbtle4i72ebs0mdsam3amts05c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363960043212000\"",
+   "id": "20230419_lro87hk7of6osp7hgi090aa3q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTlfbHJvODdoazdvZjZvc3A3aGdpMDkwYWEzcTQgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-04-20T08:40:21.000Z",
+   "updated": "2023-04-20T08:40:21.606Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-19"
+   },
+   "end": {
+    "date": "2023-04-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230419_lro87hk7of6osp7hgi090aa3q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363960043212000\"",
+   "id": "20230420_77jai54jfrdklefq8h9eei9bhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfNzdqYWk1NGpmcmRrbGVmcThoOWVlaTliaGsgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-04-20T08:40:21.000Z",
+   "updated": "2023-04-20T08:40:21.606Z",
+   "summary": "Idul Fitri Joint Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_77jai54jfrdklefq8h9eei9bhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240311_b2kshv4cjb7os71rdoc9tgbtso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfYjJrc2h2NGNqYjdvczcxcmRvYzl0Z2J0c28gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Bali's Day of Silence and Hindu New Year (Nyepi)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_b2kshv4cjb7os71rdoc9tgbtso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240410_4dsnocjm79jnliibtqtom64v48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfNGRzbm9jam03OWpubGlpYnRxdG9tNjR2NDggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Idul Fitri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_4dsnocjm79jnliibtqtom64v48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240411_p0f99ark0smuovls1t27a208kc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfcDBmOTlhcmswc211b3ZsczF0MjdhMjA4a2MgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Idul Fitri Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_p0f99ark0smuovls1t27a208kc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240523_8g5b19p339ebkns0pvl6t83mk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjNfOGc1YjE5cDMzOWVia25zMHB2bDZ0ODNtazggZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Waisak Day (Buddha's Anniversary)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-23"
+   },
+   "end": {
+    "date": "2024-05-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240523_8g5b19p339ebkns0pvl6t83mk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240617_2l6vjpff7kh2l6ea3nn6j0418s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfMmw2dmpwZmY3a2gybDZlYTNubjZqMDQxOHMgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Idul Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_2l6vjpff7kh2l6ea3nn6j0418s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240707_b3gnqtuo9cfujtkgom3gr9rc4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDdfYjNnbnF0dW85Y2Z1anRrZ29tM2dyOXJjNG8gZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Muharram / Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-07"
+   },
+   "end": {
+    "date": "2024-07-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240707_b3gnqtuo9cfujtkgom3gr9rc4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468971908000\"",
+   "id": "20240915_f1m90kbd8b1gmbgt2rov8i9nsg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTVfZjFtOTBrYmQ4YjFnbWJndDJyb3Y4aTluc2cgZW4uaW5kb25lc2lhbiNob2xpZGF5QHY",
+   "created": "2023-06-14T09:21:25.000Z",
+   "updated": "2023-06-14T09:21:25.954Z",
+   "summary": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indonesian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Indonesia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-15"
+   },
+   "end": {
+    "date": "2024-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240915_f1m90kbd8b1gmbgt2rov8i9nsg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

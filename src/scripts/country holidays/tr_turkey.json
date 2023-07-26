@@ -1,0 +1,1933 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32lqnjsgrqlo00o\"",
+ "summary": "Holidays in Turkey",
+ "description": "Holidays and Observances in Turkey",
+ "updated": "2023-07-25T04:50:25.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMCMhsGHqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959151704000\"",
+   "id": "20220504_9vg59277e7jib0klu4bot2rjo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfOXZnNTkyNzdlN2ppYjBrbHU0Ym90MnJqbzQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:15.000Z",
+   "updated": "2021-08-26T12:06:15.852Z",
+   "summary": "Ramadan Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_9vg59277e7jib0klu4bot2rjo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959156244000\"",
+   "id": "20220715_fsmh45h5g7tevlrfaoaee1ftk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTVfZnNtaDQ1aDVnN3RldmxyZmFvYWVlMWZ0azQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:18.000Z",
+   "updated": "2021-08-26T12:06:18.122Z",
+   "summary": "Democracy and National Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-15"
+   },
+   "end": {
+    "date": "2022-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220715_fsmh45h5g7tevlrfaoaee1ftk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959156244000\"",
+   "id": "20220830_42au5ktj6opfu6gbu2v6v1pl40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MzBfNDJhdTVrdGo2b3BmdTZnYnUydjZ2MXBsNDAgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:18.000Z",
+   "updated": "2021-08-26T12:06:18.122Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-30"
+   },
+   "end": {
+    "date": "2022-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220830_42au5ktj6opfu6gbu2v6v1pl40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959166388000\"",
+   "id": "20220501_1ps5uvlvom3poh32ik273ilh10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfMXBzNXV2bHZvbTNwb2gzMmlrMjczaWxoMTAgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:23.000Z",
+   "updated": "2021-08-26T12:06:23.194Z",
+   "summary": "Labor and Solidarity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_1ps5uvlvom3poh32ik273ilh10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959169830000\"",
+   "id": "20220101_0hef319755uvgopi7mbe56i1t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMGhlZjMxOTc1NXV2Z29waTdtYmU1NmkxdDQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:24.000Z",
+   "updated": "2021-08-26T12:06:24.915Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_0hef319755uvgopi7mbe56i1t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959169830000\"",
+   "id": "20220423_goc4v8a9t99pbkfobb23928270",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjNfZ29jNHY4YTl0OTlwYmtmb2JiMjM5MjgyNzAgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:24.000Z",
+   "updated": "2021-08-26T12:06:24.915Z",
+   "summary": "National Sovereignty and Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-23"
+   },
+   "end": {
+    "date": "2022-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220423_goc4v8a9t99pbkfobb23928270@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259959172506000\"",
+   "id": "20220519_sjg8eqh4g0jp027i892bsku2og",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTlfc2pnOGVxaDRnMGpwMDI3aTg5MmJza3Uyb2cgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-08-26T12:06:26.000Z",
+   "updated": "2021-08-26T12:06:26.253Z",
+   "summary": "Commemoration of Atatürk, Youth and Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-19"
+   },
+   "end": {
+    "date": "2022-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220519_sjg8eqh4g0jp027i892bsku2og@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212317006000\"",
+   "id": "20220503_v1egs7kll3d5ea7s6q2jfk4o9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfdjFlZ3M3a2xsM2Q1ZWE3czZxMmpmazRvOWsgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:58.000Z",
+   "updated": "2021-12-27T11:55:58.503Z",
+   "summary": "Ramadan Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_v1egs7kll3d5ea7s6q2jfk4o9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212317006000\"",
+   "id": "20220708_r7lqp45h233d1tltc5nm1b5378",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfcjdscXA0NWgyMzNkMXRsdGM1bm0xYjUzNzggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:58.000Z",
+   "updated": "2021-12-27T11:55:58.503Z",
+   "summary": "Sacrifice Feast Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_r7lqp45h233d1tltc5nm1b5378@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212317006000\"",
+   "id": "20220709_s9e243dhuakb4v57hhtv60ecog",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfczllMjQzZGh1YWtiNHY1N2hodHY2MGVjb2cgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:58.000Z",
+   "updated": "2021-12-27T11:55:58.503Z",
+   "summary": "Sacrifice Feast",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_s9e243dhuakb4v57hhtv60ecog@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212317006000\"",
+   "id": "20220710_jnn3957ji1dntgqh4e22kmur90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfam5uMzk1N2ppMWRudGdxaDRlMjJrbXVyOTAgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:58.000Z",
+   "updated": "2021-12-27T11:55:58.503Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_jnn3957ji1dntgqh4e22kmur90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212317006000\"",
+   "id": "20220711_ss3ese6cj39t428023u0k1ssic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfc3MzZXNlNmNqMzl0NDI4MDIzdTBrMXNzaWMgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:58.000Z",
+   "updated": "2021-12-27T11:55:58.503Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_ss3ese6cj39t428023u0k1ssic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212318734000\"",
+   "id": "20220501_bs9dufivgj0uro1thj3k0h3kd8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfYnM5ZHVmaXZnajB1cm8xdGhqM2swaDNrZDggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:59.000Z",
+   "updated": "2021-12-27T11:55:59.367Z",
+   "summary": "Ramadan Feast Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_bs9dufivgj0uro1thj3k0h3kd8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212318734000\"",
+   "id": "20220502_5cbnde7e5m8nmnhpudm1pqn5lc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfNWNibmRlN2U1bThubW5ocHVkbTFwcW41bGMgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:59.000Z",
+   "updated": "2021-12-27T11:55:59.367Z",
+   "summary": "Ramadan Feast",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_5cbnde7e5m8nmnhpudm1pqn5lc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212318734000\"",
+   "id": "20220712_98uh708gdonjphq86o5h24h0hk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfOTh1aDcwOGdkb25qcGhxODZvNWgyNGgwaGsgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2021-12-27T11:55:59.000Z",
+   "updated": "2021-12-27T11:55:59.367Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_98uh708gdonjphq86o5h24h0hk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618723854000\"",
+   "id": "20220713_3movfm4f25okqtql8eje1r29o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTNfM21vdmZtNGYyNW9rcXRxbDhlamUxcjI5bzAgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-07-14T14:36:01.000Z",
+   "updated": "2022-07-14T14:36:01.927Z",
+   "summary": "Eid al Adha Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-13"
+   },
+   "end": {
+    "date": "2022-07-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220713_3movfm4f25okqtql8eje1r29o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618723854000\"",
+   "id": "20220714_itru99v37q9hf59ska5elodrb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTRfaXRydTk5djM3cTloZjU5c2thNWVsb2RyYjQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-07-14T14:36:01.000Z",
+   "updated": "2022-07-14T14:36:01.927Z",
+   "summary": "Eid al Adha Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-14"
+   },
+   "end": {
+    "date": "2022-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220714_itru99v37q9hf59ska5elodrb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20221028_294j7naqq49einattmqrq8c3ho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjhfMjk0ajduYXFxNDllaW5hdHRtcXJxOGMzaG8gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Republic Day Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-28"
+   },
+   "end": {
+    "date": "2022-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221028_294j7naqq49einattmqrq8c3ho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20221029_k545c5k995k0hk0kpjdvgpo0eg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjlfazU0NWM1azk5NWswaGswa3BqZHZncG8wZWcgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-29"
+   },
+   "end": {
+    "date": "2022-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221029_k545c5k995k0hk0kpjdvgpo0eg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20221231_i8c8ekmr4gmqjnd3u1kk5s5174",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfaThjOGVrbXI0Z21xam5kM3Uxa2s1czUxNzQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_i8c8ekmr4gmqjnd3u1kk5s5174@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230101_p70ht2aa1vh6cjimahst9a907k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfcDcwaHQyYWExdmg2Y2ppbWFoc3Q5YTkwN2sgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_p70ht2aa1vh6cjimahst9a907k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230420_5tho78trlcrhqccfiprfomevoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfNXRobzc4dHJsY3JocWNjZmlwcmZvbWV2b28gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_5tho78trlcrhqccfiprfomevoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230421_mph45iop7qq9o5qd1qkcd3icfg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfbXBoNDVpb3A3cXE5bzVxZDFxa2NkM2ljZmcgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_mph45iop7qq9o5qd1qkcd3icfg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230422_tssabj0gp26g47dccrsggh56so",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfdHNzYWJqMGdwMjZnNDdkY2Nyc2dnaDU2c28gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_tssabj0gp26g47dccrsggh56so@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230423_84kbf5odhg03arvc50ot0jor4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfODRrYmY1b2RoZzAzYXJ2YzUwb3Qwam9yNGcgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_84kbf5odhg03arvc50ot0jor4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230423_fntg4ok3ndo44eeq8v5bfeii88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfZm50ZzRvazNuZG80NGVlcTh2NWJmZWlpODggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "National Sovereignty and Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_fntg4ok3ndo44eeq8v5bfeii88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230501_q1jhckptrn7rn8f37kq40tlb24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcTFqaGNrcHRybjdybjhmMzdrcTQwdGxiMjQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Labor and Solidarity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_q1jhckptrn7rn8f37kq40tlb24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230519_1bk9apvjpgl69bcbuo7kb3qrgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTlfMWJrOWFwdmpwZ2w2OWJjYnVvN2tiM3FyZ3MgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Commemoration of Atatürk, Youth and Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-19"
+   },
+   "end": {
+    "date": "2023-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230519_1bk9apvjpgl69bcbuo7kb3qrgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230627_p7t6hcb84qi9pku67t94q15g3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjdfcDd0NmhjYjg0cWk5cGt1Njd0OTRxMTVnM28gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-27"
+   },
+   "end": {
+    "date": "2023-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230627_p7t6hcb84qi9pku67t94q15g3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230628_rou3bpt65jkactba2fhppte9lk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2Mjhfcm91M2JwdDY1amthY3RiYTJmaHBwdGU5bGsgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_rou3bpt65jkactba2fhppte9lk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230629_f65k3cb1i1koq2vojauspd74ao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfZjY1azNjYjFpMWtvcTJ2b2phdXNwZDc0YW8gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_f65k3cb1i1koq2vojauspd74ao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230630_hjsv6dbjc9pjhlf8n8dir5qal8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfaGpzdjZkYmpjOXBqaGxmOG44ZGlyNXFhbDggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_hjsv6dbjc9pjhlf8n8dir5qal8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230701_6v51fjql6rcf089javrjosjrlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfNnY1MWZqcWw2cmNmMDg5amF2cmpvc2pybG8gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_6v51fjql6rcf089javrjosjrlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230715_7nqo5m76irp3g4isf0bg7alc9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTVfN25xbzVtNzZpcnAzZzRpc2YwYmc3YWxjOW8gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Democracy and National Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-15"
+   },
+   "end": {
+    "date": "2023-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230715_7nqo5m76irp3g4isf0bg7alc9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20230830_fasf64uccahpf1eqefrsl2a2cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MzBfZmFzZjY0dWNjYWhwZjFlcWVmcnNsMmEyY2MgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-30"
+   },
+   "end": {
+    "date": "2023-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230830_fasf64uccahpf1eqefrsl2a2cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20231028_vunfbf2v36ajv2294a53tlt60k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjhfdnVuZmJmMnYzNmFqdjIyOTRhNTN0bHQ2MGsgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Republic Day Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-28"
+   },
+   "end": {
+    "date": "2023-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231028_vunfbf2v36ajv2294a53tlt60k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20231029_n0oa0na1i1apjepcm16o1gu8u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjlfbjBvYTBuYTFpMWFwamVwY20xNm8xZ3U4dTggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-29"
+   },
+   "end": {
+    "date": "2023-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231029_n0oa0na1i1apjepcm16o1gu8u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20231231_c177olu1ngdi4s1009avnrqc4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfYzE3N29sdTFuZ2RpNHMxMDA5YXZucnFjNGcgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_c177olu1ngdi4s1009avnrqc4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240101_gc7ki1sc8diggiqcdh3o8r03ik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZ2M3a2kxc2M4ZGlnZ2lxY2RoM284cjAzaWsgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_gc7ki1sc8diggiqcdh3o8r03ik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240409_l54gqvaj5q406ttllmkpj9spq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfbDU0Z3F2YWo1cTQwNnR0bGxta3BqOXNwcTggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_l54gqvaj5q406ttllmkpj9spq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240410_cgg9pc1m86cn1huppr3iv4d97s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfY2dnOXBjMW04NmNuMWh1cHByM2l2NGQ5N3MgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_cgg9pc1m86cn1huppr3iv4d97s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240411_oe9ovsosdff9dtmddqh75a31u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfb2U5b3Zzb3NkZmY5ZHRtZGRxaDc1YTMxdTggZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_oe9ovsosdff9dtmddqh75a31u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240412_3u7jabadutok6974fgftuhto1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfM3U3amFiYWR1dG9rNjk3NGZnZnR1aHRvMWsgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Ramadan Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_3u7jabadutok6974fgftuhto1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240423_2fa8e2lf8bpl1kdf6u4tggfq1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjNfMmZhOGUybGY4YnBsMWtkZjZ1NHRnZ2ZxMWMgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "National Sovereignty and Children's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-23"
+   },
+   "end": {
+    "date": "2024-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240423_2fa8e2lf8bpl1kdf6u4tggfq1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240501_q0f0j8lb1i7qdpal9t84ng8lkg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfcTBmMGo4bGIxaTdxZHBhbDl0ODRuZzhsa2cgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Labor and Solidarity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_q0f0j8lb1i7qdpal9t84ng8lkg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240519_dodfehtth45klgga0880ue9j2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfZG9kZmVodHRoNDVrbGdnYTA4ODB1ZTlqMmcgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Commemoration of Atatürk, Youth and Sports Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_dodfehtth45klgga0880ue9j2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240615_8dv3kk18thpb23ahu0atf9lo1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTVfOGR2M2trMTh0aHBiMjNhaHUwYXRmOWxvMWcgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-15"
+   },
+   "end": {
+    "date": "2024-06-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240615_8dv3kk18thpb23ahu0atf9lo1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240616_usj15u5e0fe5ihe84pdecas7sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfdXNqMTV1NWUwZmU1aWhlODRwZGVjYXM3c2sgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_usj15u5e0fe5ihe84pdecas7sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240617_8garsn4addl4048bips3t6l344",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfOGdhcnNuNGFkZGw0MDQ4YmlwczN0NmwzNDQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_8garsn4addl4048bips3t6l344@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240618_4umnh7ba8gupt1cftoj5s0tvns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfNHVtbmg3YmE4Z3VwdDFjZnRvajVzMHR2bnMgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_4umnh7ba8gupt1cftoj5s0tvns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240619_plu3uem9e2toshc2i33o4r65r4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfcGx1M3VlbTllMnRvc2hjMmkzM280cjY1cjQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_plu3uem9e2toshc2i33o4r65r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240715_24ollsnptj4h7svt82i3ksceu4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTVfMjRvbGxzbnB0ajRoN3N2dDgyaTNrc2NldTQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Democracy and National Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-15"
+   },
+   "end": {
+    "date": "2024-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240715_24ollsnptj4h7svt82i3ksceu4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20240830_r66d8m7qpg4vln9nk07am2sens",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MzBfcjY2ZDhtN3FwZzR2bG45bmswN2FtMnNlbnMgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-30"
+   },
+   "end": {
+    "date": "2024-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240830_r66d8m7qpg4vln9nk07am2sens@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20241028_5h0aoeq838ali9fdhq58ua72eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjhfNWgwYW9lcTgzOGFsaTlmZGhxNTh1YTcyZW8gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Republic Day Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-28"
+   },
+   "end": {
+    "date": "2024-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241028_5h0aoeq838ali9fdhq58ua72eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20241029_ceot4se215hsjhi0psljbisql4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjlfY2VvdDRzZTIxNWhzamhpMHBzbGpiaXNxbDQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-29"
+   },
+   "end": {
+    "date": "2024-10-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241029_ceot4se215hsjhi0psljbisql4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327898337288000\"",
+   "id": "20241231_uvq8smgj3tajhoh75j5pdkilto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfdXZxOHNtZ2ozdGFqaG9oNzVqNXBka2lsdG8gZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-09-23T16:06:08.000Z",
+   "updated": "2022-09-23T16:06:08.644Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_uvq8smgj3tajhoh75j5pdkilto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3337015175112000\"",
+   "id": "20221110_tk5r4c69obj624luq0rq8d5mkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTBfdGs1cjRjNjlvYmo2MjRsdXEwcnE4ZDVta2sgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-11-15T10:19:47.000Z",
+   "updated": "2022-11-15T10:19:47.556Z",
+   "summary": "Ataturk Commemoration Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-10"
+   },
+   "end": {
+    "date": "2022-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221110_tk5r4c69obj624luq0rq8d5mkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3337015175112000\"",
+   "id": "20231110_kigpu74hfamgbhf41b4a6u1h90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTBfa2lncHU3NGhmYW1nYmhmNDFiNGE2dTFoOTAgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-11-15T10:19:47.000Z",
+   "updated": "2022-11-15T10:19:47.556Z",
+   "summary": "Ataturk Commemoration Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-10"
+   },
+   "end": {
+    "date": "2023-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231110_kigpu74hfamgbhf41b4a6u1h90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3337015175112000\"",
+   "id": "20241110_ikd4hr174kti2kvfv7pu45fqq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTBfaWtkNGhyMTc0a3RpMmt2ZnY3cHU0NWZxcTQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2022-11-15T10:19:47.000Z",
+   "updated": "2022-11-15T10:19:47.556Z",
+   "summary": "Ataturk Commemoration Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Turkey",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-10"
+   },
+   "end": {
+    "date": "2024-11-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241110_ikd4hr174kti2kvfv7pu45fqq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375198112486000\"",
+   "id": "20230626_sgmdhtm5pl8oto449cn1it2os4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjZfc2dtZGh0bTVwbDhvdG80NDljbjFpdDJvczQgZW4udHVya2lzaCNob2xpZGF5QHY",
+   "created": "2023-06-24T09:30:56.000Z",
+   "updated": "2023-06-24T09:30:56.243Z",
+   "summary": "Sacrifice Feast Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.turkish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Turkey",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-26"
+   },
+   "end": {
+    "date": "2023-06-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230626_sgmdhtm5pl8oto449cn1it2os4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

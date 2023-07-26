@@ -1,0 +1,3341 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32lrninsrmlo00o\"",
+ "summary": "Holidays in China",
+ "description": "Holidays and Observances in China",
+ "updated": "2023-07-24T23:57:28.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICU14PGqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960203388000\"",
+   "id": "20220202_o0gdrodh1aeglt7fg8kpmh4aj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfbzBnZHJvZGgxYWVnbHQ3Zmc4a3BtaDRhajQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:01.000Z",
+   "updated": "2021-08-26T12:15:01.694Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_o0gdrodh1aeglt7fg8kpmh4aj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960203388000\"",
+   "id": "20220205_tu363qqogolbg4q0ib2quu20q4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDVfdHUzNjNxcW9nb2xiZzRxMGliMnF1dTIwcTQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:01.000Z",
+   "updated": "2021-08-26T12:15:01.694Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-05"
+   },
+   "end": {
+    "date": "2022-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220205_tu363qqogolbg4q0ib2quu20q4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960203388000\"",
+   "id": "20220804_ig89h8snmq7q144gkckfg7oddg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDRfaWc4OWg4c25tcTdxMTQ0Z2tja2ZnN29kZGcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:01.000Z",
+   "updated": "2021-08-26T12:15:01.694Z",
+   "summary": "Chinese Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-04"
+   },
+   "end": {
+    "date": "2022-08-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220804_ig89h8snmq7q144gkckfg7oddg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960210222000\"",
+   "id": "20220206_pvtu1jb9g98p1mv06jc8ntnh1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDZfcHZ0dTFqYjlnOThwMW12MDZqYzhudG5oMWcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:05.000Z",
+   "updated": "2021-08-26T12:15:05.111Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-06"
+   },
+   "end": {
+    "date": "2022-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220206_pvtu1jb9g98p1mv06jc8ntnh1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960210222000\"",
+   "id": "20220304_2472sk75ol60rmu5lsrvfq78bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDRfMjQ3MnNrNzVvbDYwcm11NWxzcnZmcTc4YmMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:05.000Z",
+   "updated": "2021-08-26T12:15:05.111Z",
+   "summary": "Zhonghe Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-04"
+   },
+   "end": {
+    "date": "2022-03-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220304_2472sk75ol60rmu5lsrvfq78bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960210222000\"",
+   "id": "20220308_97g9cmj41rjh1vsttdum701400",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDhfOTdnOWNtajQxcmpoMXZzdHRkdW03MDE0MDAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:05.000Z",
+   "updated": "2021-08-26T12:15:05.111Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-08"
+   },
+   "end": {
+    "date": "2022-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220308_97g9cmj41rjh1vsttdum701400@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960210222000\"",
+   "id": "20220405_0dihrregf9jer1nnjmrs9ut0eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDVfMGRpaHJyZWdmOWplcjFubmptcnM5dXQwZW8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:05.000Z",
+   "updated": "2021-08-26T12:15:05.111Z",
+   "summary": "Qing Ming Jie",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-05"
+   },
+   "end": {
+    "date": "2022-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220405_0dihrregf9jer1nnjmrs9ut0eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960210222000\"",
+   "id": "20220812_lb7umoct578s3l304tu8mpmcr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTJfbGI3dW1vY3Q1NzhzM2wzMDR0dThtcG1jcjQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:05.000Z",
+   "updated": "2021-08-26T12:15:05.111Z",
+   "summary": "Spirit Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-12"
+   },
+   "end": {
+    "date": "2022-08-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220812_lb7umoct578s3l304tu8mpmcr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960213334000\"",
+   "id": "20220204_66idc01iqtv8tviv2ksvsb5u7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDRfNjZpZGMwMWlxdHY4dHZpdjJrc3ZzYjV1N2sgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:06.000Z",
+   "updated": "2021-08-26T12:15:06.667Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-04"
+   },
+   "end": {
+    "date": "2022-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220204_66idc01iqtv8tviv2ksvsb5u7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960213334000\"",
+   "id": "20220603_r84glu6b4mn04jd2rgdso1flds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDNfcjg0Z2x1NmI0bW4wNGpkMnJnZHNvMWZsZHMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:06.000Z",
+   "updated": "2021-08-26T12:15:06.667Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-03"
+   },
+   "end": {
+    "date": "2022-06-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220603_r84glu6b4mn04jd2rgdso1flds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960216942000\"",
+   "id": "20220101_m3hb5orb5m61tfdrotsopk6vbk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfbTNoYjVvcmI1bTYxdGZkcm90c29wazZ2YmsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:08.000Z",
+   "updated": "2021-08-26T12:15:08.471Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_m3hb5orb5m61tfdrotsopk6vbk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960216942000\"",
+   "id": "20220203_mnk2t8pcr0ftgr8br9752rbaks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDNfbW5rMnQ4cGNyMGZ0Z3I4YnI5NzUycmJha3MgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:08.000Z",
+   "updated": "2021-08-26T12:15:08.471Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-03"
+   },
+   "end": {
+    "date": "2022-02-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220203_mnk2t8pcr0ftgr8br9752rbaks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960216942000\"",
+   "id": "20220312_ahrm3prp60hv08qdm5kr681csg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTJfYWhybTNwcnA2MGh2MDhxZG01a3I2ODFjc2cgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:08.000Z",
+   "updated": "2021-08-26T12:15:08.471Z",
+   "summary": "Arbor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-12"
+   },
+   "end": {
+    "date": "2022-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220312_ahrm3prp60hv08qdm5kr681csg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960216942000\"",
+   "id": "20220501_h9lqe98c2avbsevn9h9u4q86uk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfaDlscWU5OGMyYXZic2V2bjloOXU0cTg2dWsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:08.000Z",
+   "updated": "2021-08-26T12:15:08.471Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_h9lqe98c2avbsevn9h9u4q86uk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960221072000\"",
+   "id": "20220910_cb80c9a2ps2f89090osg0ae4m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTBfY2I4MGM5YTJwczJmODkwOTBvc2cwYWU0bTggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:10.000Z",
+   "updated": "2021-08-26T12:15:10.536Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-10"
+   },
+   "end": {
+    "date": "2022-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220910_cb80c9a2ps2f89090osg0ae4m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960225510000\"",
+   "id": "20220131_kn1ccj591hrll07t9759h2bj1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfa24xY2NqNTkxaHJsbDA3dDk3NTloMmJqMWcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:12.000Z",
+   "updated": "2021-08-26T12:15:12.755Z",
+   "summary": "Spring Festival Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_kn1ccj591hrll07t9759h2bj1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960225510000\"",
+   "id": "20220215_c8jlt4k5env7it7q4rnfhuvi70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTVfYzhqbHQ0azVlbnY3aXQ3cTRybmZodXZpNzAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:12.000Z",
+   "updated": "2021-08-26T12:15:12.755Z",
+   "summary": "Lantern Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-15"
+   },
+   "end": {
+    "date": "2022-02-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220215_c8jlt4k5env7it7q4rnfhuvi70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960225510000\"",
+   "id": "20220504_34vkhme7rg2gmq5k9b2h3kadbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfMzR2a2htZTdyZzJnbXE1azliMmgza2FkYm8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:12.000Z",
+   "updated": "2021-08-26T12:15:12.755Z",
+   "summary": "Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_34vkhme7rg2gmq5k9b2h3kadbo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960225510000\"",
+   "id": "20220910_kakr9jm4hbb6mbq4be0oule6lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTBfa2FrcjlqbTRoYmI2bWJxNGJlMG91bGU2bG8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-08-26T12:15:12.000Z",
+   "updated": "2021-08-26T12:15:12.755Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-10"
+   },
+   "end": {
+    "date": "2022-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220910_kakr9jm4hbb6mbq4be0oule6lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220102_rssssp3ai8gi4140svj1c50838",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfcnNzc3NwM2FpOGdpNDE0MHN2ajFjNTA4MzggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "New Year's Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_rssssp3ai8gi4140svj1c50838@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220103_pilajj6it1b9ldpfjbmludnur0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfcGlsYWpqNml0MWI5bGRwZmpibWx1ZG51cjAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "New Year's Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_pilajj6it1b9ldpfjbmludnur0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220404_tfl7710q2mk1rgbu397u0vb5lc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDRfdGZsNzcxMHEybWsxcmdidTM5N3UwdmI1bGMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Qing Ming Jie holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-04"
+   },
+   "end": {
+    "date": "2022-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220404_tfl7710q2mk1rgbu397u0vb5lc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220430_akecr0s2qg2mj2kd0hhqr0lojs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MzBfYWtlY3IwczJxZzJtajJrZDBoaHFyMGxvanMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-30"
+   },
+   "end": {
+    "date": "2022-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220430_akecr0s2qg2mj2kd0hhqr0lojs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220502_e1acr4e07c3m0toddr4bhfli48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZTFhY3I0ZTA3YzNtMHRvZGRyNGJoZmxpNDggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_e1acr4e07c3m0toddr4bhfli48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220503_snlu7srmh3s92mcskdk1832jn4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfc25sdTdzcm1oM3M5Mm1jc2tkazE4MzJqbjQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_snlu7srmh3s92mcskdk1832jn4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220504_hbs1m5bs6tkguv1vmmkjqjueh0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfaGJzMW01YnM2dGtndXYxdm1ta2pxanVlaDAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_hbs1m5bs6tkguv1vmmkjqjueh0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220604_0bdfkoq41opehkpgmb2pd3rkv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDRfMGJkZmtvcTQxb3BlaGtwZ21iMnBkM3JrdjAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Dragon Boat Festival holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-04"
+   },
+   "end": {
+    "date": "2022-06-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220604_0bdfkoq41opehkpgmb2pd3rkv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220605_8k0iksst0ademt17s9qq4bfkag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfOGswaWtzc3QwYWRlbXQxN3M5cXE0YmZrYWcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Dragon Boat Festival holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_8k0iksst0ademt17s9qq4bfkag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220911_nmors1jqs0j004jj9d6bgo3394",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTFfbm1vcnMxanFzMGowMDRqajlkNmJnbzMzOTQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Mid-Autumn Festival holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-11"
+   },
+   "end": {
+    "date": "2022-09-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220911_nmors1jqs0j004jj9d6bgo3394@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3273418857488000\"",
+   "id": "20220912_9sjv6t8pi758n0uhpuql2anioo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTJfOXNqdjZ0OHBpNzU4bjB1aHB1cWwyYW5pb28gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-12T09:30:28.000Z",
+   "updated": "2021-11-12T09:30:28.744Z",
+   "summary": "Mid-Autumn Festival holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-12"
+   },
+   "end": {
+    "date": "2022-09-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220912_9sjv6t8pi758n0uhpuql2anioo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3276528208922000\"",
+   "id": "20220403_cfqu0f65tl1u0trqtv7emkccd0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDNfY2ZxdTBmNjV0bDF1MHRycXR2N2Vta2NjZDAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2021-11-30T09:21:44.000Z",
+   "updated": "2021-11-30T09:21:44.461Z",
+   "summary": "Qing Ming Jie holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-03"
+   },
+   "end": {
+    "date": "2022-04-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220403_cfqu0f65tl1u0trqtv7emkccd0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286333259174000\"",
+   "id": "20220201_himqhg3kfjoacaeiacs0nogrpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfaGltcWhnM2tmam9hY2FlaWFjczBub2dycGsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-01-26T03:10:29.000Z",
+   "updated": "2022-01-26T03:10:29.587Z",
+   "summary": "Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_himqhg3kfjoacaeiacs0nogrpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221001_lgleq4sib6gftv4uhr4aknvm6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDFfbGdsZXE0c2liNmdmdHY0dWhyNGFrbnZtNm8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-01"
+   },
+   "end": {
+    "date": "2022-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221001_lgleq4sib6gftv4uhr4aknvm6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221002_l9dlga88h5r5qgcj041vli0le4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfbDlkbGdhODhoNXI1cWdjajA0MXZsaTBsZTQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_l9dlga88h5r5qgcj041vli0le4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221003_60locj6391jhq0svaipirecbic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfNjBsb2NqNjM5MWpocTBzdmFpcGlyZWNiaWMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_60locj6391jhq0svaipirecbic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221004_1bk8kg0oef82ndcoievevec4uc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfMWJrOGtnMG9lZjgybmRjb2lldmV2ZWM0dWMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Double Ninth Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_1bk8kg0oef82ndcoievevec4uc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221004_nfkti67kdg3vu793ldpd483ohg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfbmZrdGk2N2tkZzN2dTc5M2xkcGQ0ODNvaGcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_nfkti67kdg3vu793ldpd483ohg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221005_uvek1copngkcgc91akm7gh5tv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfdXZlazFjb3BuZ2tjZ2M5MWFrbTdnaDV0djAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_uvek1copngkcgc91akm7gh5tv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221006_k4dor9g1sbgq3pon0hbvik5lak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDZfazRkb3I5ZzFzYmdxM3BvbjBoYnZpazVsYWsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-06"
+   },
+   "end": {
+    "date": "2022-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221006_k4dor9g1sbgq3pon0hbvik5lak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221007_iv3tk6bk2oguubr84u6nmhiqlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDdfaXYzdGs2Ymsyb2d1dWJyODR1Nm5taGlxbG8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-07"
+   },
+   "end": {
+    "date": "2022-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221007_iv3tk6bk2oguubr84u6nmhiqlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20221225_iesv74hjml9tmb6bjr0m74uq70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfaWVzdjc0aGptbDl0bWI2YmpyMG03NHVxNzAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_iesv74hjml9tmb6bjr0m74uq70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230101_68io4ii3etf6e92fmick5460k4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfNjhpbzRpaTNldGY2ZTkyZm1pY2s1NDYwazQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_68io4ii3etf6e92fmick5460k4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230121_4dqdb9422g2tqphuju6i9t6ono",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjFfNGRxZGI5NDIyZzJ0cXBodWp1Nmk5dDZvbm8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-21"
+   },
+   "end": {
+    "date": "2023-01-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230121_4dqdb9422g2tqphuju6i9t6ono@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230122_t1km3q960knc14fmc0jf6p1pcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfdDFrbTNxOTYwa25jMTRmbWMwamY2cDFwY3MgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_t1km3q960knc14fmc0jf6p1pcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230123_r40bv1c023os7dpshqffb641o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfcjQwYnYxYzAyM29zN2Rwc2hxZmZiNjQxbzQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_r40bv1c023os7dpshqffb641o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230124_a35fgljrcp10bte5dflmnupri0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfYTM1ZmdsanJjcDEwYnRlNWRmbG1udXByaTAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_a35fgljrcp10bte5dflmnupri0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230125_gjruqdmu6s40d9490mef6ropqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjVfZ2pydXFkbXU2czQwZDk0OTBtZWY2cm9wcXMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-25"
+   },
+   "end": {
+    "date": "2023-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230125_gjruqdmu6s40d9490mef6ropqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230126_besialhn3mnnd7bj9e7lm8qq7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfYmVzaWFsaG4zbW5uZDdiajllN2xtOHFxN3MgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_besialhn3mnnd7bj9e7lm8qq7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230127_q1ft3p9dqaf9j7ik13i4e883k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjdfcTFmdDNwOWRxYWY5ajdpazEzaTRlODgzazAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-27"
+   },
+   "end": {
+    "date": "2023-01-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230127_q1ft3p9dqaf9j7ik13i4e883k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230205_piob6vgc6l366sbpujk35scirc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDVfcGlvYjZ2Z2M2bDM2NnNicHVqazM1c2NpcmMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Lantern Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-05"
+   },
+   "end": {
+    "date": "2023-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230205_piob6vgc6l366sbpujk35scirc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230221_o8aor1bq2p34hfojfi6a4ptnhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfbzhhb3IxYnEycDM0aGZvamZpNmE0cHRuaHMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Zhonghe Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_o8aor1bq2p34hfojfi6a4ptnhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230308_05al5utounojv6u3usv60j82qg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfMDVhbDV1dG91bm9qdjZ1M3VzdjYwajgycWcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_05al5utounojv6u3usv60j82qg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230312_ftqq49k1fim8582f22lanfks7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTJfZnRxcTQ5azFmaW04NTgyZjIybGFuZmtzN2cgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Arbor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-12"
+   },
+   "end": {
+    "date": "2023-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230312_ftqq49k1fim8582f22lanfks7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230405_9v7bavahdbucvr0ieegso800t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfOXY3YmF2YWhkYnVjdnIwaWVlZ3NvODAwdDQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Qing Ming Jie",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_9v7bavahdbucvr0ieegso800t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230501_rn0qeuk1e26e3qc14d5q8a4dsg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcm4wcWV1azFlMjZlM3FjMTRkNXE4YTRkc2cgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_rn0qeuk1e26e3qc14d5q8a4dsg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230504_ui1qc9lg2e3l9dd6tobuodlr6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDRfdWkxcWM5bGcyZTNsOWRkNnRvYnVvZGxyNnMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-04"
+   },
+   "end": {
+    "date": "2023-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230504_ui1qc9lg2e3l9dd6tobuodlr6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230622_il8o53kodrvv1mf63osd8e5858",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjJfaWw4bzUza29kcnZ2MW1mNjNvc2Q4ZTU4NTggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-22"
+   },
+   "end": {
+    "date": "2023-06-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230622_il8o53kodrvv1mf63osd8e5858@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230822_ilm36epjjldk711n8ahsp31rfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjJfaWxtMzZlcGpqbGRrNzExbjhhaHNwMzFyZm8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Chinese Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-22"
+   },
+   "end": {
+    "date": "2023-08-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230822_ilm36epjjldk711n8ahsp31rfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230830_htag24rr6eckhdsjjgopch8e60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MzBfaHRhZzI0cnI2ZWNraGRzampnb3BjaDhlNjAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spirit Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-30"
+   },
+   "end": {
+    "date": "2023-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230830_htag24rr6eckhdsjjgopch8e60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230910_3upqopelaftdgh895vfg4hbaa8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTBfM3VwcW9wZWxhZnRkZ2g4OTV2Zmc0aGJhYTggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-10"
+   },
+   "end": {
+    "date": "2023-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230910_3upqopelaftdgh895vfg4hbaa8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20230929_99mqo0ab6c6i83l0me7a7mv44c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjlfOTltcW8wYWI2YzZpODNsMG1lN2E3bXY0NGMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_99mqo0ab6c6i83l0me7a7mv44c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231001_04lp1r60n01hc42gdnl2glfdro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDFfMDRscDFyNjBuMDFoYzQyZ2RubDJnbGZkcm8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-01"
+   },
+   "end": {
+    "date": "2023-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231001_04lp1r60n01hc42gdnl2glfdro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231002_a5cfsc3beqdl8ao3pj5v4goru0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfYTVjZnNjM2JlcWRsOGFvM3BqNXY0Z29ydTAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_a5cfsc3beqdl8ao3pj5v4goru0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231003_4s1gjlorq9omjv3qiv73e812bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDNfNHMxZ2psb3JxOW9tanYzcWl2NzNlODEyYmMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-03"
+   },
+   "end": {
+    "date": "2023-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231003_4s1gjlorq9omjv3qiv73e812bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231004_fnremj8dg2r210b5ipc42fukc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDRfZm5yZW1qOGRnMnIyMTBiNWlwYzQyZnVrYzggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-04"
+   },
+   "end": {
+    "date": "2023-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231004_fnremj8dg2r210b5ipc42fukc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231005_gtmld2n4ppbjoha321c6in01c0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDVfZ3RtbGQybjRwcGJqb2hhMzIxYzZpbjAxYzAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-05"
+   },
+   "end": {
+    "date": "2023-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231005_gtmld2n4ppbjoha321c6in01c0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231006_29quecb1mn63blri5vul06tq3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDZfMjlxdWVjYjFtbjYzYmxyaTV2dWwwNnRxM2cgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-06"
+   },
+   "end": {
+    "date": "2023-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231006_29quecb1mn63blri5vul06tq3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231023_d10a3j03ft39383g5gjcnohnnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfZDEwYTNqMDNmdDM5MzgzZzVnamNub2hubmMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Double Ninth Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_d10a3j03ft39383g5gjcnohnnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20231225_8u7u0b9i0loc9lbemae54r8lr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfOHU3dTBiOWkwbG9jOWxiZW1hZTU0cjhscjggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_8u7u0b9i0loc9lbemae54r8lr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240101_9p9lg1cogf5p95q85tviogq0qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfOXA5bGcxY29nZjVwOTVxODV0dmlvZ3EwcXMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_9p9lg1cogf5p95q85tviogq0qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240209_6n7t0srfpjvqatto59g6n7ap6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDlfNm43dDBzcmZwanZxYXR0bzU5ZzZuN2FwNmcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-09"
+   },
+   "end": {
+    "date": "2024-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240209_6n7t0srfpjvqatto59g6n7ap6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240210_2h16pj2saksghg35bonnu9fkgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfMmgxNnBqMnNha3NnaGczNWJvbm51OWZrZ28gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Lunar New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_2h16pj2saksghg35bonnu9fkgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240211_mu73gjk5fhn7f6jkst3s5jjg0c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfbXU3M2dqazVmaG43ZjZqa3N0M3M1ampnMGMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_mu73gjk5fhn7f6jkst3s5jjg0c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240212_pipr0l924cd9alu3ki2cclipa0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfcGlwcjBsOTI0Y2Q5YWx1M2tpMmNjbGlwYTAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_pipr0l924cd9alu3ki2cclipa0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240213_5kneakj0n06r848298806egits",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfNWtuZWFrajBuMDZyODQ4Mjk4ODA2ZWdpdHMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_5kneakj0n06r848298806egits@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240214_6496jd03aee0liol5so1pa7k8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfNjQ5NmpkMDNhZWUwbGlvbDVzbzFwYTdrOHMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_6496jd03aee0liol5so1pa7k8s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240215_cc9bp8a0d191a7890kkkgmdv8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTVfY2M5YnA4YTBkMTkxYTc4OTBra2tnbWR2OHMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spring Festival Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-15"
+   },
+   "end": {
+    "date": "2024-02-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240215_cc9bp8a0d191a7890kkkgmdv8s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240224_g6f3ncieee1f45n3vuuonevkjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjRfZzZmM25jaWVlZTFmNDVuM3Z1dW9uZXZramcgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Lantern Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-24"
+   },
+   "end": {
+    "date": "2024-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240224_g6f3ncieee1f45n3vuuonevkjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240308_j5oor767thrsu4h67rshgorhek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfajVvb3I3Njd0aHJzdTRoNjdyc2hnb3JoZWsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_j5oor767thrsu4h67rshgorhek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240311_b1d9lklervhc5g6h9k8te5vfrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfYjFkOWxrbGVydmhjNWc2aDlrOHRlNXZmcmMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Zhonghe Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_b1d9lklervhc5g6h9k8te5vfrc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240312_41qf590btn371a8pvqcj6pqae8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTJfNDFxZjU5MGJ0bjM3MWE4cHZxY2o2cHFhZTggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Arbor Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-12"
+   },
+   "end": {
+    "date": "2024-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240312_41qf590btn371a8pvqcj6pqae8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240404_9otommfg3nokpud70dhcpq7s40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDRfOW90b21tZmczbm9rcHVkNzBkaGNwcTdzNDAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Qing Ming Jie",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-04"
+   },
+   "end": {
+    "date": "2024-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240404_9otommfg3nokpud70dhcpq7s40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240501_damka816sd2dkmn8ldi2p7n5hc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfZGFta2E4MTZzZDJka21uOGxkaTJwN241aGMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_damka816sd2dkmn8ldi2p7n5hc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240504_8tvvcsn568taiocboah0045slo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDRfOHR2dmNzbjU2OHRhaW9jYm9haDAwNDVzbG8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Youth Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-04"
+   },
+   "end": {
+    "date": "2024-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240504_8tvvcsn568taiocboah0045slo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240610_laeq1lhsu874i8vsbqdnc39gko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTBfbGFlcTFsaHN1ODc0aTh2c2JxZG5jMzlna28gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Dragon Boat Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-10"
+   },
+   "end": {
+    "date": "2024-06-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240610_laeq1lhsu874i8vsbqdnc39gko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240810_1rmggqlm5c9pfr53upp0cju6bc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTBfMXJtZ2dxbG01YzlwZnI1M3VwcDBjanU2YmMgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Chinese Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-10"
+   },
+   "end": {
+    "date": "2024-08-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240810_1rmggqlm5c9pfr53upp0cju6bc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240818_239guer1qbr2c04j0ibob1v9h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MThfMjM5Z3VlcjFxYnIyYzA0ajBpYm9iMXY5aDQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Spirit Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-18"
+   },
+   "end": {
+    "date": "2024-08-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240818_239guer1qbr2c04j0ibob1v9h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240910_63mf154lr8i95viengmafl5vm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTBfNjNtZjE1NGxyOGk5NXZpZW5nbWFmbDV2bTAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Teachers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-10"
+   },
+   "end": {
+    "date": "2024-09-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240910_63mf154lr8i95viengmafl5vm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20240917_t7pjhem8riuai47qd2bk907uqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTdfdDdwamhlbThyaXVhaTQ3cWQyYms5MDd1cW8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Mid-Autumn Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-17"
+   },
+   "end": {
+    "date": "2024-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240917_t7pjhem8riuai47qd2bk907uqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241001_r01ci0k9kfo8prannq60kdve94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDFfcjAxY2kwazlrZm84cHJhbm5xNjBrZHZlOTQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-01"
+   },
+   "end": {
+    "date": "2024-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241001_r01ci0k9kfo8prannq60kdve94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241002_1nk1a0atn485nea6511f89gi7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDJfMW5rMWEwYXRuNDg1bmVhNjUxMWY4OWdpN2cgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-02"
+   },
+   "end": {
+    "date": "2024-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241002_1nk1a0atn485nea6511f89gi7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241003_ch9hartuuorv0jkrvlk3aebbrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDNfY2g5aGFydHV1b3J2MGprcnZsazNhZWJicmsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-03"
+   },
+   "end": {
+    "date": "2024-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241003_ch9hartuuorv0jkrvlk3aebbrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241004_pp3henh5k2var37q92lle2t8cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDRfcHAzaGVuaDVrMnZhcjM3cTkybGxlMnQ4Y2MgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-04"
+   },
+   "end": {
+    "date": "2024-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241004_pp3henh5k2var37q92lle2t8cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241005_ioe8f8i7j4df4eorhleohm5no0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDVfaW9lOGY4aTdqNGRmNGVvcmhsZW9obTVubzAgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-05"
+   },
+   "end": {
+    "date": "2024-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241005_ioe8f8i7j4df4eorhleohm5no0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241006_u4emmjvcqvk4nlmdng05o78m94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDZfdTRlbW1qdmNxdms0bmxtZG5nMDVvNzhtOTQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "National Day Golden Week holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-06"
+   },
+   "end": {
+    "date": "2024-10-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241006_u4emmjvcqvk4nlmdng05o78m94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241011_bo4uoc87sdi8ra3aodq5v7t0hk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfYm80dW9jODdzZGk4cmEzYW9kcTV2N3QwaGsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Double Ninth Festival",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_bo4uoc87sdi8ra3aodq5v7t0hk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328547011626000\"",
+   "id": "20241225_4mkosda3ed2l7aju3uap6ehur8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfNG1rb3NkYTNlZDJsN2FqdTN1YXA2ZWh1cjggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-09-27T10:11:45.000Z",
+   "updated": "2022-09-27T10:11:45.813Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in China",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_4mkosda3ed2l7aju3uap6ehur8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779325524000\"",
+   "id": "20230623_m9nc27iu8fncn8q7u36sm24l88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjNfbTluYzI3aXU4Zm5jbjhxN3UzNnNtMjRsODggZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-10-04T13:21:02.000Z",
+   "updated": "2022-10-04T13:21:02.762Z",
+   "summary": "Dragon Boat Festival holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-23"
+   },
+   "end": {
+    "date": "2023-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230623_m9nc27iu8fncn8q7u36sm24l88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779325524000\"",
+   "id": "20230624_l96l5t37kgkvsjlajpe7ob13ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjRfbDk2bDV0MzdrZ2t2c2psYWpwZTdvYjEzZWsgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2022-10-04T13:21:02.000Z",
+   "updated": "2022-10-04T13:21:02.762Z",
+   "summary": "Dragon Boat Festival holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-24"
+   },
+   "end": {
+    "date": "2023-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230624_l96l5t37kgkvsjlajpe7ob13ek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590634510000\"",
+   "id": "20230102_hq76a68me7r9r1i3uac486v4h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfaHE3NmE2OG1lN3I5cjFpM3VhYzQ4NnY0aDQgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2023-01-21T10:01:57.000Z",
+   "updated": "2023-01-21T10:01:57.255Z",
+   "summary": "New Year's Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_hq76a68me7r9r1i3uac486v4h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590634510000\"",
+   "id": "20230429_f9sf66c4t629hrefqqo8kv4a7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjlfZjlzZjY2YzR0NjI5aHJlZnFxbzhrdjRhN3MgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2023-01-21T10:01:57.000Z",
+   "updated": "2023-01-21T10:01:57.255Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-29"
+   },
+   "end": {
+    "date": "2023-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230429_f9sf66c4t629hrefqqo8kv4a7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590634510000\"",
+   "id": "20230430_kfft7rtte18fsglbn1sgo2gsck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MzBfa2ZmdDdydHRlMThmc2dsYm4xc2dvMmdzY2sgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2023-01-21T10:01:57.000Z",
+   "updated": "2023-01-21T10:01:57.255Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-30"
+   },
+   "end": {
+    "date": "2023-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230430_kfft7rtte18fsglbn1sgo2gsck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590634510000\"",
+   "id": "20230502_896nhmvke0s0v1cjm3hj88plfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDJfODk2bmhtdmtlMHMwdjFjam0zaGo4OHBsZm8gZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2023-01-21T10:01:57.000Z",
+   "updated": "2023-01-21T10:01:57.255Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-02"
+   },
+   "end": {
+    "date": "2023-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230502_896nhmvke0s0v1cjm3hj88plfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590634510000\"",
+   "id": "20230503_dkad18jvahnslm6e5npk80d4gk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDNfZGthZDE4anZhaG5zbG02ZTVucGs4MGQ0Z2sgZW4uY2hpbmEjaG9saWRheUB2",
+   "created": "2023-01-21T10:01:57.000Z",
+   "updated": "2023-01-21T10:01:57.255Z",
+   "summary": "Labour Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.china#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in China",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-03"
+   },
+   "end": {
+    "date": "2023-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230503_dkad18jvahnslm6e5npk80d4gk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

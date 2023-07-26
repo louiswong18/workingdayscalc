@@ -1,0 +1,5613 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32hqhh7trmlo00o\"",
+ "summary": "Holidays in India",
+ "description": "Holidays and Observances in India",
+ "updated": "2023-07-25T04:26:55.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMDD2qCCqYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937471612000\"",
+   "id": "20220414_s465qeqls7epibotpm88vklmcg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfczQ2NXFlcWxzN2VwaWJvdHBtODh2a2xtY2cgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:35.000Z",
+   "updated": "2021-08-26T09:05:35.806Z",
+   "summary": "Ambedkar Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_s465qeqls7epibotpm88vklmcg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937471612000\"",
+   "id": "20220819_0va86dckv04kqe7ijdahr7h7pc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTlfMHZhODZkY2t2MDRrcWU3aWpkYWhyN2g3cGMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:35.000Z",
+   "updated": "2021-08-26T09:05:35.806Z",
+   "summary": "Janmashtami",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-19"
+   },
+   "end": {
+    "date": "2022-08-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220819_0va86dckv04kqe7ijdahr7h7pc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937475446000\"",
+   "id": "20220318_psntc0tm3gvo8vi8rtsas66o08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMThfcHNudGMwdG0zZ3ZvOHZpOHJ0c2FzNjZvMDggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:37.000Z",
+   "updated": "2021-08-26T09:05:37.723Z",
+   "summary": "Holi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-18"
+   },
+   "end": {
+    "date": "2022-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220318_psntc0tm3gvo8vi8rtsas66o08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937483872000\"",
+   "id": "20220301_89jn8v0gq583ak7j76u2v6u2o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfODlqbjh2MGdxNTgzYWs3ajc2dTJ2NnUybzggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:41.000Z",
+   "updated": "2021-08-26T09:05:41.936Z",
+   "summary": "Maha Shivaratri/Shivaratri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_89jn8v0gq583ak7j76u2v6u2o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937483872000\"",
+   "id": "20220318_3n64pd6a2blvdehacfktd3s340",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMThfM242NHBkNmEyYmx2ZGVoYWNma3RkM3MzNDAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:41.000Z",
+   "updated": "2021-08-26T09:05:41.936Z",
+   "summary": "Dolyatra",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-18"
+   },
+   "end": {
+    "date": "2022-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220318_3n64pd6a2blvdehacfktd3s340@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937488040000\"",
+   "id": "20220109_lleoqageok61nkvq7p8fu8ecqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDlfbGxlb3FhZ2VvazYxbmt2cTdwOGZ1OGVjcWsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:44.000Z",
+   "updated": "2021-08-26T09:05:44.020Z",
+   "summary": "Guru Govind Singh Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-09"
+   },
+   "end": {
+    "date": "2022-01-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220109_lleoqageok61nkvq7p8fu8ecqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937488040000\"",
+   "id": "20220516_ig56fm2g1p8n0jo31i49blpgqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTZfaWc1NmZtMmcxcDhuMGpvMzFpNDlibHBncXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:44.000Z",
+   "updated": "2021-08-26T09:05:44.020Z",
+   "summary": "Buddha Purnima/Vesak",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-16"
+   },
+   "end": {
+    "date": "2022-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220516_ig56fm2g1p8n0jo31i49blpgqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937492990000\"",
+   "id": "20220126_61vvf5epd10r951h92dae910a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMjZfNjF2dmY1ZXBkMTByOTUxaDkyZGFlOTEwYTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:46.000Z",
+   "updated": "2021-08-26T09:05:46.495Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-26"
+   },
+   "end": {
+    "date": "2022-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220126_61vvf5epd10r951h92dae910a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937509070000\"",
+   "id": "20220113_acng6ntadkt582gd6m4dgftlis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTNfYWNuZzZudGFka3Q1ODJnZDZtNGRnZnRsaXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:54.000Z",
+   "updated": "2021-08-26T09:05:54.535Z",
+   "summary": "Lohri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-13"
+   },
+   "end": {
+    "date": "2022-01-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220113_acng6ntadkt582gd6m4dgftlis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937513080000\"",
+   "id": "20220414_p53627l5r01ardvanaa4pqn3ec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfcDUzNjI3bDVyMDFhcmR2YW5hYTRwcW4zZWMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:56.000Z",
+   "updated": "2021-08-26T09:05:56.540Z",
+   "summary": "Mahavir Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_p53627l5r01ardvanaa4pqn3ec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937513080000\"",
+   "id": "20220415_mqecjs2reg96b1g6eft6sgb5a8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfbXFlY2pzMnJlZzk2YjFnNmVmdDZzZ2I1YTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:56.000Z",
+   "updated": "2021-08-26T09:05:56.540Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_mqecjs2reg96b1g6eft6sgb5a8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937513080000\"",
+   "id": "20220503_19gkkie1hub1a4ajulcku03he0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfMTlna2tpZTFodWIxYTRhanVsY2t1MDNoZTAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:56.000Z",
+   "updated": "2021-08-26T09:05:56.540Z",
+   "summary": "Ramzan Id/Eid-ul-Fitar",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_19gkkie1hub1a4ajulcku03he0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937513080000\"",
+   "id": "20220815_5qifn9idp1endkelhuk7kt3cfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfNXFpZm45aWRwMWVuZGtlbGh1azdrdDNjZm8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:56.000Z",
+   "updated": "2021-08-26T09:05:56.540Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_5qifn9idp1endkelhuk7kt3cfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259937513080000\"",
+   "id": "20220926_q4cgvj6agl66mr6uoli0fidb2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjZfcTRjZ3ZqNmFnbDY2bXI2dW9saTBmaWRiMnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-08-26T09:05:56.000Z",
+   "updated": "2021-08-26T09:05:56.540Z",
+   "summary": "First Day of Sharad Navratri",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-26"
+   },
+   "end": {
+    "date": "2022-09-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220926_q4cgvj6agl66mr6uoli0fidb2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454589682000\"",
+   "id": "20220101_l6f49taupv5nauci8ssicg6em0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfbDZmNDl0YXVwdjVuYXVjaThzc2ljZzZlbTAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:34.000Z",
+   "updated": "2021-11-18T09:21:34.841Z",
+   "summary": "New Year's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_l6f49taupv5nauci8ssicg6em0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454589682000\"",
+   "id": "20220219_qrk6har2bfacahp2i6ddvve9c0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTlfcXJrNmhhcjJiZmFjYWhwMmk2ZGR2dmU5YzAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:34.000Z",
+   "updated": "2021-11-18T09:21:34.841Z",
+   "summary": "Shivaji Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-19"
+   },
+   "end": {
+    "date": "2022-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220219_qrk6har2bfacahp2i6ddvve9c0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454589682000\"",
+   "id": "20220701_m9to2tslumjgmva8pkbjaqk5g0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDFfbTl0bzJ0c2x1bWpnbXZhOHBrYmphcWs1ZzAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:34.000Z",
+   "updated": "2021-11-18T09:21:34.841Z",
+   "summary": "Rath Yatra",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-01"
+   },
+   "end": {
+    "date": "2022-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220701_m9to2tslumjgmva8pkbjaqk5g0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454589682000\"",
+   "id": "20220831_m0masj1aug0nuog7lrdl8o15dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MzFfbTBtYXNqMWF1ZzBudW9nN2xyZGw4bzE1ZGMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:34.000Z",
+   "updated": "2021-11-18T09:21:34.841Z",
+   "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-31"
+   },
+   "end": {
+    "date": "2022-09-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220831_m0masj1aug0nuog7lrdl8o15dc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454592888000\"",
+   "id": "20220114_pvlljge93pju3oifutqvlnfs44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTRfcHZsbGpnZTkzcGp1M29pZnV0cXZsbmZzNDQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:36.000Z",
+   "updated": "2021-11-18T09:21:36.444Z",
+   "summary": "Makar Sankranti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-14"
+   },
+   "end": {
+    "date": "2022-01-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220114_pvlljge93pju3oifutqvlnfs44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454592888000\"",
+   "id": "20220215_hi2j2b9hb1qe2vn70fbfbrllng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTVfaGkyajJiOWhiMXFlMnZuNzBmYmZicmxsbmcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:36.000Z",
+   "updated": "2021-11-18T09:21:36.444Z",
+   "summary": "Hazarat Ali's Birthday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-15"
+   },
+   "end": {
+    "date": "2022-02-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220215_hi2j2b9hb1qe2vn70fbfbrllng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454592888000\"",
+   "id": "20220410_a1dq3a1hmbcb2e4ft980kv7em8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTBfYTFkcTNhMWhtYmNiMmU0ZnQ5ODBrdjdlbTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:36.000Z",
+   "updated": "2021-11-18T09:21:36.444Z",
+   "summary": "Rama Navami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-10"
+   },
+   "end": {
+    "date": "2022-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220410_a1dq3a1hmbcb2e4ft980kv7em8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454592888000\"",
+   "id": "20220811_tbmsqo4fcbe3bsr4upd5nc0lk0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTFfdGJtc3FvNGZjYmUzYnNyNHVwZDVuYzBsazAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:36.000Z",
+   "updated": "2021-11-18T09:21:36.444Z",
+   "summary": "Raksha Bandhan (Rakhi)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-11"
+   },
+   "end": {
+    "date": "2022-08-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220811_tbmsqo4fcbe3bsr4upd5nc0lk0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454596108000\"",
+   "id": "20220205_p8mrupekvpf1g4revnlutk3cu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDVfcDhtcnVwZWt2cGYxZzRyZXZubHV0azNjdTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:38.000Z",
+   "updated": "2021-11-18T09:21:38.054Z",
+   "summary": "Vasant Panchami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-05"
+   },
+   "end": {
+    "date": "2022-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220205_p8mrupekvpf1g4revnlutk3cu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454596108000\"",
+   "id": "20220402_53kbtorm0pciljvlpkarehopsk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfNTNrYnRvcm0wcGNpbGp2bHBrYXJlaG9wc2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:38.000Z",
+   "updated": "2021-11-18T09:21:38.054Z",
+   "summary": "Chaitra Sukhladi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_53kbtorm0pciljvlpkarehopsk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454596108000\"",
+   "id": "20220402_aodfp37h0d0rjrvkuesfpnj2uk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfYW9kZnAzN2gwZDByanJ2a3Vlc2ZwbmoydWsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:38.000Z",
+   "updated": "2021-11-18T09:21:38.054Z",
+   "summary": "Gudi Padwa",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_aodfp37h0d0rjrvkuesfpnj2uk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454596108000\"",
+   "id": "20220417_km6f36k443qovn4h3po26o1ei0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfa202ZjM2azQ0M3Fvdm40aDNwbzI2bzFlaTAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:38.000Z",
+   "updated": "2021-11-18T09:21:38.054Z",
+   "summary": "Easter Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_km6f36k443qovn4h3po26o1ei0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454596108000\"",
+   "id": "20220908_40r3co9uv6q028gjbfk0o5jj6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDhfNDByM2NvOXV2NnEwMjhnamJmazBvNWpqNnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:38.000Z",
+   "updated": "2021-11-18T09:21:38.054Z",
+   "summary": "Onam",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-08"
+   },
+   "end": {
+    "date": "2022-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220908_40r3co9uv6q028gjbfk0o5jj6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454599352000\"",
+   "id": "20220402_i20pupl6k348t92qf9ndt1gn6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfaTIwcHVwbDZrMzQ4dDkycWY5bmR0MWduNnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:39.000Z",
+   "updated": "2021-11-18T09:21:39.676Z",
+   "summary": "Ugadi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_i20pupl6k348t92qf9ndt1gn6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454599352000\"",
+   "id": "20220816_3deuuks2oom9utvau16bb94cm4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTZfM2RldXVrczJvb205dXR2YXUxNmJiOTRjbTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:39.000Z",
+   "updated": "2021-11-18T09:21:39.676Z",
+   "summary": "Parsi New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-16"
+   },
+   "end": {
+    "date": "2022-08-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220816_3deuuks2oom9utvau16bb94cm4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454603286000\"",
+   "id": "20220414_6m65eqvg8mvc2c1n23f3pj6mfc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfNm02NWVxdmc4bXZjMmMxbjIzZjNwajZtZmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:41.000Z",
+   "updated": "2021-11-18T09:21:41.643Z",
+   "summary": "Vaisakhi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_6m65eqvg8mvc2c1n23f3pj6mfc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454603286000\"",
+   "id": "20220414_bab9da2stgs4pau01iv9qtivg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfYmFiOWRhMnN0Z3M0cGF1MDFpdjlxdGl2ZzQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:41.000Z",
+   "updated": "2021-11-18T09:21:41.643Z",
+   "summary": "Mesadi / Vaisakhadi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_bab9da2stgs4pau01iv9qtivg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454603286000\"",
+   "id": "20220429_o9njhsq5m9t8omvcbudn33pkds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjlfbzluamhzcTVtOXQ4b212Y2J1ZG4zM3BrZHMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:41.000Z",
+   "updated": "2021-11-18T09:21:41.643Z",
+   "summary": "Jamat Ul-Vida",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-29"
+   },
+   "end": {
+    "date": "2022-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220429_o9njhsq5m9t8omvcbudn33pkds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454603286000\"",
+   "id": "20220818_f563jjh677oat24pf0on95s7t8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MThfZjU2M2pqaDY3N29hdDI0cGYwb245NXM3dDggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:41.000Z",
+   "updated": "2021-11-18T09:21:41.643Z",
+   "summary": "Janmashtami (Smarta)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-18"
+   },
+   "end": {
+    "date": "2022-08-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220818_f563jjh677oat24pf0on95s7t8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454605722000\"",
+   "id": "20220216_kot2iukcbfgotj2cbm9fbtqvco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTZfa290Mml1a2NiZmdvdGoyY2JtOWZidHF2Y28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:42.000Z",
+   "updated": "2021-11-18T09:21:42.861Z",
+   "summary": "Guru Ravidas Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-16"
+   },
+   "end": {
+    "date": "2022-02-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220216_kot2iukcbfgotj2cbm9fbtqvco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454609606000\"",
+   "id": "20220226_uomll29dimu5fu4sr9s5mc7kr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjZfdW9tbGwyOWRpbXU1ZnU0c3I5czVtYzdrcjggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:44.000Z",
+   "updated": "2021-11-18T09:21:44.803Z",
+   "summary": "Maharishi Dayanand Saraswati Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-26"
+   },
+   "end": {
+    "date": "2022-02-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220226_uomll29dimu5fu4sr9s5mc7kr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454609606000\"",
+   "id": "20220317_bc081377laemq425tpijuihdh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfYmMwODEzNzdsYWVtcTQyNXRwaWp1aWhkaDggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:44.000Z",
+   "updated": "2021-11-18T09:21:44.803Z",
+   "summary": "Holika Dahana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_bc081377laemq425tpijuihdh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274454612614000\"",
+   "id": "20220114_qoatef62sql24rs57hfh31rlgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTRfcW9hdGVmNjJzcWwyNHJzNTdoZmgzMXJsZ2MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-11-18T09:21:46.000Z",
+   "updated": "2021-11-18T09:21:46.307Z",
+   "summary": "Pongal",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-14"
+   },
+   "end": {
+    "date": "2022-01-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220114_qoatef62sql24rs57hfh31rlgc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281212419996000\"",
+   "id": "20220809_vqjbhctlld2e2mol2056m5jqq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDlfdnFqYmhjdGxsZDJlMm1vbDIwNTZtNWpxcTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2021-12-27T11:56:49.000Z",
+   "updated": "2021-12-27T11:56:49.998Z",
+   "summary": "Muharram/Ashura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-09"
+   },
+   "end": {
+    "date": "2022-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220809_vqjbhctlld2e2mol2056m5jqq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3304687861970000\"",
+   "id": "20220509_bldd90trpt8n3he7s4d0hv1ms8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfYmxkZDkwdHJwdDhuM2hlN3M0ZDBodjFtczggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-05-12T08:25:30.000Z",
+   "updated": "2022-05-12T08:25:30.985Z",
+   "summary": "Birthday of Rabindranath",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_bldd90trpt8n3he7s4d0hv1ms8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618601746000\"",
+   "id": "20220710_e0mi5vg545hv77mgmgf206bepk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfZTBtaTV2ZzU0NWh2NzdtZ21nZjIwNmJlcGsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-07-14T14:35:00.000Z",
+   "updated": "2022-07-14T14:35:00.873Z",
+   "summary": "Bakrid/Eid ul-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_e0mi5vg545hv77mgmgf206bepk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221001_5bs6mo9bfnhkm1to8o7vshu5oc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDFfNWJzNm1vOWJmbmhrbTF0bzhvN3ZzaHU1b2MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "First Day of Durga Puja Festivities",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-01"
+   },
+   "end": {
+    "date": "2022-10-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221001_5bs6mo9bfnhkm1to8o7vshu5oc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221002_ane7fo0k4fd3obgm92sv0m9uns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfYW5lN2ZvMGs0ZmQzb2JnbTkyc3YwbTl1bnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Mahatma Gandhi Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_ane7fo0k4fd3obgm92sv0m9uns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221002_m5jhcm07regs9anm1purja06lg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDJfbTVqaGNtMDdyZWdzOWFubTFwdXJqYTA2bGcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Saptami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-02"
+   },
+   "end": {
+    "date": "2022-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221002_m5jhcm07regs9anm1purja06lg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221003_uo34qu3028g0i7v0gc2f1979ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDNfdW8zNHF1MzAyOGcwaTd2MGdjMmYxOTc5a28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Ashtami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-03"
+   },
+   "end": {
+    "date": "2022-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221003_uo34qu3028g0i7v0gc2f1979ko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221004_84r79gte8crjs4vnm7i7el7gr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDRfODRyNzlndGU4Y3JqczR2bm03aTdlbDdncjggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Navami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-04"
+   },
+   "end": {
+    "date": "2022-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221004_84r79gte8crjs4vnm7i7el7gr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221005_roo4jse4gcdo2uc1f7si7hl25s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfcm9vNGpzZTRnY2RvMnVjMWY3c2k3aGwyNXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Dussehra",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_roo4jse4gcdo2uc1f7si7hl25s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221009_u48u3ujtg0g708r5mchpcidujc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfdTQ4dTN1anRnMGc3MDhyNW1jaHBjaWR1amMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Milad un-Nabi/Id-e-Milad",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_u48u3ujtg0g708r5mchpcidujc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221009_u7e52cldbh83isjrnluoiv8bus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfdTdlNTJjbGRiaDgzaXNqcm5sdW9pdjhidXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maharishi Valmiki Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_u7e52cldbh83isjrnluoiv8bus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221013_ac3n6fc1i127jbkpnqor9bkdcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTNfYWMzbjZmYzFpMTI3amJrcG5xb3I5YmtkY3MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Karaka Chaturthi (Karva Chauth)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-13"
+   },
+   "end": {
+    "date": "2022-10-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221013_ac3n6fc1i127jbkpnqor9bkdcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221024_t47jelhfh3qm4ifq6sba82qltg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfdDQ3amVsaGZoM3FtNGlmcTZzYmE4MnFsdGcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_t47jelhfh3qm4ifq6sba82qltg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221024_tnh5ctov19l2ggb9prhe0ssabc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjRfdG5oNWN0b3YxOWwyZ2diOXByaGUwc3NhYmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Naraka Chaturdasi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-24"
+   },
+   "end": {
+    "date": "2022-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221024_tnh5ctov19l2ggb9prhe0ssabc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221025_346186n4771gt15edidqshb12g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjVfMzQ2MTg2bjQ3NzFndDE1ZWRpZHFzaGIxMmcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Govardhan Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-25"
+   },
+   "end": {
+    "date": "2022-10-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221025_346186n4771gt15edidqshb12g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221026_tn5cq7n2gcehkvpjl2uq8ci78s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMjZfdG41Y3E3bjJnY2Voa3ZwamwydXE4Y2k3OHMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Bhai Duj",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-26"
+   },
+   "end": {
+    "date": "2022-10-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221026_tn5cq7n2gcehkvpjl2uq8ci78s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221030_aj7v8h6fv96hj1t9e03ndombck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzBfYWo3djhoNmZ2OTZoajF0OWUwM25kb21iY2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-30"
+   },
+   "end": {
+    "date": "2022-10-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221030_aj7v8h6fv96hj1t9e03ndombck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221108_bnn7ahc9qr0lh2afqjpb9veuj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDhfYm5uN2FoYzlxcjBsaDJhZnFqcGI5dmV1ajAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Nanak Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-08"
+   },
+   "end": {
+    "date": "2022-11-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221108_bnn7ahc9qr0lh2afqjpb9veuj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221124_ghphle7ppfmvfiq2g5humb2me8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjRfZ2hwaGxlN3BwZm12ZmlxMmc1aHVtYjJtZTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Tegh Bahadur's Martyrdom Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-24"
+   },
+   "end": {
+    "date": "2022-11-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221124_ghphle7ppfmvfiq2g5humb2me8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221224_lcgg8m1359roqe05tvnnafbt2s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfbGNnZzhtMTM1OXJvcWUwNXR2bm5hZmJ0MnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_lcgg8m1359roqe05tvnnafbt2s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221225_apfbln527i1qpgefsv8lh81uug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfYXBmYmxuNTI3aTFxcGdlZnN2OGxoODF1dWcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_apfbln527i1qpgefsv8lh81uug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20221229_ueqrermmn8re3h4unpof3k6fs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjlfdWVxcmVybW1uOHJlM2g0dW5wb2YzazZmczQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Govind Singh Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-29"
+   },
+   "end": {
+    "date": "2022-12-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221229_ueqrermmn8re3h4unpof3k6fs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230101_jt8j4gjd25cnbq5mu4uugkeo9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfanQ4ajRnamQyNWNuYnE1bXU0dXVna2VvOWsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "New Year's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_jt8j4gjd25cnbq5mu4uugkeo9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230114_irvsh4fr3t2n4fcl6b10otha6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMTRfaXJ2c2g0ZnIzdDJuNGZjbDZiMTBvdGhhNmsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Makar Sankranti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-14"
+   },
+   "end": {
+    "date": "2023-01-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230114_irvsh4fr3t2n4fcl6b10otha6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230115_i2g0rg6bon2j8me0u7sjm7tka4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMTVfaTJnMHJnNmJvbjJqOG1lMHU3c2ptN3RrYTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Pongal",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-15"
+   },
+   "end": {
+    "date": "2023-01-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230115_i2g0rg6bon2j8me0u7sjm7tka4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230126_32k1n90r06la29e8te70c1u40s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfMzJrMW45MHIwNmxhMjllOHRlNzBjMXU0MHMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_32k1n90r06la29e8te70c1u40s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230126_jop3t0vt8i1anit5e8d8tisr24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfam9wM3QwdnQ4aTFhbml0NWU4ZDh0aXNyMjQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Vasant Panchami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_jop3t0vt8i1anit5e8d8tisr24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230205_9or44lpflu8s17jug6paodpvck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDVfOW9yNDRscGZsdThzMTdqdWc2cGFvZHB2Y2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Hazarat Ali's Birthday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-05"
+   },
+   "end": {
+    "date": "2023-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230205_9or44lpflu8s17jug6paodpvck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230205_n1qgojhglm6jjiml166hi307rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDVfbjFxZ29qaGdsbTZqamltbDE2NmhpMzA3cnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Ravidas Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-05"
+   },
+   "end": {
+    "date": "2023-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230205_n1qgojhglm6jjiml166hi307rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230215_chb58fvbbo4qgg10g5nrvgteeo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTVfY2hiNThmdmJibzRxZ2cxMGc1bnJ2Z3RlZW8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maharishi Dayanand Saraswati Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-15"
+   },
+   "end": {
+    "date": "2023-02-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230215_chb58fvbbo4qgg10g5nrvgteeo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230218_ml54actfam30b0c7n1qjunm24o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfbWw1NGFjdGZhbTMwYjBjN24xcWp1bm0yNG8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Shivaratri/Shivaratri",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_ml54actfam30b0c7n1qjunm24o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230219_sm4rfm9h8flptl1tupiqoq5n7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTlfc200cmZtOWg4ZmxwdGwxdHVwaXFvcTVuN3MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Shivaji Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-19"
+   },
+   "end": {
+    "date": "2023-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230219_sm4rfm9h8flptl1tupiqoq5n7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230307_i7tvofq9hjbg4l6pd9d3dd5t7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDdfaTd0dm9mcTloamJnNGw2cGQ5ZDNkZDV0N28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Dolyatra",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-07"
+   },
+   "end": {
+    "date": "2023-03-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230307_i7tvofq9hjbg4l6pd9d3dd5t7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230307_n0r4j5rjlogu5hucbjeevbk4hs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDdfbjByNGo1cmpsb2d1NWh1Y2JqZWV2Yms0aHMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Holika Dahana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-07"
+   },
+   "end": {
+    "date": "2023-03-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230307_n0r4j5rjlogu5hucbjeevbk4hs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230308_49j459mvsi48u5vntig8ipehi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfNDlqNDU5bXZzaTQ4dTV2bnRpZzhpcGVoaTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Holi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_49j459mvsi48u5vntig8ipehi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230322_hp60tusd486sbhb0b2149cc3ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjJfaHA2MHR1c2Q0ODZzYmhiMGIyMTQ5Y2Mza28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Chaitra Sukhladi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-22"
+   },
+   "end": {
+    "date": "2023-03-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230322_hp60tusd486sbhb0b2149cc3ko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230322_rvcepa0hb1o5185g08bjdr6grc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjJfcnZjZXBhMGhiMW81MTg1ZzA4YmpkcjZncmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Gudi Padwa",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-22"
+   },
+   "end": {
+    "date": "2023-03-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230322_rvcepa0hb1o5185g08bjdr6grc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230322_sst1hfmrn3jubgca811240610g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjJfc3N0MWhmbXJuM2p1YmdjYTgxMTI0MDYxMGcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ugadi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-22"
+   },
+   "end": {
+    "date": "2023-03-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230322_sst1hfmrn3jubgca811240610g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230330_ulg1qqfo5rtv4oalupifaa6n9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMzBfdWxnMXFxZm81cnR2NG9hbHVwaWZhYTZuOWMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Rama Navami",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-30"
+   },
+   "end": {
+    "date": "2023-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230330_ulg1qqfo5rtv4oalupifaa6n9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230404_lj3i9vhf73fv3omj63nsa5u6d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDRfbGozaTl2aGY3M2Z2M29tajYzbnNhNXU2ZDAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Mahavir Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-04"
+   },
+   "end": {
+    "date": "2023-04-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230404_lj3i9vhf73fv3omj63nsa5u6d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230407_ov2s16sui03ojeldvcrgs4o4m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfb3YyczE2c3VpMDNvamVsZHZjcmdzNG80bTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_ov2s16sui03ojeldvcrgs4o4m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230409_ctdrlkuhdne96iqgm7bq87bni4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfY3RkcmxrdWhkbmU5NmlxZ203YnE4N2JuaTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Easter Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_ctdrlkuhdne96iqgm7bq87bni4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230414_gkv869gkg9e1hr0tiftkpje2r4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTRfZ2t2ODY5Z2tnOWUxaHIwdGlmdGtwamUycjQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Vaisakhi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-14"
+   },
+   "end": {
+    "date": "2023-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230414_gkv869gkg9e1hr0tiftkpje2r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230415_0qhjgr255bde37901gcia166vo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTVfMHFoamdyMjU1YmRlMzc5MDFnY2lhMTY2dm8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Mesadi / Vaisakhadi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-15"
+   },
+   "end": {
+    "date": "2023-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230415_0qhjgr255bde37901gcia166vo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230421_krdodl1tn389lbnjtlhng4e12k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfa3Jkb2RsMXRuMzg5bGJuanRsaG5nNGUxMmsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Jamat Ul-Vida",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_krdodl1tn389lbnjtlhng4e12k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230422_0gebcino6muoblvpdf274ptdmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfMGdlYmNpbm82bXVvYmx2cGRmMjc0cHRkbWcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ramzan Id/Eid-ul-Fitar",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_0gebcino6muoblvpdf274ptdmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230505_86m3s6dnv0r58un4s9u87cm4jc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDVfODZtM3M2ZG52MHI1OHVuNHM5dTg3Y200amMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Buddha Purnima/Vesak",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-05"
+   },
+   "end": {
+    "date": "2023-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230505_86m3s6dnv0r58un4s9u87cm4jc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230509_opg7v6r80md6hu8ru0reord5pk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDlfb3BnN3Y2cjgwbWQ2aHU4cnUwcmVvcmQ1cGsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Birthday of Rabindranath",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-09"
+   },
+   "end": {
+    "date": "2023-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230509_opg7v6r80md6hu8ru0reord5pk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230620_njbb5582o3mog39askdgtg9lg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjBfbmpiYjU1ODJvM21vZzM5YXNrZGd0ZzlsZzQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Rath Yatra",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-20"
+   },
+   "end": {
+    "date": "2023-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230620_njbb5582o3mog39askdgtg9lg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230629_98ps9fnvhlasv30jis8hsgjoc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfOThwczlmbnZobGFzdjMwamlzOGhzZ2pvYzggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Bakrid/Eid ul-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_98ps9fnvhlasv30jis8hsgjoc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230729_ek7pmarjtj44d5ui4ipsnh9b2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjlfZWs3cG1hcmp0ajQ0ZDV1aTRpcHNuaDliMmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Muharram/Ashura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-29"
+   },
+   "end": {
+    "date": "2023-07-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230729_ek7pmarjtj44d5ui4ipsnh9b2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230815_pic1jqopjio982j3g1kamgo7oc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfcGljMWpxb3BqaW85ODJqM2cxa2FtZ283b2MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_pic1jqopjio982j3g1kamgo7oc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230816_2mrsr018fj2olnqovqnsqjdhbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTZfMm1yc3IwMThmajJvbG5xb3ZxbnNxamRoYmcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Parsi New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-16"
+   },
+   "end": {
+    "date": "2023-08-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230816_2mrsr018fj2olnqovqnsqjdhbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230820_p0osh4rg9o1e8e0nnbcgpm44j8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjBfcDBvc2g0cmc5bzFlOGUwbm5iY2dwbTQ0ajggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Vinayaka Chathurthi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-20"
+   },
+   "end": {
+    "date": "2023-08-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230820_p0osh4rg9o1e8e0nnbcgpm44j8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230829_paop508c2mdiq9v157bt60ju0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjlfcGFvcDUwOGMybWRpcTl2MTU3YnQ2MGp1MG8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Onam",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-29"
+   },
+   "end": {
+    "date": "2023-08-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230829_paop508c2mdiq9v157bt60ju0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230830_i9okorg6bs30eokho8t87uta28",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MzBfaTlva29yZzZiczMwZW9raG84dDg3dXRhMjggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Raksha Bandhan (Rakhi)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-30"
+   },
+   "end": {
+    "date": "2023-08-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230830_i9okorg6bs30eokho8t87uta28@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230906_25g2aeva0npd765gu9mb9bi1kc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDZfMjVnMmFldmEwbnBkNzY1Z3U5bWI5Ymkxa2MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Janmashtami (Smarta)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-06"
+   },
+   "end": {
+    "date": "2023-09-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230906_25g2aeva0npd765gu9mb9bi1kc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230907_a22tsueuq1si4p3u7ha9sqlimk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDdfYTIydHN1ZXVxMXNpNHAzdTdoYTlzcWxpbWsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Janmashtami",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-07"
+   },
+   "end": {
+    "date": "2023-09-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230907_a22tsueuq1si4p3u7ha9sqlimk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230919_ikp0lms0a3tbsl0icu7luihvv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTlfaWtwMGxtczBhM3Ric2wwaWN1N2x1aWh2djggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-19"
+   },
+   "end": {
+    "date": "2023-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230919_ikp0lms0a3tbsl0icu7luihvv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20230928_b946i0p07urvr85fqe01fnfbns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjhfYjk0NmkwcDA3dXJ2cjg1ZnFlMDFmbmZibnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Milad un-Nabi/Id-e-Milad",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-28"
+   },
+   "end": {
+    "date": "2023-09-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230928_b946i0p07urvr85fqe01fnfbns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231002_atg9ii7gjikmi5jh70kffdugvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDJfYXRnOWlpN2dqaWttaTVqaDcwa2ZmZHVndm8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Mahatma Gandhi Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-02"
+   },
+   "end": {
+    "date": "2023-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231002_atg9ii7gjikmi5jh70kffdugvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231015_2hmf8nsvctr5v9mjcit6tjroe0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTVfMmhtZjhuc3ZjdHI1djltamNpdDZ0anJvZTAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "First Day of Sharad Navratri",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-15"
+   },
+   "end": {
+    "date": "2023-10-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231015_2hmf8nsvctr5v9mjcit6tjroe0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231020_dah5dd91o9lroinmttrdqdkbos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjBfZGFoNWRkOTFvOWxyb2lubXR0cmRxZGtib3MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "First Day of Durga Puja Festivities",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-20"
+   },
+   "end": {
+    "date": "2023-10-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231020_dah5dd91o9lroinmttrdqdkbos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231021_pcfksadj7kecvhjle73c1j03u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjFfcGNma3NhZGo3a2VjdmhqbGU3M2MxajAzdTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Saptami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-21"
+   },
+   "end": {
+    "date": "2023-10-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231021_pcfksadj7kecvhjle73c1j03u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231022_erf4sfb2svbdd6pjlcqb0o96i4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjJfZXJmNHNmYjJzdmJkZDZwamxjcWIwbzk2aTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Ashtami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-22"
+   },
+   "end": {
+    "date": "2023-10-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231022_erf4sfb2svbdd6pjlcqb0o96i4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231023_ulgc14vrv8re10503iaptnc91k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjNfdWxnYzE0dnJ2OHJlMTA1MDNpYXB0bmM5MWsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Navami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-23"
+   },
+   "end": {
+    "date": "2023-10-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231023_ulgc14vrv8re10503iaptnc91k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231024_r5akmnailu5rtena6nhbo3ejn8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjRfcjVha21uYWlsdTVydGVuYTZuaGJvM2VqbjggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Dussehra",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-24"
+   },
+   "end": {
+    "date": "2023-10-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231024_r5akmnailu5rtena6nhbo3ejn8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231028_ava2dd3oaabgk0rmjvbng43n9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjhfYXZhMmRkM29hYWJnazBybWp2Ym5nNDNuOXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maharishi Valmiki Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-28"
+   },
+   "end": {
+    "date": "2023-10-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231028_ava2dd3oaabgk0rmjvbng43n9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231101_j2a0plvcdb58a6e9ma1ja2noao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfajJhMHBsdmNkYjU4YTZlOW1hMWphMm5vYW8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Karaka Chaturthi (Karva Chauth)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_j2a0plvcdb58a6e9ma1ja2noao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231112_fqpf08gculh3mhh1urkb5u0c58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfZnFwZjA4Z2N1bGgzbWhoMXVya2I1dTBjNTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_fqpf08gculh3mhh1urkb5u0c58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231112_j3151ns8fvkt8ci2oog9d9u0ps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTJfajMxNTFuczhmdmt0OGNpMm9vZzlkOXUwcHMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Naraka Chaturdasi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-12"
+   },
+   "end": {
+    "date": "2023-11-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231112_j3151ns8fvkt8ci2oog9d9u0ps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231113_2alkmleq3qq424vlk2htahn8qo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTNfMmFsa21sZXEzcXE0MjR2bGsyaHRhaG44cW8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Govardhan Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-13"
+   },
+   "end": {
+    "date": "2023-11-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231113_2alkmleq3qq424vlk2htahn8qo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231115_d9k3f3ogj11ml01e601al1rcck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTVfZDlrM2Yzb2dqMTFtbDAxZTYwMWFsMXJjY2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Bhai Duj",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-15"
+   },
+   "end": {
+    "date": "2023-11-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231115_d9k3f3ogj11ml01e601al1rcck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231119_k3fg8p74ekr1hi45ck2r5445oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTlfazNmZzhwNzRla3IxaGk0NWNrMnI1NDQ1b28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-19"
+   },
+   "end": {
+    "date": "2023-11-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231119_k3fg8p74ekr1hi45ck2r5445oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231124_i1fnn5c5kufbh14e5pt888seng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjRfaTFmbm41YzVrdWZiaDE0ZTVwdDg4OHNlbmcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Tegh Bahadur's Martyrdom Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-24"
+   },
+   "end": {
+    "date": "2023-11-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231124_i1fnn5c5kufbh14e5pt888seng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231127_94ga05eptl8tfigjv118i1m1bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjdfOTRnYTA1ZXB0bDh0ZmlnanYxMThpMW0xYmcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Nanak Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-27"
+   },
+   "end": {
+    "date": "2023-11-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231127_94ga05eptl8tfigjv118i1m1bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231224_fp8q5erpftb2s6lr50bnntu3v0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfZnA4cTVlcnBmdGIyczZscjUwYm5udHUzdjAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_fp8q5erpftb2s6lr50bnntu3v0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20231225_t07g7jettnk0avmbvns4dn4afc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfdDA3ZzdqZXR0bmswYXZtYnZuczRkbjRhZmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_t07g7jettnk0avmbvns4dn4afc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240101_hq57srvd2vmvlkd8kef9id1194",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfaHE1N3NydmQydm12bGtkOGtlZjlpZDExOTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "New Year's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_hq57srvd2vmvlkd8kef9id1194@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240114_0gedlkddumvh5ndrcpraukfah4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMTRfMGdlZGxrZGR1bXZoNW5kcmNwcmF1a2ZhaDQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Lohri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-14"
+   },
+   "end": {
+    "date": "2024-01-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240114_0gedlkddumvh5ndrcpraukfah4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240115_d4vlnleoqb6af04j0uqu005vh0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMTVfZDR2bG5sZW9xYjZhZjA0ajB1cXUwMDV2aDAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Makar Sankranti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-15"
+   },
+   "end": {
+    "date": "2024-01-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240115_d4vlnleoqb6af04j0uqu005vh0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240115_vasn62a9dftsrug1n2jbpgp8eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMTVfdmFzbjYyYTlkZnRzcnVnMW4yamJwZ3A4ZW8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Pongal",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-15"
+   },
+   "end": {
+    "date": "2024-01-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240115_vasn62a9dftsrug1n2jbpgp8eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240117_6uit3jd62gnd37g6opbjjr9nr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMTdfNnVpdDNqZDYyZ25kMzdnNm9wYmpqcjlucjQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Govind Singh Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-17"
+   },
+   "end": {
+    "date": "2024-01-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240117_6uit3jd62gnd37g6opbjjr9nr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240125_gq3utbei676oga1ud83p230agk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjVfZ3EzdXRiZWk2NzZvZ2ExdWQ4M3AyMzBhZ2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Hazarat Ali's Birthday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-25"
+   },
+   "end": {
+    "date": "2024-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240125_gq3utbei676oga1ud83p230agk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240126_b4h0o1umvgngcgb8s9r91fgfjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMjZfYjRoMG8xdW12Z25nY2diOHM5cjkxZmdmanMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-26"
+   },
+   "end": {
+    "date": "2024-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240126_b4h0o1umvgngcgb8s9r91fgfjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240214_n0gmbn3fcriko6884crd2l4sk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfbjBnbWJuM2ZjcmlrbzY4ODRjcmQybDRzazQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Vasant Panchami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_n0gmbn3fcriko6884crd2l4sk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240219_kh48thdfi4kssavblahib4upvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTlfa2g0OHRoZGZpNGtzc2F2YmxhaGliNHVwdmcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Shivaji Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-19"
+   },
+   "end": {
+    "date": "2024-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240219_kh48thdfi4kssavblahib4upvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240224_8khsoun20n0o2833t6fhed9q7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjRfOGtoc291bjIwbjBvMjgzM3Q2ZmhlZDlxN2MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Ravidas Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-24"
+   },
+   "end": {
+    "date": "2024-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240224_8khsoun20n0o2833t6fhed9q7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240305_v7bn0ck8cvainspup0t7a8hkcs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDVfdjdibjBjazhjdmFpbnNwdXAwdDdhOGhrY3MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maharishi Dayanand Saraswati Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-05"
+   },
+   "end": {
+    "date": "2024-03-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240305_v7bn0ck8cvainspup0t7a8hkcs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240308_3rjt1i6o0g5qp1kv41g5hqsrmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfM3JqdDFpNm8wZzVxcDFrdjQxZzVocXNybWMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Shivaratri/Shivaratri",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_3rjt1i6o0g5qp1kv41g5hqsrmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240324_tq78j2vb0hgimvkhl098oqpb4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjRfdHE3OGoydmIwaGdpbXZraGwwOThvcXBiNG8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Holika Dahana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-24"
+   },
+   "end": {
+    "date": "2024-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240324_tq78j2vb0hgimvkhl098oqpb4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240325_f0dg9jc0mc64470s21foo3a23o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjVfZjBkZzlqYzBtYzY0NDcwczIxZm9vM2EyM28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Dolyatra",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-25"
+   },
+   "end": {
+    "date": "2024-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240325_f0dg9jc0mc64470s21foo3a23o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240325_hpb8d5mahisva5e5sli9q1e7p8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjVfaHBiOGQ1bWFoaXN2YTVlNXNsaTlxMWU3cDggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Holi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-25"
+   },
+   "end": {
+    "date": "2024-03-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240325_hpb8d5mahisva5e5sli9q1e7p8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240329_ds899pmvoukumv7nalsa11sp4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfZHM4OTlwbXZvdWt1bXY3bmFsc2ExMXNwNGcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_ds899pmvoukumv7nalsa11sp4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240331_0mn91sbculvn4h1b4pdf8e1vnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfMG1uOTFzYmN1bHZuNGgxYjRwZGY4ZTF2bmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Easter Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_0mn91sbculvn4h1b4pdf8e1vnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240405_2qshql82e5rq9b4lefah9bvt1c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDVfMnFzaHFsODJlNXJxOWI0bGVmYWg5YnZ0MWMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Jamat Ul-Vida",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-05"
+   },
+   "end": {
+    "date": "2024-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240405_2qshql82e5rq9b4lefah9bvt1c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240409_fcehf7ein07u8ave7qovsam454",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfZmNlaGY3ZWluMDd1OGF2ZTdxb3ZzYW00NTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ugadi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_fcehf7ein07u8ave7qovsam454@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240409_hnpauks50gcmtj6nfvnee7svb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfaG5wYXVrczUwZ2NtdGo2bmZ2bmVlN3N2YjAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Chaitra Sukhladi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_hnpauks50gcmtj6nfvnee7svb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240409_ptr4smvrfp78hgrod29nkivpeg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfcHRyNHNtdnJmcDc4aGdyb2QyOW5raXZwZWcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Gudi Padwa",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_ptr4smvrfp78hgrod29nkivpeg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240411_0hl80vk0icsvod3lh2ir6tj610",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfMGhsODB2azBpY3N2b2QzbGgyaXI2dGo2MTAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ramzan Id/Eid-ul-Fitar",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_0hl80vk0icsvod3lh2ir6tj610@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240413_3ke39sbirj8nor82bjs2r1e054",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTNfM2tlMzlzYmlyajhub3I4MmJqczJyMWUwNTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Vaisakhi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-13"
+   },
+   "end": {
+    "date": "2024-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240413_3ke39sbirj8nor82bjs2r1e054@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240414_t6bil2oac890loodm1fr0d9t9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTRfdDZiaWwyb2FjODkwbG9vZG0xZnIwZDl0OXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ambedkar Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-14"
+   },
+   "end": {
+    "date": "2024-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240414_t6bil2oac890loodm1fr0d9t9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240417_esv4o79q1i4sbcent3kupgvcg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTdfZXN2NG83OXExaTRzYmNlbnQza3VwZ3ZjZzQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Rama Navami",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-17"
+   },
+   "end": {
+    "date": "2024-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240417_esv4o79q1i4sbcent3kupgvcg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240421_uhq0mve2jftnot6ajog0ofq2g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjFfdWhxMG12ZTJqZnRub3Q2YWpvZzBvZnEyZzggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Mahavir Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-21"
+   },
+   "end": {
+    "date": "2024-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240421_uhq0mve2jftnot6ajog0ofq2g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240508_1ekflunv2ultlen1u48mjmt9ms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDhfMWVrZmx1bnYydWx0bGVuMXU0OG1qbXQ5bXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Birthday of Rabindranath",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-08"
+   },
+   "end": {
+    "date": "2024-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240508_1ekflunv2ultlen1u48mjmt9ms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240523_tc87280l0ahermrtjqimlg5kuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjNfdGM4NzI4MGwwYWhlcm1ydGpxaW1sZzVrdWsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Buddha Purnima/Vesak",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-23"
+   },
+   "end": {
+    "date": "2024-05-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240523_tc87280l0ahermrtjqimlg5kuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240617_0scfl5p5tsieepfsbtjpjtqljo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfMHNjZmw1cDV0c2llZXBmc2J0anBqdHFsam8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Bakrid/Eid ul-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_0scfl5p5tsieepfsbtjpjtqljo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240707_35fe3rsbddld7ojhgl3iskda7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDdfMzVmZTNyc2JkZGxkN29qaGdsM2lza2RhN2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Rath Yatra",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-07"
+   },
+   "end": {
+    "date": "2024-07-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240707_35fe3rsbddld7ojhgl3iskda7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240717_c45i2523mibsl5eohi0j8msi94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfYzQ1aTI1MjNtaWJzbDVlb2hpMGo4bXNpOTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Muharram/Ashura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_c45i2523mibsl5eohi0j8msi94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240815_1dk4afrs7q1oov3639jcf8kgns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfMWRrNGFmcnM3cTFvb3YzNjM5amNmOGtnbnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Parsi New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_1dk4afrs7q1oov3639jcf8kgns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240815_qdsu8bvmtomkn9c8qq8jbro62o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfcWRzdThidm10b21rbjljOHFxOGpicm82Mm8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_qdsu8bvmtomkn9c8qq8jbro62o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240819_m1t0lhrdmrnc56vn3c9fjjib6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTlfbTF0MGxocmRtcm5jNTZ2bjNjOWZqamliNnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Raksha Bandhan (Rakhi)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-19"
+   },
+   "end": {
+    "date": "2024-08-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240819_m1t0lhrdmrnc56vn3c9fjjib6s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240826_8fmj8sv0oq9n40b7m796qhi3nc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjZfOGZtajhzdjBvcTluNDBiN203OTZxaGkzbmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Janmashtami (Smarta)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-26"
+   },
+   "end": {
+    "date": "2024-08-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240826_8fmj8sv0oq9n40b7m796qhi3nc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240826_ge12o19jm1csndg1tdosrcoiu4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MjZfZ2UxMm8xOWptMWNzbmRnMXRkb3NyY29pdTQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Janmashtami",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-26"
+   },
+   "end": {
+    "date": "2024-08-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240826_ge12o19jm1csndg1tdosrcoiu4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240907_8njq4gvtb1nqq4vol60lkqsbc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDdfOG5qcTRndnRiMW5xcTR2b2w2MGxrcXNiYzQgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-07"
+   },
+   "end": {
+    "date": "2024-09-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240907_8njq4gvtb1nqq4vol60lkqsbc4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240915_1u4db28qebt0ld33un1nl4dm6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTVfMXU0ZGIyOHFlYnQwbGQzM3VuMW5sNGRtNmsgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Onam",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-15"
+   },
+   "end": {
+    "date": "2024-09-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240915_1u4db28qebt0ld33un1nl4dm6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20240916_67l9ctal3dopjcuoeppdun3ji8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfNjdsOWN0YWwzZG9wamN1b2VwcGR1bjNqaTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Milad un-Nabi/Id-e-Milad",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_67l9ctal3dopjcuoeppdun3ji8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241002_vnfo7gnek494spq2mfvmp0ce5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDJfdm5mbzdnbmVrNDk0c3BxMm1mdm1wMGNlNWcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Mahatma Gandhi Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-02"
+   },
+   "end": {
+    "date": "2024-10-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241002_vnfo7gnek494spq2mfvmp0ce5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241003_697sco50igqdkc01u3d9oflcoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDNfNjk3c2NvNTBpZ3Fka2MwMXUzZDlvZmxjb28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "First Day of Sharad Navratri",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-03"
+   },
+   "end": {
+    "date": "2024-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241003_697sco50igqdkc01u3d9oflcoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241009_n1pnkkadfq016oa1spcoto9fm8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDlfbjFwbmtrYWRmcTAxNm9hMXNwY290bzlmbTggZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "First Day of Durga Puja Festivities",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-09"
+   },
+   "end": {
+    "date": "2024-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241009_n1pnkkadfq016oa1spcoto9fm8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241010_2uh09vmktppptql4l6157srbgk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTBfMnVoMDl2bWt0cHBwdHFsNGw2MTU3c3JiZ2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Saptami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-10"
+   },
+   "end": {
+    "date": "2024-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241010_2uh09vmktppptql4l6157srbgk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241011_oo3s8q47k52bq5n5cdu3fa4t8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTFfb28zczhxNDdrNTJicTVuNWNkdTNmYTR0OG8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Ashtami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-11"
+   },
+   "end": {
+    "date": "2024-10-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241011_oo3s8q47k52bq5n5cdu3fa4t8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241012_8jpo5bfb297120ong5pnli25rc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfOGpwbzViZmIyOTcxMjBvbmc1cG5saTI1cmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maha Navami",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_8jpo5bfb297120ong5pnli25rc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241012_egjb3ichmunek054p9rp1mcuag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfZWdqYjNpY2htdW5lazA1NHA5cnAxbWN1YWcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Dussehra",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_egjb3ichmunek054p9rp1mcuag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241017_hpigsainfef48ihffvlh1bocsk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTdfaHBpZ3NhaW5mZWY0OGloZmZ2bGgxYm9jc2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Maharishi Valmiki Jayanti",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-17"
+   },
+   "end": {
+    "date": "2024-10-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241017_hpigsainfef48ihffvlh1bocsk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241020_quhk0jqkkfd4boaknil3plkubo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjBfcXVoazBqcWtrZmQ0Ym9ha25pbDNwbGt1Ym8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Karaka Chaturthi (Karva Chauth)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-20"
+   },
+   "end": {
+    "date": "2024-10-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241020_quhk0jqkkfd4boaknil3plkubo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241031_8trl2d3dcf10qb6qgd8okigers",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfOHRybDJkM2RjZjEwcWI2cWdkOG9raWdlcnMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Naraka Chaturdasi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_8trl2d3dcf10qb6qgd8okigers@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241101_k6p5t3am2dnpearth7ppvofrrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfazZwNXQzYW0yZG5wZWFydGg3cHB2b2ZycmMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Diwali/Deepavali",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_k6p5t3am2dnpearth7ppvofrrc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241102_9mqcd5jrd6dct130r11lufktl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDJfOW1xY2Q1anJkNmRjdDEzMHIxMWx1Zmt0bDAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Govardhan Puja",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-02"
+   },
+   "end": {
+    "date": "2024-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241102_9mqcd5jrd6dct130r11lufktl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241103_qbi2qcb43ua5tt9b8oeb4ccib0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDNfcWJpMnFjYjQzdWE1dHQ5YjhvZWI0Y2NpYjAgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Bhai Duj",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-03"
+   },
+   "end": {
+    "date": "2024-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241103_qbi2qcb43ua5tt9b8oeb4ccib0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241107_cp9qhmg0lu3d7mtmacg68sgfis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDdfY3A5cWhtZzBsdTNkN210bWFjZzY4c2dmaXMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-07"
+   },
+   "end": {
+    "date": "2024-11-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241107_cp9qhmg0lu3d7mtmacg68sgfis@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241115_j0oopi8fd2gv3o2vp3a7qu3hck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTVfajBvb3BpOGZkMmd2M28ydnAzYTdxdTNoY2sgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Nanak Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-15"
+   },
+   "end": {
+    "date": "2024-11-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241115_j0oopi8fd2gv3o2vp3a7qu3hck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241124_sll9benghg3t5dkpb92k9iilpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjRfc2xsOWJlbmdoZzN0NWRrcGI5Mms5aWlscGMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Guru Tegh Bahadur's Martyrdom Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-24"
+   },
+   "end": {
+    "date": "2024-11-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241124_sll9benghg3t5dkpb92k9iilpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241224_92hua4c6fqklgbufrd6u6hg60o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfOTJodWE0YzZmcWtsZ2J1ZnJkNnU2aGc2MG8gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_92hua4c6fqklgbufrd6u6hg60o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328551899782000\"",
+   "id": "20241225_a6pnarvpc972si0ru4lpnurteg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfYTZwbmFydnBjOTcyc2kwcnU0bHBudXJ0ZWcgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2022-09-27T10:52:29.000Z",
+   "updated": "2022-09-27T10:52:29.891Z",
+   "summary": "Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_a6pnarvpc972si0ru4lpnurteg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048322772000\"",
+   "id": "20230324_ncs4fk2ltetqgr5cjfcnh4fags",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjRfbmNzNGZrMmx0ZXRxZ3I1Y2pmY25oNGZhZ3MgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-22T22:29:21.000Z",
+   "updated": "2023-03-22T22:29:21.386Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-24"
+   },
+   "end": {
+    "date": "2023-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230324_ncs4fk2ltetqgr5cjfcnh4fags@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048322772000\"",
+   "id": "20240312_0trljlg0v4sgivu3qr1u9i4cco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTJfMHRybGpsZzB2NHNnaXZ1M3FyMXU5aTRjY28gZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2023-03-22T22:29:21.000Z",
+   "updated": "2023-03-22T22:29:21.386Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in India",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-12"
+   },
+   "end": {
+    "date": "2024-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240312_0trljlg0v4sgivu3qr1u9i4cco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3362854274898000\"",
+   "id": "20230414_414igtm700068dr327kcif0jjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTRfNDE0aWd0bTcwMDA2OGRyMzI3a2NpZjBqamMgZW4uaW5kaWFuI2hvbGlkYXlAdg",
+   "created": "2023-04-13T23:05:37.000Z",
+   "updated": "2023-04-13T23:05:37.449Z",
+   "summary": "Ambedkar Jayanti",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.indian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in India",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-14"
+   },
+   "end": {
+    "date": "2023-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230414_414igtm700068dr327kcif0jjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

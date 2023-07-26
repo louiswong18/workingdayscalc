@@ -1,0 +1,1677 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33e8f74erqlo00o\"",
+ "summary": "Holidays in Bahrain",
+ "description": "Holidays and Observances in Bahrain",
+ "updated": "2023-07-24T21:48:11.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMC57ZCpqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947296644000\"",
+   "id": "20220501_7fb9oaas975fcqsa4g0f9vu1lg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfN2ZiOW9hYXM5NzVmY3FzYTRnMGY5dnUxbGcgZW4uYmgjaG9saWRheUB2",
+   "created": "2021-08-26T10:27:28.000Z",
+   "updated": "2021-08-26T10:27:28.322Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_7fb9oaas975fcqsa4g0f9vu1lg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947296644000\"",
+   "id": "20220730_sd6lr3b0ksnrakij1eausu59s8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfc2Q2bHIzYjBrc25yYWtpajFlYXVzdTU5czggZW4uYmgjaG9saWRheUB2",
+   "created": "2021-08-26T10:27:28.000Z",
+   "updated": "2021-08-26T10:27:28.322Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_sd6lr3b0ksnrakij1eausu59s8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947299438000\"",
+   "id": "20220504_dl5s9q3pnjctnqjdt62igt63ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfZGw1czlxM3BuamN0bnFqZHQ2MmlndDYzdWcgZW4uYmgjaG9saWRheUB2",
+   "created": "2021-08-26T10:27:29.000Z",
+   "updated": "2021-08-26T10:27:29.719Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_dl5s9q3pnjctnqjdt62igt63ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947301864000\"",
+   "id": "20220101_79bo8s4gge2dckrqhv8ts4qng8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNzlibzhzNGdnZTJkY2tycWh2OHRzNHFuZzggZW4uYmgjaG9saWRheUB2",
+   "created": "2021-08-26T10:27:30.000Z",
+   "updated": "2021-08-26T10:27:30.932Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_79bo8s4gge2dckrqhv8ts4qng8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259947304730000\"",
+   "id": "20220711_2nhh0iihdfa1c89qk1inr6jpbk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfMm5oaDBpaWhkZmExYzg5cWsxaW5yNmpwYmsgZW4uYmgjaG9saWRheUB2",
+   "created": "2021-08-26T10:27:32.000Z",
+   "updated": "2021-08-26T10:27:32.365Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_2nhh0iihdfa1c89qk1inr6jpbk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023577352000\"",
+   "id": "20220502_pvj75avk5sro8b7h8vqq4efdgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfcHZqNzVhdms1c3JvOGI3aDh2cXE0ZWZkZ3MgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-03-11T15:16:28.000Z",
+   "updated": "2022-03-11T15:16:28.676Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_pvj75avk5sro8b7h8vqq4efdgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023577352000\"",
+   "id": "20220503_sehk9ahn659a8flhjcrljn7m2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfc2VoazlhaG42NTlhOGZsaGpjcmxqbjdtMmMgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-03-11T15:16:28.000Z",
+   "updated": "2022-03-11T15:16:28.676Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_sehk9ahn659a8flhjcrljn7m2c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023577352000\"",
+   "id": "20220708_vbo4l9vjvs13undvefuvativv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfdmJvNGw5dmp2czEzdW5kdmVmdXZhdGl2djggZW4uYmgjaG9saWRheUB2",
+   "created": "2022-03-11T15:16:28.000Z",
+   "updated": "2022-03-11T15:16:28.676Z",
+   "summary": "Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_vbo4l9vjvs13undvefuvativv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023577352000\"",
+   "id": "20220709_aldhm5kpp5i8agu0c66tp16f0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfYWxkaG01a3BwNWk4YWd1MGM2NnRwMTZmMGsgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-03-11T15:16:28.000Z",
+   "updated": "2022-03-11T15:16:28.676Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_aldhm5kpp5i8agu0c66tp16f0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294023577352000\"",
+   "id": "20220710_ig8tb4lob0g3p60949gpcsn41k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfaWc4dGI0bG9iMGczcDYwOTQ5Z3Bjc240MWsgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-03-11T15:16:28.000Z",
+   "updated": "2022-03-11T15:16:28.676Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_ig8tb4lob0g3p60949gpcsn41k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315617720508000\"",
+   "id": "20220712_6acnbndgg6hufp9l2drfs0vto0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfNmFjbmJuZGdnNmh1ZnA5bDJkcmZzMHZ0bzAgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-07-14T14:27:40.000Z",
+   "updated": "2022-07-14T14:27:40.254Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_6acnbndgg6hufp9l2drfs0vto0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3319571706062000\"",
+   "id": "20220731_sg73kompm9s6babndee6mbs8bo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzFfc2c3M2tvbXBtOXM2YmFibmRlZTZtYnM4Ym8gZW4uYmgjaG9saWRheUB2",
+   "created": "2022-08-06T11:37:33.000Z",
+   "updated": "2022-08-06T11:37:33.031Z",
+   "summary": "Muharram Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-31"
+   },
+   "end": {
+    "date": "2022-08-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220731_sg73kompm9s6babndee6mbs8bo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3320071291876000\"",
+   "id": "20220808_8iihb3fs4l55tdevsbojj6vma4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDhfOGlpaGIzZnM0bDU1dGRldnNib2pqNnZtYTQgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-08-09T09:00:45.000Z",
+   "updated": "2022-08-09T09:00:45.938Z",
+   "summary": "Ashoora",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-08"
+   },
+   "end": {
+    "date": "2022-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220808_8iihb3fs4l55tdevsbojj6vma4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3320071291876000\"",
+   "id": "20220809_liakbc66e8f8aggnvsa142gt7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDlfbGlha2JjNjZlOGY4YWdnbnZzYTE0Mmd0N3MgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-08-09T09:00:45.000Z",
+   "updated": "2022-08-09T09:00:45.938Z",
+   "summary": "Ashoora Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-09"
+   },
+   "end": {
+    "date": "2022-08-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220809_liakbc66e8f8aggnvsa142gt7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20221008_a3eeueatfnacdaf2e9cg1c7734",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfYTNlZXVlYXRmbmFjZGFmMmU5Y2cxYzc3MzQgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_a3eeueatfnacdaf2e9cg1c7734@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20221216_e20grbkqsg16d49u47ckur6j2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTZfZTIwZ3Jia3FzZzE2ZDQ5dTQ3Y2t1cjZqMmcgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-16"
+   },
+   "end": {
+    "date": "2022-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221216_e20grbkqsg16d49u47ckur6j2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20221217_e2ogcg2sf6d8afh0jbje9uc6go",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTdfZTJvZ2NnMnNmNmQ4YWZoMGpiamU5dWM2Z28gZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "National Day (second day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-17"
+   },
+   "end": {
+    "date": "2022-12-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221217_e2ogcg2sf6d8afh0jbje9uc6go@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230101_d7t8hlukcj8h3kl5qd68do8sug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfZDd0OGhsdWtjajhoM2tsNXFkNjhkbzhzdWcgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_d7t8hlukcj8h3kl5qd68do8sug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230423_idl7j5b02phi7j8n2fmkmse694",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfaWRsN2o1YjAycGhpN2o4bjJmbWttc2U2OTQgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_idl7j5b02phi7j8n2fmkmse694@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230501_sbjiplmvc9ru3u5bre60d9ej88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfc2JqaXBsbXZjOXJ1M3U1YnJlNjBkOWVqODggZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_sbjiplmvc9ru3u5bre60d9ej88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230630_7frjgggocn5gvtsm022e5qep70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfN2ZyamdnZ29jbjVndnRzbTAyMmU1cWVwNzAgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_7frjgggocn5gvtsm022e5qep70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230719_q0rqppk8gvq8mslp167jjqjftc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfcTBycXBwazhndnE4bXNscDE2N2pqcWpmdGMgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_q0rqppk8gvq8mslp167jjqjftc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230728_bman2rdf9bdbtllcu8bf6r5gt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjhfYm1hbjJyZGY5YmRidGxsY3U4YmY2cjVndDQgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Ashoora",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-28"
+   },
+   "end": {
+    "date": "2023-07-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230728_bman2rdf9bdbtllcu8bf6r5gt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230729_s3phmgagb63jnjfuiud2fk8rcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjlfczNwaG1nYWdiNjNqbmpmdWl1ZDJmazhyY2MgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Ashoora Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-29"
+   },
+   "end": {
+    "date": "2023-07-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230729_s3phmgagb63jnjfuiud2fk8rcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20230927_isnphlgjohotphc7e5qlia7bm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfaXNucGhsZ2pvaG90cGhjN2U1cWxpYTdibTAgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_isnphlgjohotphc7e5qlia7bm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20231216_nm2r2gfaqdcmq5iiih3u1o5jks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTZfbm0ycjJnZmFxZGNtcTVpaWloM3UxbzVqa3MgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-16"
+   },
+   "end": {
+    "date": "2023-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231216_nm2r2gfaqdcmq5iiih3u1o5jks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20231217_o0gllb9bc5ensk676fh0hlifvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTdfbzBnbGxiOWJjNWVuc2s2NzZmaDBobGlmdm8gZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "National Day (second day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-17"
+   },
+   "end": {
+    "date": "2023-12-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231217_o0gllb9bc5ensk676fh0hlifvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240101_m18cdtjv1i7secdgb3v8954q60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbTE4Y2R0anYxaTdzZWNkZ2Izdjg5NTRxNjAgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_m18cdtjv1i7secdgb3v8954q60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240410_upe1mjglu3921qf3qkpv7selmk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfdXBlMW1qZ2x1MzkyMXFmM3FrcHY3c2VsbWsgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_upe1mjglu3921qf3qkpv7selmk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240411_7qm1q1bt2fte5lg8p6beo4mtc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfN3FtMXExYnQyZnRlNWxnOHA2YmVvNG10YzAgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_7qm1q1bt2fte5lg8p6beo4mtc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240501_hco7pufrpmltpfsu3pbt9kqjug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfaGNvN3B1ZnJwbWx0cGZzdTNwYnQ5a3FqdWcgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_hco7pufrpmltpfsu3pbt9kqjug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240616_vcrln0i9ltdm58j1sek5p6dbkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfdmNybG4waTlsdGRtNThqMXNlazVwNmRia2MgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_vcrln0i9ltdm58j1sek5p6dbkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240617_ba7o8202quunjj2htpqnedc6g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfYmE3bzgyMDJxdXVuamoyaHRwcW5lZGM2ZzggZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_ba7o8202quunjj2htpqnedc6g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240618_q3hcrmnp450n457bcqqjtju608",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfcTNoY3JtbnA0NTBuNDU3YmNxcWp0anU2MDggZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_q3hcrmnp450n457bcqqjtju608@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240619_3ti3ie95d1hld9ipttifujq790",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfM3RpM2llOTVkMWhsZDlpcHR0aWZ1anE3OTAgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_3ti3ie95d1hld9ipttifujq790@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240708_qprkmh8tqi8d6pj3ogeo5kesh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfcXBya21oOHRxaThkNnBqM29nZW81a2VzaDQgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_qprkmh8tqi8d6pj3ogeo5kesh4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240717_hn10j6lthatq8q56knbanjgsqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfaG4xMGo2bHRoYXRxOHE1NmtuYmFuamdzcXMgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Ashoora",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_hn10j6lthatq8q56knbanjgsqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240718_50h27lq2c123f85ucdh5ohoo18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MThfNTBoMjdscTJjMTIzZjg1dWNkaDVvaG9vMTggZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "Ashoora Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-18"
+   },
+   "end": {
+    "date": "2024-07-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240718_50h27lq2c123f85ucdh5ohoo18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20240916_qlqqfkgr2gupu1n63kcgti10ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfcWxxcWZrZ3IyZ3VwdTFuNjNrY2d0aTEwb2sgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_qlqqfkgr2gupu1n63kcgti10ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20241216_ee13kdlqetkh9q623pjdrra71c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTZfZWUxM2tkbHFldGtoOXE2MjNwamRycmE3MWMgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-16"
+   },
+   "end": {
+    "date": "2024-12-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241216_ee13kdlqetkh9q623pjdrra71c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328552100672000\"",
+   "id": "20241217_nt91j3p5qsfvvf2bn0t8b1ivns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTdfbnQ5MWozcDVxc2Z2dmYyYm4wdDhiMWl2bnMgZW4uYmgjaG9saWRheUB2",
+   "created": "2022-09-27T10:54:10.000Z",
+   "updated": "2022-09-27T10:54:10.336Z",
+   "summary": "National Day (second day)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-17"
+   },
+   "end": {
+    "date": "2024-12-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241217_nt91j3p5qsfvvf2bn0t8b1ivns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779607352000\"",
+   "id": "20230424_gddp603gkl8ispkbem9t77m698",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfZ2RkcDYwM2drbDhpc3BrYmVtOXQ3N202OTggZW4uYmgjaG9saWRheUB2",
+   "created": "2022-10-04T13:23:23.000Z",
+   "updated": "2022-10-04T13:23:23.676Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_gddp603gkl8ispkbem9t77m698@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3330089720202000\"",
+   "id": "20221009_0o1eqsbev58ro81darsvvelgvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfMG8xZXFzYmV2NThybzgxZGFyc3Z2ZWxndm8gZW4uYmgjaG9saWRheUB2",
+   "created": "2022-10-06T08:27:40.000Z",
+   "updated": "2022-10-06T08:27:40.101Z",
+   "summary": "Day off for The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_0o1eqsbev58ro81darsvvelgvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3357839297586000\"",
+   "id": "20240412_92u5bctai17jfoaul9k1civc9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfOTJ1NWJjdGFpMTdqZm9hdWw5azFjaXZjOW8gZW4uYmgjaG9saWRheUB2",
+   "created": "2023-03-15T22:34:08.000Z",
+   "updated": "2023-03-15T22:34:08.793Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_92u5bctai17jfoaul9k1civc9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359046987732000\"",
+   "id": "20230323_51ep7230ueeeunh9pvd94mvdro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfNTFlcDcyMzB1ZWVldW5oOXB2ZDk0bXZkcm8gZW4uYmgjaG9saWRheUB2",
+   "created": "2023-03-22T22:18:13.000Z",
+   "updated": "2023-03-22T22:18:13.866Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bahrain",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_51ep7230ueeeunh9pvd94mvdro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359046987732000\"",
+   "id": "20240311_1lfu5m47gp93hariqc6v4rfig4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfMWxmdTVtNDdncDkzaGFyaXFjNnY0cmZpZzQgZW4uYmgjaG9saWRheUB2",
+   "created": "2023-03-22T22:18:13.000Z",
+   "updated": "2023-03-22T22:18:13.866Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bahrain",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_1lfu5m47gp93hariqc6v4rfig4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364134964424000\"",
+   "id": "20230421_p8lr2h3dp9bn6thgicb44543b4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfcDhscjJoM2RwOWJuNnRoZ2ljYjQ0NTQzYjQgZW4uYmgjaG9saWRheUB2",
+   "created": "2023-04-21T08:58:02.000Z",
+   "updated": "2023-04-21T08:58:02.212Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_p8lr2h3dp9bn6thgicb44543b4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364134964424000\"",
+   "id": "20230422_fak3k1rjad00bvij7db0h468fk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfZmFrM2sxcmphZDAwYnZpajdkYjBoNDY4ZmsgZW4uYmgjaG9saWRheUB2",
+   "created": "2023-04-21T08:58:02.000Z",
+   "updated": "2023-04-21T08:58:02.212Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_fak3k1rjad00bvij7db0h468fk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375019512782000\"",
+   "id": "20230627_72d9ulohp7trlm0qk0q90icni8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjdfNzJkOXVsb2hwN3RybG0wcWswcTkwaWNuaTggZW4uYmgjaG9saWRheUB2",
+   "created": "2023-06-23T08:42:36.000Z",
+   "updated": "2023-06-23T08:42:36.391Z",
+   "summary": "Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-27"
+   },
+   "end": {
+    "date": "2023-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230627_72d9ulohp7trlm0qk0q90icni8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375019512782000\"",
+   "id": "20230628_gtlij0idsesjgs7u41uu6vvn78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfZ3RsaWowaWRzZXNqZ3M3dTQxdXU2dnZuNzggZW4uYmgjaG9saWRheUB2",
+   "created": "2023-06-23T08:42:36.000Z",
+   "updated": "2023-06-23T08:42:36.391Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_gtlij0idsesjgs7u41uu6vvn78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375019512782000\"",
+   "id": "20230629_k5k6re3gjordde9r7dh01qkslc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfazVrNnJlM2dqb3JkZGU5cjdkaDAxcWtzbGMgZW4uYmgjaG9saWRheUB2",
+   "created": "2023-06-23T08:42:36.000Z",
+   "updated": "2023-06-23T08:42:36.391Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_k5k6re3gjordde9r7dh01qkslc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375019512782000\"",
+   "id": "20230702_i0quhs7i1sg7lnrm82lp0i53j0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDJfaTBxdWhzN2kxc2c3bG5ybTgybHAwaTUzajAgZW4uYmgjaG9saWRheUB2",
+   "created": "2023-06-23T08:42:36.000Z",
+   "updated": "2023-06-23T08:42:36.391Z",
+   "summary": "Day off for Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-02"
+   },
+   "end": {
+    "date": "2023-07-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230702_i0quhs7i1sg7lnrm82lp0i53j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

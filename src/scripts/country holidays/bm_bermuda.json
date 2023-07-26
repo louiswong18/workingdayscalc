@@ -1,0 +1,2093 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32pot4s5rqlo00o\"",
+ "summary": "Holidays in Bermuda",
+ "description": "Holidays and Observances in Bermuda",
+ "updated": "2023-07-25T03:53:37.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMCk_uf6qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938139238000\"",
+   "id": "20220101_612vj5lcfk50bls2nso0bld7gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfNjEydmo1bGNmazUwYmxzMm5zbzBibGQ3Z3MgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:09.000Z",
+   "updated": "2021-08-26T09:11:09.619Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_612vj5lcfk50bls2nso0bld7gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938139238000\"",
+   "id": "20220313_22e1c3vhbahdcr0g045cal5954",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTNfMjJlMWMzdmhiYWhkY3IwZzA0NWNhbDU5NTQgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:09.000Z",
+   "updated": "2021-08-26T09:11:09.619Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-13"
+   },
+   "end": {
+    "date": "2022-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220313_22e1c3vhbahdcr0g045cal5954@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938139238000\"",
+   "id": "20220417_2snskrqqu33ig1nrumh4ckaduk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfMnNuc2tycXF1MzNpZzFucnVtaDRja2FkdWsgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:09.000Z",
+   "updated": "2021-08-26T09:11:09.619Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_2snskrqqu33ig1nrumh4ckaduk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938139238000\"",
+   "id": "20220508_sconm0eaiegg2og7qgohc31uec",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfc2Nvbm0wZWFpZWdnMm9nN3Fnb2hjMzF1ZWMgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:09.000Z",
+   "updated": "2021-08-26T09:11:09.619Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_sconm0eaiegg2og7qgohc31uec@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938139238000\"",
+   "id": "20220619_msolt7ihrql0s3t7qmlmavp6dg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfbXNvbHQ3aWhycWwwczN0N3FtbG1hdnA2ZGcgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:09.000Z",
+   "updated": "2021-08-26T09:11:09.619Z",
+   "summary": "Fathers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_msolt7ihrql0s3t7qmlmavp6dg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938139238000\"",
+   "id": "20220728_uotpajj477a1a986gsks0nth50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MjhfdW90cGFqajQ3N2ExYTk4Nmdza3MwbnRoNTAgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:09.000Z",
+   "updated": "2021-08-26T09:11:09.619Z",
+   "summary": "Emancipation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-28"
+   },
+   "end": {
+    "date": "2022-07-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220728_uotpajj477a1a986gsks0nth50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938144412000\"",
+   "id": "20220905_17npgt8pq0d8vq4ik2j3lkfumc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDVfMTducGd0OHBxMGQ4dnE0aWsyajNsa2Z1bWMgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:12.000Z",
+   "updated": "2021-08-26T09:11:12.206Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-05"
+   },
+   "end": {
+    "date": "2022-09-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220905_17npgt8pq0d8vq4ik2j3lkfumc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938148206000\"",
+   "id": "20220103_pqkrijfk2i0cau0h75d7j2lnic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfcHFrcmlqZmsyaTBjYXUwaDc1ZDdqMmxuaWMgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:14.000Z",
+   "updated": "2021-08-26T09:11:14.103Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_pqkrijfk2i0cau0h75d7j2lnic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938148206000\"",
+   "id": "20220527_hpe5tnbg0llkuacn0kvkp74dcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjdfaHBlNXRuYmcwbGxrdWFjbjBrdmtwNzRkY2MgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:14.000Z",
+   "updated": "2021-08-26T09:11:14.103Z",
+   "summary": "Bermuda Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-27"
+   },
+   "end": {
+    "date": "2022-05-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220527_hpe5tnbg0llkuacn0kvkp74dcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938148206000\"",
+   "id": "20220620_cjl99juk4lu0mrr1hs9dlsevvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjBfY2psOTlqdWs0bHUwbXJyMWhzOWRsc2V2dmMgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:14.000Z",
+   "updated": "2021-08-26T09:11:14.103Z",
+   "summary": "National Heroes Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-20"
+   },
+   "end": {
+    "date": "2022-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220620_cjl99juk4lu0mrr1hs9dlsevvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938148206000\"",
+   "id": "20220729_rnoqmbf0od7d28jtd3gqilalu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3Mjlfcm5vcW1iZjBvZDdkMjhqdGQzZ3FpbGFsdTggZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:14.000Z",
+   "updated": "2021-08-26T09:11:14.103Z",
+   "summary": "Mary Prince Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-29"
+   },
+   "end": {
+    "date": "2022-07-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220729_rnoqmbf0od7d28jtd3gqilalu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938152316000\"",
+   "id": "20220214_q85htg4eh8rui6i159gb36polc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfcTg1aHRnNGVoOHJ1aTZpMTU5Z2IzNnBvbGMgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:16.000Z",
+   "updated": "2021-08-26T09:11:16.158Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_q85htg4eh8rui6i159gb36polc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259938152316000\"",
+   "id": "20220415_9st41t2r2bliecd6p7ke4k7lks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfOXN0NDF0MnIyYmxpZWNkNnA3a2U0azdsa3MgZW4uYm0jaG9saWRheUB2",
+   "created": "2021-08-26T09:11:16.000Z",
+   "updated": "2021-08-26T09:11:16.158Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_9st41t2r2bliecd6p7ke4k7lks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326634415376000\"",
+   "id": "20220919_aahssqmkfv5kp1ggpks3p8nuq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfYWFoc3NxbWtmdjVrcDFnZ3BrczNwOG51cTggZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-16T08:33:27.000Z",
+   "updated": "2022-09-16T08:33:27.688Z",
+   "summary": "Queen Elizabeth II's Funeral Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_aahssqmkfv5kp1ggpks3p8nuq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221031_mri0339u52732fh2j01eb1q7u0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfbXJpMDMzOXU1MjczMmZoMmowMWViMXE3dTAgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_mri0339u52732fh2j01eb1q7u0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221106_n73rm1hb218ubrjp1fjkbhrc08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDZfbjczcm0xaGIyMTh1YnJqcDFmamtiaHJjMDggZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-06"
+   },
+   "end": {
+    "date": "2022-11-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221106_n73rm1hb218ubrjp1fjkbhrc08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221111_52kl7fporsd62mgsbto2tsrits",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfNTJrbDdmcG9yc2Q2Mm1nc2J0bzJ0c3JpdHMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_52kl7fporsd62mgsbto2tsrits@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221224_o9h7jdlbamjoq765eg629gamoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfbzloN2pkbGJhbWpvcTc2NWVnNjI5Z2Ftb28gZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_o9h7jdlbamjoq765eg629gamoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221225_p9g7gh8agt682ktkpee587429k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfcDlnN2doOGFndDY4Mmt0a3BlZTU4NzQyOWsgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_p9g7gh8agt682ktkpee587429k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221226_al3j66gouflvc9go3glsngsgns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfYWwzajY2Z291Zmx2YzlnbzNnbHNuZ3NnbnMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Day off for Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_al3j66gouflvc9go3glsngsgns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221226_nvebvg9gkbhtdmunv0vdudcljs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfbnZlYnZnOWdrYmh0ZG11bnYwdmR1ZGNsanMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_nvebvg9gkbhtdmunv0vdudcljs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221227_4t3o2akfj36oa7m12ulcpn99u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfNHQzbzJha2ZqMzZvYTdtMTJ1bGNwbjk5dTQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas/Boxing Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_4t3o2akfj36oa7m12ulcpn99u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20221231_dpchul8rhfvrsorlbfquva0s3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfZHBjaHVsOHJoZnZyc29ybGJmcXV2YTBzM2MgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_dpchul8rhfvrsorlbfquva0s3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230101_80fu4qkgkptrp63v1t5thmc200",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfODBmdTRxa2drcHRycDYzdjF0NXRobWMyMDAgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_80fu4qkgkptrp63v1t5thmc200@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230102_5266hjmn4ih2f26oh0efvploe8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfNTI2NmhqbW40aWgyZjI2b2gwZWZ2cGxvZTggZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_5266hjmn4ih2f26oh0efvploe8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230214_2k3asjn3fb7dr6c73udqeo8l10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfMmszYXNqbjNmYjdkcjZjNzN1ZHFlbzhsMTAgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_2k3asjn3fb7dr6c73udqeo8l10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230312_degs7bfb6k3r9t1h4v74rt1ae4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTJfZGVnczdiZmI2azNyOXQxaDR2NzRydDFhZTQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-12"
+   },
+   "end": {
+    "date": "2023-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230312_degs7bfb6k3r9t1h4v74rt1ae4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230407_jcon9qd157q1v1gerf5h22j19k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfamNvbjlxZDE1N3ExdjFnZXJmNWgyMmoxOWsgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_jcon9qd157q1v1gerf5h22j19k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230409_sdbnu2psgufdqkkihamgrlab2g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfc2RibnUycHNndWZkcWtraWhhbWdybGFiMmcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_sdbnu2psgufdqkkihamgrlab2g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230514_q8j68u0qirnlf0qc1tfv6j0gg4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfcThqNjh1MHFpcm5sZjBxYzF0ZnY2ajBnZzQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_q8j68u0qirnlf0qc1tfv6j0gg4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230526_slf2eibeguaqa3e1n1s5s4evi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjZfc2xmMmVpYmVndWFxYTNlMW4xczVzNGV2aTQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Bermuda Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-26"
+   },
+   "end": {
+    "date": "2023-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230526_slf2eibeguaqa3e1n1s5s4evi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230618_b21veqe6gklh17eab276rb1ulg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfYjIxdmVxZTZna2xoMTdlYWIyNzZyYjF1bGcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Fathers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_b21veqe6gklh17eab276rb1ulg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230619_pn5lga47vhbr0tdc9srgnjs46c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTlfcG41bGdhNDd2aGJyMHRkYzlzcmduanM0NmMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "National Heroes Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-19"
+   },
+   "end": {
+    "date": "2023-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230619_pn5lga47vhbr0tdc9srgnjs46c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230803_eqpi6f0dhke5rjd6u18av1rvu8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDNfZXFwaTZmMGRoa2U1cmpkNnUxOGF2MXJ2dTggZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Emancipation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-03"
+   },
+   "end": {
+    "date": "2023-08-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230803_eqpi6f0dhke5rjd6u18av1rvu8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230804_79nl2dn0807rtsvq9ulmj4tek4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDRfNzlubDJkbjA4MDdydHN2cTl1bG1qNHRlazQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Mary Prince Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-04"
+   },
+   "end": {
+    "date": "2023-08-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230804_79nl2dn0807rtsvq9ulmj4tek4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20230904_5c2r7k674bo4sso2hhm3jb2cag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDRfNWMycjdrNjc0Ym80c3NvMmhobTNqYjJjYWcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-04"
+   },
+   "end": {
+    "date": "2023-09-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230904_5c2r7k674bo4sso2hhm3jb2cag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231031_0qqsc8l0omv0qpp10dlqlnt0ug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfMHFxc2M4bDBvbXYwcXBwMTBkbHFsbnQwdWcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_0qqsc8l0omv0qpp10dlqlnt0ug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231105_i6dji75mas4eng77ub8fvt76os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDVfaTZkamk3NW1hczRlbmc3N3ViOGZ2dDc2b3MgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-05"
+   },
+   "end": {
+    "date": "2023-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231105_i6dji75mas4eng77ub8fvt76os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231111_p0np0vtgdhkfn0n7f3rks26ic0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfcDBucDB2dGdkaGtmbjBuN2YzcmtzMjZpYzAgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_p0np0vtgdhkfn0n7f3rks26ic0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231113_7vr428lo2hbckuksjueehhnv10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTNfN3ZyNDI4bG8yaGJja3Vrc2p1ZWVoaG52MTAgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Day off for Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-13"
+   },
+   "end": {
+    "date": "2023-11-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231113_7vr428lo2hbckuksjueehhnv10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231224_ubdv9t1ms1fft6tll4479qn37o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfdWJkdjl0MW1zMWZmdDZ0bGw0NDc5cW4zN28gZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_ubdv9t1ms1fft6tll4479qn37o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231225_r1k876s9q080taq9cii1gr9l8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfcjFrODc2czlxMDgwdGFxOWNpaTFncjlsOGsgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_r1k876s9q080taq9cii1gr9l8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231226_5dgp3mf933svnccln24mvjmf6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfNWRncDNtZjkzM3N2bmNjbG4yNG12am1mNmMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_5dgp3mf933svnccln24mvjmf6c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20231231_v84nmtgsspece7vsi3ggd4hhqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfdjg0bm10Z3NzcGVjZTd2c2kzZ2dkNGhocXMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_v84nmtgsspece7vsi3ggd4hhqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240101_okhehkjq5n08r4nqlvg4l96l6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfb2toZWhranE1bjA4cjRucWx2ZzRsOTZsNmcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_okhehkjq5n08r4nqlvg4l96l6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240214_nqag33hm22jjmarbs0r36uj4r8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfbnFhZzMzaG0yMmpqbWFyYnMwcjM2dWo0cjggZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_nqag33hm22jjmarbs0r36uj4r8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240310_lhsi2jj4mkuqka07i9n3ltf9vo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTBfbGhzaTJqajRta3Vxa2EwN2k5bjNsdGY5dm8gZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-10"
+   },
+   "end": {
+    "date": "2024-03-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240310_lhsi2jj4mkuqka07i9n3ltf9vo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240329_0sr33l8jt6o6pbv90tc5n9pakg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfMHNyMzNsOGp0Nm82cGJ2OTB0YzVuOXBha2cgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_0sr33l8jt6o6pbv90tc5n9pakg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240331_jn6g4e379vl43kromsrj727sek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfam42ZzRlMzc5dmw0M2tyb21zcmo3MjdzZWsgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_jn6g4e379vl43kromsrj727sek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240512_ujugba50a6b48nat22257bmep8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfdWp1Z2JhNTBhNmI0OG5hdDIyMjU3Ym1lcDggZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_ujugba50a6b48nat22257bmep8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240524_eeure98hecmhrfdd61d07i6oh0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjRfZWV1cmU5OGhlY21ocmZkZDYxZDA3aTZvaDAgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Bermuda Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-24"
+   },
+   "end": {
+    "date": "2024-05-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240524_eeure98hecmhrfdd61d07i6oh0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240616_ie8utt0rqdipjrlmdk1mdck18k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfaWU4dXR0MHJxZGlwanJsbWRrMW1kY2sxOGsgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Fathers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_ie8utt0rqdipjrlmdk1mdck18k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240617_a4vr2mdua0bjdomh0lit646jls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfYTR2cjJtZHVhMGJqZG9taDBsaXQ2NDZqbHMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "National Heroes Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_a4vr2mdua0bjdomh0lit646jls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240801_g3elnqipvg7u4acf9mc94olgbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDFfZzNlbG5xaXB2Zzd1NGFjZjltYzk0b2xnYnMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Emancipation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-01"
+   },
+   "end": {
+    "date": "2024-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240801_g3elnqipvg7u4acf9mc94olgbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240802_l6qok0uhsfdcn9tcp91mooqtvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDJfbDZxb2swdWhzZmRjbjl0Y3A5MW1vb3F0dmMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Mary Prince Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-02"
+   },
+   "end": {
+    "date": "2024-08-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240802_l6qok0uhsfdcn9tcp91mooqtvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20240902_fgksnc73pocgvs7ffa0f2og2uc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDJfZmdrc25jNzNwb2NndnM3ZmZhMGYyb2cydWMgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-02"
+   },
+   "end": {
+    "date": "2024-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240902_fgksnc73pocgvs7ffa0f2og2uc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241031_2qtdk8qcnc9k1nlq6kmgtdo2jg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfMnF0ZGs4cWNuYzlrMW5scTZrbWd0ZG8yamcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_2qtdk8qcnc9k1nlq6kmgtdo2jg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241103_7qf3gtqe6d4rbvh0lcirajumbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDNfN3FmM2d0cWU2ZDRyYnZoMGxjaXJhanVtYmcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-03"
+   },
+   "end": {
+    "date": "2024-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241103_7qf3gtqe6d4rbvh0lcirajumbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241111_rnvnaish68a0pu2seomjo665dk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfcm52bmFpc2g2OGEwcHUyc2VvbWpvNjY1ZGsgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Remembrance Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_rnvnaish68a0pu2seomjo665dk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241224_m6tgns5kgamc03ttnoi8n3ru7c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfbTZ0Z25zNWtnYW1jMDN0dG5vaThuM3J1N2MgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_m6tgns5kgamc03ttnoi8n3ru7c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241225_lvr4pr37r97insl46tkslkvhbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfbHZyNHByMzdyOTdpbnNsNDZ0a3Nsa3ZoYmcgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_lvr4pr37r97insl46tkslkvhbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241226_ocmh4a349f4q5483e7k4kb2t14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfb2NtaDRhMzQ5ZjRxNTQ4M2U3azRrYjJ0MTQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "Boxing Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_ocmh4a349f4q5483e7k4kb2t14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550876986000\"",
+   "id": "20241231_j9ae348murm7cublb5d04o5tp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfajlhZTM0OG11cm03Y3VibGI1ZDA0bzV0cDQgZW4uYm0jaG9saWRheUB2",
+   "created": "2022-09-27T10:43:58.000Z",
+   "updated": "2022-09-27T10:43:58.493Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_j9ae348murm7cublb5d04o5tp4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3356973310202000\"",
+   "id": "20230506_fq63pihfnelrm4g7sjodr0gb94",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfZnE2M3BpaGZuZWxybTRnN3Nqb2RyMGdiOTQgZW4uYm0jaG9saWRheUB2",
+   "created": "2023-03-10T22:17:35.000Z",
+   "updated": "2023-03-10T22:17:35.101Z",
+   "summary": "The Coronation of His Majesty King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Bermuda",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_fq63pihfnelrm4g7sjodr0gb94@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3356973310202000\"",
+   "id": "20230508_nklmjkr8h3p90cq63mfmtf7s0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfbmtsbWprcjhoM3A5MGNxNjNtZm10ZjdzMG8gZW4uYm0jaG9saWRheUB2",
+   "created": "2023-03-10T22:17:35.000Z",
+   "updated": "2023-03-10T22:17:35.101Z",
+   "summary": "Holiday for the Coronation of His Majesty King Charles III",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bm#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bermuda",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_nklmjkr8h3p90cq63mfmtf7s0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

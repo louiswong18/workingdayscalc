@@ -1,0 +1,2061 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p329bhukerqlo00o\"",
+ "summary": "Holidays in Kuwait",
+ "description": "Holidays and Observances in Kuwait",
+ "updated": "2023-07-24T23:27:24.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDeu6e_qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965367082000\"",
+   "id": "20220225_ilai8mck1huui3vsb9fuefpvt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjVfaWxhaThtY2sxaHV1aTN2c2I5ZnVlZnB2dDQgZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:03.000Z",
+   "updated": "2021-08-26T12:58:03.541Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-25"
+   },
+   "end": {
+    "date": "2022-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220225_ilai8mck1huui3vsb9fuefpvt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965367082000\"",
+   "id": "20220301_mco8tsvh3grgnpceidktqigk6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfbWNvOHRzdmgzZ3JnbnBjZWlka3RxaWdrNm8gZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:03.000Z",
+   "updated": "2021-08-26T12:58:03.541Z",
+   "summary": "Isra and Miraj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_mco8tsvh3grgnpceidktqigk6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965371226000\"",
+   "id": "20220504_f1a6ud9317qoqlu7vnsnt61ug4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfZjFhNnVkOTMxN3FvcWx1N3Zuc250NjF1ZzQgZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:05.000Z",
+   "updated": "2021-08-26T12:58:05.613Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_f1a6ud9317qoqlu7vnsnt61ug4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965376232000\"",
+   "id": "20220101_aas4fu518nildv1gffmt6eeo1s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfYWFzNGZ1NTE4bmlsZHYxZ2ZmbXQ2ZWVvMXMgZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:08.000Z",
+   "updated": "2021-08-26T12:58:08.116Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_aas4fu518nildv1gffmt6eeo1s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965376232000\"",
+   "id": "20220711_bjg98dcqumrqg73q05iv47lf5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfYmpnOThkY3F1bXJxZzczcTA1aXY0N2xmNW8gZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:08.000Z",
+   "updated": "2021-08-26T12:58:08.116Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_bjg98dcqumrqg73q05iv47lf5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965376232000\"",
+   "id": "20220730_d2nuve7efttdb8hc8002fnbmi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfZDJudXZlN2VmdHRkYjhoYzgwMDJmbmJtaTAgZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:08.000Z",
+   "updated": "2021-08-26T12:58:08.116Z",
+   "summary": "Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_d2nuve7efttdb8hc8002fnbmi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259965379610000\"",
+   "id": "20220226_icdk174eljkunfbp16aqtn3hh8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjZfaWNkazE3NGVsamt1bmZicDE2YXF0bjNoaDggZW4ua3cjaG9saWRheUB2",
+   "created": "2021-08-26T12:58:09.000Z",
+   "updated": "2021-08-26T12:58:09.805Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-26"
+   },
+   "end": {
+    "date": "2022-02-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220226_icdk174eljkunfbp16aqtn3hh8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3286334286050000\"",
+   "id": "20220102_djklprdjfckplq0qufp6lvqi1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfZGprbHByZGpmY2twbHEwcXVmcDZsdnFpMWsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-01-26T03:19:03.000Z",
+   "updated": "2022-01-26T03:19:03.025Z",
+   "summary": "New Year's Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_djklprdjfckplq0qufp6lvqi1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294020783176000\"",
+   "id": "20220227_spp00aagt704oi2nc3qmp5l00s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjdfc3BwMDBhYWd0NzA0b2kybmMzcW1wNWwwMHMgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-03-11T14:53:11.000Z",
+   "updated": "2022-03-11T14:53:11.588Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-27"
+   },
+   "end": {
+    "date": "2022-02-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220227_spp00aagt704oi2nc3qmp5l00s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294020783176000\"",
+   "id": "20220228_f5j9kg2fi6e418hmejkt3alfqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjhfZjVqOWtnMmZpNmU0MThobWVqa3QzYWxmcWcgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-03-11T14:53:11.000Z",
+   "updated": "2022-03-11T14:53:11.588Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-28"
+   },
+   "end": {
+    "date": "2022-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220228_f5j9kg2fi6e418hmejkt3alfqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294020783176000\"",
+   "id": "20220302_9p8q9l2l9us0eh18bjll7d66vo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDJfOXA4cTlsMmw5dXMwZWgxOGJqbGw3ZDY2dm8gZW4ua3cjaG9saWRheUB2",
+   "created": "2022-03-11T14:53:11.000Z",
+   "updated": "2022-03-11T14:53:11.588Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-02"
+   },
+   "end": {
+    "date": "2022-03-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220302_9p8q9l2l9us0eh18bjll7d66vo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294020783176000\"",
+   "id": "20220303_um2qcof1i8roavfrb9h0grgcok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDNfdW0ycWNvZjFpOHJvYXZmcmI5aDBncmdjb2sgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-03-11T14:53:11.000Z",
+   "updated": "2022-03-11T14:53:11.588Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-03"
+   },
+   "end": {
+    "date": "2022-03-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220303_um2qcof1i8roavfrb9h0grgcok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302786924064000\"",
+   "id": "20220502_jfj94piu6tdp3utbeeg0hq1b5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfamZqOTRwaXU2dGRwM3V0YmVlZzBocTFiNXMgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-05-01T08:24:22.000Z",
+   "updated": "2022-05-01T08:24:22.032Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_jfj94piu6tdp3utbeeg0hq1b5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302786924064000\"",
+   "id": "20220503_n7kt0e2vfvmh08mnbmdeu65elk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfbjdrdDBlMnZmdm1oMDhtbmJtZGV1NjVlbGsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-05-01T08:24:22.000Z",
+   "updated": "2022-05-01T08:24:22.032Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_n7kt0e2vfvmh08mnbmdeu65elk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307114655710000\"",
+   "id": "20220501_blp9d9equmrgsp8e38vl2dlqhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfYmxwOWQ5ZXF1bXJnc3A4ZTM4dmwyZGxxaHMgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-05-26T09:28:47.000Z",
+   "updated": "2022-05-26T09:28:47.855Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_blp9d9equmrgsp8e38vl2dlqhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307114655710000\"",
+   "id": "20220505_5uren2vaa904t7fjr9hae7vcc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfNXVyZW4ydmFhOTA0dDdmanI5aGFlN3ZjYzAgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-05-26T09:28:47.000Z",
+   "updated": "2022-05-26T09:28:47.855Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_5uren2vaa904t7fjr9hae7vcc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618255914000\"",
+   "id": "20220708_7p3b4uh7fhb4a51ar0uqs9eapg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfN3AzYjR1aDdmaGI0YTUxYXIwdXFzOWVhcGcgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-07-14T14:32:07.000Z",
+   "updated": "2022-07-14T14:32:07.957Z",
+   "summary": "Waqfat Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_7p3b4uh7fhb4a51ar0uqs9eapg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618255914000\"",
+   "id": "20220709_5jt8992a8mbuab535etr7ka3m4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfNWp0ODk5MmE4bWJ1YWI1MzVldHI3a2EzbTQgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-07-14T14:32:07.000Z",
+   "updated": "2022-07-14T14:32:07.957Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_5jt8992a8mbuab535etr7ka3m4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618255914000\"",
+   "id": "20220710_30eoule760ht6mp3ql1ap3iv20",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfMzBlb3VsZTc2MGh0Nm1wM3FsMWFwM2l2MjAgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-07-14T14:32:07.000Z",
+   "updated": "2022-07-14T14:32:07.957Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_30eoule760ht6mp3ql1ap3iv20@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315748420180000\"",
+   "id": "20220712_7eshr5fkkulalpq1ehb6gssg4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTJfN2VzaHI1ZmtrdWxhbHBxMWVoYjZnc3NnNGcgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-07-15T08:36:50.000Z",
+   "updated": "2022-07-15T08:36:50.090Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-12"
+   },
+   "end": {
+    "date": "2022-07-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220712_7eshr5fkkulalpq1ehb6gssg4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315748420180000\"",
+   "id": "20220713_381mqd8n2cpomsihf3nhe758qc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTNfMzgxbXFkOG4yY3BvbXNpaGYzbmhlNzU4cWMgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-07-15T08:36:50.000Z",
+   "updated": "2022-07-15T08:36:50.090Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-13"
+   },
+   "end": {
+    "date": "2022-07-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220713_381mqd8n2cpomsihf3nhe758qc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315748420180000\"",
+   "id": "20220714_o9amqsd1fb3hn53den3p4tq3ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTRfbzlhbXFzZDFmYjNobjUzZGVuM3A0dHEzb2sgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-07-15T08:36:50.000Z",
+   "updated": "2022-07-15T08:36:50.090Z",
+   "summary": "Public Sector Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-14"
+   },
+   "end": {
+    "date": "2022-07-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220714_o9amqsd1fb3hn53den3p4tq3ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3319569823862000\"",
+   "id": "20220731_dkjq6fdmpg650f0toprch1c6os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzFfZGtqcTZmZG1wZzY1MGYwdG9wcmNoMWM2b3MgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-08-06T11:21:51.000Z",
+   "updated": "2022-08-06T11:21:51.931Z",
+   "summary": "Islamic New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-31"
+   },
+   "end": {
+    "date": "2022-08-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220731_dkjq6fdmpg650f0toprch1c6os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20220929_lh5nlr2mpbl97i05qarkj7vf30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjlfbGg1bmxyMm1wYmw5N2kwNXFhcmtqN3ZmMzAgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Parliamentary Elections Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-29"
+   },
+   "end": {
+    "date": "2022-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220929_lh5nlr2mpbl97i05qarkj7vf30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20221231_rkfpul5pv72k7ar61gpuo6le3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfcmtmcHVsNXB2NzJrN2FyNjFncHVvNmxlM2cgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Kuwait",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_rkfpul5pv72k7ar61gpuo6le3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230101_oj55lc76lkjg5c1mebreag00i0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfb2o1NWxjNzZsa2pnNWMxbWVicmVhZzAwaTAgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_oj55lc76lkjg5c1mebreag00i0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230218_or6jquh3bfq0n23q1b4g2bptr0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfb3I2anF1aDNiZnEwbjIzcTFiNGcyYnB0cjAgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Isra and Miraj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_or6jquh3bfq0n23q1b4g2bptr0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230225_djee10vblid9v2ntm11im9lqho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjVfZGplZTEwdmJsaWQ5djJudG0xMWltOWxxaG8gZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-25"
+   },
+   "end": {
+    "date": "2023-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230225_djee10vblid9v2ntm11im9lqho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230226_9r5ls9ju6g6unevfnijdka04d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjZfOXI1bHM5anU2ZzZ1bmV2Zm5pamRrYTA0ZDAgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-26"
+   },
+   "end": {
+    "date": "2023-02-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230226_9r5ls9ju6g6unevfnijdka04d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230423_2o53g2li4kchsmfmiqne09liq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfMm81M2cybGk0a2Noc21mbWlxbmUwOWxpcTQgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_2o53g2li4kchsmfmiqne09liq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230424_gt998il4k4n69p576t692bjth8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfZ3Q5OThpbDRrNG42OXA1NzZ0NjkyYmp0aDggZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_gt998il4k4n69p576t692bjth8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230630_3l9qipgf7a7q7971strmndhfo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfM2w5cWlwZ2Y3YTdxNzk3MXN0cm1uZGhmbzQgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_3l9qipgf7a7q7971strmndhfo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230701_is611q70ip79tq3cd4rkq3q0tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfaXM2MTFxNzBpcDc5dHEzY2Q0cmtxM3EwdGcgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_is611q70ip79tq3cd4rkq3q0tg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230719_3j5e1l40qf3ogpmli3bq7mdr6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfM2o1ZTFsNDBxZjNvZ3BtbGkzYnE3bWRyNmsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_3j5e1l40qf3ogpmli3bq7mdr6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20230927_sk16uln0f5guaa3a8q63ac9otk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5Mjdfc2sxNnVsbjBmNWd1YWEzYThxNjNhYzlvdGsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_sk16uln0f5guaa3a8q63ac9otk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20231231_v8tvu3i8n0vok6gvqgi7mmpa7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfdjh0dnUzaThuMHZvazZndnFnaTdtbXBhN3MgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Kuwait",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_v8tvu3i8n0vok6gvqgi7mmpa7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240101_94k3lalma0ku3n9q77957o3nio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfOTRrM2xhbG1hMGt1M245cTc3OTU3bzNuaW8gZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_94k3lalma0ku3n9q77957o3nio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240207_d1843qdo72uckaihgbdbos3cak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDdfZDE4NDNxZG83MnVja2FpaGdiZGJvczNjYWsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Isra and Miraj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-07"
+   },
+   "end": {
+    "date": "2024-02-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240207_d1843qdo72uckaihgbdbos3cak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240225_jioccujdshdl4boraetg0vsbto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjVfamlvY2N1amRzaGRsNGJvcmFldGcwdnNidG8gZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-25"
+   },
+   "end": {
+    "date": "2024-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240225_jioccujdshdl4boraetg0vsbto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240226_44ekf6gme6o7bdg8dt7qq79lpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjZfNDRla2Y2Z21lNm83YmRnOGR0N3FxNzlscGsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-26"
+   },
+   "end": {
+    "date": "2024-02-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240226_44ekf6gme6o7bdg8dt7qq79lpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240410_8b052n2npmlb2u7nsinrk564t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfOGIwNTJuMm5wbWxiMnU3bnNpbnJrNTY0dDQgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_8b052n2npmlb2u7nsinrk564t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240411_gl0s8hrtnkn016i7d24m7i4l9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfZ2wwczhocnRua24wMTZpN2QyNG03aTRsOXMgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_gl0s8hrtnkn016i7d24m7i4l9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240412_6n4ebjfqh4hh3us890jkufborg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfNm40ZWJqZnFoNGhoM3VzODkwamt1ZmJvcmcgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_6n4ebjfqh4hh3us890jkufborg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240616_dbsjbl2145lku2ltlckj1jnnmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfZGJzamJsMjE0NWxrdTJsdGxja2oxam5ubW8gZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Waqfat Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_dbsjbl2145lku2ltlckj1jnnmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240617_beuktgimnaaqd4e3l3fkp4o3tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfYmV1a3RnaW1uYWFxZDRlM2wzZmtwNG8zdGsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_beuktgimnaaqd4e3l3fkp4o3tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240618_ibmmcga3f6sgt1tbbvgbs4393g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfaWJtbWNnYTNmNnNndDF0YmJ2Z2JzNDM5M2cgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_ibmmcga3f6sgt1tbbvgbs4393g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240619_3s4tj8q2diapdutmm2j8rc97dg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTlfM3M0dGo4cTJkaWFwZHV0bW0yajhyYzk3ZGcgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-19"
+   },
+   "end": {
+    "date": "2024-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240619_3s4tj8q2diapdutmm2j8rc97dg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240708_sgvf63stodnih0ptv25voi0dfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfc2d2ZjYzc3RvZG5paDBwdHYyNXZvaTBkZm8gZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "Islamic New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_sgvf63stodnih0ptv25voi0dfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20240916_r8slm8bdipjk24slk4dfqtphlk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfcjhzbG04YmRpcGprMjRzbGs0ZGZxdHBobGsgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_r8slm8bdipjk24slk4dfqtphlk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328543472454000\"",
+   "id": "20241231_2s1bje1nbvkl03ovqic6npog54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfMnMxYmplMW5idmtsMDNvdnFpYzZucG9nNTQgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-09-27T09:42:16.000Z",
+   "updated": "2022-09-27T09:42:16.227Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Kuwait",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_2s1bje1nbvkl03ovqic6npog54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779758088000\"",
+   "id": "20221009_f0tvkktd5q1usm20dn861t6nks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDlfZjB0dmtrdGQ1cTF1c20yMGRuODYxdDZua3MgZW4ua3cjaG9saWRheUB2",
+   "created": "2022-10-04T13:24:39.000Z",
+   "updated": "2022-10-04T13:24:39.044Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-09"
+   },
+   "end": {
+    "date": "2022-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221009_f0tvkktd5q1usm20dn861t6nks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590240450000\"",
+   "id": "20230219_5khstj7r38m5vhfprgqa45p85k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTlfNWtoc3RqN3IzOG01dmhmcHJncWE0NXA4NWsgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-01-21T09:58:40.000Z",
+   "updated": "2023-01-21T09:58:40.225Z",
+   "summary": "Day off for Isra and Miraj",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-19"
+   },
+   "end": {
+    "date": "2023-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230219_5khstj7r38m5vhfprgqa45p85k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3348590240450000\"",
+   "id": "20230227_0mduqftd26il3hob938evvjgj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjdfMG1kdXFmdGQyNmlsM2hvYjkzOGV2dmpnajQgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-01-21T09:58:40.000Z",
+   "updated": "2023-01-21T09:58:40.225Z",
+   "summary": "National Day holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-27"
+   },
+   "end": {
+    "date": "2023-02-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230227_0mduqftd26il3hob938evvjgj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048257768000\"",
+   "id": "20230323_nht0254f3bvgds663i5500m08g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfbmh0MDI1NGYzYnZnZHM2NjNpNTUwMG0wOGcgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-03-22T22:28:48.000Z",
+   "updated": "2023-03-22T22:28:48.884Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Kuwait",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_nht0254f3bvgds663i5500m08g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359048257768000\"",
+   "id": "20240311_20bnbhuekbogf74v4m93dd9uak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfMjBibmJodWVrYm9nZjc0djRtOTNkZDl1YWsgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-03-22T22:28:48.000Z",
+   "updated": "2023-03-22T22:28:48.884Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Kuwait",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_20bnbhuekbogf74v4m93dd9uak@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3363444350770000\"",
+   "id": "20230425_6iikgjc34f1mtpbk2ghm55urco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfNmlpa2dqYzM0ZjFtdHBiazJnaG01NXVyY28gZW4ua3cjaG9saWRheUB2",
+   "created": "2023-04-17T09:02:55.000Z",
+   "updated": "2023-04-17T09:02:55.385Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_6iikgjc34f1mtpbk2ghm55urco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136483972000\"",
+   "id": "20230421_d3oute93ibo5j720sggpc5ti6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfZDNvdXRlOTNpYm81ajcyMHNnZ3BjNXRpNm8gZW4ua3cjaG9saWRheUB2",
+   "created": "2023-04-21T09:10:41.000Z",
+   "updated": "2023-04-21T09:10:41.986Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_d3oute93ibo5j720sggpc5ti6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136483972000\"",
+   "id": "20230422_h4mknpclc9ono3l0198f1jo56s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfaDRta25wY2xjOW9ubzNsMDE5OGYxam81NnMgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-04-21T09:10:41.000Z",
+   "updated": "2023-04-21T09:10:41.986Z",
+   "summary": "Eid al-Fitr holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_h4mknpclc9ono3l0198f1jo56s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3368452362246000\"",
+   "id": "20230606_vfjrkmd7bgj0v1g4ktql5l0bu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDZfdmZqcmttZDdiZ2owdjFnNGt0cWw1bDBidTAgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-05-16T08:36:21.000Z",
+   "updated": "2023-05-16T08:36:21.123Z",
+   "summary": "Parliamentary Elections Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-06"
+   },
+   "end": {
+    "date": "2023-06-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230606_vfjrkmd7bgj0v1g4ktql5l0bu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197945054000\"",
+   "id": "20230627_0o8p9sb4mv8r2ga2ngekkk7mgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjdfMG84cDlzYjRtdjhyMmdhMm5nZWtrazdtZ2MgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-06-24T09:29:32.000Z",
+   "updated": "2023-06-24T09:29:32.527Z",
+   "summary": "Waqfat Arafat Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-27"
+   },
+   "end": {
+    "date": "2023-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230627_0o8p9sb4mv8r2ga2ngekkk7mgc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197945054000\"",
+   "id": "20230628_lgdmcgmu90v43g0u3kcve4skko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfbGdkbWNnbXU5MHY0M2cwdTNrY3ZlNHNra28gZW4ua3cjaG9saWRheUB2",
+   "created": "2023-06-24T09:29:32.000Z",
+   "updated": "2023-06-24T09:29:32.527Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_lgdmcgmu90v43g0u3kcve4skko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197945054000\"",
+   "id": "20230629_dll2gh2bmu3nildvc4j4shnk4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfZGxsMmdoMmJtdTNuaWxkdmM0ajRzaG5rNGcgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-06-24T09:29:32.000Z",
+   "updated": "2023-06-24T09:29:32.527Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_dll2gh2bmu3nildvc4j4shnk4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197945054000\"",
+   "id": "20230702_uuu81323qe7bch5fl5c8gtsr3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDJfdXV1ODEzMjNxZTdiY2g1Zmw1YzhndHNyM2MgZW4ua3cjaG9saWRheUB2",
+   "created": "2023-06-24T09:29:32.000Z",
+   "updated": "2023-06-24T09:29:32.527Z",
+   "summary": "Eid al-Adha holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-02"
+   },
+   "end": {
+    "date": "2023-07-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230702_uuu81323qe7bch5fl5c8gtsr3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3379174460090000\"",
+   "id": "20230720_idkf6o6fisomj9brapnh0l2be8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjBfaWRrZjZvNmZpc29tajlicmFwbmgwbDJiZTggZW4ua3cjaG9saWRheUB2",
+   "created": "2023-07-17T09:47:10.000Z",
+   "updated": "2023-07-17T09:47:10.045Z",
+   "summary": "Islamic New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.kw#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Kuwait",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-20"
+   },
+   "end": {
+    "date": "2023-07-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230720_idkf6o6fisomj9brapnh0l2be8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

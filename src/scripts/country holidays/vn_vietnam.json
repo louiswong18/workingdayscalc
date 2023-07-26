@@ -1,0 +1,1965 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33gtvms2rqlo00o\"",
+ "summary": "Holidays in Vietnam",
+ "description": "Holidays and Observances in Vietnam",
+ "updated": "2023-07-24T21:27:30.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDpjMGkqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960403592000\"",
+   "id": "20220131_c9r53srbv31pm46f2p069h1fic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMzFfYzlyNTNzcmJ2MzFwbTQ2ZjJwMDY5aDFmaWMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:41.000Z",
+   "updated": "2021-08-26T12:16:41.796Z",
+   "summary": "Vietnamese New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-31"
+   },
+   "end": {
+    "date": "2022-02-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220131_c9r53srbv31pm46f2p069h1fic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960403592000\"",
+   "id": "20220203_0lnd2h81klt845tfbtcpugm5lk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDNfMGxuZDJoODFrbHQ4NDV0ZmJ0Y3B1Z201bGsgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:41.000Z",
+   "updated": "2021-08-26T12:16:41.796Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-03"
+   },
+   "end": {
+    "date": "2022-02-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220203_0lnd2h81klt845tfbtcpugm5lk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960403592000\"",
+   "id": "20220204_tbe1b6a9cjhmlo0qsn07oaich8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDRfdGJlMWI2YTljamhtbG8wcXNuMDdvYWljaDggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:41.000Z",
+   "updated": "2021-08-26T12:16:41.796Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-04"
+   },
+   "end": {
+    "date": "2022-02-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220204_tbe1b6a9cjhmlo0qsn07oaich8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960403592000\"",
+   "id": "20220430_c5tg2k200k0mmv6pe8qciep6v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MzBfYzV0ZzJrMjAwazBtbXY2cGU4cWNpZXA2djggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:41.000Z",
+   "updated": "2021-08-26T12:16:41.796Z",
+   "summary": "Liberation Day/Reunification Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-30"
+   },
+   "end": {
+    "date": "2022-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220430_c5tg2k200k0mmv6pe8qciep6v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960408340000\"",
+   "id": "20220101_15e3aa2muop2hi046k470b3cp8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfMTVlM2FhMm11b3AyaGkwNDZrNDcwYjNjcDggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:44.000Z",
+   "updated": "2021-08-26T12:16:44.170Z",
+   "summary": "International New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_15e3aa2muop2hi046k470b3cp8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960408340000\"",
+   "id": "20220202_ij0atm0ftoh6pf1dqvcun8abhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfaWowYXRtMGZ0b2g2cGYxZHF2Y3VuOGFiaGsgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:44.000Z",
+   "updated": "2021-08-26T12:16:44.170Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_ij0atm0ftoh6pf1dqvcun8abhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960408340000\"",
+   "id": "20220410_cv5955h1ertj4vca0e1ql4t01k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTBfY3Y1OTU1aDFlcnRqNHZjYTBlMXFsNHQwMWsgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:44.000Z",
+   "updated": "2021-08-26T12:16:44.170Z",
+   "summary": "Hung Kings Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-10"
+   },
+   "end": {
+    "date": "2022-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220410_cv5955h1ertj4vca0e1ql4t01k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960408340000\"",
+   "id": "20220902_s0gqvngnsqura828ddvlsccej0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDJfczBncXZuZ25zcXVyYTgyOGRkdmxzY2NlajAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:44.000Z",
+   "updated": "2021-08-26T12:16:44.170Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-02"
+   },
+   "end": {
+    "date": "2022-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220902_s0gqvngnsqura828ddvlsccej0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960412552000\"",
+   "id": "20220201_7hg964ubr22b42h3uhbnlds1i8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDFfN2hnOTY0dWJyMjJiNDJoM3VoYm5sZHMxaTggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:46.000Z",
+   "updated": "2021-08-26T12:16:46.276Z",
+   "summary": "Vietnamese New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-01"
+   },
+   "end": {
+    "date": "2022-02-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220201_7hg964ubr22b42h3uhbnlds1i8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960412552000\"",
+   "id": "20220501_5fj0lt061bg638inkc10a0uum8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfNWZqMGx0MDYxYmc2MzhpbmtjMTBhMHV1bTggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:46.000Z",
+   "updated": "2021-08-26T12:16:46.276Z",
+   "summary": "International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_5fj0lt061bg638inkc10a0uum8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259960417304000\"",
+   "id": "20220205_9qqg8sov1pigqkseq4jn7crft8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDVfOXFxZzhzb3YxcGlncWtzZXE0am43Y3JmdDggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2021-08-26T12:16:48.000Z",
+   "updated": "2021-08-26T12:16:48.652Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-05"
+   },
+   "end": {
+    "date": "2022-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220205_9qqg8sov1pigqkseq4jn7crft8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270256540000\"",
+   "id": "20220102_4t2khnc8uon5cf1oarighbltq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfNHQya2huYzh1b241Y2Yxb2FyaWdoYmx0cTAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-01-08T09:45:28.000Z",
+   "updated": "2022-01-08T09:45:28.270Z",
+   "summary": "New Year's Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_4t2khnc8uon5cf1oarighbltq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270256540000\"",
+   "id": "20220103_eivjps71rbmqo7hqs9ej9olk7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfZWl2anBzNzFyYm1xbzdocXM5ZWo5b2xrN3MgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-01-08T09:45:28.000Z",
+   "updated": "2022-01-08T09:45:28.270Z",
+   "summary": "Day off for International New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_eivjps71rbmqo7hqs9ej9olk7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270256540000\"",
+   "id": "20220411_4h9trnshohkf4nkibf4dus2pkg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTFfNGg5dHJuc2hvaGtmNG5raWJmNGR1czJwa2cgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-01-08T09:45:28.000Z",
+   "updated": "2022-01-08T09:45:28.270Z",
+   "summary": "Day off for Hung Kings Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-11"
+   },
+   "end": {
+    "date": "2022-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220411_4h9trnshohkf4nkibf4dus2pkg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270256540000\"",
+   "id": "20220502_frnl5hlal7mdnmbl834tq3hq5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZnJubDVobGFsN21kbm1ibDgzNHRxM2hxNXMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-01-08T09:45:28.000Z",
+   "updated": "2022-01-08T09:45:28.270Z",
+   "summary": "Day off for Liberation Day/Reunification Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_frnl5hlal7mdnmbl834tq3hq5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270256540000\"",
+   "id": "20220503_19e24d65q52bsek8ta6d5vp2hc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfMTllMjRkNjVxNTJic2VrOHRhNmQ1dnAyaGMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-01-08T09:45:28.000Z",
+   "updated": "2022-01-08T09:45:28.270Z",
+   "summary": "Day off for International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_19e24d65q52bsek8ta6d5vp2hc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283270256540000\"",
+   "id": "20220901_8rt3js0r5pqgmbn628dtajign4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDFfOHJ0M2pzMHI1cHFnbWJuNjI4ZHRhamlnbjQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-01-08T09:45:28.000Z",
+   "updated": "2022-01-08T09:45:28.270Z",
+   "summary": "Independence Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-01"
+   },
+   "end": {
+    "date": "2022-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220901_8rt3js0r5pqgmbn628dtajign4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312284732000\"",
+   "id": "20220417_9an5qci0alu23apd33d8conjlo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfOWFuNXFjaTBhbHUyM2FwZDMzZDhjb25qbG8gZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-04-28T14:29:02.000Z",
+   "updated": "2022-04-28T14:29:02.366Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_9an5qci0alu23apd33d8conjlo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315617788396000\"",
+   "id": "20220516_slkjg4kknidbobis6l6p341dic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTZfc2xramc0a2tuaWRib2JpczZsNnAzNDFkaWMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-07-14T14:28:14.000Z",
+   "updated": "2022-07-14T14:28:14.198Z",
+   "summary": "Vesak",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-16"
+   },
+   "end": {
+    "date": "2022-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220516_slkjg4kknidbobis6l6p341dic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20221224_tqv4rt149eg0f731bjmn14qnbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfdHF2NHJ0MTQ5ZWcwZjczMWJqbW4xNHFuYnMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_tqv4rt149eg0f731bjmn14qnbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20221225_h93vnu0er7cvbvnohcsa4hndhg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfaDkzdm51MGVyN2N2YnZub2hjc2E0aG5kaGcgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_h93vnu0er7cvbvnohcsa4hndhg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20221231_g123oult5f8t5ltegloa9u1i44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfZzEyM291bHQ1Zjh0NWx0ZWdsb2E5dTFpNDQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_g123oult5f8t5ltegloa9u1i44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230101_801n5q7j1oonb7p6p67tvk9j7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfODAxbjVxN2oxb29uYjdwNnA2N3R2azlqN2cgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_801n5q7j1oonb7p6p67tvk9j7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230102_gs8blkpjnvfbo9736vhoc97tro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfZ3M4YmxrcGpudmZibzk3MzZ2aG9jOTd0cm8gZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Day off for International New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_gs8blkpjnvfbo9736vhoc97tro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230121_66pmi0u7djrho4qhejsrnuna18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjFfNjZwbWkwdTdkanJobzRxaGVqc3JudW5hMTggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Vietnamese New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-21"
+   },
+   "end": {
+    "date": "2023-01-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230121_66pmi0u7djrho4qhejsrnuna18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230122_eunbhll1d30a4kqhu7in4bf0q0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjJfZXVuYmhsbDFkMzBhNGtxaHU3aW40YmYwcTAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Vietnamese New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-22"
+   },
+   "end": {
+    "date": "2023-01-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230122_eunbhll1d30a4kqhu7in4bf0q0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230123_sjssiqof8jlu1cjn5u5ucgekpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjNfc2pzc2lxb2Y4amx1MWNqbjV1NXVjZ2VrcGMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-23"
+   },
+   "end": {
+    "date": "2023-01-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230123_sjssiqof8jlu1cjn5u5ucgekpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230124_f7hfv4sbhcjbl24pb9cvaher5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjRfZjdoZnY0c2JoY2pibDI0cGI5Y3ZhaGVyNWcgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-24"
+   },
+   "end": {
+    "date": "2023-01-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230124_f7hfv4sbhcjbl24pb9cvaher5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230125_5v9t73a5hjg5afusmgkgpihjjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjVfNXY5dDczYTVoamc1YWZ1c21na2dwaWhqamcgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-25"
+   },
+   "end": {
+    "date": "2023-01-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230125_5v9t73a5hjg5afusmgkgpihjjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230126_4s0876f8dj34br627jkuivvp54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjZfNHMwODc2ZjhkajM0YnI2Mjdqa3VpdnZwNTQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-26"
+   },
+   "end": {
+    "date": "2023-01-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230126_4s0876f8dj34br627jkuivvp54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230409_1jmeqq2vtbrefu3oe060h61c10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfMWptZXFxMnZ0YnJlZnUzb2UwNjBoNjFjMTAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_1jmeqq2vtbrefu3oe060h61c10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230429_dbesdrqrl1eo93nvt00of8p4bs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjlfZGJlc2RycXJsMWVvOTNudnQwMG9mOHA0YnMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Hung Kings Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-29"
+   },
+   "end": {
+    "date": "2023-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230429_dbesdrqrl1eo93nvt00of8p4bs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230430_v2ma2nu5pqjqlnpdsrb8tpq9k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MzBfdjJtYTJudTVwcWpxbG5wZHNyYjh0cHE5azAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Liberation Day/Reunification Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-30"
+   },
+   "end": {
+    "date": "2023-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230430_v2ma2nu5pqjqlnpdsrb8tpq9k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230501_bis4hd26rfpuqn7j644or9ltg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfYmlzNGhkMjZyZnB1cW43ajY0NG9yOWx0ZzAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_bis4hd26rfpuqn7j644or9ltg0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230505_punhj5io59rhl3p8tkg66mb7kk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDVfcHVuaGo1aW81OXJobDNwOHRrZzY2bWI3a2sgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Vesak",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-05"
+   },
+   "end": {
+    "date": "2023-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230505_punhj5io59rhl3p8tkg66mb7kk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230902_gnhgtcnc01i6cpgtrs7mb7gr4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDJfZ25oZ3RjbmMwMWk2Y3BndHJzN21iN2dyNHMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-02"
+   },
+   "end": {
+    "date": "2023-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230902_gnhgtcnc01i6cpgtrs7mb7gr4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20230904_098v952132gpgfs9285kf9o5c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDRfMDk4djk1MjEzMmdwZ2ZzOTI4NWtmOW81YzQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Independence Day observed",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-04"
+   },
+   "end": {
+    "date": "2023-09-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230904_098v952132gpgfs9285kf9o5c4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20231224_uo1355nu6njgkbqnipg7g5nf1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfdW8xMzU1bnU2bmpna2JxbmlwZzdnNW5mMW8gZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_uo1355nu6njgkbqnipg7g5nf1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20231225_4nbj66v78boqu18ijbmg5pae14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfNG5iajY2djc4Ym9xdTE4aWpibWc1cGFlMTQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_4nbj66v78boqu18ijbmg5pae14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20231231_36kkr17u5o87akp9e99cr893c8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfMzZra3IxN3U1bzg3YWtwOWU5OWNyODkzYzggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_36kkr17u5o87akp9e99cr893c8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240101_72rct24bnn2ru04qglfikq7go8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNzJyY3QyNGJubjJydTA0cWdsZmlrcTdnbzggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_72rct24bnn2ru04qglfikq7go8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240209_bka0qlfqk02fncu6ins9h07148",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDlfYmthMHFsZnFrMDJmbmN1NmluczloMDcxNDggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Vietnamese New Year's Eve",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-09"
+   },
+   "end": {
+    "date": "2024-02-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240209_bka0qlfqk02fncu6ins9h07148@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240210_f0l104v3u7fn650d8b7ikoasqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTBfZjBsMTA0djN1N2ZuNjUwZDhiN2lrb2FzcWMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Vietnamese New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-10"
+   },
+   "end": {
+    "date": "2024-02-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240210_f0l104v3u7fn650d8b7ikoasqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240211_4e68trd83cu9fm9l4fe51p0m9c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTFfNGU2OHRyZDgzY3U5Zm05bDRmZTUxcDBtOWMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-11"
+   },
+   "end": {
+    "date": "2024-02-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240211_4e68trd83cu9fm9l4fe51p0m9c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240212_1ne5u5ni2b1mlqtpnk0aspgl0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfMW5lNXU1bmkyYjFtbHF0cG5rMGFzcGdsMGcgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_1ne5u5ni2b1mlqtpnk0aspgl0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240213_oebffdk4n6jish33880ghbuum4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfb2ViZmZkazRuNmppc2gzMzg4MGdoYnV1bTQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_oebffdk4n6jish33880ghbuum4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240214_faoln52f65oqe1m3pub361k7i8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfZmFvbG41MmY2NW9xZTFtM3B1YjM2MWs3aTggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Tet holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_faoln52f65oqe1m3pub361k7i8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240331_vtc2cc8i4m3uqgftq4pabc6h64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfdnRjMmNjOGk0bTN1cWdmdHE0cGFiYzZoNjQgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_vtc2cc8i4m3uqgftq4pabc6h64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240418_i4lv35aqb690skdo852su8vh80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MThfaTRsdjM1YXFiNjkwc2tkbzg1MnN1OHZoODAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Hung Kings Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-18"
+   },
+   "end": {
+    "date": "2024-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240418_i4lv35aqb690skdo852su8vh80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240430_9dafgmv90brg8vkfsbdqhpfe0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MzBfOWRhZmdtdjkwYnJnOHZrZnNiZHFocGZlMGsgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Liberation Day/Reunification Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-30"
+   },
+   "end": {
+    "date": "2024-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240430_9dafgmv90brg8vkfsbdqhpfe0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240501_ht0ppn9bnqqj51eoat0hd2mfkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfaHQwcHBuOWJucXFqNTFlb2F0MGhkMm1ma2sgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_ht0ppn9bnqqj51eoat0hd2mfkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240523_8fvi6dih9qkhg3qc62ub72vfqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjNfOGZ2aTZkaWg5cWtoZzNxYzYydWI3MnZmcXMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Vesak",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-23"
+   },
+   "end": {
+    "date": "2024-05-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240523_8fvi6dih9qkhg3qc62ub72vfqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20240902_k5ohkn7vdhhi7qt0rjks1vngkg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDJfazVvaGtuN3ZkaGhpN3F0MHJqa3Mxdm5na2cgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-02"
+   },
+   "end": {
+    "date": "2024-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240902_k5ohkn7vdhhi7qt0rjks1vngkg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20241224_ga0vh03v2kdn4r9lh19ae7ut38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfZ2EwdmgwM3Yya2RuNHI5bGgxOWFlN3V0MzggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_ga0vh03v2kdn4r9lh19ae7ut38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20241225_hoam4v807oi987h39q6jtoo0qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfaG9hbTR2ODA3b2k5ODdoMzlxNmp0b28wcXMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "Christmas Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_hoam4v807oi987h39q6jtoo0qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327900429566000\"",
+   "id": "20241231_c6mg4qf0vjmn4rau3iui5qd01s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfYzZtZzRxZjB2am1uNHJhdTNpdWk1cWQwMXMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-09-23T16:23:34.000Z",
+   "updated": "2022-09-23T16:23:34.783Z",
+   "summary": "International New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Vietnam",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_c6mg4qf0vjmn4rau3iui5qd01s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3342540309924000\"",
+   "id": "20230120_msopnunq3fdgmb2o7gd5b9hg3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMjBfbXNvcG51bnEzZmRnbWIybzdnZDViOWhnM2cgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-12-17T09:42:34.000Z",
+   "updated": "2022-12-17T09:42:34.962Z",
+   "summary": "Tet Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-20"
+   },
+   "end": {
+    "date": "2023-01-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230120_msopnunq3fdgmb2o7gd5b9hg3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3342540309924000\"",
+   "id": "20230502_cth449olsbcoevpln2ltodgg8s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDJfY3RoNDQ5b2xzYmNvZXZwbG4ybHRvZGdnOHMgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-12-17T09:42:34.000Z",
+   "updated": "2022-12-17T09:42:34.962Z",
+   "summary": "Day off for Hung Kings Festival",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-02"
+   },
+   "end": {
+    "date": "2023-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230502_cth449olsbcoevpln2ltodgg8s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3342540309924000\"",
+   "id": "20230503_8t0hel0qkpjaeq787snud817vo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDNfOHQwaGVsMHFrcGphZXE3ODdzbnVkODE3dm8gZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-12-17T09:42:34.000Z",
+   "updated": "2022-12-17T09:42:34.962Z",
+   "summary": "Day off for Liberation Day/Reunification Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-03"
+   },
+   "end": {
+    "date": "2023-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230503_8t0hel0qkpjaeq787snud817vo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3342540309924000\"",
+   "id": "20230901_v6b8sbcisl5gi4437kvekv39a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDFfdjZiOHNiY2lzbDVnaTQ0MzdrdmVrdjM5YTAgZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-12-17T09:42:34.000Z",
+   "updated": "2022-12-17T09:42:34.962Z",
+   "summary": "Independence Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-01"
+   },
+   "end": {
+    "date": "2023-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230901_v6b8sbcisl5gi4437kvekv39a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3342540309924000\"",
+   "id": "20230903_tiqp0pp9ng6bi22f99rfa46p68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDNfdGlxcDBwcDluZzZiaTIyZjk5cmZhNDZwNjggZW4udmlldG5hbWVzZSNob2xpZGF5QHY",
+   "created": "2022-12-17T09:42:34.000Z",
+   "updated": "2022-12-17T09:42:34.962Z",
+   "summary": "Independence Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.vietnamese#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Vietnam",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-03"
+   },
+   "end": {
+    "date": "2023-09-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230903_tiqp0pp9ng6bi22f99rfa46p68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

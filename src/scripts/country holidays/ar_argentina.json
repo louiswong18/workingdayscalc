@@ -1,0 +1,3597 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p335evrccrqlo00o\"",
+ "summary": "Holidays in Argentina",
+ "description": "Holidays and Observances in Argentina",
+ "updated": "2023-07-24T21:17:26.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDLi6GiqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969878102000\"",
+   "id": "20220402_0q4bqjngrmo3kuarpjns8kp9s4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfMHE0YnFqbmdybW8za3VhcnBqbnM4a3A5czQgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:39.000Z",
+   "updated": "2021-08-26T13:35:39.051Z",
+   "summary": "Day of the Veterans",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_0q4bqjngrmo3kuarpjns8kp9s4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969885160000\"",
+   "id": "20220415_il3b71ar9n9lrf57ai5kf73bs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfaWwzYjcxYXI5bjlscmY1N2FpNWtmNzNiczQgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:42.000Z",
+   "updated": "2021-08-26T13:35:42.580Z",
+   "summary": "Passover Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_il3b71ar9n9lrf57ai5kf73bs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969885160000\"",
+   "id": "20220525_l2kke2i5m8sc0j4ir4161nn080",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjVfbDJra2UyaTVtOHNjMGo0aXI0MTYxbm4wODAgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:42.000Z",
+   "updated": "2021-08-26T13:35:42.580Z",
+   "summary": "National Day/May 1810 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-25"
+   },
+   "end": {
+    "date": "2022-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220525_l2kke2i5m8sc0j4ir4161nn080@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969885160000\"",
+   "id": "20220617_aivek9c3c04gfo48fu8cpeu484",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTdfYWl2ZWs5YzNjMDRnZm80OGZ1OGNwZXU0ODQgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:42.000Z",
+   "updated": "2021-08-26T13:35:42.580Z",
+   "summary": "Commemoration of General Don Martín Miguel de Güemes",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-17"
+   },
+   "end": {
+    "date": "2022-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220617_aivek9c3c04gfo48fu8cpeu484@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969901886000\"",
+   "id": "20220324_un1p7j0akovi2ui87sogrq55m4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjRfdW4xcDdqMGFrb3ZpMnVpODdzb2dycTU1bTQgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:50.000Z",
+   "updated": "2021-08-26T13:35:50.943Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-24"
+   },
+   "end": {
+    "date": "2022-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220324_un1p7j0akovi2ui87sogrq55m4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969901886000\"",
+   "id": "20220417_8v14r31g4k7kumingqkaofla38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfOHYxNHIzMWc0azdrdW1pbmdxa2FvZmxhMzggZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:50.000Z",
+   "updated": "2021-08-26T13:35:50.943Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_8v14r31g4k7kumingqkaofla38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969901886000\"",
+   "id": "20220421_a64te4nqtnqmdres7k5knnj4vk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjFfYTY0dGU0bnF0bnFtZHJlczdrNWtubmo0dmsgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:50.000Z",
+   "updated": "2021-08-26T13:35:50.943Z",
+   "summary": "Sixth Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-21"
+   },
+   "end": {
+    "date": "2022-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220421_a64te4nqtnqmdres7k5knnj4vk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969901886000\"",
+   "id": "20220620_ii76tl62msa6o6nk414demjk60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjBfaWk3NnRsNjJtc2E2bzZuazQxNGRlbWprNjAgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:50.000Z",
+   "updated": "2021-08-26T13:35:50.943Z",
+   "summary": "Flag Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-20"
+   },
+   "end": {
+    "date": "2022-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220620_ii76tl62msa6o6nk414demjk60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969907604000\"",
+   "id": "20220101_8m0hpq9lgikmo3jg0k7uale7h4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfOG0waHBxOWxnaWttbzNqZzBrN3VhbGU3aDQgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:53.000Z",
+   "updated": "2021-08-26T13:35:53.802Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_8m0hpq9lgikmo3jg0k7uale7h4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969907604000\"",
+   "id": "20220709_420g0jkc180kg5c5iuh22bkhuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfNDIwZzBqa2MxODBrZzVjNWl1aDIyYmtodWsgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:53.000Z",
+   "updated": "2021-08-26T13:35:53.802Z",
+   "summary": "Independence day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_420g0jkc180kg5c5iuh22bkhuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969913084000\"",
+   "id": "20220228_elcqa9qemunrmff20fama2qkpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjhfZWxjcWE5cWVtdW5ybWZmMjBmYW1hMnFrcGcgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:56.000Z",
+   "updated": "2021-08-26T13:35:56.542Z",
+   "summary": "Carnival / Shrove Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-28"
+   },
+   "end": {
+    "date": "2022-03-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220228_elcqa9qemunrmff20fama2qkpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969913084000\"",
+   "id": "20220415_v8qc79o28nuger98fn1nugjnfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfdjhxYzc5bzI4bnVnZXI5OGZuMW51Z2puZmsgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:56.000Z",
+   "updated": "2021-08-26T13:35:56.542Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_v8qc79o28nuger98fn1nugjnfk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969913084000\"",
+   "id": "20220501_pss8184fmgk6p15lo6fd1smmg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfcHNzODE4NGZtZ2s2cDE1bG82ZmQxc21tZzggZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:35:56.000Z",
+   "updated": "2021-08-26T13:35:56.542Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_pss8184fmgk6p15lo6fd1smmg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969923354000\"",
+   "id": "20220424_595s2222e94tq691o5i0hc7edg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjRfNTk1czIyMjJlOTR0cTY5MW81aTBoYzdlZGcgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:36:01.000Z",
+   "updated": "2021-08-26T13:36:01.677Z",
+   "summary": "Action Day for Tolerance and Respect between People",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-24"
+   },
+   "end": {
+    "date": "2022-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220424_595s2222e94tq691o5i0hc7edg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969923354000\"",
+   "id": "20220815_7seevr6878ssukf2l8sah7m8ts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfN3NlZXZyNjg3OHNzdWtmMmw4c2FoN204dHMgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-08-26T13:36:01.000Z",
+   "updated": "2021-08-26T13:36:01.677Z",
+   "summary": "San Martín Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_7seevr6878ssukf2l8sah7m8ts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3265973837068000\"",
+   "id": "20220518_b1r179o4v57v2868jd3fb8okkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MThfYjFyMTc5bzR2NTd2Mjg2OGpkM2ZiOG9ra2sgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-09-30T07:28:38.000Z",
+   "updated": "2021-09-30T07:28:38.534Z",
+   "summary": "Census Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-18"
+   },
+   "end": {
+    "date": "2022-05-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220518_b1r179o4v57v2868jd3fb8okkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455074608000\"",
+   "id": "20220417_3fm47tbe2u0bna7rf7en417648",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfM2ZtNDd0YmUydTBibmE3cmY3ZW40MTc2NDggZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:37.000Z",
+   "updated": "2021-11-18T09:25:37.304Z",
+   "summary": "Second Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_3fm47tbe2u0bna7rf7en417648@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455080316000\"",
+   "id": "20220416_tfusmtc30kaqnhm1hgnnq7nad8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfdGZ1c210YzMwa2FxbmhtMWhnbm5xN25hZDggZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:40.000Z",
+   "updated": "2021-11-18T09:25:40.158Z",
+   "summary": "First day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_tfusmtc30kaqnhm1hgnnq7nad8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455080316000\"",
+   "id": "20220422_2u603jti1lhm347f15nvko4cnk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjJfMnU2MDNqdGkxbGhtMzQ3ZjE1bnZrbzRjbmsgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:40.000Z",
+   "updated": "2021-11-18T09:25:40.158Z",
+   "summary": "Seventh Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-22"
+   },
+   "end": {
+    "date": "2022-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220422_2u603jti1lhm347f15nvko4cnk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455080316000\"",
+   "id": "20220730_t0eehjla1ghomlls12oe2pn4ho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfdDBlZWhqbGExZ2hvbWxsczEyb2UycG40aG8gZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:40.000Z",
+   "updated": "2021-11-18T09:25:40.158Z",
+   "summary": "Muharram/New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_t0eehjla1ghomlls12oe2pn4ho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455080316000\"",
+   "id": "20220926_bi4d6pcln359jl60t2i9sah0ik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjZfYmk0ZDZwY2xuMzU5amw2MHQyaTlzYWgwaWsgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:40.000Z",
+   "updated": "2021-11-18T09:25:40.158Z",
+   "summary": "Rosh Hashana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-26"
+   },
+   "end": {
+    "date": "2022-09-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220926_bi4d6pcln359jl60t2i9sah0ik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455084288000\"",
+   "id": "20220423_t0gpt0ruo4b46ikkqrbinjf4ok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjNfdDBncHQwcnVvNGI0Nmlra3FyYmluamY0b2sgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:42.000Z",
+   "updated": "2021-11-18T09:25:42.144Z",
+   "summary": "Last day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-23"
+   },
+   "end": {
+    "date": "2022-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220423_t0gpt0ruo4b46ikkqrbinjf4ok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455084288000\"",
+   "id": "20220502_hukjj3fbserm1okk98goqb13hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfaHVramozZmJzZXJtMW9razk4Z29xYjEzaGcgZW4uYXIjaG9saWRheUB2",
+   "created": "2021-11-18T09:25:42.000Z",
+   "updated": "2021-11-18T09:25:42.144Z",
+   "summary": "End of Ramadan",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_hukjj3fbserm1okk98goqb13hg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021237594000\"",
+   "id": "20220113_lipgvl8lkb38do02cnsu0m6h10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTNfbGlwZ3ZsOGxrYjM4ZG8wMmNuc3UwbTZoMTAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-03-11T14:56:58.000Z",
+   "updated": "2022-03-11T14:56:58.797Z",
+   "summary": "Public Sector Half Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-13"
+   },
+   "end": {
+    "date": "2022-01-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220113_lipgvl8lkb38do02cnsu0m6h10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021237594000\"",
+   "id": "20220114_jotdis5dsrteqpi7t3b1i9aus8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTRfam90ZGlzNWRzcnRlcXBpN3QzYjFpOWF1czggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-03-11T14:56:58.000Z",
+   "updated": "2022-03-11T14:56:58.797Z",
+   "summary": "Public Sector Half Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-14"
+   },
+   "end": {
+    "date": "2022-01-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220114_jotdis5dsrteqpi7t3b1i9aus8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021237594000\"",
+   "id": "20220301_ifsknc7u24ncmrna5pnjuqtrqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfaWZza25jN3UyNG5jbXJuYTVwbmp1cXRycXMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-03-11T14:56:58.000Z",
+   "updated": "2022-03-11T14:56:58.797Z",
+   "summary": "Carnival / Shrove Tuesday / Pancake Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_ifsknc7u24ncmrna5pnjuqtrqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3295885127208000\"",
+   "id": "20220414_2ltsa0f9mfi25dq9fcgv23m7vk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfMmx0c2EwZjltZmkyNWRxOWZjZ3YyM203dmsgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-03-22T09:49:23.000Z",
+   "updated": "2022-03-22T09:49:23.604Z",
+   "summary": "Maundy Thursday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_2ltsa0f9mfi25dq9fcgv23m7vk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618589170000\"",
+   "id": "20220709_bdfn69punu41rub2uh2fsho1d4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfYmRmbjY5cHVudTQxcnViMnVoMmZzaG8xZDQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-07-14T14:34:54.000Z",
+   "updated": "2022-07-14T14:34:54.585Z",
+   "summary": "Eid al-Adha",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_bdfn69punu41rub2uh2fsho1d4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3324766870108000\"",
+   "id": "20220902_tp6ph68p5lofrhlbt7lnio2d0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDJfdHA2cGg2OHA1bG9mcmhsYnQ3bG5pbzJkMGcgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-05T13:10:35.000Z",
+   "updated": "2022-09-05T13:10:35.054Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-02"
+   },
+   "end": {
+    "date": "2022-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220902_tp6ph68p5lofrhlbt7lnio2d0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20220927_a37epd5krdrmsvt4fp37fe08jc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MjdfYTM3ZXBkNWtyZHJtc3Z0NGZwMzdmZTA4amMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Second day of Rosh Hashana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-27"
+   },
+   "end": {
+    "date": "2022-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220927_a37epd5krdrmsvt4fp37fe08jc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221005_uuptoh23j5qu1dpoai3i4o6sm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfdXVwdG9oMjNqNXF1MWRwb2FpM2k0bzZzbTAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Yom Kippur",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_uuptoh23j5qu1dpoai3i4o6sm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221007_u6e559ok19qastt5q186k4l6do",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDdfdTZlNTU5b2sxOXFhc3R0NXExODZrNGw2ZG8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Bridge Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-07"
+   },
+   "end": {
+    "date": "2022-10-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221007_u6e559ok19qastt5q186k4l6do@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221010_p7h1jikrd0m62pkcdn9lvfd7f4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfcDdoMWppa3JkMG02MnBrY2RuOWx2ZmQ3ZjQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Day of Respect for Cultural Diversity",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_p7h1jikrd0m62pkcdn9lvfd7f4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221120_3noj248iikboionvt1rrp6olug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjBfM25vajI0OGlpa2JvaW9udnQxcnJwNm9sdWcgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "National Sovereignty Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-20"
+   },
+   "end": {
+    "date": "2022-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221120_3noj248iikboionvt1rrp6olug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221121_o9usbmujd8a7m4ot0tl5hlor7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjFfbzl1c2JtdWpkOGE3bTRvdDB0bDVobG9yN2sgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Bridge Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-21"
+   },
+   "end": {
+    "date": "2022-11-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221121_o9usbmujd8a7m4ot0tl5hlor7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221208_6ovpma0k4rltijnsjqe6uhb024",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfNm92cG1hMGs0cmx0aWpuc2pxZTZ1aGIwMjQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_6ovpma0k4rltijnsjqe6uhb024@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221209_ep3dofs8b5hq461g58c3ll7kfc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDlfZXAzZG9mczhiNWhxNDYxZzU4YzNsbDdrZmMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Bridge Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-09"
+   },
+   "end": {
+    "date": "2022-12-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221209_ep3dofs8b5hq461g58c3ll7kfc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221225_coahccckmoi4cmkdo44gfd34t0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfY29haGNjY2ttb2k0Y21rZG80NGdmZDM0dDAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_coahccckmoi4cmkdo44gfd34t0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20221231_qaani8d1k9p4vg3ule9dajrb90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfcWFhbmk4ZDFrOXA0dmczdWxlOWRhanJiOTAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_qaani8d1k9p4vg3ule9dajrb90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230101_vqtflmled65eqjhjblr6hst9jo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfdnF0ZmxtbGVkNjVlcWpoamJscjZoc3Q5am8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_vqtflmled65eqjhjblr6hst9jo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230220_71h93hiuppq0fsuof8vl97idl4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfNzFoOTNoaXVwcHEwZnN1b2Y4dmw5N2lkbDQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Carnival / Shrove Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_71h93hiuppq0fsuof8vl97idl4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230221_8ugfq2rh0sccgstgfabsu1ok90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjFfOHVnZnEycmgwc2NjZ3N0Z2ZhYnN1MW9rOTAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Carnival / Shrove Tuesday / Pancake Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-21"
+   },
+   "end": {
+    "date": "2023-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230221_8ugfq2rh0sccgstgfabsu1ok90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230324_etqrnph9smg1qcnud0dpokrm2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjRfZXRxcm5waDlzbWcxcWNudWQwZHBva3JtMmsgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-24"
+   },
+   "end": {
+    "date": "2023-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230324_etqrnph9smg1qcnud0dpokrm2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230402_p3c443t8ms82fss8kbaf1fab60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDJfcDNjNDQzdDhtczgyZnNzOGtiYWYxZmFiNjAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Day of the Veterans",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-02"
+   },
+   "end": {
+    "date": "2023-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230402_p3c443t8ms82fss8kbaf1fab60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230405_p07u7k9s7ba1udjq74ncu237d0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDVfcDA3dTdrOXM3YmExdWRqcTc0bmN1MjM3ZDAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Passover Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-05"
+   },
+   "end": {
+    "date": "2023-04-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230405_p07u7k9s7ba1udjq74ncu237d0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230406_cc8qi1u8t848a099ml9985frho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfY2M4cWkxdTh0ODQ4YTA5OW1sOTk4NWZyaG8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Maundy Thursday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_cc8qi1u8t848a099ml9985frho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230406_iedfmod4i5mmir9fskavibckts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfaWVkZm1vZDRpNW1taXI5ZnNrYXZpYmNrdHMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "First day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_iedfmod4i5mmir9fskavibckts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230407_8llveb0s68rh3pjb9tqucf1474",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfOGxsdmViMHM2OHJoM3BqYjl0cXVjZjE0NzQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Second Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_8llveb0s68rh3pjb9tqucf1474@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230407_po2ug1c3a8bj719f5apavvqcro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfcG8ydWcxYzNhOGJqNzE5ZjVhcGF2dnFjcm8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_po2ug1c3a8bj719f5apavvqcro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230409_r38n4jh0d53hnem7cfdtl7oesg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfcjM4bjRqaDBkNTNobmVtN2NmZHRsN29lc2cgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_r38n4jh0d53hnem7cfdtl7oesg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230411_nursp865u9ggk0ijqv2a3299m8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTFfbnVyc3A4NjV1OWdnazBpanF2MmEzMjk5bTggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Sixth Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-11"
+   },
+   "end": {
+    "date": "2023-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230411_nursp865u9ggk0ijqv2a3299m8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230412_h9ep33oc1kaga0t4s82r1ks82s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTJfaDllcDMzb2Mxa2FnYTB0NHM4MnIxa3M4MnMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Seventh Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-12"
+   },
+   "end": {
+    "date": "2023-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230412_h9ep33oc1kaga0t4s82r1ks82s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230413_6octs8ue6e9he1saee57kjatts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTNfNm9jdHM4dWU2ZTloZTFzYWVlNTdramF0dHMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Last day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-13"
+   },
+   "end": {
+    "date": "2023-04-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230413_6octs8ue6e9he1saee57kjatts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230424_phn2g0oabi0vnajeu8mgsbfibs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfcGhuMmcwb2FiaTB2bmFqZXU4bWdzYmZpYnMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Action Day for Tolerance and Respect between People",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_phn2g0oabi0vnajeu8mgsbfibs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230501_pvrur477gvb2b3dqpa47frl51o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcHZydXI0NzdndmIyYjNkcXBhNDdmcmw1MW8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_pvrur477gvb2b3dqpa47frl51o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230525_871hni6js0j40o9joen2jusnas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjVfODcxaG5pNmpzMGo0MG85am9lbjJqdXNuYXMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "National Day/May 1810 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-25"
+   },
+   "end": {
+    "date": "2023-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230525_871hni6js0j40o9joen2jusnas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230617_pdnqf8f7q7gaak2iud9ksr7k14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTdfcGRucWY4ZjdxN2dhYWsyaXVkOWtzcjdrMTQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Commemoration of General Don Martín Miguel de Güemes",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-17"
+   },
+   "end": {
+    "date": "2023-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230617_pdnqf8f7q7gaak2iud9ksr7k14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230620_eve0sbbci103i18epr5aqt0198",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjBfZXZlMHNiYmNpMTAzaTE4ZXByNWFxdDAxOTggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Flag Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-20"
+   },
+   "end": {
+    "date": "2023-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230620_eve0sbbci103i18epr5aqt0198@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230709_on9f5fhad34ftrpkii6g0bofqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDlfb245ZjVmaGFkMzRmdHJwa2lpNmcwYm9mcXMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Independence day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-09"
+   },
+   "end": {
+    "date": "2023-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230709_on9f5fhad34ftrpkii6g0bofqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230719_2b3lf4p7vhmjnlsj6iuj67clds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfMmIzbGY0cDd2aG1qbmxzajZpdWo2N2NsZHMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Muharram/New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_2b3lf4p7vhmjnlsj6iuj67clds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230821_fbve396lu4sahef02s65csnoi0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjFfZmJ2ZTM5Nmx1NHNhaGVmMDJzNjVjc25vaTAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "San Martín Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-21"
+   },
+   "end": {
+    "date": "2023-08-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230821_fbve396lu4sahef02s65csnoi0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230916_duhnom48ul25aueags82ed0n7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTZfZHVobm9tNDh1bDI1YXVlYWdzODJlZDBuN2sgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Rosh Hashana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-16"
+   },
+   "end": {
+    "date": "2023-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230916_duhnom48ul25aueags82ed0n7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230917_kgabaqaobnoo1q2oe4lr0qo5sc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTdfa2dhYmFxYW9ibm9vMXEyb2U0bHIwcW81c2MgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Second day of Rosh Hashana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-17"
+   },
+   "end": {
+    "date": "2023-09-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230917_kgabaqaobnoo1q2oe4lr0qo5sc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20230925_fvnjlvlv3sci19lfpjkgfot368",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjVfZnZuamx2bHYzc2NpMTlsZnBqa2dmb3QzNjggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Yom Kippur",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-25"
+   },
+   "end": {
+    "date": "2023-09-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230925_fvnjlvlv3sci19lfpjkgfot368@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20231120_c56uo768kpst3uvfm2v5idubss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjBfYzU2dW83NjhrcHN0M3V2Zm0ydjVpZHVic3MgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "National Sovereignty Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-20"
+   },
+   "end": {
+    "date": "2023-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231120_c56uo768kpst3uvfm2v5idubss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20231208_upo5chi4udbg191u4d6vdbkvbo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfdXBvNWNoaTR1ZGJnMTkxdTRkNnZkYmt2Ym8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_upo5chi4udbg191u4d6vdbkvbo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20231225_bohsegtochbl1dvttf1nmrtat0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfYm9oc2VndG9jaGJsMWR2dHRmMW5tcnRhdDAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_bohsegtochbl1dvttf1nmrtat0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20231231_k0is968dram895akhv0uknjl54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfazBpczk2OGRyYW04OTVha2h2MHVrbmpsNTQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_k0is968dram895akhv0uknjl54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240101_n1m4v4ul85ji5hf8u9lm7n8k7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbjFtNHY0dWw4NWppNWhmOHU5bG03bjhrN2cgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_n1m4v4ul85ji5hf8u9lm7n8k7g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240212_7tcjngc7t3a2enk46dmg4nr380",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTJfN3Rjam5nYzd0M2EyZW5rNDZkbWc0bnIzODAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Carnival / Shrove Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-12"
+   },
+   "end": {
+    "date": "2024-02-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240212_7tcjngc7t3a2enk46dmg4nr380@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240213_1sgh1k9tqm5lut18movchtnahs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTNfMXNnaDFrOXRxbTVsdXQxOG1vdmNodG5haHMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Carnival / Shrove Tuesday / Pancake Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-13"
+   },
+   "end": {
+    "date": "2024-02-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240213_1sgh1k9tqm5lut18movchtnahs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240324_55gnsiaih3rvuvc9jq00otlto4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjRfNTVnbnNpYWloM3J2dXZjOWpxMDBvdGx0bzQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Memorial Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-24"
+   },
+   "end": {
+    "date": "2024-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240324_55gnsiaih3rvuvc9jq00otlto4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240328_2tk98bjf8v0a6tsdkqqp6faev0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjhfMnRrOThiamY4djBhNnRzZGtxcXA2ZmFldjAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Maundy Thursday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-28"
+   },
+   "end": {
+    "date": "2024-03-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240328_2tk98bjf8v0a6tsdkqqp6faev0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240329_1g6225fdng1j0i27oue8rco3rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfMWc2MjI1ZmRuZzFqMGkyN291ZThyY28zcnMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_1g6225fdng1j0i27oue8rco3rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240331_l3e8fhau4qgn8qh93vqbq2fdqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfbDNlOGZoYXU0cWduOHFoOTN2cWJxMmZkcWsgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_l3e8fhau4qgn8qh93vqbq2fdqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240402_1al5qcnb140v3lpi279gn1k20k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDJfMWFsNXFjbmIxNDB2M2xwaTI3OWduMWsyMGsgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Day of the Veterans",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-02"
+   },
+   "end": {
+    "date": "2024-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240402_1al5qcnb140v3lpi279gn1k20k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240410_ca1t8tc5a30r926qvlcmbjvc1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfY2ExdDh0YzVhMzByOTI2cXZsY21ianZjMWsgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "End of Ramadan",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_ca1t8tc5a30r926qvlcmbjvc1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240422_7kejb67t7da38uv419j2bjis64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjJfN2tlamI2N3Q3ZGEzOHV2NDE5ajJiamlzNjQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Passover Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-22"
+   },
+   "end": {
+    "date": "2024-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240422_7kejb67t7da38uv419j2bjis64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240423_v8ue6p0rn5djs8ih0e7b47gdl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjNfdjh1ZTZwMHJuNWRqczhpaDBlN2I0N2dkbDAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "First day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-23"
+   },
+   "end": {
+    "date": "2024-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240423_v8ue6p0rn5djs8ih0e7b47gdl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240424_33pi8o02a9muf07pjm308fa7q8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjRfMzNwaThvMDJhOW11ZjA3cGptMzA4ZmE3cTggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Action Day for Tolerance and Respect between People",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-24"
+   },
+   "end": {
+    "date": "2024-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240424_33pi8o02a9muf07pjm308fa7q8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240424_d1ori1nvlpgfmf4ne3ve8s6rck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjRfZDFvcmkxbnZscGdmbWY0bmUzdmU4czZyY2sgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Second Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-24"
+   },
+   "end": {
+    "date": "2024-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240424_d1ori1nvlpgfmf4ne3ve8s6rck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240428_j5uvm28r36osriqdhfni1e6uvo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjhfajV1dm0yOHIzNm9zcmlxZGhmbmkxZTZ1dm8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Sixth Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-28"
+   },
+   "end": {
+    "date": "2024-04-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240428_j5uvm28r36osriqdhfni1e6uvo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240429_fu1qvmsbb1k5fkpog02sghqrb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjlfZnUxcXZtc2JiMWs1Zmtwb2cwMnNnaHFyYjQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Seventh Day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-29"
+   },
+   "end": {
+    "date": "2024-04-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240429_fu1qvmsbb1k5fkpog02sghqrb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240430_i4c0816nk5ceruu8idppbnv628",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MzBfaTRjMDgxNm5rNWNlcnV1OGlkcHBibnY2MjggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Last day of Passover",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-30"
+   },
+   "end": {
+    "date": "2024-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240430_i4c0816nk5ceruu8idppbnv628@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240501_rje90dp1m7qugk3t7mstfp0sag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfcmplOTBkcDFtN3F1Z2szdDdtc3RmcDBzYWcgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_rje90dp1m7qugk3t7mstfp0sag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240525_2q6obv98n22r94beicvpqden5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjVfMnE2b2J2OThuMjJyOTRiZWljdnBxZGVuNW8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "National Day/May 1810 Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-25"
+   },
+   "end": {
+    "date": "2024-05-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240525_2q6obv98n22r94beicvpqden5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240617_n06hkh16ni53blumog6aihc7bo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfbjA2aGtoMTZuaTUzYmx1bW9nNmFpaGM3Ym8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Commemoration of General Don Martín Miguel de Güemes",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_n06hkh16ni53blumog6aihc7bo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240617_tnu6ib6e4mvicbgremh42qn2j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfdG51NmliNmU0bXZpY2JncmVtaDQycW4yajQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Eid al-Adha",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_tnu6ib6e4mvicbgremh42qn2j4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240620_8silbeeupm2u7re4bu8ss88jus",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjBfOHNpbGJlZXVwbTJ1N3JlNGJ1OHNzODhqdXMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Flag Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-20"
+   },
+   "end": {
+    "date": "2024-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240620_8silbeeupm2u7re4bu8ss88jus@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240708_7vrhabc53lgufgldsqle3n1q2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfN3ZyaGFiYzUzbGd1ZmdsZHNxbGUzbjFxMm8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Muharram/New Year",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_7vrhabc53lgufgldsqle3n1q2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240709_n1kod4l32piatkunjta4kdp6ro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDlfbjFrb2Q0bDMycGlhdGt1bmp0YTRrZHA2cm8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Independence day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-09"
+   },
+   "end": {
+    "date": "2024-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240709_n1kod4l32piatkunjta4kdp6ro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20240819_3gppgiulnlnlhqa01tq2hgktek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTlfM2dwcGdpdWxubG5saHFhMDF0cTJoZ2t0ZWsgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "San Martín Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-19"
+   },
+   "end": {
+    "date": "2024-08-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240819_3gppgiulnlnlhqa01tq2hgktek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241003_g98obi0bukk6p15i53a1l0v4f4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDNfZzk4b2JpMGJ1a2s2cDE1aTUzYTFsMHY0ZjQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Rosh Hashana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-03"
+   },
+   "end": {
+    "date": "2024-10-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241003_g98obi0bukk6p15i53a1l0v4f4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241004_61vkp4asiue2uoslfdjol63oc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDRfNjF2a3A0YXNpdWUydW9zbGZkam9sNjNvYzAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Second day of Rosh Hashana",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-04"
+   },
+   "end": {
+    "date": "2024-10-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241004_61vkp4asiue2uoslfdjol63oc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241012_c9ch5q1imj84f51050hublikro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfYzljaDVxMWltajg0ZjUxMDUwaHVibGlrcm8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Yom Kippur",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_c9ch5q1imj84f51050hublikro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241014_oonj9n8vibn8lv8manhfjpi9ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTRfb29uajluOHZpYm44bHY4bWFuaGZqcGk5c3MgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Day of Respect for Cultural Diversity",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-14"
+   },
+   "end": {
+    "date": "2024-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241014_oonj9n8vibn8lv8manhfjpi9ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241118_t2kt7lgirsv0romgq832e3i434",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMThfdDJrdDdsZ2lyc3Ywcm9tZ3E4MzJlM2k0MzQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "National Sovereignty Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-18"
+   },
+   "end": {
+    "date": "2024-11-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241118_t2kt7lgirsv0romgq832e3i434@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241208_b8ugl754026k2lp2o7ub1oi63o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfYjh1Z2w3NTQwMjZrMmxwMm83dWIxb2k2M28gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_b8ugl754026k2lp2o7ub1oi63o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241225_rdvflg2n9d6vivvks9scpvhh1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcmR2ZmxnMm45ZDZ2aXZ2a3M5c2NwdmhoMW8gZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_rdvflg2n9d6vivvks9scpvhh1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328540812994000\"",
+   "id": "20241231_jk40pk7s53iio465r83gp7l9dc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfams0MHBrN3M1M2lpbzQ2NXI4M2dwN2w5ZGMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-09-27T09:20:06.000Z",
+   "updated": "2022-09-27T09:20:06.497Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_jk40pk7s53iio465r83gp7l9dc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338738320866000\"",
+   "id": "20230421_1aavf5hem1qg0gi5hgiglirp9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfMWFhdmY1aGVtMXFnMGdpNWhnaWdsaXJwOXMgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-11-25T09:39:20.000Z",
+   "updated": "2022-11-25T09:39:20.433Z",
+   "summary": "End of Ramadan",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_1aavf5hem1qg0gi5hgiglirp9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338738320866000\"",
+   "id": "20230526_66b9ogrl6kkionkepu7kiik034",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjZfNjZiOW9ncmw2a2tpb25rZXB1N2tpaWswMzQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-11-25T09:39:20.000Z",
+   "updated": "2022-11-25T09:39:20.433Z",
+   "summary": "Bridge Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-26"
+   },
+   "end": {
+    "date": "2023-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230526_66b9ogrl6kkionkepu7kiik034@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338738320866000\"",
+   "id": "20230619_rs7im7hu6gfno9m2vkt377c6g0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTlfcnM3aW03aHU2Z2ZubzltMnZrdDM3N2M2ZzAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-11-25T09:39:20.000Z",
+   "updated": "2022-11-25T09:39:20.433Z",
+   "summary": "Bridge Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-19"
+   },
+   "end": {
+    "date": "2023-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230619_rs7im7hu6gfno9m2vkt377c6g0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338738320866000\"",
+   "id": "20231013_u70coaolhl8qje3elgls4i46l4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTNfdTcwY29hb2xobDhxamUzZWxnbHM0aTQ2bDQgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-11-25T09:39:20.000Z",
+   "updated": "2022-11-25T09:39:20.433Z",
+   "summary": "Bridge Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-13"
+   },
+   "end": {
+    "date": "2023-10-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231013_u70coaolhl8qje3elgls4i46l4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338738320866000\"",
+   "id": "20231016_sko2da3bsgn1kl3b6lqbul90p8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTZfc2tvMmRhM2JzZ24xa2wzYjZscWJ1bDkwcDggZW4uYXIjaG9saWRheUB2",
+   "created": "2022-11-25T09:39:20.000Z",
+   "updated": "2022-11-25T09:39:20.433Z",
+   "summary": "Day of Respect for Cultural Diversity",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-16"
+   },
+   "end": {
+    "date": "2023-10-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231016_sko2da3bsgn1kl3b6lqbul90p8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343229915792000\"",
+   "id": "20221220_7krb8d07b5b3op214nvno9dpo0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjBfN2tyYjhkMDdiNWIzb3AyMTRudm5vOWRwbzAgZW4uYXIjaG9saWRheUB2",
+   "created": "2022-12-21T09:29:17.000Z",
+   "updated": "2022-12-21T09:29:17.896Z",
+   "summary": "World Cup Win Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-20"
+   },
+   "end": {
+    "date": "2022-12-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221220_7krb8d07b5b3op214nvno9dpo0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359221442740000\"",
+   "id": "20230323_v7fo1a9eouk0eh4oaovrkr5v0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfdjdmbzFhOWVvdWswZWg0b2FvdnJrcjV2MHMgZW4uYXIjaG9saWRheUB2",
+   "created": "2023-03-23T22:32:01.000Z",
+   "updated": "2023-03-23T22:32:01.370Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_v7fo1a9eouk0eh4oaovrkr5v0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359221442740000\"",
+   "id": "20240311_m816v2ipk8jlrpelfk8r01gmkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfbTgxNnYyaXBrOGpscnBlbGZrOHIwMWdta2MgZW4uYXIjaG9saWRheUB2",
+   "created": "2023-03-23T22:32:01.000Z",
+   "updated": "2023-03-23T22:32:01.370Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_m816v2ipk8jlrpelfk8r01gmkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373470295846000\"",
+   "id": "20221016_gtvvpva7darl7qvfv9cn4sq26g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTZfZ3R2dnB2YTdkYXJsN3F2ZnY5Y240c3EyNmcgZW4uYXIjaG9saWRheUB2",
+   "created": "2023-06-14T09:32:27.000Z",
+   "updated": "2023-06-14T09:32:27.923Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-16"
+   },
+   "end": {
+    "date": "2022-10-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221016_gtvvpva7darl7qvfv9cn4sq26g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373470295846000\"",
+   "id": "20231015_3shk9s61m0s47sj6049ns9s884",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTVfM3NoazlzNjFtMHM0N3NqNjA0OW5zOXM4ODQgZW4uYXIjaG9saWRheUB2",
+   "created": "2023-06-14T09:32:27.000Z",
+   "updated": "2023-06-14T09:32:27.923Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-15"
+   },
+   "end": {
+    "date": "2023-10-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231015_3shk9s61m0s47sj6049ns9s884@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373470295846000\"",
+   "id": "20241020_ehsghkfcoskqm7ebfdg1jlgbpo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMjBfZWhzZ2hrZmNvc2txbTdlYmZkZzFqbGdicG8gZW4uYXIjaG9saWRheUB2",
+   "created": "2023-06-14T09:32:27.000Z",
+   "updated": "2023-06-14T09:32:27.923Z",
+   "summary": "Mothers' Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-20"
+   },
+   "end": {
+    "date": "2024-10-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241020_ehsghkfcoskqm7ebfdg1jlgbpo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375197621702000\"",
+   "id": "20230628_o93s3gap08gai0e767t1bulvf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfbzkzczNnYXAwOGdhaTBlNzY3dDFidWx2ZjAgZW4uYXIjaG9saWRheUB2",
+   "created": "2023-06-24T09:26:50.000Z",
+   "updated": "2023-06-24T09:26:50.851Z",
+   "summary": "Eid al-Adha",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Argentina",
+   "creator": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ar#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Argentina",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_o93s3gap08gai0e767t1bulvf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

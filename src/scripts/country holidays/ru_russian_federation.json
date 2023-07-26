@@ -1,0 +1,1869 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p339t5n49rqlo00o\"",
+ "summary": "Holidays in Russia",
+ "description": "Holidays and Observances in Russia",
+ "updated": "2023-07-25T08:25:34.947Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CLjd_sy3qYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950818172000\"",
+   "id": "20220102_hf7p4dui2mgrh38un4ui33g5es",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfaGY3cDRkdWkybWdyaDM4dW40dWkzM2c1ZXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:49.000Z",
+   "updated": "2021-08-26T10:56:49.086Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_hf7p4dui2mgrh38un4ui33g5es@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950818172000\"",
+   "id": "20220108_csla3skstsgeu7opij52g90d68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDhfY3NsYTNza3N0c2dldTdvcGlqNTJnOTBkNjggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:49.000Z",
+   "updated": "2021-08-26T10:56:49.086Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-08"
+   },
+   "end": {
+    "date": "2022-01-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220108_csla3skstsgeu7opij52g90d68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950818172000\"",
+   "id": "20220223_pctvr5251ufvs8sohcqcqk8ims",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjNfcGN0dnI1MjUxdWZ2czhzb2hjcWNxazhpbXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:49.000Z",
+   "updated": "2021-08-26T10:56:49.086Z",
+   "summary": "Defender of the Fatherland Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-23"
+   },
+   "end": {
+    "date": "2022-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220223_pctvr5251ufvs8sohcqcqk8ims@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950818172000\"",
+   "id": "20220307_3ctqcot1hhhnk0udaphdqkkovs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDdfM2N0cWNvdDFoaGhuazB1ZGFwaGRxa2tvdnMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:49.000Z",
+   "updated": "2021-08-26T10:56:49.086Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-07"
+   },
+   "end": {
+    "date": "2022-03-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220307_3ctqcot1hhhnk0udaphdqkkovs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950818172000\"",
+   "id": "20220901_rgalu2c6m22o7mn2m3n8me5j0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDFfcmdhbHUyYzZtMjJvN21uMm0zbjhtZTVqMGcgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:49.000Z",
+   "updated": "2021-08-26T10:56:49.086Z",
+   "summary": "Day of Knowledge",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Russia",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-01"
+   },
+   "end": {
+    "date": "2022-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220901_rgalu2c6m22o7mn2m3n8me5j0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950821918000\"",
+   "id": "20220103_ctm2fugjtroc6p1ke78spk68o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfY3RtMmZ1Z2p0cm9jNnAxa2U3OHNwazY4bzggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:50.000Z",
+   "updated": "2021-08-26T10:56:50.959Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_ctm2fugjtroc6p1ke78spk68o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950821918000\"",
+   "id": "20220509_s5sgvnvb33gjaoo048atde5hhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDlfczVzZ3ZudmIzM2dqYW9vMDQ4YXRkZTVoaGsgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:50.000Z",
+   "updated": "2021-08-26T10:56:50.959Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-09"
+   },
+   "end": {
+    "date": "2022-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220509_s5sgvnvb33gjaoo048atde5hhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950821918000\"",
+   "id": "20220510_lng49p5ddk1aqrq3ap16110pkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTBfbG5nNDlwNWRkazFhcXJxM2FwMTYxMTBwa2sgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:50.000Z",
+   "updated": "2021-08-26T10:56:50.959Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-10"
+   },
+   "end": {
+    "date": "2022-05-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220510_lng49p5ddk1aqrq3ap16110pkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950821918000\"",
+   "id": "20220612_9fq3pd2vlgdg9rd0g38tpsne8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTJfOWZxM3BkMnZsZ2RnOXJkMGczOHRwc25lOGsgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:50.000Z",
+   "updated": "2021-08-26T10:56:50.959Z",
+   "summary": "Russia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-12"
+   },
+   "end": {
+    "date": "2022-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220612_9fq3pd2vlgdg9rd0g38tpsne8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950826344000\"",
+   "id": "20220104_brfseq8137tm3ll033sc46kbqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDRfYnJmc2VxODEzN3RtM2xsMDMzc2M0NmticW8gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:53.000Z",
+   "updated": "2021-08-26T10:56:53.172Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-04"
+   },
+   "end": {
+    "date": "2022-01-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220104_brfseq8137tm3ll033sc46kbqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950826344000\"",
+   "id": "20220105_k65manofsvjbbmdcuhle07jv3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDVfazY1bWFub2ZzdmpiYm1kY3VobGUwN2p2M2sgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:53.000Z",
+   "updated": "2021-08-26T10:56:53.172Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-05"
+   },
+   "end": {
+    "date": "2022-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220105_k65manofsvjbbmdcuhle07jv3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950826344000\"",
+   "id": "20220106_vu0jd0p8au3r5n4v7ekcn8hf1k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfdnUwamQwcDhhdTNyNW40djdla2NuOGhmMWsgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:53.000Z",
+   "updated": "2021-08-26T10:56:53.172Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_vu0jd0p8au3r5n4v7ekcn8hf1k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950826344000\"",
+   "id": "20220502_942jmtc5qqplhciabb3rv1gipg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfOTQyam10YzVxcXBsaGNpYWJiM3J2MWdpcGcgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:53.000Z",
+   "updated": "2021-08-26T10:56:53.172Z",
+   "summary": "Day off for Spring and Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_942jmtc5qqplhciabb3rv1gipg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950826344000\"",
+   "id": "20220503_nv6mqjkse7q7k89i7hvj8rm514",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfbnY2bXFqa3NlN3E3azg5aTdodmo4cm01MTQgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:53.000Z",
+   "updated": "2021-08-26T10:56:53.172Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_nv6mqjkse7q7k89i7hvj8rm514@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950826344000\"",
+   "id": "20220613_5q6i6dmt8c00ogjf1287ubpjlc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTNfNXE2aTZkbXQ4YzAwb2dqZjEyODd1YnBqbGMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:53.000Z",
+   "updated": "2021-08-26T10:56:53.172Z",
+   "summary": "Day off for Russia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-13"
+   },
+   "end": {
+    "date": "2022-06-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220613_5q6i6dmt8c00ogjf1287ubpjlc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950830996000\"",
+   "id": "20220101_ek71u21qko7dsdvdgjr0m8h9n0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfZWs3MXUyMXFrbzdkc2R2ZGdqcjBtOGg5bjAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:55.000Z",
+   "updated": "2021-08-26T10:56:55.498Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_ek71u21qko7dsdvdgjr0m8h9n0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950830996000\"",
+   "id": "20220109_boo3tibrlobed1lu2rkpprs41s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDlfYm9vM3RpYnJsb2JlZDFsdTJya3BwcnM0MXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:55.000Z",
+   "updated": "2021-08-26T10:56:55.498Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-09"
+   },
+   "end": {
+    "date": "2022-01-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220109_boo3tibrlobed1lu2rkpprs41s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950834332000\"",
+   "id": "20220107_qa83alhuh6979ef7b92ava6mao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDdfcWE4M2FsaHVoNjk3OWVmN2I5MmF2YTZtYW8gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:57.000Z",
+   "updated": "2021-08-26T10:56:57.166Z",
+   "summary": "Orthodox Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-07"
+   },
+   "end": {
+    "date": "2022-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220107_qa83alhuh6979ef7b92ava6mao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950834332000\"",
+   "id": "20220308_heuk1jj931nt8vg7996m2if6gg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDhfaGV1azFqajkzMW50OHZnNzk5Nm0yaWY2Z2cgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:57.000Z",
+   "updated": "2021-08-26T10:56:57.166Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-08"
+   },
+   "end": {
+    "date": "2022-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220308_heuk1jj931nt8vg7996m2if6gg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259950834332000\"",
+   "id": "20220501_7kfum42kd79bnpd21880muts8k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfN2tmdW00MmtkNzlibnBkMjE4ODBtdXRzOGsgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T10:56:57.000Z",
+   "updated": "2021-08-26T10:56:57.166Z",
+   "summary": "Spring and Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_7kfum42kd79bnpd21880muts8k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20221005_llokkfbtcflirmcq3mortcf4to",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDVfbGxva2tmYnRjZmxpcm1jcTNtb3J0Y2Y0dG8gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Russia",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-05"
+   },
+   "end": {
+    "date": "2022-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221005_llokkfbtcflirmcq3mortcf4to@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20221104_nmd8grajob90l679ivekc97790",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDRfbm1kOGdyYWpvYjkwbDY3OWl2ZWtjOTc3OTAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-04"
+   },
+   "end": {
+    "date": "2022-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221104_nmd8grajob90l679ivekc97790@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230101_22vhc3g0uav3tnut1gscqppph0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfMjJ2aGMzZzB1YXYzdG51dDFnc2NxcHBwaDAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_22vhc3g0uav3tnut1gscqppph0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230102_bk7on0tepnvia87gs6mht93g38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfYms3b24wdGVwbnZpYTg3Z3M2bWh0OTNnMzggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_bk7on0tepnvia87gs6mht93g38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230103_scan8quo4d7a5udepuvuf9tve4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDNfc2NhbjhxdW80ZDdhNXVkZXB1dnVmOXR2ZTQgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-03"
+   },
+   "end": {
+    "date": "2023-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230103_scan8quo4d7a5udepuvuf9tve4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230104_9s9a9u7cvd8352ecvmhtmrf8c8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDRfOXM5YTl1N2N2ZDgzNTJlY3ZtaHRtcmY4YzggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-04"
+   },
+   "end": {
+    "date": "2023-01-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230104_9s9a9u7cvd8352ecvmhtmrf8c8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230105_garq636m3mn2tol4r2mpgkihi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDVfZ2FycTYzNm0zbW4ydG9sNHIybXBna2loaTQgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-05"
+   },
+   "end": {
+    "date": "2023-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230105_garq636m3mn2tol4r2mpgkihi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230106_kv96dru0bfo0eld3domgqhdp0s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfa3Y5NmRydTBiZm8wZWxkM2RvbWdxaGRwMHMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_kv96dru0bfo0eld3domgqhdp0s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230107_fh75a65kgfj3mbsf8pqpddlg48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDdfZmg3NWE2NWtnZmozbWJzZjhwcXBkZGxnNDggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Orthodox Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-07"
+   },
+   "end": {
+    "date": "2023-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230107_fh75a65kgfj3mbsf8pqpddlg48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230223_c6ac9dcvini4e96v233gin23b0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjNfYzZhYzlkY3Zpbmk0ZTk2djIzM2dpbjIzYjAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Defender of the Fatherland Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-23"
+   },
+   "end": {
+    "date": "2023-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230223_c6ac9dcvini4e96v233gin23b0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230308_dl45h4b05lfrian8uc08pp2p5g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMDhfZGw0NWg0YjA1bGZyaWFuOHVjMDhwcDJwNWcgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-08"
+   },
+   "end": {
+    "date": "2023-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230308_dl45h4b05lfrian8uc08pp2p5g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230501_3mf5kl93jkqgcq7t7tu9n5s3bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfM21mNWtsOTNqa3FnY3E3dDd0dTluNXMzYmcgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Spring and Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_3mf5kl93jkqgcq7t7tu9n5s3bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230509_hdrootnhrhbva3hnfsj16ukk68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDlfaGRyb290bmhyaGJ2YTNobmZzajE2dWtrNjggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-09"
+   },
+   "end": {
+    "date": "2023-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230509_hdrootnhrhbva3hnfsj16ukk68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230612_ctn6mvbhakeldmvvet0l2efuf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MTJfY3RuNm12Ymhha2VsZG12dmV0MGwyZWZ1ZjggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Russia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-12"
+   },
+   "end": {
+    "date": "2023-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230612_ctn6mvbhakeldmvvet0l2efuf8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20230901_ke4q5lh109sjqdvc8jq5m6nhq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDFfa2U0cTVsaDEwOXNqcWR2YzhqcTVtNm5ocTggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Day of Knowledge",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Russia",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-01"
+   },
+   "end": {
+    "date": "2023-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230901_ke4q5lh109sjqdvc8jq5m6nhq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20231005_6nndbmsucoomtd7ug299ej19sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDVfNm5uZGJtc3Vjb29tdGQ3dWcyOTllajE5c2sgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Russia",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-05"
+   },
+   "end": {
+    "date": "2023-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231005_6nndbmsucoomtd7ug299ej19sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20231104_6ar3ank29dtj11hkuk2k2k5eg0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDRfNmFyM2FuazI5ZHRqMTFoa3VrMmsyazVlZzAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-04"
+   },
+   "end": {
+    "date": "2023-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231104_6ar3ank29dtj11hkuk2k2k5eg0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20231106_et4u2ibjof3e8ot7iuvtqed9as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDZfZXQ0dTJpYmpvZjNlOG90N2l1dnRxZWQ5YXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Day off for Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-06"
+   },
+   "end": {
+    "date": "2023-11-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231106_et4u2ibjof3e8ot7iuvtqed9as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240101_e9ie1nsapv9h1boldb6n12pr6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfZTlpZTFuc2FwdjloMWJvbGRiNm4xMnByNm8gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_e9ie1nsapv9h1boldb6n12pr6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240102_3hltuk91bsgf0bu05541rusdes",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfM2hsdHVrOTFic2dmMGJ1MDU1NDFydXNkZXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_3hltuk91bsgf0bu05541rusdes@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240103_g17rb2hs9149ttfou7a1lv4oas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDNfZzE3cmIyaHM5MTQ5dHRmb3U3YTFsdjRvYXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-03"
+   },
+   "end": {
+    "date": "2024-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240103_g17rb2hs9149ttfou7a1lv4oas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240104_agvrcak4kf27fo9qm1t1jbori0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDRfYWd2cmNhazRrZjI3Zm85cW0xdDFqYm9yaTAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-04"
+   },
+   "end": {
+    "date": "2024-01-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240104_agvrcak4kf27fo9qm1t1jbori0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240105_98tsprfg08d9ekuic5ghssblo4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDVfOTh0c3ByZmcwOGQ5ZWt1aWM1Z2hzc2JsbzQgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-05"
+   },
+   "end": {
+    "date": "2024-01-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240105_98tsprfg08d9ekuic5ghssblo4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240107_4dgc36ngmljo5hi3r1v0ac8mpo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDdfNGRnYzM2bmdtbGpvNWhpM3IxdjBhYzhtcG8gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Orthodox Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-07"
+   },
+   "end": {
+    "date": "2024-01-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240107_4dgc36ngmljo5hi3r1v0ac8mpo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240108_asj9clt9avse5758m0m7m8enhs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDhfYXNqOWNsdDlhdnNlNTc1OG0wbTdtOGVuaHMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-08"
+   },
+   "end": {
+    "date": "2024-01-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240108_asj9clt9avse5758m0m7m8enhs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240223_kce2uo6cil3ht1np7gk7sghaco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjNfa2NlMnVvNmNpbDNodDFucDdnazdzZ2hhY28gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Defender of the Fatherland Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-23"
+   },
+   "end": {
+    "date": "2024-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240223_kce2uo6cil3ht1np7gk7sghaco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240308_9jrshg5dnjm7stvc8579ffj21g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMDhfOWpyc2hnNWRuam03c3R2Yzg1NzlmZmoyMWcgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "International Women's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-08"
+   },
+   "end": {
+    "date": "2024-03-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240308_9jrshg5dnjm7stvc8579ffj21g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240501_disfdfua3lfqhvf93dq1jjeosc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfZGlzZmRmdWEzbGZxaHZmOTNkcTFqamVvc2MgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Spring and Labor Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_disfdfua3lfqhvf93dq1jjeosc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240502_8kf3p7lbvh80e6nb0e2u4415g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDJfOGtmM3A3bGJ2aDgwZTZuYjBlMnU0NDE1ZzggZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Spring and Labor Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-02"
+   },
+   "end": {
+    "date": "2024-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240502_8kf3p7lbvh80e6nb0e2u4415g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240503_r93cu4lp3hs4q46ptq4koiepho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDNfcjkzY3U0bHAzaHM0cTQ2cHRxNGtvaWVwaG8gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Spring and Labor Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-03"
+   },
+   "end": {
+    "date": "2024-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240503_r93cu4lp3hs4q46ptq4koiepho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240509_cv882l6crv51slihj816c1ibc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDlfY3Y4ODJsNmNydjUxc2xpaGo4MTZjMWliYzAgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Victory Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-09"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240509_cv882l6crv51slihj816c1ibc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240612_t64k3g0jaad40lgpnlca8rcg04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTJfdDY0azNnMGphYWQ0MGxncG5sY2E4cmNnMDQgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Russia Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-12"
+   },
+   "end": {
+    "date": "2024-06-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240612_t64k3g0jaad40lgpnlca8rcg04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20240901_j6b61rpjne9omhk3g71gcistgk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDFfajZiNjFycGpuZTlvbWhrM2c3MWdjaXN0Z2sgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Day of Knowledge",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Russia",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-01"
+   },
+   "end": {
+    "date": "2024-09-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240901_j6b61rpjne9omhk3g71gcistgk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20241005_5509081nm9u8hurlufdrr2lirc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMDVfNTUwOTA4MW5tOXU4aHVybHVmZHJyMmxpcmMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Russia",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-05"
+   },
+   "end": {
+    "date": "2024-10-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241005_5509081nm9u8hurlufdrr2lirc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894918202000\"",
+   "id": "20241104_mat9ajq3j50je6pe3pn9p7nn14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDRfbWF0OWFqcTNqNTBqZTZwZTNwbjlwN25uMTQgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:37:39.000Z",
+   "updated": "2022-09-23T15:37:39.101Z",
+   "summary": "Unity Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-04"
+   },
+   "end": {
+    "date": "2024-11-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241104_mat9ajq3j50je6pe3pn9p7nn14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779379890000\"",
+   "id": "20230108_qsq84b0h3a6uuloc3aof4o1oso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDhfcXNxODRiMGgzYTZ1dWxvYzNhb2Y0bzFvc28gZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-04T13:21:29.000Z",
+   "updated": "2022-10-04T13:21:29.945Z",
+   "summary": "New Year Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-08"
+   },
+   "end": {
+    "date": "2023-01-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230108_qsq84b0h3a6uuloc3aof4o1oso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779379890000\"",
+   "id": "20230224_jqcb7v5951ah1stg78djd9p2ss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjRfanFjYjd2NTk1MWFoMXN0Zzc4ZGpkOXAyc3MgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-04T13:21:29.000Z",
+   "updated": "2022-10-04T13:21:29.945Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-24"
+   },
+   "end": {
+    "date": "2023-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230224_jqcb7v5951ah1stg78djd9p2ss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779379890000\"",
+   "id": "20230508_68s5r3nv14pmhh6vl8vud076qs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDhfNjhzNXIzbnYxNHBtaGg2dmw4dnVkMDc2cXMgZW4ucnVzc2lhbiNob2xpZGF5QHY",
+   "created": "2022-10-04T13:21:29.000Z",
+   "updated": "2022-10-04T13:21:29.945Z",
+   "summary": "Public Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.russian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Russia",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-08"
+   },
+   "end": {
+    "date": "2023-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230508_68s5r3nv14pmhh6vl8vud076qs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

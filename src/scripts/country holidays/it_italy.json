@@ -1,0 +1,1741 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33cp574irqlo00o\"",
+ "summary": "Holidays in Italy",
+ "description": "Holidays and Observances in Italy",
+ "updated": "2023-07-25T02:49:42.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIC7qMPsqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973611736000\"",
+   "id": "20220501_2rm66drkls0cds2nr7ctsteig8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfMnJtNjZkcmtsczBjZHMybnI3Y3RzdGVpZzggZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:45.000Z",
+   "updated": "2021-08-26T14:06:45.868Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_2rm66drkls0cds2nr7ctsteig8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973617454000\"",
+   "id": "20220101_bnsopfnsq1v6tu2k4tt7kjpj2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfYm5zb3BmbnNxMXY2dHUyazR0dDdranBqMm8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:48.000Z",
+   "updated": "2021-08-26T14:06:48.727Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_bnsopfnsq1v6tu2k4tt7kjpj2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973617454000\"",
+   "id": "20220417_kcr2j8t2e2073ffd8191rugfbk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfa2NyMmo4dDJlMjA3M2ZmZDgxOTFydWdmYmsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:48.000Z",
+   "updated": "2021-08-26T14:06:48.727Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_kcr2j8t2e2073ffd8191rugfbk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973617454000\"",
+   "id": "20220418_0111vsmf1hg0cf57o9qooprs10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfMDExMXZzbWYxaGcwY2Y1N285cW9vcHJzMTAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:48.000Z",
+   "updated": "2021-08-26T14:06:48.727Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_0111vsmf1hg0cf57o9qooprs10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973617454000\"",
+   "id": "20220425_6o21ocd4vrp31bnvguk23tjaj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfNm8yMW9jZDR2cnAzMWJudmd1azIzdGphajAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:48.000Z",
+   "updated": "2021-08-26T14:06:48.727Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_6o21ocd4vrp31bnvguk23tjaj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973617454000\"",
+   "id": "20220602_mqjtvihnf9uibaolmne5ioab4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDJfbXFqdHZpaG5mOXVpYmFvbG1uZTVpb2FiNHMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:48.000Z",
+   "updated": "2021-08-26T14:06:48.727Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-02"
+   },
+   "end": {
+    "date": "2022-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220602_mqjtvihnf9uibaolmne5ioab4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973620216000\"",
+   "id": "20220106_9o38ingr45s6rie7f5lac2vaco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfOW8zOGluZ3I0NXM2cmllN2Y1bGFjMnZhY28gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:50.000Z",
+   "updated": "2021-08-26T14:06:50.108Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_9o38ingr45s6rie7f5lac2vaco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973620216000\"",
+   "id": "20220415_nip7953f4ebaojei0cqtmumjs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfbmlwNzk1M2Y0ZWJhb2plaTBjcXRtdW1qczQgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:50.000Z",
+   "updated": "2021-08-26T14:06:50.108Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_nip7953f4ebaojei0cqtmumjs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973620216000\"",
+   "id": "20220815_o4oolbfvkg0db467ojj70rjfvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfbzRvb2xiZnZrZzBkYjQ2N29qajcwcmpmdmcgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:50.000Z",
+   "updated": "2021-08-26T14:06:50.108Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_o4oolbfvkg0db467ojj70rjfvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259973620216000\"",
+   "id": "20220815_ssttb6svhcps4odvobivq30s5k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfc3N0dGI2c3ZoY3BzNG9kdm9iaXZxMzBzNWsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T14:06:50.000Z",
+   "updated": "2021-08-26T14:06:50.108Z",
+   "summary": "Ferragosto",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_ssttb6svhcps4odvobivq30s5k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021765926000\"",
+   "id": "20220302_e2odno8gt1mm3sglnrnnb4elj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDJfZTJvZG5vOGd0MW1tM3NnbG5ybm5iNGVsajAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-03-11T15:01:22.000Z",
+   "updated": "2022-03-11T15:01:22.963Z",
+   "summary": "Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-02"
+   },
+   "end": {
+    "date": "2022-03-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220302_e2odno8gt1mm3sglnrnnb4elj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021765926000\"",
+   "id": "20220319_6s772d1fqahuklf6sbj05v3s4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTlfNnM3NzJkMWZxYWh1a2xmNnNiajA1djNzNG8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-03-11T15:01:22.000Z",
+   "updated": "2022-03-11T15:01:22.963Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-19"
+   },
+   "end": {
+    "date": "2022-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220319_6s772d1fqahuklf6sbj05v3s4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3294021765926000\"",
+   "id": "20220508_mmekrama815ajcelpbogdfufmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfbW1la3JhbWE4MTVhamNlbHBib2dkZnVmbWMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-03-11T15:01:22.000Z",
+   "updated": "2022-03-11T15:01:22.963Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_mmekrama815ajcelpbogdfufmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20221101_a10j553c8b5kh1j2fvcttcenig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfYTEwajU1M2M4YjVraDFqMmZ2Y3R0Y2VuaWcgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_a10j553c8b5kh1j2fvcttcenig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20221208_64j77nm9c0g2fi8aunu2hm7l8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfNjRqNzdubTljMGcyZmk4YXVudTJobTdsOGMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_64j77nm9c0g2fi8aunu2hm7l8c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20221225_s7hctsjmkc2clegpukjb02m28s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfczdoY3Rzam1rYzJjbGVncHVramIwMm0yOHMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_s7hctsjmkc2clegpukjb02m28s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20221226_nh32fke8bs8oc34abia3mgl8oo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfbmgzMmZrZThiczhvYzM0YWJpYTNtZ2w4b28gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_nh32fke8bs8oc34abia3mgl8oo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20221231_veeo4uh6tspsj8l7nc5m2ra8ck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfdmVlbzR1aDZ0c3BzajhsN25jNW0ycmE4Y2sgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_veeo4uh6tspsj8l7nc5m2ra8ck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230101_1vm8ek52qkuqd5fppegb69a20o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfMXZtOGVrNTJxa3VxZDVmcHBlZ2I2OWEyMG8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_1vm8ek52qkuqd5fppegb69a20o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230106_ucmco69m5fc8r0okpuisa697po",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfdWNtY282OW01ZmM4cjBva3B1aXNhNjk3cG8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_ucmco69m5fc8r0okpuisa697po@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230222_ca6q49e06lbi5qf9nrfea511s0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjJfY2E2cTQ5ZTA2bGJpNXFmOW5yZmVhNTExczAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-22"
+   },
+   "end": {
+    "date": "2023-02-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230222_ca6q49e06lbi5qf9nrfea511s0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230319_7eoj6enfn5o5mqdfd23gup4720",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTlfN2VvajZlbmZuNW81bXFkZmQyM2d1cDQ3MjAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-19"
+   },
+   "end": {
+    "date": "2023-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230319_7eoj6enfn5o5mqdfd23gup4720@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230407_p7prg1ecvu3594koiass1diio0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfcDdwcmcxZWN2dTM1OTRrb2lhc3MxZGlpbzAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_p7prg1ecvu3594koiass1diio0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230409_rbcqno8e6ddr3elvlke4di5ca8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfcmJjcW5vOGU2ZGRyM2VsdmxrZTRkaTVjYTggZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_rbcqno8e6ddr3elvlke4di5ca8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230410_nuvn2mtrmqunhrhltajg3m183s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfbnV2bjJtdHJtcXVuaHJobHRhamczbTE4M3MgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_nuvn2mtrmqunhrhltajg3m183s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230425_dnavu3mrnq3q2h7e7dh0h15rek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjVfZG5hdnUzbXJucTNxMmg3ZTdkaDBoMTVyZWsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-25"
+   },
+   "end": {
+    "date": "2023-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230425_dnavu3mrnq3q2h7e7dh0h15rek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230501_j0dc08q87074jjsc6q7afff014",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfajBkYzA4cTg3MDc0ampzYzZxN2FmZmYwMTQgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_j0dc08q87074jjsc6q7afff014@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230514_td9lkehuop6q9ls8headpv1ino",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfdGQ5bGtlaHVvcDZxOWxzOGhlYWRwdjFpbm8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_td9lkehuop6q9ls8headpv1ino@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230602_b8mb4pujqv2t82n3au31lb22cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDJfYjhtYjRwdWpxdjJ0ODJuM2F1MzFsYjIyY2MgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-02"
+   },
+   "end": {
+    "date": "2023-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230602_b8mb4pujqv2t82n3au31lb22cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230815_dcrc5id87pth58vtbd7fgsfrbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfZGNyYzVpZDg3cHRoNTh2dGJkN2Znc2ZyYnMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_dcrc5id87pth58vtbd7fgsfrbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20230815_ee6b9395iag1crd9mal5otlsf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfZWU2YjkzOTVpYWcxY3JkOW1hbDVvdGxzZjQgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Ferragosto",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_ee6b9395iag1crd9mal5otlsf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20231101_n79vkngvp36qc399nf4k14gcks",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfbjc5dmtuZ3ZwMzZxYzM5OW5mNGsxNGdja3MgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_n79vkngvp36qc399nf4k14gcks@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20231208_97sa16luoa8b2qpdsh2tqiitdg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfOTdzYTE2bHVvYThiMnFwZHNoMnRxaWl0ZGcgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_97sa16luoa8b2qpdsh2tqiitdg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20231225_oltol0h6tghjda6r9jqngblh24",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfb2x0b2wwaDZ0Z2hqZGE2cjlqcW5nYmxoMjQgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_oltol0h6tghjda6r9jqngblh24@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20231226_acp61touodpmsgjhd9qogom818",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfYWNwNjF0b3VvZHBtc2dqaGQ5cW9nb204MTggZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_acp61touodpmsgjhd9qogom818@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20231231_e6c3lq4o3o2781f91g8v3gpneo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfZTZjM2xxNG8zbzI3ODFmOTFnOHYzZ3BuZW8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_e6c3lq4o3o2781f91g8v3gpneo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240101_8sucondsoe26mn1pj63d1imr40",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfOHN1Y29uZHNvZTI2bW4xcGo2M2QxaW1yNDAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_8sucondsoe26mn1pj63d1imr40@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240106_r1f2rum9k9i1vi8cp4jlstolv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfcjFmMnJ1bTlrOWkxdmk4Y3A0amxzdG9sdjAgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_r1f2rum9k9i1vi8cp4jlstolv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240214_dv1ia2mqmkk347tso7a7roaknk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfZHYxaWEybXFta2szNDd0c283YTdyb2FrbmsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_dv1ia2mqmkk347tso7a7roaknk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240319_l3fcuku16qdpba45vn18hvidqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTlfbDNmY3VrdTE2cWRwYmE0NXZuMThodmlkcWsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-19"
+   },
+   "end": {
+    "date": "2024-03-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240319_l3fcuku16qdpba45vn18hvidqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240329_p0mualv18jq64ds7lv2jneqaik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfcDBtdWFsdjE4anE2NGRzN2x2MmpuZXFhaWsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_p0mualv18jq64ds7lv2jneqaik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240331_0q1moo2b8lq4alvetaf3tm1c3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfMHExbW9vMmI4bHE0YWx2ZXRhZjN0bTFjM2cgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_0q1moo2b8lq4alvetaf3tm1c3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240401_h8tubms14rc1ga2tics41hqlqc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfaDh0dWJtczE0cmMxZ2EydGljczQxaHFscWMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_h8tubms14rc1ga2tics41hqlqc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240425_ml9nsbrtes8k9m7o3us55dgvvk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjVfbWw5bnNicnRlczhrOW03bzN1czU1ZGd2dmsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Liberation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-25"
+   },
+   "end": {
+    "date": "2024-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240425_ml9nsbrtes8k9m7o3us55dgvvk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240501_78q8sdlgbe90r2c1vjbgrpdlpo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfNzhxOHNkbGdiZTkwcjJjMXZqYmdycGRscG8gZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_78q8sdlgbe90r2c1vjbgrpdlpo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240512_rsvgkvotesaq4jt7378vqgsj88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfcnN2Z2t2b3Rlc2FxNGp0NzM3OHZxZ3NqODggZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_rsvgkvotesaq4jt7378vqgsj88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240602_s5r8pspgsumdh81efv4npb9ltk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDJfczVyOHBzcGdzdW1kaDgxZWZ2NG5wYjlsdGsgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Republic Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-02"
+   },
+   "end": {
+    "date": "2024-06-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240602_s5r8pspgsumdh81efv4npb9ltk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240815_7vs9l6lapkg6atbld3mqel4ppg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfN3ZzOWw2bGFwa2c2YXRibGQzbXFlbDRwcGcgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_7vs9l6lapkg6atbld3mqel4ppg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20240815_cricqtk3ct3vtroub7pvodi9g8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfY3JpY3F0azNjdDN2dHJvdWI3cHZvZGk5ZzggZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Ferragosto",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_cricqtk3ct3vtroub7pvodi9g8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20241101_603ka94v2762mj6mf1e8unj4rs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfNjAza2E5NHYyNzYybWo2bWYxZTh1bmo0cnMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_603ka94v2762mj6mf1e8unj4rs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20241208_1lun2ial25r1qiku77km6fp8ic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfMWx1bjJpYWwyNXIxcWlrdTc3a202ZnA4aWMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Feast of the Immaculate Conception",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_1lun2ial25r1qiku77km6fp8ic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20241225_qsirh49k903vjp01s3j8lfs614",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfcXNpcmg0OWs5MDN2anAwMXMzajhsZnM2MTQgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_qsirh49k903vjp01s3j8lfs614@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20241226_db5tamn777r8ec2ahm3p1f9ggs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfZGI1dGFtbjc3N3I4ZWMyYWhtM3AxZjlnZ3MgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "St. Stephen's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_db5tamn777r8ec2ahm3p1f9ggs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327894994604000\"",
+   "id": "20241231_2gomg2nacnadcci4ln18efi4ic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfMmdvbWcybmFjbmFkY2NpNGxuMThlZmk0aWMgZW4uaXRhbGlhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T15:38:17.000Z",
+   "updated": "2022-09-23T15:38:17.302Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Italy",
+   "creator": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.italian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Italy",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_2gomg2nacnadcci4ln18efi4ic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

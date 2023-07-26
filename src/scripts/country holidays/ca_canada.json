@@ -1,0 +1,5133 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p323sf84hrqlo00o\"",
+ "summary": "Holidays in Canada",
+ "description": "Holidays and Observances in Canada",
+ "updated": "2023-07-24T20:47:24.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CICe6sWbqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969001666000\"",
+   "id": "20220221_50m8uv406m9m1obmcm9469jd7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfNTBtOHV2NDA2bTltMW9ibWNtOTQ2OWpkN28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:20.000Z",
+   "updated": "2021-08-26T13:28:20.833Z",
+   "summary": "Louis Riel Day (Manitoba)",
+   "description": "Public holiday in Manitoba",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_50m8uv406m9m1obmcm9469jd7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969001666000\"",
+   "id": "20220523_a94grjfl2v21cvgngsilloo41k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjNfYTk0Z3JqZmwydjIxY3ZnbmdzaWxsb280MWsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:20.000Z",
+   "updated": "2021-08-26T13:28:20.833Z",
+   "summary": "Victoria Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Ontario, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-23"
+   },
+   "end": {
+    "date": "2022-05-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220523_a94grjfl2v21cvgngsilloo41k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969001666000\"",
+   "id": "20220621_cbh080cqfnteiibo2gpj012lfo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjFfY2JoMDgwY3FmbnRlaWlibzJncGowMTJsZm8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:20.000Z",
+   "updated": "2021-08-26T13:28:20.833Z",
+   "summary": "National Indigenous Peoples Day (regional holiday)",
+   "description": "Observance in Northwest Territories, Yukon\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-21"
+   },
+   "end": {
+    "date": "2022-06-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220621_cbh080cqfnteiibo2gpj012lfo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969001666000\"",
+   "id": "20220709_54nbl2r33k1vshgq91do203srg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfNTRuYmwycjMzazF2c2hncTkxZG8yMDNzcmcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:20.000Z",
+   "updated": "2021-08-26T13:28:20.833Z",
+   "summary": "Nunavut Day (Nunavut)",
+   "description": "Public holiday in Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_54nbl2r33k1vshgq91do203srg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969001666000\"",
+   "id": "20220711_9pbadt8cfockl6n56bea4u2738",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfOXBiYWR0OGNmb2NrbDZuNTZiZWE0dTI3MzggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:20.000Z",
+   "updated": "2021-08-26T13:28:20.833Z",
+   "summary": "Orangemen's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_9pbadt8cfockl6n56bea4u2738@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969007238000\"",
+   "id": "20220801_eq2pcc4oqpnehcutgmb6nh40ac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfZXEycGNjNG9xcG5laGN1dGdtYjZuaDQwYWMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:23.000Z",
+   "updated": "2021-08-26T13:28:23.619Z",
+   "summary": "Saskatchewan Day (Saskatchewan)",
+   "description": "Public holiday in Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_eq2pcc4oqpnehcutgmb6nh40ac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969007238000\"",
+   "id": "20220801_f795g2pn5lgfm45nh9vii5rnto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfZjc5NWcycG41bGdmbTQ1bmg5dmlpNXJudG8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:23.000Z",
+   "updated": "2021-08-26T13:28:23.619Z",
+   "summary": "Natal Day (Nova Scotia)",
+   "description": "Public holiday in Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_f795g2pn5lgfm45nh9vii5rnto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969013328000\"",
+   "id": "20220214_rpjmikaff58co7klatek98kk14",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfcnBqbWlrYWZmNThjbzdrbGF0ZWs5OGtrMTQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:26.000Z",
+   "updated": "2021-08-26T13:28:26.664Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_rpjmikaff58co7klatek98kk14@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969016704000\"",
+   "id": "20220221_erv10kg8k0l6mq6eod6f1ilf1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfZXJ2MTBrZzhrMGw2bXE2ZW9kNmYxaWxmMW8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:28.000Z",
+   "updated": "2021-08-26T13:28:28.352Z",
+   "summary": "Islander Day (Prince Edward Island)",
+   "description": "Public holiday in Prince Edward Island",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_erv10kg8k0l6mq6eod6f1ilf1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969016704000\"",
+   "id": "20220225_o55d2mffqon0u2k3524s8ujk9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjVfbzU1ZDJtZmZxb24wdTJrMzUyNHM4dWprOXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:28.000Z",
+   "updated": "2021-08-26T13:28:28.352Z",
+   "summary": "Yukon Heritage Day (Yukon)",
+   "description": "Public holiday in Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-25"
+   },
+   "end": {
+    "date": "2022-02-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220225_o55d2mffqon0u2k3524s8ujk9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969016704000\"",
+   "id": "20220905_pkvp7lveqjaf843c6k1curr1os",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDVfcGt2cDdsdmVxamFmODQzYzZrMWN1cnIxb3MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:28.000Z",
+   "updated": "2021-08-26T13:28:28.352Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-05"
+   },
+   "end": {
+    "date": "2022-09-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220905_pkvp7lveqjaf843c6k1curr1os@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969021094000\"",
+   "id": "20220221_3atvjr4b100dislt12ldfkjnq0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfM2F0dmpyNGIxMDBkaXNsdDEybGRma2pucTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:30.000Z",
+   "updated": "2021-08-26T13:28:30.547Z",
+   "summary": "Family Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, New Brunswick, Ontario, Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_3atvjr4b100dislt12ldfkjnq0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969021094000\"",
+   "id": "20220406_6ps8vjcncrnboc770e0mn7v8ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDZfNnBzOHZqY25jcm5ib2M3NzBlMG1uN3Y4bnMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:30.000Z",
+   "updated": "2021-08-26T13:28:30.547Z",
+   "summary": "Tartan Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-06"
+   },
+   "end": {
+    "date": "2022-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220406_6ps8vjcncrnboc770e0mn7v8ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969021094000\"",
+   "id": "20220624_gj5hhv1bd8p21cqlk9krvre588",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjRfZ2o1aGh2MWJkOHAyMWNxbGs5a3J2cmU1ODggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:30.000Z",
+   "updated": "2021-08-26T13:28:30.547Z",
+   "summary": "St. Jean Baptiste Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-24"
+   },
+   "end": {
+    "date": "2022-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220624_gj5hhv1bd8p21cqlk9krvre588@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969021094000\"",
+   "id": "20220815_m9pcamuemm40mc457s2gv9u6l4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfbTlwY2FtdWVtbTQwbWM0NTdzMmd2OXU2bDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:30.000Z",
+   "updated": "2021-08-26T13:28:30.547Z",
+   "summary": "Discovery Day (Yukon)",
+   "description": "Public holiday in Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_m9pcamuemm40mc457s2gv9u6l4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969026882000\"",
+   "id": "20220221_6csc624ngpf5kt57241r2k93ck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjFfNmNzYzYyNG5ncGY1a3Q1NzI0MXIyazkzY2sgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:33.000Z",
+   "updated": "2021-08-26T13:28:33.441Z",
+   "summary": "Nova Scotia Heritage Day (Nova Scotia)",
+   "description": "Public holiday in Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-21"
+   },
+   "end": {
+    "date": "2022-02-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220221_6csc624ngpf5kt57241r2k93ck@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969026882000\"",
+   "id": "20220701_e4gabkpdhardhoqdj05ugrgs48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDFfZTRnYWJrcGRoYXJkaG9xZGowNXVncmdzNDggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:33.000Z",
+   "updated": "2021-08-26T13:28:33.441Z",
+   "summary": "Memorial Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-01"
+   },
+   "end": {
+    "date": "2022-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220701_e4gabkpdhardhoqdj05ugrgs48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969026882000\"",
+   "id": "20220803_b29tpocicraju9tsbm9tu87o84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDNfYjI5dHBvY2ljcmFqdTl0c2JtOXR1ODdvODQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:33.000Z",
+   "updated": "2021-08-26T13:28:33.441Z",
+   "summary": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-03"
+   },
+   "end": {
+    "date": "2022-08-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220803_b29tpocicraju9tsbm9tu87o84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969032710000\"",
+   "id": "20220102_joobf2trjukge7vtngja7erj3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfam9vYmYydHJqdWtnZTd2dG5namE3ZXJqM28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:36.000Z",
+   "updated": "2021-08-26T13:28:36.355Z",
+   "summary": "Day After New Year’s Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_joobf2trjukge7vtngja7erj3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969032710000\"",
+   "id": "20220202_1cq7v074b04u8hijo8lkb8q6eo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDJfMWNxN3YwNzRiMDR1OGhpam84bGtiOHE2ZW8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:36.000Z",
+   "updated": "2021-08-26T13:28:36.355Z",
+   "summary": "Groundhog Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-02"
+   },
+   "end": {
+    "date": "2022-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220202_1cq7v074b04u8hijo8lkb8q6eo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969037892000\"",
+   "id": "20220409_n3cg3gmcti2gvecchk28bjm70k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDlfbjNjZzNnbWN0aTJndmVjY2hrMjhiam03MGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:38.000Z",
+   "updated": "2021-08-26T13:28:38.946Z",
+   "summary": "Vimy Ridge Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-09"
+   },
+   "end": {
+    "date": "2022-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220409_n3cg3gmcti2gvecchk28bjm70k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969037892000\"",
+   "id": "20220627_51tgjaipommg7um504s2qph2d4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjdfNTF0Z2phaXBvbW1nN3VtNTA0czJxcGgyZDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:38.000Z",
+   "updated": "2021-08-26T13:28:38.946Z",
+   "summary": "June Holiday (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-27"
+   },
+   "end": {
+    "date": "2022-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220627_51tgjaipommg7um504s2qph2d4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969037892000\"",
+   "id": "20220801_u5l2qit7n10fqknjd99q2leu4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfdTVsMnFpdDduMTBmcWtuamQ5OXEybGV1NGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:38.000Z",
+   "updated": "2021-08-26T13:28:38.946Z",
+   "summary": "British Columbia Day (British Columbia)",
+   "description": "Public holiday in British Columbia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_u5l2qit7n10fqknjd99q2leu4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969043440000\"",
+   "id": "20220101_mas0v9im478jiif47h0scir9ik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfbWFzMHY5aW00NzhqaWlmNDdoMHNjaXI5aWsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:41.000Z",
+   "updated": "2021-08-26T13:28:41.720Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_mas0v9im478jiif47h0scir9ik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969043440000\"",
+   "id": "20220313_2nbiqmm51dumqhgsovc7795054",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTNfMm5iaXFtbTUxZHVtcWhnc292Yzc3OTUwNTQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:41.000Z",
+   "updated": "2021-08-26T13:28:41.720Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-13"
+   },
+   "end": {
+    "date": "2022-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220313_2nbiqmm51dumqhgsovc7795054@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969043440000\"",
+   "id": "20220314_mlacnfna1f9rof473aul4osdpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfbWxhY25mbmExZjlyb2Y0NzNhdWw0b3NkcGcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:41.000Z",
+   "updated": "2021-08-26T13:28:41.720Z",
+   "summary": "St. Patrick's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_mlacnfna1f9rof473aul4osdpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969043440000\"",
+   "id": "20220801_sqbu9g6vhv1dm3qpn636eq3rq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfc3FidTlnNnZodjFkbTNxcG42MzZlcTNycTggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:41.000Z",
+   "updated": "2021-08-26T13:28:41.720Z",
+   "summary": "Civic/Provincial Day (regional holiday)",
+   "description": "Public holiday in Northwest Territories, Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_sqbu9g6vhv1dm3qpn636eq3rq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969047996000\"",
+   "id": "20220106_77aptd9nntet0kll2pqbf5kkk8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfNzdhcHRkOW5udGV0MGtsbDJwcWJmNWtrazggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:43.000Z",
+   "updated": "2021-08-26T13:28:43.998Z",
+   "summary": "Epiphany",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_77aptd9nntet0kll2pqbf5kkk8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969047996000\"",
+   "id": "20220701_qjhb219bvbb15oju1mjggq7u3o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDFfcWpoYjIxOWJ2YmIxNW9qdTFtamdncTd1M28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:43.000Z",
+   "updated": "2021-08-26T13:28:43.998Z",
+   "summary": "Canada Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-01"
+   },
+   "end": {
+    "date": "2022-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220701_qjhb219bvbb15oju1mjggq7u3o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969047996000\"",
+   "id": "20220801_k0ud4qhs50tmpsi2q0dnhuhs3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfazB1ZDRxaHM1MHRtcHNpMnEwZG5odWhzM2sgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:43.000Z",
+   "updated": "2021-08-26T13:28:43.998Z",
+   "summary": "New Brunswick Day (New Brunswick)",
+   "description": "Public holiday in New Brunswick",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_k0ud4qhs50tmpsi2q0dnhuhs3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969052044000\"",
+   "id": "20220314_ktemqcodaclqa515orvob1sfls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTRfa3RlbXFjb2RhY2xxYTUxNW9ydm9iMXNmbHMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:46.000Z",
+   "updated": "2021-08-26T13:28:46.022Z",
+   "summary": "Commonwealth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-14"
+   },
+   "end": {
+    "date": "2022-03-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220314_ktemqcodaclqa515orvob1sfls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969052044000\"",
+   "id": "20220317_3c7nbuion5hv6a02b87panvqjc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMTdfM2M3bmJ1aW9uNWh2NmEwMmI4N3BhbnZxamMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:46.000Z",
+   "updated": "2021-08-26T13:28:46.022Z",
+   "summary": "St. Patrick's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-17"
+   },
+   "end": {
+    "date": "2022-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220317_3c7nbuion5hv6a02b87panvqjc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969052044000\"",
+   "id": "20220415_38auv34vgcfkuhggfljsccdhrg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfMzhhdXYzNHZnY2ZrdWhnZ2ZsanNjY2RocmcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:46.000Z",
+   "updated": "2021-08-26T13:28:46.022Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_38auv34vgcfkuhggfljsccdhrg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969052044000\"",
+   "id": "20220425_l79l09paecj1io4fv2omobcjqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MjVfbDc5bDA5cGFlY2oxaW80ZnYyb21vYmNqcXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:46.000Z",
+   "updated": "2021-08-26T13:28:46.022Z",
+   "summary": "St. George's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-25"
+   },
+   "end": {
+    "date": "2022-04-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220425_l79l09paecj1io4fv2omobcjqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969052044000\"",
+   "id": "20220619_hugqn1o6j4uenfqf2hk6qmdspk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTlfaHVncW4xbzZqNHVlbmZxZjJoazZxbWRzcGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:46.000Z",
+   "updated": "2021-08-26T13:28:46.022Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-19"
+   },
+   "end": {
+    "date": "2022-06-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220619_hugqn1o6j4uenfqf2hk6qmdspk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969056592000\"",
+   "id": "20220508_bqd1o9r0ejtv2b8tprjkb25dpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDhfYnFkMW85cjBlanR2MmI4dHByamtiMjVkcGcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:48.000Z",
+   "updated": "2021-08-26T13:28:48.296Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-08"
+   },
+   "end": {
+    "date": "2022-05-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220508_bqd1o9r0ejtv2b8tprjkb25dpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969056592000\"",
+   "id": "20220523_3kl3pf9ola6u4l89os83s9k6ho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjNfM2tsM3BmOW9sYTZ1NGw4OW9zODNzOWs2aG8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:48.000Z",
+   "updated": "2021-08-26T13:28:48.296Z",
+   "summary": "National Patriots' Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-23"
+   },
+   "end": {
+    "date": "2022-05-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220523_3kl3pf9ola6u4l89os83s9k6ho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259969056592000\"",
+   "id": "20220819_3unkrj8mqe54j5ikbcr0qp3etg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTlfM3Vua3JqOG1xZTU0ajVpa2JjcjBxcDNldGcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-08-26T13:28:48.000Z",
+   "updated": "2021-08-26T13:28:48.296Z",
+   "summary": "Gold Cup Parade (Prince Edward Island)",
+   "description": "Public holiday in Prince Edward Island",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-19"
+   },
+   "end": {
+    "date": "2022-08-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220819_3unkrj8mqe54j5ikbcr0qp3etg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3274455369684000\"",
+   "id": "20220801_rpgqp54v6vv3ek7tc29j4j2eos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDFfcnBncXA1NHY2dnYzZWs3dGMyOWo0ajJlb3MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2021-11-18T09:28:04.000Z",
+   "updated": "2021-11-18T09:28:04.842Z",
+   "summary": "Heritage Day (Alberta)",
+   "description": "Observance in Alberta\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-01"
+   },
+   "end": {
+    "date": "2022-08-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220801_rpgqp54v6vv3ek7tc29j4j2eos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3283268491996000\"",
+   "id": "20220103_3qvo5ilon0ehmu1qndkfo4cdtc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDNfM3F2bzVpbG9uMGVobXUxcW5ka2ZvNGNkdGMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-01-08T09:30:45.000Z",
+   "updated": "2022-01-08T09:30:45.998Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-03"
+   },
+   "end": {
+    "date": "2022-01-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220103_3qvo5ilon0ehmu1qndkfo4cdtc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326635299672000\"",
+   "id": "20220418_19e11dl08spv8du0ts5d63rrcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfMTllMTFkbDA4c3B2OGR1MHRzNWQ2M3JyY2MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-16T08:40:49.000Z",
+   "updated": "2022-09-16T08:40:49.836Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in Alberta, New Brunswick, New Brunswick, Northwest Territories, Nunavut, Quebec, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_19e11dl08spv8du0ts5d63rrcc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3326635299672000\"",
+   "id": "20220919_6qkrbljkmvrbmlpsilmh234g64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfNnFrcmJsamttdnJibWxwc2lsbWgyMzRnNjQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-16T08:40:49.000Z",
+   "updated": "2022-09-16T08:40:49.836Z",
+   "summary": "Queen Elizabeth II's Funeral Day (regional holiday)",
+   "description": "Public holiday in British Columbia, New Brunswick, Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_6qkrbljkmvrbmlpsilmh234g64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221010_ppu5mesd5qoldd6lbsncmelt90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfcHB1NW1lc2Q1cW9sZGQ2bGJzbmNtZWx0OTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Thanksgiving Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_ppu5mesd5qoldd6lbsncmelt90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221031_lfb6rj24fpbciooqp2oc6ipvro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfbGZiNnJqMjRmcGJjaW9vcXAyb2M2aXB2cm8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_lfb6rj24fpbciooqp2oc6ipvro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221106_kplp5m2hj58gjhk2spf6b0ulgc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDZfa3BscDVtMmhqNThnamhrMnNwZjZiMHVsZ2MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-06"
+   },
+   "end": {
+    "date": "2022-11-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221106_kplp5m2hj58gjhk2spf6b0ulgc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221211_bm3puhpivtui6gvspoomv0i1gs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMTFfYm0zcHVocGl2dHVpNmd2c3Bvb212MGkxZ3MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Anniversary of the Statute of Westminster",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-11"
+   },
+   "end": {
+    "date": "2022-12-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221211_bm3puhpivtui6gvspoomv0i1gs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221225_1io9h0voo7ghf6vq24s9se2i9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfMWlvOWgwdm9vN2doZjZ2cTI0czlzZTJpOW8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_1io9h0voo7ghf6vq24s9se2i9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221226_39clmf99lqlnh6p3iernfvpjv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfMzljbG1mOTlscWxuaDZwM2llcm5mdnBqdjggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Day off for Boxing Day (Saskatchewan)",
+   "description": "Public holiday in Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_39clmf99lqlnh6p3iernfvpjv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221226_6t5ki0np8062fr20u7au25g6v8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfNnQ1a2kwbnA4MDYyZnIyMHU3YXUyNWc2djggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Boxing Day (regional holiday)",
+   "description": "Public holiday in Alberta, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_6t5ki0np8062fr20u7au25g6v8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20221231_rv8okjk3ikov69q80nqcvkaius",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfcnY4b2tqazNpa292NjlxODBucWN2a2FpdXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_rv8okjk3ikov69q80nqcvkaius@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230101_4pdu4l74aaelv8n50j285c584g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfNHBkdTRsNzRhYWVsdjhuNTBqMjg1YzU4NGcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_4pdu4l74aaelv8n50j285c584g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230102_g4van9qii6grkecc4s4ldj4928",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfZzR2YW45cWlpNmdya2VjYzRzNGxkajQ5MjggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Day After New Year’s Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_g4van9qii6grkecc4s4ldj4928@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230102_ot7fpq76h8jk5b5peg3or0kjgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfb3Q3ZnBxNzZoOGprNWI1cGVnM29yMGtqZ2cgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_ot7fpq76h8jk5b5peg3or0kjgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230106_thtk7g1316ifrr471tug90d8c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfdGh0azdnMTMxNmlmcnI0NzF0dWc5MGQ4YzQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Epiphany",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_thtk7g1316ifrr471tug90d8c4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230202_mqpp9bqgu31of7tfcf4k9ahcmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDJfbXFwcDlicWd1MzFvZjd0ZmNmNGs5YWhjbWMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Groundhog Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-02"
+   },
+   "end": {
+    "date": "2023-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230202_mqpp9bqgu31of7tfcf4k9ahcmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230214_cfd56skps437moake2o3mda328",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfY2ZkNTZza3BzNDM3bW9ha2UybzNtZGEzMjggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_cfd56skps437moake2o3mda328@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230220_97jojg0v99ug6jf4o9brjgkag4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfOTdqb2pnMHY5OXVnNmpmNG85YnJqZ2thZzQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Family Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, New Brunswick, Ontario, Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_97jojg0v99ug6jf4o9brjgkag4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230220_me13i3feo1q712gjedt0cps26s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfbWUxM2kzZmVvMXE3MTJnamVkdDBjcHMyNnMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Nova Scotia Heritage Day (Nova Scotia)",
+   "description": "Public holiday in Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_me13i3feo1q712gjedt0cps26s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230220_mogke69s1ck2o0acitrmhekuvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfbW9na2U2OXMxY2sybzBhY2l0cm1oZWt1dnMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Louis Riel Day (Manitoba)",
+   "description": "Public holiday in Manitoba",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_mogke69s1ck2o0acitrmhekuvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230220_obu8rojior3jctoml8r63m5ttc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjBfb2J1OHJvamlvcjNqY3RvbWw4cjYzbTV0dGMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Islander Day (Prince Edward Island)",
+   "description": "Public holiday in Prince Edward Island",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-20"
+   },
+   "end": {
+    "date": "2023-02-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230220_obu8rojior3jctoml8r63m5ttc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230224_96bu8e9nos9lbqgn7irt36tjss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjRfOTZidThlOW5vczlsYnFnbjdpcnQzNnRqc3MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Yukon Heritage Day (Yukon)",
+   "description": "Public holiday in Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-24"
+   },
+   "end": {
+    "date": "2023-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230224_96bu8e9nos9lbqgn7irt36tjss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230312_6nd6nqafdaj4ia7qtb7u7hc4ng",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTJfNm5kNm5xYWZkYWo0aWE3cXRiN3U3aGM0bmcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-12"
+   },
+   "end": {
+    "date": "2023-03-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230312_6nd6nqafdaj4ia7qtb7u7hc4ng@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230313_9ceodo6vnjankfhtloqbrrno3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTNfOWNlb2RvNnZuamFua2ZodGxvcWJycm5vM2cgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Commonwealth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-13"
+   },
+   "end": {
+    "date": "2023-03-14"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230313_9ceodo6vnjankfhtloqbrrno3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230317_gcbnmpc6n2smnrb4eq94k9vs58",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMTdfZ2Nibm1wYzZuMnNtbnJiNGVxOTRrOXZzNTggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. Patrick's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-17"
+   },
+   "end": {
+    "date": "2023-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230317_gcbnmpc6n2smnrb4eq94k9vs58@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230320_g76vlm7qe4g46462udvvspakj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjBfZzc2dmxtN3FlNGc0NjQ2MnVkdnZzcGFrajggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. Patrick's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-20"
+   },
+   "end": {
+    "date": "2023-03-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230320_g76vlm7qe4g46462udvvspakj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230406_6nlun71eomjrnlh56r6ft5a6u8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfNm5sdW43MWVvbWpybmxoNTZyNmZ0NWE2dTggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Tartan Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_6nlun71eomjrnlh56r6ft5a6u8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230407_tsgalb9jlkq8fokb2qsh5ns73g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfdHNnYWxiOWpsa3E4Zm9rYjJxc2g1bnM3M2cgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_tsgalb9jlkq8fokb2qsh5ns73g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230409_qaqditvkpamujrs02l53qj64fs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfcWFxZGl0dmtwYW11anJzMDJsNTNxajY0ZnMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Vimy Ridge Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_qaqditvkpamujrs02l53qj64fs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230410_bt3g2q2qg6518q11hjmag9b7as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfYnQzZzJxMnFnNjUxOHExMWhqbWFnOWI3YXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Observance in Alberta, New Brunswick, New Brunswick, Northwest Territories, Nunavut, Quebec, Yukon\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_bt3g2q2qg6518q11hjmag9b7as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230424_eookojaohquok12728ipngih50",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjRfZW9va29qYW9ocXVvazEyNzI4aXBuZ2loNTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. George's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-24"
+   },
+   "end": {
+    "date": "2023-04-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230424_eookojaohquok12728ipngih50@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230514_eib5fn5f0an0vk50ok2o811fho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTRfZWliNWZuNWYwYW4wdms1MG9rMm84MTFmaG8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-14"
+   },
+   "end": {
+    "date": "2023-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230514_eib5fn5f0an0vk50ok2o811fho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230522_oomg41miusrob01o82q5hma85s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjJfb29tZzQxbWl1c3JvYjAxbzgycTVobWE4NXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Victoria Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Ontario, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-22"
+   },
+   "end": {
+    "date": "2023-05-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230522_oomg41miusrob01o82q5hma85s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230522_qus9v6tso5bpg12bnmli0e4uss",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjJfcXVzOXY2dHNvNWJwZzEyYm5tbGkwZTR1c3MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "National Patriots' Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-22"
+   },
+   "end": {
+    "date": "2023-05-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230522_qus9v6tso5bpg12bnmli0e4uss@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230618_mfuei2ndkvsda9j0i318uu6krc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MThfbWZ1ZWkybmRrdnNkYTlqMGkzMTh1dTZrcmMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-18"
+   },
+   "end": {
+    "date": "2023-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230618_mfuei2ndkvsda9j0i318uu6krc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230621_pebfj1aaqi12p5pi60gdoh3cmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjFfcGViZmoxYWFxaTEycDVwaTYwZ2RvaDNjbWMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "National Indigenous Peoples Day (regional holiday)",
+   "description": "Observance in Northwest Territories, Yukon\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-21"
+   },
+   "end": {
+    "date": "2023-06-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230621_pebfj1aaqi12p5pi60gdoh3cmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230624_0t4b9jn78fqog5nbej7qr0du30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjRfMHQ0Yjlqbjc4ZnFvZzVuYmVqN3FyMGR1MzAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. Jean Baptiste Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-24"
+   },
+   "end": {
+    "date": "2023-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230624_0t4b9jn78fqog5nbej7qr0du30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230626_imjumusihgroe7ods7i6jtppj4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjZfaW1qdW11c2loZ3JvZTdvZHM3aTZqdHBwajQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "June Holiday (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-26"
+   },
+   "end": {
+    "date": "2023-06-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230626_imjumusihgroe7ods7i6jtppj4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230701_3vjspunu2h5ip54vdfoftoo99s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfM3Zqc3B1bnUyaDVpcDU0dmRmb2Z0b285OXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Memorial Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_3vjspunu2h5ip54vdfoftoo99s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230701_mf9b4iolhrd91s0h7tp0siphpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDFfbWY5YjRpb2xocmQ5MXMwaDd0cDBzaXBocGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Canada Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-01"
+   },
+   "end": {
+    "date": "2023-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230701_mf9b4iolhrd91s0h7tp0siphpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230709_e8r6e5c8bknddskskmsr2vm6kc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDlfZThyNmU1Yzhia25kZHNrc2ttc3Iydm02a2MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Nunavut Day (Nunavut)",
+   "description": "Public holiday in Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-09"
+   },
+   "end": {
+    "date": "2023-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230709_e8r6e5c8bknddskskmsr2vm6kc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230710_13tf8ds30r2lcmhv3u08sh642k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTBfMTN0ZjhkczMwcjJsY21odjN1MDhzaDY0MmsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Nunavut Day observed (Nunavut)",
+   "description": "Public holiday in Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-10"
+   },
+   "end": {
+    "date": "2023-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230710_13tf8ds30r2lcmhv3u08sh642k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230710_dj1o6k58ks68t6per1dehmpuh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTBfZGoxbzZrNThrczY4dDZwZXIxZGVobXB1aDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Orangemen's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-10"
+   },
+   "end": {
+    "date": "2023-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230710_dj1o6k58ks68t6per1dehmpuh4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230802_bmkseor90npg5jps98msp12bqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDJfYm1rc2VvcjkwbnBnNWpwczk4bXNwMTJicWsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-02"
+   },
+   "end": {
+    "date": "2023-08-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230802_bmkseor90npg5jps98msp12bqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230807_0vldvip6ko96odvdorndre7id8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfMHZsZHZpcDZrbzk2b2R2ZG9ybmRyZTdpZDggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Brunswick Day (New Brunswick)",
+   "description": "Public holiday in New Brunswick",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_0vldvip6ko96odvdorndre7id8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230807_1cfvg75qhk7ld1obc8ol9mtp54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfMWNmdmc3NXFoazdsZDFvYmM4b2w5bXRwNTQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Saskatchewan Day (Saskatchewan)",
+   "description": "Public holiday in Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_1cfvg75qhk7ld1obc8ol9mtp54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230807_fu1fh2c8ok58epocm9thm1g1tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfZnUxZmgyYzhvazU4ZXBvY205dGhtMWcxdGcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "British Columbia Day (British Columbia)",
+   "description": "Public holiday in British Columbia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_fu1fh2c8ok58epocm9thm1g1tg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230807_koh0dq6f26l6v1e9r0f67tjmmo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfa29oMGRxNmYyNmw2djFlOXIwZjY3dGptbW8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Heritage Day (Alberta)",
+   "description": "Observance in Alberta\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_koh0dq6f26l6v1e9r0f67tjmmo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230807_oatde38kjgut0p63e8ojhq4nso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfb2F0ZGUzOGtqZ3V0MHA2M2U4b2pocTRuc28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Natal Day (Nova Scotia)",
+   "description": "Public holiday in Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_oatde38kjgut0p63e8ojhq4nso@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230807_u5g3ph5gfab5a03d8vgtgd9ok8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MDdfdTVnM3BoNWdmYWI1YTAzZDh2Z3RnZDlvazggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Civic/Provincial Day (regional holiday)",
+   "description": "Public holiday in Northwest Territories, Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-07"
+   },
+   "end": {
+    "date": "2023-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230807_u5g3ph5gfab5a03d8vgtgd9ok8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230818_hg2u641jk2aaf8svl14kbsaip4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MThfaGcydTY0MWprMmFhZjhzdmwxNGtic2FpcDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Gold Cup Parade (Prince Edward Island)",
+   "description": "Public holiday in Prince Edward Island",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-18"
+   },
+   "end": {
+    "date": "2023-08-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230818_hg2u641jk2aaf8svl14kbsaip4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230821_aji9pe2lbei4d1o9erio451nvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MjFfYWppOXBlMmxiZWk0ZDFvOWVyaW80NTFudmMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Discovery Day (Yukon)",
+   "description": "Public holiday in Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-21"
+   },
+   "end": {
+    "date": "2023-08-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230821_aji9pe2lbei4d1o9erio451nvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20230904_f0va6r9q582lrh77illndpngvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MDRfZjB2YTZyOXE1ODJscmg3N2lsbG5kcG5ndmMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-04"
+   },
+   "end": {
+    "date": "2023-09-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230904_f0va6r9q582lrh77illndpngvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231009_7kjtpkt3hdgv2g78rv1r3pi1p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfN2tqdHBrdDNoZGd2Mmc3OHJ2MXIzcGkxcDAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Thanksgiving Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_7kjtpkt3hdgv2g78rv1r3pi1p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231031_ohcmd4rn5rlvlb3k1hjhicjru8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMzFfb2hjbWQ0cm41cmx2bGIzazFoamhpY2pydTggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-31"
+   },
+   "end": {
+    "date": "2023-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231031_ohcmd4rn5rlvlb3k1hjhicjru8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231105_h583kelmqc50s4o8j519cada4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDVfaDU4M2tlbG1xYzUwczRvOGo1MTljYWRhNG8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-05"
+   },
+   "end": {
+    "date": "2023-11-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231105_h583kelmqc50s4o8j519cada4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231211_d5kbdillar88u1a5mk5u73apvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMTFfZDVrYmRpbGxhcjg4dTFhNW1rNXU3M2FwdmcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Anniversary of the Statute of Westminster",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-11"
+   },
+   "end": {
+    "date": "2023-12-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231211_d5kbdillar88u1a5mk5u73apvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231224_hvkghd01i3eo9c9lt632gk5vd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfaHZrZ2hkMDFpM2VvOWM5bHQ2MzJnazV2ZDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_hvkghd01i3eo9c9lt632gk5vd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231225_gekftuflkisl5f9ikmg9k652t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfZ2VrZnR1ZmxraXNsNWY5aWttZzlrNjUydDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_gekftuflkisl5f9ikmg9k652t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231226_vbpmhr2jf4cmtcmpudqtrq7608",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfdmJwbWhyMmpmNGNtdGNtcHVkcXRycTc2MDggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Boxing Day (regional holiday)",
+   "description": "Public holiday in Alberta, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_vbpmhr2jf4cmtcmpudqtrq7608@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20231231_1dgh6qpd8ladrdl1ot91iphaqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfMWRnaDZxcGQ4bGFkcmRsMW90OTFpcGhhcWcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_1dgh6qpd8ladrdl1ot91iphaqg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240101_75pln2e050g6durnamivsu4doo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfNzVwbG4yZTA1MGc2ZHVybmFtaXZzdTRkb28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_75pln2e050g6durnamivsu4doo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240102_fo5f4cdl9uhlqhmhqg2a8ksj6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDJfZm81ZjRjZGw5dWhscWhtaHFnMmE4a3NqNmsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Day After New Year’s Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-02"
+   },
+   "end": {
+    "date": "2024-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240102_fo5f4cdl9uhlqhmhqg2a8ksj6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240106_i6nt55t7aq68v3sds1pgege094",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfaTZudDU1dDdhcTY4djNzZHMxcGdlZ2UwOTQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Epiphany",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_i6nt55t7aq68v3sds1pgege094@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240202_mdinl6hhs9bh78nkp2g795jgps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDJfbWRpbmw2aGhzOWJoNzhua3AyZzc5NWpncHMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Groundhog Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-02"
+   },
+   "end": {
+    "date": "2024-02-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240202_mdinl6hhs9bh78nkp2g795jgps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240214_udqr87m15ls3i06irejev34ppk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfdWRxcjg3bTE1bHMzaTA2aXJlamV2MzRwcGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_udqr87m15ls3i06irejev34ppk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240219_2kskhee7olupmkmqdhphv63ko0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTlfMmtza2hlZTdvbHVwbWttcWRocGh2NjNrbzAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Family Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, New Brunswick, Ontario, Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-19"
+   },
+   "end": {
+    "date": "2024-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240219_2kskhee7olupmkmqdhphv63ko0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240219_9tmq5snr8iem1ch47viuhm5340",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTlfOXRtcTVzbnI4aWVtMWNoNDd2aXVobTUzNDAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Islander Day (Prince Edward Island)",
+   "description": "Public holiday in Prince Edward Island",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-19"
+   },
+   "end": {
+    "date": "2024-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240219_9tmq5snr8iem1ch47viuhm5340@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240219_bb0obgr2trp5vleou9f7qgm1ic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTlfYmIwb2JncjJ0cnA1dmxlb3U5ZjdxZ20xaWMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Nova Scotia Heritage Day (Nova Scotia)",
+   "description": "Public holiday in Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-19"
+   },
+   "end": {
+    "date": "2024-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240219_bb0obgr2trp5vleou9f7qgm1ic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240219_d2ou3rb3fsimv2m2jjombqfp60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTlfZDJvdTNyYjNmc2ltdjJtMmpqb21icWZwNjAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Louis Riel Day (Manitoba)",
+   "description": "Public holiday in Manitoba",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-19"
+   },
+   "end": {
+    "date": "2024-02-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240219_d2ou3rb3fsimv2m2jjombqfp60@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240223_a5v2unhbe36nbsbji2ir2229i4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjNfYTV2MnVuaGJlMzZuYnNiamkyaXIyMjI5aTQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Yukon Heritage Day (Yukon)",
+   "description": "Public holiday in Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-23"
+   },
+   "end": {
+    "date": "2024-02-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240223_a5v2unhbe36nbsbji2ir2229i4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240310_b3tdvditltqqa2gu66pr02o4ag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTBfYjN0ZHZkaXRsdHFxYTJndTY2cHIwMm80YWcgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Daylight Saving Time starts",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-10"
+   },
+   "end": {
+    "date": "2024-03-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240310_b3tdvditltqqa2gu66pr02o4ag@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240311_upiieso13b5atnok3q7tou5v7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfdXBpaWVzbzEzYjVhdG5vazNxN3RvdTV2N2sgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Commonwealth Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_upiieso13b5atnok3q7tou5v7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240317_kd1038ck5skm0p1nsebaoe5bfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTdfa2QxMDM4Y2s1c2ttMHAxbnNlYmFvZTViZmsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. Patrick's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-17"
+   },
+   "end": {
+    "date": "2024-03-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240317_kd1038ck5skm0p1nsebaoe5bfk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240318_0nu2oriuhlnd738k9o48g53kd8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMThfMG51Mm9yaXVobG5kNzM4azlvNDhnNTNrZDggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. Patrick's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-18"
+   },
+   "end": {
+    "date": "2024-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240318_0nu2oriuhlnd738k9o48g53kd8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240329_l06os1hs0h06euekeal9t2trkk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfbDA2b3MxaHMwaDA2ZXVla2VhbDl0MnRya2sgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_l06os1hs0h06euekeal9t2trkk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240406_57cp8f2ceol45tihtjosrh5i04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDZfNTdjcDhmMmNlb2w0NXRpaHRqb3NyaDVpMDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Tartan Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-06"
+   },
+   "end": {
+    "date": "2024-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240406_57cp8f2ceol45tihtjosrh5i04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240409_itumchodk64qurmjjc9kcqh798",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDlfaXR1bWNob2RrNjRxdXJtampjOWtjcWg3OTggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Vimy Ridge Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-09"
+   },
+   "end": {
+    "date": "2024-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240409_itumchodk64qurmjjc9kcqh798@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240422_vceedvkjmi9327cchcl9vn2g4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MjJfdmNlZWR2a2ptaTkzMjdjY2hjbDl2bjJnNGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. George's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-22"
+   },
+   "end": {
+    "date": "2024-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240422_vceedvkjmi9327cchcl9vn2g4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240512_8t1ia9v2v41vqifpu4pqvnp47o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTJfOHQxaWE5djJ2NDF2cWlmcHU0cHF2bnA0N28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-12"
+   },
+   "end": {
+    "date": "2024-05-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240512_8t1ia9v2v41vqifpu4pqvnp47o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240520_3u7i33o2oojkkeiir49kcbpu98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfM3U3aTMzbzJvb2pra2VpaXI0OWtjYnB1OTggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "National Patriots' Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_3u7i33o2oojkkeiir49kcbpu98@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240520_qcgsmuc9hpgl77i2fc5pf961s0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjBfcWNnc211YzlocGdsNzdpMmZjNXBmOTYxczAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Victoria Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nunavut, Ontario, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-20"
+   },
+   "end": {
+    "date": "2024-05-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240520_qcgsmuc9hpgl77i2fc5pf961s0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240616_qaacm535nlpaejrc4p1gvlnuc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfcWFhY201MzVubHBhZWpyYzRwMWd2bG51YzAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_qaacm535nlpaejrc4p1gvlnuc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240621_tvt3d4uhicrj8g28t1ei96g0j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjFfdHZ0M2Q0dWhpY3JqOGcyOHQxZWk5NmcwajQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "National Indigenous Peoples Day (regional holiday)",
+   "description": "Observance in Northwest Territories, Yukon\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-21"
+   },
+   "end": {
+    "date": "2024-06-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240621_tvt3d4uhicrj8g28t1ei96g0j4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240624_33htbnut228vtct49i2mvsug6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjRfMzNodGJudXQyMjh2dGN0NDlpMm12c3VnNmsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "St. Jean Baptiste Day (Quebec)",
+   "description": "Public holiday in Quebec",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-24"
+   },
+   "end": {
+    "date": "2024-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240624_33htbnut228vtct49i2mvsug6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240624_rve5u178fjkkiab6vsghotdahs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjRfcnZlNXUxNzhmamtraWFiNnZzZ2hvdGRhaHMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "June Holiday (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-24"
+   },
+   "end": {
+    "date": "2024-06-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240624_rve5u178fjkkiab6vsghotdahs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240701_5rn61rnjart6e391sak7aqp9o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDFfNXJuNjFybmphcnQ2ZTM5MXNhazdhcXA5bzAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Canada Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-01"
+   },
+   "end": {
+    "date": "2024-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240701_5rn61rnjart6e391sak7aqp9o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240701_d5imo1p6pgsepnna3bilrk36q0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDFfZDVpbW8xcDZwZ3NlcG5uYTNiaWxyazM2cTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Memorial Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-01"
+   },
+   "end": {
+    "date": "2024-07-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240701_d5imo1p6pgsepnna3bilrk36q0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240709_40nje1mgg9l7ie9hks3usuvr84",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDlfNDBuamUxbWdnOWw3aWU5aGtzM3VzdXZyODQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Nunavut Day (Nunavut)",
+   "description": "Public holiday in Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-09"
+   },
+   "end": {
+    "date": "2024-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240709_40nje1mgg9l7ie9hks3usuvr84@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240715_boj9hlj51ccr2f46qga77b6sj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTVfYm9qOWhsajUxY2NyMmY0NnFnYTc3YjZzajggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Orangemen's Day (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-15"
+   },
+   "end": {
+    "date": "2024-07-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240715_boj9hlj51ccr2f46qga77b6sj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240805_5q6imumbih8rjn7cgl9r6e650k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfNXE2aW11bWJpaDhyam43Y2dsOXI2ZTY1MGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Brunswick Day (New Brunswick)",
+   "description": "Public holiday in New Brunswick",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_5q6imumbih8rjn7cgl9r6e650k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240805_atb8e70f6dpmaboq6enm0hk90k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfYXRiOGU3MGY2ZHBtYWJvcTZlbm0waGs5MGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Heritage Day (Alberta)",
+   "description": "Observance in Alberta\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_atb8e70f6dpmaboq6enm0hk90k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240805_mk6l9k0allaraadtrtgr4ito8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfbWs2bDlrMGFsbGFyYWFkdHJ0Z3I0aXRvOG8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Saskatchewan Day (Saskatchewan)",
+   "description": "Public holiday in Saskatchewan",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_mk6l9k0allaraadtrtgr4ito8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240805_n8bkjhln25kj6ds47qpuua9f64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfbjhia2pobG4yNWtqNmRzNDdxcHV1YTlmNjQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Natal Day (Nova Scotia)",
+   "description": "Public holiday in Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_n8bkjhln25kj6ds47qpuua9f64@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240805_shovlfqlb405d9d8gpjqvkq2co",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfc2hvdmxmcWxiNDA1ZDlkOGdwanF2a3EyY28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Civic/Provincial Day (regional holiday)",
+   "description": "Public holiday in Northwest Territories, Nunavut",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_shovlfqlb405d9d8gpjqvkq2co@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240805_takq3uhf9distljpjka8377uls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDVfdGFrcTN1aGY5ZGlzdGxqcGprYTgzNzd1bHMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "British Columbia Day (British Columbia)",
+   "description": "Public holiday in British Columbia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-05"
+   },
+   "end": {
+    "date": "2024-08-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240805_takq3uhf9distljpjka8377uls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240807_j5rp9s1a91g2nkvo9ickbthkoo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MDdfajVycDlzMWE5MWcybmt2bzlpY2tidGhrb28gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "The Royal St John's Regatta (Regatta Day) (Newfoundland and Labrador)",
+   "description": "Public holiday in Newfoundland and Labrador",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-07"
+   },
+   "end": {
+    "date": "2024-08-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240807_j5rp9s1a91g2nkvo9ickbthkoo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240816_p08j03bb6bk9p3o93hkd5f8cb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTZfcDA4ajAzYmI2Yms5cDNvOTNoa2Q1ZjhjYjAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Gold Cup Parade (Prince Edward Island)",
+   "description": "Public holiday in Prince Edward Island",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-16"
+   },
+   "end": {
+    "date": "2024-08-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240816_p08j03bb6bk9p3o93hkd5f8cb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240819_ts5uk4unqoo27q8cla4e2si5hc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTlfdHM1dWs0dW5xb28yN3E4Y2xhNGUyc2k1aGMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Discovery Day (Yukon)",
+   "description": "Public holiday in Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-19"
+   },
+   "end": {
+    "date": "2024-08-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240819_ts5uk4unqoo27q8cla4e2si5hc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20240902_9n1eund9r1vmdmi6jp4up0ep08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MDJfOW4xZXVuZDlyMXZtZG1pNmpwNHVwMGVwMDggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Labour Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-02"
+   },
+   "end": {
+    "date": "2024-09-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240902_9n1eund9r1vmdmi6jp4up0ep08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241014_iqd1aee62apgttb1uhtre5jg0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTRfaXFkMWFlZTYyYXBndHRiMXVodHJlNWpnMGsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Thanksgiving Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-14"
+   },
+   "end": {
+    "date": "2024-10-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241014_iqd1aee62apgttb1uhtre5jg0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241031_0fkdbu9ol6dgcbftftd93opbvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfMGZrZGJ1OW9sNmRnY2JmdGZ0ZDkzb3BidmMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Halloween",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_0fkdbu9ol6dgcbftftd93opbvc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241103_18m5opu5gg4uoab60ioad050k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDNfMThtNW9wdTVnZzR1b2FiNjBpb2FkMDUwazggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Daylight Saving Time ends",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-03"
+   },
+   "end": {
+    "date": "2024-11-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241103_18m5opu5gg4uoab60ioad050k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241211_3ohdu8igb9qtanomuhop30rjl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMTFfM29oZHU4aWdiOXF0YW5vbXVob3AzMHJqbDAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Anniversary of the Statute of Westminster",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-11"
+   },
+   "end": {
+    "date": "2024-12-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241211_3ohdu8igb9qtanomuhop30rjl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241225_0nh6241tihia7isjqdmi4t7nt8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfMG5oNjI0MXRpaGlhN2lzanFkbWk0dDdudDggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_0nh6241tihia7isjqdmi4t7nt8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241226_7hbpq3t2c7avb534l9qd36o9k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfN2hicHEzdDJjN2F2YjUzNGw5cWQzNm85azggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "Boxing Day (regional holiday)",
+   "description": "Public holiday in Alberta, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_7hbpq3t2c7avb534l9qd36o9k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328553993738000\"",
+   "id": "20241231_9tdvv20tiphlr4phmklmbo6m5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfOXRkdnYyMHRpcGhscjRwaG1rbG1ibzZtNXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-09-27T11:09:56.000Z",
+   "updated": "2022-09-27T11:09:56.869Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_9tdvv20tiphlr4phmklmbo6m5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779291494000\"",
+   "id": "20221224_sbifh9oirp6j2o6sc9ulsreilc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfc2JpZmg5b2lycDZqMm82c2M5dWxzcmVpbGMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-10-04T13:20:45.000Z",
+   "updated": "2022-10-04T13:20:45.747Z",
+   "summary": "Christmas Eve (New Brunswick)",
+   "description": "Observance in New Brunswick\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_sbifh9oirp6j2o6sc9ulsreilc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779291494000\"",
+   "id": "20221227_114iita4emm0uefob84g169cm0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfMTE0aWl0YTRlbW0wdWVmb2I4NGcxNjljbTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-10-04T13:20:45.000Z",
+   "updated": "2022-10-04T13:20:45.747Z",
+   "summary": "Day off for Boxing Day (New Brunswick)",
+   "description": "Public holiday in New Brunswick",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_114iita4emm0uefob84g169cm0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779291494000\"",
+   "id": "20230409_bb9tn5hjtn0f9djkmjh4ocvq78",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfYmI5dG41aGp0bjBmOWRqa21qaDRvY3ZxNzggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-10-04T13:20:45.000Z",
+   "updated": "2022-10-04T13:20:45.747Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Observance in Newfoundland and Labrador, Nova Scotia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_bb9tn5hjtn0f9djkmjh4ocvq78@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779291494000\"",
+   "id": "20231111_oo1ahdmm06eu0lfaq49o2gs7ns",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfb28xYWhkbW0wNmV1MGxmYXE0OW8yZ3M3bnMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-10-04T13:20:45.000Z",
+   "updated": "2022-10-04T13:20:45.747Z",
+   "summary": "Remembrance Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_oo1ahdmm06eu0lfaq49o2gs7ns@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779291494000\"",
+   "id": "20241224_0p9hdnjq5bnfo4qu1se8vkdn88",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfMHA5aGRuanE1Ym5mbzRxdTFzZTh2a2RuODggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-10-04T13:20:45.000Z",
+   "updated": "2022-10-04T13:20:45.747Z",
+   "summary": "Christmas Eve (New Brunswick)",
+   "description": "Public holiday in New Brunswick",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_0p9hdnjq5bnfo4qu1se8vkdn88@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329779311748000\"",
+   "id": "20220417_p80b814fde1o0h335pgam3j9gc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfcDgwYjgxNGZkZTFvMGgzMzVwZ2FtM2o5Z2MgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2022-10-04T13:20:55.000Z",
+   "updated": "2022-10-04T13:20:55.874Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Public holiday in Newfoundland and Labrador, Nova Scotia",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_p80b814fde1o0h335pgam3j9gc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3355591707330000\"",
+   "id": "20220930_79j2nrdir9dtr91v19t3msbea0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MzBfNzlqMm5yZGlyOWR0cjkxdjE5dDNtc2JlYTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-02T22:24:13.000Z",
+   "updated": "2023-03-02T22:24:13.665Z",
+   "summary": "National Day for Truth and Reconciliation (regional holiday)",
+   "description": "Public holiday in Northwest Territories, Nunavut, Prince Edward Island, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-30"
+   },
+   "end": {
+    "date": "2022-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220930_79j2nrdir9dtr91v19t3msbea0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3355591707330000\"",
+   "id": "20230930_ru2psesmkqhe2437l9581vpor8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MzBfcnUycHNlc21rcWhlMjQzN2w5NTgxdnBvcjggZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-02T22:24:13.000Z",
+   "updated": "2023-03-02T22:24:13.665Z",
+   "summary": "National Day for Truth and Reconciliation (regional holiday)",
+   "description": "Public holiday in Northwest Territories, Nunavut, Prince Edward Island, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-30"
+   },
+   "end": {
+    "date": "2023-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230930_ru2psesmkqhe2437l9581vpor8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3355591707330000\"",
+   "id": "20240930_2pr6c3v8kb4chd9gtt0shfo610",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MzBfMnByNmMzdjhrYjRjaGQ5Z3R0MHNoZm82MTAgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-02T22:24:13.000Z",
+   "updated": "2023-03-02T22:24:13.665Z",
+   "summary": "National Day for Truth and Reconciliation (regional holiday)",
+   "description": "Public holiday in Northwest Territories, Nunavut, Prince Edward Island, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-30"
+   },
+   "end": {
+    "date": "2024-10-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240930_2pr6c3v8kb4chd9gtt0shfo610@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358182739990000\"",
+   "id": "20221111_moh1p4vbq5glub2jku8mpsdi0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfbW9oMXA0dmJxNWdsdWIyamt1OG1wc2RpMG8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-17T22:16:09.000Z",
+   "updated": "2023-03-17T22:16:09.995Z",
+   "summary": "Remembrance Day (regional holiday)",
+   "description": "Public holiday in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_moh1p4vbq5glub2jku8mpsdi0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358182739990000\"",
+   "id": "20230506_n6skto437o5hu88mjlbvf286t4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDZfbjZza3RvNDM3bzVodTg4bWpsYnZmMjg2dDQgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-17T22:16:09.000Z",
+   "updated": "2023-03-17T22:16:09.995Z",
+   "summary": "The Coronation of King Charles III",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-06"
+   },
+   "end": {
+    "date": "2023-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230506_n6skto437o5hu88mjlbvf286t4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358182739990000\"",
+   "id": "20240331_p0punhe7nedv9mlgnum9u2oeas",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfcDBwdW5oZTduZWR2OW1sZ251bTl1Mm9lYXMgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-17T22:16:09.000Z",
+   "updated": "2023-03-17T22:16:09.995Z",
+   "summary": "Easter Sunday (regional holiday)",
+   "description": "Observance in Newfoundland and Labrador, Nova Scotia\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_p0punhe7nedv9mlgnum9u2oeas@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358182739990000\"",
+   "id": "20240401_t2qud387ll2a3ckqsd3oapsjao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfdDJxdWQzODdsbDJhM2NrcXNkM29hcHNqYW8gZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-17T22:16:09.000Z",
+   "updated": "2023-03-17T22:16:09.995Z",
+   "summary": "Easter Monday (regional holiday)",
+   "description": "Public holiday in Alberta, New Brunswick, New Brunswick, Northwest Territories, Nunavut, Quebec, Yukon",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_t2qud387ll2a3ckqsd3oapsjao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3358182739990000\"",
+   "id": "20241111_8v87evs0q7d4pqghjr3i9hiiik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfOHY4N2V2czBxN2Q0cHFnaGpyM2k5aGlpaWsgZW4uY2FuYWRpYW4jaG9saWRheUB2",
+   "created": "2023-03-17T22:16:09.000Z",
+   "updated": "2023-03-17T22:16:09.995Z",
+   "summary": "Remembrance Day (regional holiday)",
+   "description": "Observance in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Canada",
+   "creator": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.canadian#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Canada",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_8v87evs0q7d4pqghjr3i9hiiik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

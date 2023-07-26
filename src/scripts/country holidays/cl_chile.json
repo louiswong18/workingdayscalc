@@ -1,0 +1,1997 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p327tlfsirqlo00o\"",
+ "summary": "Holidays in Chile",
+ "description": "Holidays and Observances in Chile",
+ "updated": "2023-07-24T23:17:56.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDiz5i9qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940301162000\"",
+   "id": "20220414_g681c283tjid8ds6uh8vqn0fok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTRfZzY4MWMyODN0amlkOGRzNnVoOHZxbjBmb2sgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:10.000Z",
+   "updated": "2021-08-26T09:29:10.581Z",
+   "summary": "Maundy Thursday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-14"
+   },
+   "end": {
+    "date": "2022-04-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220414_g681c283tjid8ds6uh8vqn0fok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940301162000\"",
+   "id": "20220918_i9v8bojlooq2ghn9tt9rn8b4i8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MThfaTl2OGJvamxvb3EyZ2huOXR0OXJuOGI0aTggZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:10.000Z",
+   "updated": "2021-08-26T09:29:10.581Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-18"
+   },
+   "end": {
+    "date": "2022-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220918_i9v8bojlooq2ghn9tt9rn8b4i8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940301162000\"",
+   "id": "20220919_0djkgidjptlc6694lb2o2159p0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTlfMGRqa2dpZGpwdGxjNjY5NGxiMm8yMTU5cDAgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:10.000Z",
+   "updated": "2021-08-26T09:29:10.581Z",
+   "summary": "Army Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-19"
+   },
+   "end": {
+    "date": "2022-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220919_0djkgidjptlc6694lb2o2159p0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940305256000\"",
+   "id": "20220501_fpgnkvck9ihrhmetl557aogvv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfZnBnbmt2Y2s5aWhyaG1ldGw1NTdhb2d2djAgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:12.000Z",
+   "updated": "2021-08-26T09:29:12.628Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_fpgnkvck9ihrhmetl557aogvv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940305256000\"",
+   "id": "20220521_0g5uk5ik688hjp8d5cud7qmn2o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjFfMGc1dWs1aWs2ODhoanA4ZDVjdWQ3cW1uMm8gZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:12.000Z",
+   "updated": "2021-08-26T09:29:12.628Z",
+   "summary": "Navy Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-21"
+   },
+   "end": {
+    "date": "2022-05-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220521_0g5uk5ik688hjp8d5cud7qmn2o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940308746000\"",
+   "id": "20220415_ji53v9hcsb65bcn3i022afhgb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfamk1M3Y5aGNzYjY1YmNuM2kwMjJhZmhnYjAgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:14.000Z",
+   "updated": "2021-08-26T09:29:14.373Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_ji53v9hcsb65bcn3i022afhgb0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940308746000\"",
+   "id": "20220417_a44tlm8ppj744tmdvaglka7gnc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfYTQ0dGxtOHBwajc0NHRtZHZhZ2xrYTdnbmMgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:14.000Z",
+   "updated": "2021-08-26T09:29:14.373Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_a44tlm8ppj744tmdvaglka7gnc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940308746000\"",
+   "id": "20220716_q35iqgv3rp7t3bi8nosr0fbrt4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTZfcTM1aXFndjNycDd0M2JpOG5vc3IwZmJydDQgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:14.000Z",
+   "updated": "2021-08-26T09:29:14.373Z",
+   "summary": "Our Lady of Mount Carmel",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-16"
+   },
+   "end": {
+    "date": "2022-07-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220716_q35iqgv3rp7t3bi8nosr0fbrt4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940312456000\"",
+   "id": "20220616_9mjfjlnhs61bnoimbujb634sq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTZfOW1qZmpsbmhzNjFibm9pbWJ1amI2MzRzcTQgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:16.000Z",
+   "updated": "2021-08-26T09:29:16.228Z",
+   "summary": "Corpus Christi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-16"
+   },
+   "end": {
+    "date": "2022-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220616_9mjfjlnhs61bnoimbujb634sq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940312456000\"",
+   "id": "20220627_sdl6i08biaa0p8jt15tj794be0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2Mjdfc2RsNmkwOGJpYWEwcDhqdDE1dGo3OTRiZTAgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:16.000Z",
+   "updated": "2021-08-26T09:29:16.228Z",
+   "summary": "Saint Peter and Saint Paul",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-27"
+   },
+   "end": {
+    "date": "2022-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220627_sdl6i08biaa0p8jt15tj794be0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940312456000\"",
+   "id": "20220815_t1gctbm8dft6710ku0edtr16cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfdDFnY3RibThkZnQ2NzEwa3UwZWR0cjE2Y2MgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:16.000Z",
+   "updated": "2021-08-26T09:29:16.228Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_t1gctbm8dft6710ku0edtr16cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940317082000\"",
+   "id": "20220101_btt8a4aniqacbhhgujragiev1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfYnR0OGE0YW5pcWFjYmhoZ3VqcmFnaWV2MW8gZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:18.000Z",
+   "updated": "2021-08-26T09:29:18.541Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_btt8a4aniqacbhhgujragiev1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940317082000\"",
+   "id": "20220416_f397dekbic9aba56kak1jlrl7k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfZjM5N2Rla2JpYzlhYmE1NmthazFqbHJsN2sgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-08-26T09:29:18.000Z",
+   "updated": "2021-08-26T09:29:18.541Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_f397dekbic9aba56kak1jlrl7k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3281213269462000\"",
+   "id": "20220621_i1f6sskhct1b926ls3pqkimt7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjFfaTFmNnNza2hjdDFiOTI2bHMzcHFraW10N3MgZW4uY2wjaG9saWRheUB2",
+   "created": "2021-12-27T12:03:54.000Z",
+   "updated": "2021-12-27T12:03:54.731Z",
+   "summary": "National Day of Indigenous Peoples",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-21"
+   },
+   "end": {
+    "date": "2022-06-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220621_i1f6sskhct1b926ls3pqkimt7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618505386000\"",
+   "id": "20220904_34goqdfvosu56fj4ob3hjf428k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MDRfMzRnb3FkZnZvc3U1NmZqNG9iM2hqZjQyOGsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-07-14T14:34:12.000Z",
+   "updated": "2022-07-14T14:34:12.693Z",
+   "summary": "Public Holiday (Constitutional Plebiscite)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-04"
+   },
+   "end": {
+    "date": "2022-09-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220904_34goqdfvosu56fj4ob3hjf428k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20221010_0s1me310ti53gi0gfmhinoqk38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTBfMHMxbWUzMTB0aTUzZ2kwZ2ZtaGlub3FrMzggZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Day of the Discovery of Two Worlds",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-10"
+   },
+   "end": {
+    "date": "2022-10-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221010_0s1me310ti53gi0gfmhinoqk38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20221031_ttimddeist6mllkpiag17sq9us",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMzFfdHRpbWRkZWlzdDZtbGxrcGlhZzE3c3E5dXMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Reformation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-31"
+   },
+   "end": {
+    "date": "2022-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221031_ttimddeist6mllkpiag17sq9us@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20221101_60p0j9bj0a4kas1s738t22hgko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfNjBwMGo5YmowYTRrYXMxczczOHQyMmhna28gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_60p0j9bj0a4kas1s738t22hgko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20221208_l2m5vuopumv8gk16l9abb25cpo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDhfbDJtNXZ1b3B1bXY4Z2sxNmw5YWJiMjVjcG8gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Inmaculate Conception Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-08"
+   },
+   "end": {
+    "date": "2022-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221208_l2m5vuopumv8gk16l9abb25cpo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20221225_dc1duk4cg8dbp1408onj1gvc5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfZGMxZHVrNGNnOGRicDE0MDhvbmoxZ3ZjNXMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_dc1duk4cg8dbp1408onj1gvc5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230101_6m0gn3grd6enlsoeso5il920ko",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfNm0wZ24zZ3JkNmVubHNvZXNvNWlsOTIwa28gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_6m0gn3grd6enlsoeso5il920ko@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230406_j62m89kl6mj8uds555kq6r6jkc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDZfajYybTg5a2w2bWo4dWRzNTU1a3E2cjZqa2MgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Maundy Thursday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-06"
+   },
+   "end": {
+    "date": "2023-04-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230406_j62m89kl6mj8uds555kq6r6jkc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230407_e67ncernb83s82b16437bjavuk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfZTY3bmNlcm5iODNzODJiMTY0MzdiamF2dWsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_e67ncernb83s82b16437bjavuk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230408_rk0b1blpejsue7nclm1gr0aaqs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfcmswYjFibHBlanN1ZTduY2xtMWdyMGFhcXMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_rk0b1blpejsue7nclm1gr0aaqs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230409_o6hms1dl2uiej7srg92n4vut4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfbzZobXMxZGwydWllajdzcmc5Mm40dnV0NG8gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_o6hms1dl2uiej7srg92n4vut4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230501_fhk3aksg88r8tq48998a1v67ds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfZmhrM2Frc2c4OHI4dHE0ODk5OGExdjY3ZHMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_fhk3aksg88r8tq48998a1v67ds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230521_50fppeee126m6g37g2kmhdp63o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjFfNTBmcHBlZWUxMjZtNmczN2cya21oZHA2M28gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Navy Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-21"
+   },
+   "end": {
+    "date": "2023-05-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230521_50fppeee126m6g37g2kmhdp63o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230608_qq5j9r4b2m1s0kkqjbf983ipjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDhfcXE1ajlyNGIybTFzMGtrcWpiZjk4M2lwamsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Corpus Christi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-08"
+   },
+   "end": {
+    "date": "2023-06-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230608_qq5j9r4b2m1s0kkqjbf983ipjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230621_6a2qamr391dn3omlu5h8pb1174",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjFfNmEycWFtcjM5MWRuM29tbHU1aDhwYjExNzQgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "National Day of Indigenous Peoples",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-21"
+   },
+   "end": {
+    "date": "2023-06-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230621_6a2qamr391dn3omlu5h8pb1174@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230626_8eei61l5uug9fjhsuciioo2i9k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjZfOGVlaTYxbDV1dWc5Zmpoc3VjaWlvbzJpOWsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Saint Peter and Saint Paul",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-26"
+   },
+   "end": {
+    "date": "2023-06-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230626_8eei61l5uug9fjhsuciioo2i9k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230716_4kac9jgouav8cvhastr58a4748",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTZfNGthYzlqZ291YXY4Y3ZoYXN0cjU4YTQ3NDggZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Our Lady of Mount Carmel",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-16"
+   },
+   "end": {
+    "date": "2023-07-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230716_4kac9jgouav8cvhastr58a4748@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230815_8gh89voub104071f1rdf9lk13g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfOGdoODl2b3ViMTA0MDcxZjFyZGY5bGsxM2cgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_8gh89voub104071f1rdf9lk13g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230918_pvm0m63qdrnpsavv706igf1k00",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MThfcHZtMG02M3Fkcm5wc2F2djcwNmlnZjFrMDAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-18"
+   },
+   "end": {
+    "date": "2023-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230918_pvm0m63qdrnpsavv706igf1k00@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20230919_joeh6tod7938rm5384s2rmtijk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTlfam9laDZ0b2Q3OTM4cm01Mzg0czJybXRpamsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Army Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-19"
+   },
+   "end": {
+    "date": "2023-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230919_joeh6tod7938rm5384s2rmtijk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20231009_gt9m3q9s61n6q2uu5qjh641atc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMDlfZ3Q5bTNxOXM2MW42cTJ1dTVxamg2NDFhdGMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Day of the Discovery of Two Worlds",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-09"
+   },
+   "end": {
+    "date": "2023-10-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231009_gt9m3q9s61n6q2uu5qjh641atc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20231027_eu4gcitmjv0hbfv0c8787mngh0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMjdfZXU0Z2NpdG1qdjBoYmZ2MGM4Nzg3bW5naDAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Reformation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-27"
+   },
+   "end": {
+    "date": "2023-10-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231027_eu4gcitmjv0hbfv0c8787mngh0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20231101_ivm17o62e2v66sg17p8n51ggbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfaXZtMTdvNjJlMnY2NnNnMTdwOG41MWdnYnMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_ivm17o62e2v66sg17p8n51ggbs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20231208_1h1vc3l5421r6s13p69fputpio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDhfMWgxdmMzbDU0MjFyNnMxM3A2OWZwdXRwaW8gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Inmaculate Conception Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-08"
+   },
+   "end": {
+    "date": "2023-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231208_1h1vc3l5421r6s13p69fputpio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20231225_i88lp00dose4qi0ndvb00d1g6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfaTg4bHAwMGRvc2U0cWkwbmR2YjAwZDFnNmsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_i88lp00dose4qi0ndvb00d1g6k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240101_l6qa76c4l6ts1ev4p1k5ibnmf0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbDZxYTc2YzRsNnRzMWV2NHAxazVpYm5tZjAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_l6qa76c4l6ts1ev4p1k5ibnmf0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240328_8jvf80m9lb4je597jmk1051eh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjhfOGp2ZjgwbTlsYjRqZTU5N2ptazEwNTFlaDQgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Maundy Thursday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-28"
+   },
+   "end": {
+    "date": "2024-03-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240328_8jvf80m9lb4je597jmk1051eh4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240329_icqd02ts8ruuj3qi8mn986tijg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfaWNxZDAydHM4cnV1ajNxaThtbjk4NnRpamcgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Good Friday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_icqd02ts8ruuj3qi8mn986tijg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240330_jgsos8qdvkjv5b09j5fbdtpeoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfamdzb3M4cWR2a2p2NWIwOWo1ZmJkdHBlb2MgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Holy Saturday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_jgsos8qdvkjv5b09j5fbdtpeoc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240331_3c4vbilsad638g00g3i0udagjg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfM2M0dmJpbHNhZDYzOGcwMGczaTB1ZGFnamcgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_3c4vbilsad638g00g3i0udagjg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240501_agrtfsvpgbjr4c3b63dh73s3tg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfYWdydGZzdnBnYmpyNGMzYjYzZGg3M3MzdGcgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_agrtfsvpgbjr4c3b63dh73s3tg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240521_gnb4ofi31gaj9ne42l5c2ng440",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjFfZ25iNG9maTMxZ2FqOW5lNDJsNWMybmc0NDAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Navy Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-21"
+   },
+   "end": {
+    "date": "2024-05-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240521_gnb4ofi31gaj9ne42l5c2ng440@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240530_hbeftms5c2b883df2asto2lock",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MzBfaGJlZnRtczVjMmI4ODNkZjJhc3RvMmxvY2sgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Corpus Christi",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Chile",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-30"
+   },
+   "end": {
+    "date": "2024-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240530_hbeftms5c2b883df2asto2lock@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240620_eesevemf3qubcnelvets67rrs8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjBfZWVzZXZlbWYzcXViY25lbHZldHM2N3JyczggZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "National Day of Indigenous Peoples",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-20"
+   },
+   "end": {
+    "date": "2024-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240620_eesevemf3qubcnelvets67rrs8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240629_fc88951j4krd9v2r1htqg3o8ps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjlfZmM4ODk1MWo0a3JkOXYycjFodHFnM284cHMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Saint Peter and Saint Paul",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-29"
+   },
+   "end": {
+    "date": "2024-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240629_fc88951j4krd9v2r1htqg3o8ps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240716_fvdlaphoj1dkut5eqnpo9i4nbc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTZfZnZkbGFwaG9qMWRrdXQ1ZXFucG85aTRuYmMgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Our Lady of Mount Carmel",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-16"
+   },
+   "end": {
+    "date": "2024-07-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240716_fvdlaphoj1dkut5eqnpo9i4nbc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240815_v7ltib5ejnkn9dt0860i18u0h0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfdjdsdGliNWVqbmtuOWR0MDg2MGkxOHUwaDAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_v7ltib5ejnkn9dt0860i18u0h0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240918_3kqo1lfn2q0f539ho3i8od1kik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MThfM2txbzFsZm4ycTBmNTM5aG8zaThvZDFraWsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-18"
+   },
+   "end": {
+    "date": "2024-09-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240918_3kqo1lfn2q0f539ho3i8od1kik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240919_v9k0apv9p1cietbu45feo38vs0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTlfdjlrMGFwdjlwMWNpZXRidTQ1ZmVvMzh2czAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Army Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-19"
+   },
+   "end": {
+    "date": "2024-09-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240919_v9k0apv9p1cietbu45feo38vs0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20240920_ij88gtkvk3b1n5iebf1pvrl1tk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MjBfaWo4OGd0a3ZrM2IxbjVpZWJmMXB2cmwxdGsgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Extended National Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-20"
+   },
+   "end": {
+    "date": "2024-09-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240920_ij88gtkvk3b1n5iebf1pvrl1tk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20241012_tmn4ls54h6p54k00bj3tbg118o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfdG1uNGxzNTRoNnA1NGswMGJqM3RiZzExOG8gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Day of the Discovery of Two Worlds",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_tmn4ls54h6p54k00bj3tbg118o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20241031_kds9qfo5m9sl55ope4vlgff1cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMzFfa2RzOXFmbzVtOXNsNTVvcGU0dmxnZmYxY2MgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Reformation Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-31"
+   },
+   "end": {
+    "date": "2024-11-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241031_kds9qfo5m9sl55ope4vlgff1cc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20241101_b3oab3f22ucinuv9u5m04farl0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfYjNvYWIzZjIydWNpbnV2OXU1bTA0ZmFybDAgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_b3oab3f22ucinuv9u5m04farl0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20241208_ra7pamup6kjac192lnhm3caps8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDhfcmE3cGFtdXA2a2phYzE5MmxuaG0zY2FwczggZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Inmaculate Conception Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-08"
+   },
+   "end": {
+    "date": "2024-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241208_ra7pamup6kjac192lnhm3caps8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327895730474000\"",
+   "id": "20241225_91l8dsdnlg3928qi6ma2i7nr74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfOTFsOGRzZG5sZzM5MjhxaTZtYTJpN25yNzQgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-09-23T15:44:25.000Z",
+   "updated": "2022-09-23T15:44:25.237Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_91l8dsdnlg3928qi6ma2i7nr74@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3329780710124000\"",
+   "id": "20220916_4d7o46c3a454m3o0hgb4hdjc7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTZfNGQ3bzQ2YzNhNDU0bTNvMGhnYjRoZGpjN28gZW4uY2wjaG9saWRheUB2",
+   "created": "2022-10-04T13:32:35.000Z",
+   "updated": "2022-10-04T13:32:35.062Z",
+   "summary": "Day off for National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-16"
+   },
+   "end": {
+    "date": "2022-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220916_4d7o46c3a454m3o0hgb4hdjc7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3343231882970000\"",
+   "id": "20230102_tikf8aoa8ln77rr1ajnss4l364",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDJfdGlrZjhhb2E4bG43N3JyMWFqbnNzNGwzNjQgZW4uY2wjaG9saWRheUB2",
+   "created": "2022-12-21T09:45:41.000Z",
+   "updated": "2022-12-21T09:45:41.485Z",
+   "summary": "Day off for New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-02"
+   },
+   "end": {
+    "date": "2023-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230102_tikf8aoa8ln77rr1ajnss4l364@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3366386499148000\"",
+   "id": "20230507_3ljhdc0g1kf39cso0n7h8iq59o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDdfM2xqaGRjMGcxa2YzOWNzbzBuN2g4aXE1OW8gZW4uY2wjaG9saWRheUB2",
+   "created": "2023-05-04T09:40:49.000Z",
+   "updated": "2023-05-04T09:40:49.574Z",
+   "summary": "Constitutional Council Elections",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.cl#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Chile",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-07"
+   },
+   "end": {
+    "date": "2023-05-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230507_3ljhdc0g1kf39cso0n7h8iq59o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

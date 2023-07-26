@@ -1,0 +1,1997 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33lo5u4grqlo00o\"",
+ "summary": "Holidays in United Arab Emirates",
+ "description": "Holidays and Observances in United Arab Emirates",
+ "updated": "2023-07-25T00:15:37.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMC4-orKqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948317242000\"",
+   "id": "20220101_it7bnf2n6gjisubqbqhf6jf1mg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfaXQ3Ym5mMm42Z2ppc3VicWJxaGY2amYxbWcgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-08-26T10:35:58.000Z",
+   "updated": "2021-08-26T10:35:58.621Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_it7bnf2n6gjisubqbqhf6jf1mg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948320078000\"",
+   "id": "20220301_h3vm2b3iohl6mnmg1n1c1fuv70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDFfaDN2bTJiM2lvaGw2bW5tZzFuMWMxZnV2NzAgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:00.000Z",
+   "updated": "2021-08-26T10:36:00.039Z",
+   "summary": "Leilat al-Meiraj (The Prophet's Ascension)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-01"
+   },
+   "end": {
+    "date": "2022-03-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220301_h3vm2b3iohl6mnmg1n1c1fuv70@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948320078000\"",
+   "id": "20220504_k054ghrkvl12oc5c3mv4sgb7rc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDRfazA1NGdocmt2bDEyb2M1YzNtdjRzZ2I3cmMgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:00.000Z",
+   "updated": "2021-08-26T10:36:00.039Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-04"
+   },
+   "end": {
+    "date": "2022-05-05"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220504_k054ghrkvl12oc5c3mv4sgb7rc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948320078000\"",
+   "id": "20220711_7cbnjc41a7qvcokp6vbfnjt2jk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfN2NibmpjNDFhN3F2Y29rcDZ2YmZuanQyamsgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:00.000Z",
+   "updated": "2021-08-26T10:36:00.039Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_7cbnjc41a7qvcokp6vbfnjt2jk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948320078000\"",
+   "id": "20220730_nvn9ol4vc3rcuass7bab8hm1vs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfbnZuOW9sNHZjM3JjdWFzczdiYWI4aG0xdnMgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:00.000Z",
+   "updated": "2021-08-26T10:36:00.039Z",
+   "summary": "Al-Hijra (Islamic New Year)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_nvn9ol4vc3rcuass7bab8hm1vs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259948323726000\"",
+   "id": "20220710_8vk7quau7s8800efcvmnsbc87g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTBfOHZrN3F1YXU3czg4MDBlZmN2bW5zYmM4N2cgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-08-26T10:36:01.000Z",
+   "updated": "2021-08-26T10:36:01.863Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-10"
+   },
+   "end": {
+    "date": "2022-07-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220710_8vk7quau7s8800efcvmnsbc87g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3270991931650000\"",
+   "id": "20220708_oo1ugrfi6vqq21miejpg81i870",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDhfb28xdWdyZmk2dnFxMjFtaWVqcGc4MWk4NzAgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-10-29T08:26:05.000Z",
+   "updated": "2021-10-29T08:26:05.825Z",
+   "summary": "Arafat (Hajj) Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-08"
+   },
+   "end": {
+    "date": "2022-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220708_oo1ugrfi6vqq21miejpg81i870@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3270991931650000\"",
+   "id": "20220709_r9vtqndg2jf2a6p4a8bc0naobk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfcjl2dHFuZGcyamYyYTZwNGE4YmMwbmFvYmsgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-10-29T08:26:05.000Z",
+   "updated": "2021-10-29T08:26:05.825Z",
+   "summary": "Eid al-Adha (Feast of Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_r9vtqndg2jf2a6p4a8bc0naobk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3278085195742000\"",
+   "id": "20220102_306nq68f1344eced5brgkoib6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDJfMzA2bnE2OGYxMzQ0ZWNlZDVicmdrb2liNmcgZW4uYWUjaG9saWRheUB2",
+   "created": "2021-12-09T09:36:37.000Z",
+   "updated": "2021-12-09T09:36:37.871Z",
+   "summary": "New Year's Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-02"
+   },
+   "end": {
+    "date": "2022-01-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220102_306nq68f1344eced5brgkoib6g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3298169129640000\"",
+   "id": "20220402_tdvjsurdd5ufahdf7h9oqk9hrs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MDJfdGR2anN1cmRkNXVmYWhkZjdoOW9xazlocnMgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-04T15:02:44.000Z",
+   "updated": "2022-04-04T15:02:44.820Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-02"
+   },
+   "end": {
+    "date": "2022-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220402_tdvjsurdd5ufahdf7h9oqk9hrs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312727774000\"",
+   "id": "20220430_r2d1a5rvqd9h2eqn60ckrk88gc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MzBfcjJkMWE1cnZxZDloMmVxbjYwY2tyazg4Z2MgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-28T14:32:43.000Z",
+   "updated": "2022-04-28T14:32:43.887Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-30"
+   },
+   "end": {
+    "date": "2022-05-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220430_r2d1a5rvqd9h2eqn60ckrk88gc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312727774000\"",
+   "id": "20220501_p8cqimhds35269og8ridp3hcug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfcDhjcWltaGRzMzUyNjlvZzhyaWRwM2hjdWcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-28T14:32:43.000Z",
+   "updated": "2022-04-28T14:32:43.887Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_p8cqimhds35269og8ridp3hcug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312727774000\"",
+   "id": "20220502_58svj878r4fsbdolho4idela34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfNThzdmo4NzhyNGZzYmRvbGhvNGlkZWxhMzQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-28T14:32:43.000Z",
+   "updated": "2022-04-28T14:32:43.887Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_58svj878r4fsbdolho4idela34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312727774000\"",
+   "id": "20220503_k5579rkdtjuvu8ma7inp867h2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfazU1Nzlya2R0anV2dThtYTdpbnA4NjdoMmsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-28T14:32:43.000Z",
+   "updated": "2022-04-28T14:32:43.887Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_k5579rkdtjuvu8ma7inp867h2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312727774000\"",
+   "id": "20220505_5a70bttkaeq3qegh8lfv49kmoc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDVfNWE3MGJ0dGthZXEzcWVnaDhsZnY0OWttb2MgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-28T14:32:43.000Z",
+   "updated": "2022-04-28T14:32:43.887Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-05"
+   },
+   "end": {
+    "date": "2022-05-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220505_5a70bttkaeq3qegh8lfv49kmoc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302312727774000\"",
+   "id": "20220506_csn7m9iddv5nm3kb4k54g3rmqk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDZfY3NuN205aWRkdjVubTNrYjRrNTRnM3JtcWsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-04-28T14:32:43.000Z",
+   "updated": "2022-04-28T14:32:43.887Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-06"
+   },
+   "end": {
+    "date": "2022-05-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220506_csn7m9iddv5nm3kb4k54g3rmqk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307973029832000\"",
+   "id": "20220514_9bt830v6ftkqfj1isvilhr24a0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTRfOWJ0ODMwdjZmdGtxZmoxaXN2aWxocjI0YTAgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-05-31T08:41:54.000Z",
+   "updated": "2022-05-31T08:41:54.916Z",
+   "summary": "Public Holiday (Death of Sheikh Khalifa bin Zayed Al Nahyan)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-14"
+   },
+   "end": {
+    "date": "2022-05-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220514_9bt830v6ftkqfj1isvilhr24a0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307973029832000\"",
+   "id": "20220515_s9cf37037701tmnkj31a9tmuq8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTVfczljZjM3MDM3NzAxdG1ua2ozMWE5dG11cTggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-05-31T08:41:54.000Z",
+   "updated": "2022-05-31T08:41:54.916Z",
+   "summary": "Public Holiday (Death of Sheikh Khalifa bin Zayed Al Nahyan)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-15"
+   },
+   "end": {
+    "date": "2022-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220515_s9cf37037701tmnkj31a9tmuq8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3307973029832000\"",
+   "id": "20220516_vl5cm2ssrtu5592kgqf0fn0h7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTZfdmw1Y20yc3NydHU1NTkya2dxZjBmbjBoN3MgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-05-31T08:41:54.000Z",
+   "updated": "2022-05-31T08:41:54.916Z",
+   "summary": "Public Holiday (Death of Sheikh Khalifa bin Zayed Al Nahyan)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-16"
+   },
+   "end": {
+    "date": "2022-05-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220516_vl5cm2ssrtu5592kgqf0fn0h7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315619450220000\"",
+   "id": "20220630_3crq6bkhcq6imq7v7fjdn8f9cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MzBfM2NycTZia2hjcTZpbXE3djdmamRuOGY5Y3MgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-07-14T14:42:05.000Z",
+   "updated": "2022-07-14T14:42:05.110Z",
+   "summary": "Hajj season begins",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-30"
+   },
+   "end": {
+    "date": "2022-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220630_3crq6bkhcq6imq7v7fjdn8f9cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20221008_d2fda572gpunf40csk8pe1di0k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfZDJmZGE1NzJncHVuZjQwY3NrOHBlMWRpMGsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Mouloud",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_d2fda572gpunf40csk8pe1di0k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20221202_qctr2l71oov279iphm69t88gpg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDJfcWN0cjJsNzFvb3YyNzlpcGhtNjl0ODhncGcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-02"
+   },
+   "end": {
+    "date": "2022-12-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221202_qctr2l71oov279iphm69t88gpg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20221231_vq9tgseh1fel33hs9bireq1scc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfdnE5dGdzZWgxZmVsMzNoczliaXJlcTFzY2MgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_vq9tgseh1fel33hs9bireq1scc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230101_o6o1ib77tad37ssvg4lbi3qk08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfbzZvMWliNzd0YWQzN3Nzdmc0bGJpM3FrMDggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_o6o1ib77tad37ssvg4lbi3qk08@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230218_hr45do9lh49ml585uet2sc7sto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMThfaHI0NWRvOWxoNDltbDU4NXVldDJzYzdzdG8gZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Leilat al-Meiraj (The Prophet's Ascension)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-18"
+   },
+   "end": {
+    "date": "2023-02-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230218_hr45do9lh49ml585uet2sc7sto@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230323_ojv7hsffjtk4arj1kpc5igdq44",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfb2p2N2hzZmZqdGs0YXJqMWtwYzVpZ2RxNDQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_ojv7hsffjtk4arj1kpc5igdq44@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230423_1q8u9ctfqufvomaditb79tdk5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjNfMXE4dTljdGZxdWZ2b21hZGl0Yjc5dGRrNXMgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-23"
+   },
+   "end": {
+    "date": "2023-04-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230423_1q8u9ctfqufvomaditb79tdk5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230620_dc22fkte7n9cq9tpjl8e75oem0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjBfZGMyMmZrdGU3bjljcTl0cGpsOGU3NW9lbTAgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Hajj season begins",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-20"
+   },
+   "end": {
+    "date": "2023-06-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230620_dc22fkte7n9cq9tpjl8e75oem0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230629_u138gr9bd3l2ireo09n74an464",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfdTEzOGdyOWJkM2wyaXJlbzA5bjc0YW40NjQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_u138gr9bd3l2ireo09n74an464@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20230630_01l7imdctdq5irtj39iknnvst0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MzBfMDFsN2ltZGN0ZHE1aXJ0ajM5aWtubnZzdDAgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-30"
+   },
+   "end": {
+    "date": "2023-07-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230630_01l7imdctdq5irtj39iknnvst0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20231202_fdim6jspe13n59nn6hnimlijm8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDJfZmRpbTZqc3BlMTNuNTlubjZobmltbGlqbTggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-02"
+   },
+   "end": {
+    "date": "2023-12-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231202_fdim6jspe13n59nn6hnimlijm8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20231231_pt9tfktq85rvrbd0s3qh0012j8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfcHQ5dGZrdHE4NXJ2cmJkMHMzcWgwMDEyajggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_pt9tfktq85rvrbd0s3qh0012j8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240101_h1btp2bvq6ok5av851jccrhkjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfaDFidHAyYnZxNm9rNWF2ODUxamNjcmhramsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_h1btp2bvq6ok5av851jccrhkjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240207_4srmhb8gr1ua59n254nnvbvhpk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDdfNHNybWhiOGdyMXVhNTluMjU0bm52YnZocGsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Leilat al-Meiraj (The Prophet's Ascension)",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-07"
+   },
+   "end": {
+    "date": "2024-02-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240207_4srmhb8gr1ua59n254nnvbvhpk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240311_tp1cai9q5sisfiihr7i22duk9o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfdHAxY2FpOXE1c2lzZmlpaHI3aTIyZHVrOW8gZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_tp1cai9q5sisfiihr7i22duk9o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240410_50olam5ft9a6phhnf201cnsptc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfNTBvbGFtNWZ0OWE2cGhobmYyMDFjbnNwdGMgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_50olam5ft9a6phhnf201cnsptc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240411_ctfrcnh3sl4frcalk5s6mtenhk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfY3RmcmNuaDNzbDRmcmNhbGs1czZtdGVuaGsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_ctfrcnh3sl4frcalk5s6mtenhk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240412_it9cs5lf1bv87takb8siba4tv8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTJfaXQ5Y3M1bGYxYnY4N3Rha2I4c2liYTR0djggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-12"
+   },
+   "end": {
+    "date": "2024-04-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240412_it9cs5lf1bv87takb8siba4tv8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240608_j6vffhe0gss2dnbvb598ve9kh4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDhfajZ2ZmZoZTBnc3MyZG5idmI1OTh2ZTlraDQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Hajj season begins",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-08"
+   },
+   "end": {
+    "date": "2024-06-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240608_j6vffhe0gss2dnbvb598ve9kh4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240616_k3trk3coqhfgd39dsrp07hugac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTZfazN0cmszY29xaGZnZDM5ZHNycDA3aHVnYWMgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Arafat (Hajj) Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-16"
+   },
+   "end": {
+    "date": "2024-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240616_k3trk3coqhfgd39dsrp07hugac@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240617_ai0quvbkuuvtnjgir7qflk390g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfYWkwcXV2Ymt1dXZ0bmpnaXI3cWZsazM5MGcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Adha (Feast of Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_ai0quvbkuuvtnjgir7qflk390g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240617_dejeqnbnq63c1avh04ladackk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfZGVqZXFuYm5xNjNjMWF2aDA0bGFkYWNrazQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_dejeqnbnq63c1avh04ladackk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240618_ne7ju26ljhq59ivceb2cu8qqmc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfbmU3anUyNmxqaHE1OWl2Y2ViMmN1OHFxbWMgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_ne7ju26ljhq59ivceb2cu8qqmc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240708_g4a2hggd441psr8diafjpvlj2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfZzRhMmhnZ2Q0NDFwc3I4ZGlhZmpwdmxqMmsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Al-Hijra (Islamic New Year)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_g4a2hggd441psr8diafjpvlj2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20240916_10bfm74laimvgm0rpfa8q6uh4k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfMTBiZm03NGxhaW12Z20wcnBmYThxNnVoNGsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "Mouloud",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_10bfm74laimvgm0rpfa8q6uh4k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20241202_qrjf3sq6v8c0a1otbn06st53k8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDJfcXJqZjNzcTZ2OGMwYTFvdGJuMDZzdDUzazggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "National Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-02"
+   },
+   "end": {
+    "date": "2024-12-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241202_qrjf3sq6v8c0a1otbn06st53k8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3328550756248000\"",
+   "id": "20241231_4f7o7spvmoj3914fbkrq5apf1o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfNGY3bzdzcHZtb2ozOTE0ZmJrcnE1YXBmMW8gZW4uYWUjaG9saWRheUB2",
+   "created": "2022-09-27T10:42:58.000Z",
+   "updated": "2022-09-27T10:42:58.124Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_4f7o7spvmoj3914fbkrq5apf1o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20221130_aa4s7fnipcr5j9r16kl36cj4o4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMzBfYWE0czdmbmlwY3I1ajlyMTZrbDM2Y2o0bzQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Commemoration Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-30"
+   },
+   "end": {
+    "date": "2022-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221130_aa4s7fnipcr5j9r16kl36cj4o4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20221201_mg61g9v32soju5dq1t08obu7b4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMDFfbWc2MWc5djMyc29qdTVkcTF0MDhvYnU3YjQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-01"
+   },
+   "end": {
+    "date": "2022-12-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221201_mg61g9v32soju5dq1t08obu7b4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20230420_gu7e1m0im27r97gk53nnc4dfrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjBfZ3U3ZTFtMGltMjdyOTdnazUzbm5jNGRmcmsgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-20"
+   },
+   "end": {
+    "date": "2023-04-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230420_gu7e1m0im27r97gk53nnc4dfrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20230421_ev737ocqvnfm2dskmt01h9mh30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfZXY3MzdvY3F2bmZtMmRza210MDFoOW1oMzAgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_ev737ocqvnfm2dskmt01h9mh30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20230422_ookg6t5124ua2bkgqmhfotubdo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfb29rZzZ0NTEyNHVhMmJrZ3FtaGZvdHViZG8gZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_ookg6t5124ua2bkgqmhfotubdo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20230627_ddjshal8ikk5nm4ouqe4924ni4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjdfZGRqc2hhbDhpa2s1bm00b3VxZTQ5MjRuaTQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Arafat (Hajj) Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-27"
+   },
+   "end": {
+    "date": "2023-06-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230627_ddjshal8ikk5nm4ouqe4924ni4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20230628_j6cjq0355954585plb4rdtto4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfajZjanEwMzU1OTU0NTg1cGxiNHJkdHRvNHMgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Eid al-Adha (Feast of Sacrifice)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_j6cjq0355954585plb4rdtto4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20231130_mj5sbpevo6gih908hn6rdqnblg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMzBfbWo1c2JwZXZvNmdpaDkwOGhuNnJkcW5ibGcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Commemoration Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-30"
+   },
+   "end": {
+    "date": "2023-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231130_mj5sbpevo6gih908hn6rdqnblg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20231201_kpegjh6kp01pe7qqplm0klv51g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDFfa3BlZ2poNmtwMDFwZTdxcXBsbTBrbHY1MWcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Day off for Commemoration Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-01"
+   },
+   "end": {
+    "date": "2023-12-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231201_kpegjh6kp01pe7qqplm0klv51g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20231203_e4coj5n0o4g8ldkvqnvn2fd1i4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMDNfZTRjb2o1bjBvNGc4bGRrdnFudm4yZmQxaTQgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-03"
+   },
+   "end": {
+    "date": "2023-12-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231203_e4coj5n0o4g8ldkvqnvn2fd1i4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20241130_knpnlpmij5akgo769d6n4ktpug",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMzBfa25wbmxwbWlqNWFrZ283NjlkNm40a3RwdWcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Commemoration Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in United Arab Emirates",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-30"
+   },
+   "end": {
+    "date": "2024-12-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241130_knpnlpmij5akgo769d6n4ktpug@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20241201_bf04jeelu0hd2rob548g4n7ka8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDFfYmYwNGplZWx1MGhkMnJvYjU0OGc0bjdrYTggZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "Day off for Commemoration Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-01"
+   },
+   "end": {
+    "date": "2024-12-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241201_bf04jeelu0hd2rob548g4n7ka8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3338913528136000\"",
+   "id": "20241203_o5id2gm8404jvirh368433a3f0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDNfbzVpZDJnbTg0MDRqdmlyaDM2ODQzM2EzZjAgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-11-26T09:59:24.000Z",
+   "updated": "2022-11-26T09:59:24.068Z",
+   "summary": "National Day Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-03"
+   },
+   "end": {
+    "date": "2024-12-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241203_o5id2gm8404jvirh368433a3f0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341861040386000\"",
+   "id": "20230721_2k1cipt53e36ch3voe163j3jv0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjFfMmsxY2lwdDUzZTM2Y2gzdm9lMTYzajNqdjAgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-12-13T11:22:00.000Z",
+   "updated": "2022-12-13T11:22:00.193Z",
+   "summary": "Al-Hijra (Islamic New Year)",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-21"
+   },
+   "end": {
+    "date": "2023-07-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230721_2k1cipt53e36ch3voe163j3jv0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3341861040386000\"",
+   "id": "20230929_booq0lbnlh5mv9mf885gajtqmg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjlfYm9vcTBsYm5saDVtdjltZjg4NWdhanRxbWcgZW4uYWUjaG9saWRheUB2",
+   "created": "2022-12-13T11:22:00.000Z",
+   "updated": "2022-12-13T11:22:00.193Z",
+   "summary": "Mouloud",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.ae#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in United Arab Emirates",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-29"
+   },
+   "end": {
+    "date": "2023-09-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230929_booq0lbnlh5mv9mf885gajtqmg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

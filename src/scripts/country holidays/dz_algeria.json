@@ -1,0 +1,1229 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32qsft4drqlo00o\"",
+ "summary": "Holidays in Algeria",
+ "description": "Holidays and Observances in Algeria",
+ "updated": "2023-07-24T19:10:58.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CIDp7P6FqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964262802000\"",
+   "id": "20220112_sbkjshth7f9e7f1moo50nn11ms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMTJfc2JranNodGg3ZjllN2YxbW9vNTBubjExbXMgZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:51.000Z",
+   "updated": "2021-08-26T12:48:51.401Z",
+   "summary": "Berber New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-12"
+   },
+   "end": {
+    "date": "2022-01-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220112_sbkjshth7f9e7f1moo50nn11ms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964262802000\"",
+   "id": "20220705_c3c807c74udkptim3ic2q0q4c8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDVfYzNjODA3Yzc0dWRrcHRpbTNpYzJxMHE0YzggZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:51.000Z",
+   "updated": "2021-08-26T12:48:51.401Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-05"
+   },
+   "end": {
+    "date": "2022-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220705_c3c807c74udkptim3ic2q0q4c8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964262802000\"",
+   "id": "20220808_lsk235p5854idtptj9tr7msh7s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MDhfbHNrMjM1cDU4NTRpZHRwdGo5dHI3bXNoN3MgZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:51.000Z",
+   "updated": "2021-08-26T12:48:51.401Z",
+   "summary": "Day of Achura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-08"
+   },
+   "end": {
+    "date": "2022-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220808_lsk235p5854idtptj9tr7msh7s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964265674000\"",
+   "id": "20220501_6amivumdvspgvq3po0lnvfr8ds",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfNmFtaXZ1bWR2c3BndnEzcG8wbG52ZnI4ZHMgZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:52.000Z",
+   "updated": "2021-08-26T12:48:52.837Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_6amivumdvspgvq3po0lnvfr8ds@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964265674000\"",
+   "id": "20220711_01v4p9m2o5h45c8n69os6rdnrc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MTFfMDF2NHA5bTJvNWg0NWM4bjY5b3M2cmRucmMgZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:52.000Z",
+   "updated": "2021-08-26T12:48:52.837Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-11"
+   },
+   "end": {
+    "date": "2022-07-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220711_01v4p9m2o5h45c8n69os6rdnrc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964269124000\"",
+   "id": "20220101_rrdm4kdaa7km9caorh2spgun3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfcnJkbTRrZGFhN2ttOWNhb3JoMnNwZ3VuM2cgZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:54.000Z",
+   "updated": "2021-08-26T12:48:54.562Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_rrdm4kdaa7km9caorh2spgun3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259964269124000\"",
+   "id": "20220730_q5ubf70gab8jin1r0odrdu8kvs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MzBfcTV1YmY3MGdhYjhqaW4xcjBvZHJkdThrdnMgZW4uZHojaG9saWRheUB2",
+   "created": "2021-08-26T12:48:54.000Z",
+   "updated": "2021-08-26T12:48:54.562Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-30"
+   },
+   "end": {
+    "date": "2022-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220730_q5ubf70gab8jin1r0odrdu8kvs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302788239226000\"",
+   "id": "20220502_opv01477uh7tprf80qjp8ed2ts",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfb3B2MDE0Nzd1aDd0cHJmODBxanA4ZWQydHMgZW4uZHojaG9saWRheUB2",
+   "created": "2022-05-01T08:35:19.000Z",
+   "updated": "2022-05-01T08:35:19.613Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_opv01477uh7tprf80qjp8ed2ts@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3302788239226000\"",
+   "id": "20220503_u6heaf4lmlcuthb61a812b6k30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfdTZoZWFmNGxtbGN1dGhiNjFhODEyYjZrMzAgZW4uZHojaG9saWRheUB2",
+   "created": "2022-05-01T08:35:19.000Z",
+   "updated": "2022-05-01T08:35:19.613Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_u6heaf4lmlcuthb61a812b6k30@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3315618763134000\"",
+   "id": "20220709_cnilca9ki658t333ksqllgdcno",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA3MDlfY25pbGNhOWtpNjU4dDMzM2tzcWxsZ2Rjbm8gZW4uZHojaG9saWRheUB2",
+   "created": "2022-07-14T14:36:21.000Z",
+   "updated": "2022-07-14T14:36:21.567Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-07-09"
+   },
+   "end": {
+    "date": "2022-07-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220709_cnilca9ki658t333ksqllgdcno@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20221008_j90qghq2nm5lghs8u7do7lfjj8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMDhfajkwcWdocTJubTVsZ2hzOHU3ZG83bGZqajggZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-08"
+   },
+   "end": {
+    "date": "2022-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221008_j90qghq2nm5lghs8u7do7lfjj8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20221101_r7es05n1h5cshr7bi84hi09gek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfcjdlczA1bjFoNWNzaHI3Ymk4NGhpMDlnZWsgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Anniversary of the Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_r7es05n1h5cshr7bi84hi09gek@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230101_e890n8neacjq4f7hkmrcl3e8p8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfZTg5MG44bmVhY2pxNGY3aGttcmNsM2U4cDggZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_e890n8neacjq4f7hkmrcl3e8p8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230112_8t5nfhe4ob5q49q3khfrcasjgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMTJfOHQ1bmZoZTRvYjVxNDlxM2toZnJjYXNqZ3MgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Berber New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-12"
+   },
+   "end": {
+    "date": "2023-01-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230112_8t5nfhe4ob5q49q3khfrcasjgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230501_sl98189aucmmqimd49r9gjf16k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfc2w5ODE4OWF1Y21tcWltZDQ5cjlnamYxNmsgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_sl98189aucmmqimd49r9gjf16k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230705_of84slpnec4agrj1smrk4ueaq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MDVfb2Y4NHNscG5lYzRhZ3JqMXNtcms0dWVhcTQgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-05"
+   },
+   "end": {
+    "date": "2023-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230705_of84slpnec4agrj1smrk4ueaq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230719_suuqhengua771psi9brksqu1bk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MTlfc3V1cWhlbmd1YTc3MXBzaTlicmtzcXUxYmsgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-19"
+   },
+   "end": {
+    "date": "2023-07-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230719_suuqhengua771psi9brksqu1bk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230728_c1l9925spcrtdt18vsd6nfce90",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MjhfYzFsOTkyNXNwY3J0ZHQxOHZzZDZuZmNlOTAgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Day of Achura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-28"
+   },
+   "end": {
+    "date": "2023-07-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230728_c1l9925spcrtdt18vsd6nfce90@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20230927_9m29odnpvam5mlqueq05f64kvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MjdfOW0yOW9kbnB2YW01bWxxdWVxMDVmNjRrdmcgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-27"
+   },
+   "end": {
+    "date": "2023-09-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230927_9m29odnpvam5mlqueq05f64kvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20231101_p3avuvqqet3eh8up3vl27grv2k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfcDNhdnV2cXFldDNlaDh1cDN2bDI3Z3J2MmsgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Anniversary of the Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_p3avuvqqet3eh8up3vl27grv2k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240101_u9ks88p1nogt43ubojcs8oiol4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfdTlrczg4cDFub2d0NDN1Ym9qY3M4b2lvbDQgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_u9ks88p1nogt43ubojcs8oiol4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240112_6405k3o4mgds03uor7nj4729ro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMTJfNjQwNWszbzRtZ2RzMDN1b3I3bmo0NzI5cm8gZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Berber New Year",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-12"
+   },
+   "end": {
+    "date": "2024-01-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240112_6405k3o4mgds03uor7nj4729ro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240410_gf8v62dtqjagr5kob0ln9c7fd4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTBfZ2Y4djYyZHRxamFncjVrb2IwbG45YzdmZDQgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-10"
+   },
+   "end": {
+    "date": "2024-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240410_gf8v62dtqjagr5kob0ln9c7fd4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240411_c4jflbt5gd0hgvrk5dtd598vok",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MTFfYzRqZmxidDVnZDBoZ3ZyazVkdGQ1OTh2b2sgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-11"
+   },
+   "end": {
+    "date": "2024-04-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240411_c4jflbt5gd0hgvrk5dtd598vok@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240501_75dqq9cumr5mm1lminpg2cork0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfNzVkcXE5Y3VtcjVtbTFsbWlucGcyY29yazAgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_75dqq9cumr5mm1lminpg2cork0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240617_qusim8ng8nco4tleirpiu8pasg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MTdfcXVzaW04bmc4bmNvNHRsZWlycGl1OHBhc2cgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-17"
+   },
+   "end": {
+    "date": "2024-06-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240617_qusim8ng8nco4tleirpiu8pasg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240618_3om2nbamu083jiqfpsf0cea744",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MThfM29tMm5iYW11MDgzamlxZnBzZjBjZWE3NDQgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-18"
+   },
+   "end": {
+    "date": "2024-06-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240618_3om2nbamu083jiqfpsf0cea744@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240705_lpslrjr5tipetqquu2dm499so4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDVfbHBzbHJqcjV0aXBldHFxdXUyZG00OTlzbzQgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-05"
+   },
+   "end": {
+    "date": "2024-07-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240705_lpslrjr5tipetqquu2dm499so4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240708_8m6ll6t6a4aj2072575p4h5pgk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDhfOG02bGw2dDZhNGFqMjA3MjU3NXA0aDVwZ2sgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Muharram",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-08"
+   },
+   "end": {
+    "date": "2024-07-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240708_8m6ll6t6a4aj2072575p4h5pgk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240717_3e9fslor4oepkjulj19qsp52kk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MTdfM2U5ZnNsb3I0b2Vwa2p1bGoxOXFzcDUya2sgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Day of Achura",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-17"
+   },
+   "end": {
+    "date": "2024-07-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240717_3e9fslor4oepkjulj19qsp52kk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20240916_vf0ouhp6bpgaua3jrgrbtik7fc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfdmYwb3VocDZicGdhdWEzanJncmJ0aWs3ZmMgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "The Prophet's Birthday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_vf0ouhp6bpgaua3jrgrbtik7fc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327891008456000\"",
+   "id": "20241101_3n5sd08012qjoeicdq6iil3hdc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfM241c2QwODAxMnFqb2VpY2RxNmlpbDNoZGMgZW4uZHojaG9saWRheUB2",
+   "created": "2022-09-23T15:05:04.000Z",
+   "updated": "2022-09-23T15:05:04.228Z",
+   "summary": "Anniversary of the Revolution",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_3n5sd08012qjoeicdq6iil3hdc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047389038000\"",
+   "id": "20230323_buvo5o6ehupn2ftfqapj9sgfig",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjNfYnV2bzVvNmVodXBuMmZ0ZnFhcGo5c2dmaWcgZW4uZHojaG9saWRheUB2",
+   "created": "2023-03-22T22:21:34.000Z",
+   "updated": "2023-03-22T22:21:34.519Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Algeria",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-23"
+   },
+   "end": {
+    "date": "2023-03-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230323_buvo5o6ehupn2ftfqapj9sgfig@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3359047389038000\"",
+   "id": "20240311_dv1r3o30ea07ssd16ikvssnspg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMTFfZHYxcjNvMzBlYTA3c3NkMTZpa3Zzc25zcGcgZW4uZHojaG9saWRheUB2",
+   "created": "2023-03-22T22:21:34.000Z",
+   "updated": "2023-03-22T22:21:34.519Z",
+   "summary": "Ramadan Start",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Algeria",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-11"
+   },
+   "end": {
+    "date": "2024-03-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240311_dv1r3o30ea07ssd16ikvssnspg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136328164000\"",
+   "id": "20230421_1da3bhkkk1na5kfo28s0alaitc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjFfMWRhM2Joa2trMW5hNWtmbzI4czBhbGFpdGMgZW4uZHojaG9saWRheUB2",
+   "created": "2023-04-21T09:09:24.000Z",
+   "updated": "2023-04-21T09:09:24.082Z",
+   "summary": "Eid al-Fitr",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-21"
+   },
+   "end": {
+    "date": "2023-04-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230421_1da3bhkkk1na5kfo28s0alaitc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3364136328164000\"",
+   "id": "20230422_qqqa6aj8dakb26pne7ijisv6p8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MjJfcXFxYTZhajhkYWtiMjZwbmU3aWppc3Y2cDggZW4uZHojaG9saWRheUB2",
+   "created": "2023-04-21T09:09:24.000Z",
+   "updated": "2023-04-21T09:09:24.082Z",
+   "summary": "Eid al-Fitr Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-22"
+   },
+   "end": {
+    "date": "2023-04-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230422_qqqa6aj8dakb26pne7ijisv6p8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375019534222000\"",
+   "id": "20230628_1bmulb19n54brol1grdv9q8g38",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjhfMWJtdWxiMTluNTRicm9sMWdyZHY5cThnMzggZW4uZHojaG9saWRheUB2",
+   "created": "2023-06-23T08:42:47.000Z",
+   "updated": "2023-06-23T08:42:47.111Z",
+   "summary": "Eid al-Adha",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-28"
+   },
+   "end": {
+    "date": "2023-06-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230628_1bmulb19n54brol1grdv9q8g38@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3375019534222000\"",
+   "id": "20230629_4fhb7916famlkuis6tfvbr59us",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjlfNGZoYjc5MTZmYW1sa3VpczZ0ZnZicjU5dXMgZW4uZHojaG9saWRheUB2",
+   "created": "2023-06-23T08:42:47.000Z",
+   "updated": "2023-06-23T08:42:47.111Z",
+   "summary": "Eid al-Adha Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.dz#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Algeria",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-29"
+   },
+   "end": {
+    "date": "2023-06-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230629_4fhb7916famlkuis6tfvbr59us@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

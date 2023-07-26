@@ -1,0 +1,1741 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p32nsjakdrqlo00o\"",
+ "summary": "Holidays in Mexico",
+ "description": "Holidays and Observances in Mexico",
+ "updated": "2023-07-25T08:33:01.604Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CKDB_KG5qYADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259940998066000\"",
+   "id": "20220501_0galit69h0ikm01eo7ht96gchk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfMGdhbGl0NjloMGlrbTAxZW83aHQ5NmdjaGsgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:34:59.000Z",
+   "updated": "2021-08-26T09:34:59.033Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_0galit69h0ikm01eo7ht96gchk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941002834000\"",
+   "id": "20220224_4qkbtujbnqv1elv2irsl54u6as",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMjRfNHFrYnR1amJucXYxZWx2Mmlyc2w1NHU2YXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:01.000Z",
+   "updated": "2021-08-26T09:35:01.417Z",
+   "summary": "Flag Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-24"
+   },
+   "end": {
+    "date": "2022-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220224_4qkbtujbnqv1elv2irsl54u6as@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941002834000\"",
+   "id": "20220417_gk45gkgo7fl8bfm5bnbg7q9kms",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfZ2s0NWdrZ283Zmw4YmZtNWJuYmc3cTlrbXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:01.000Z",
+   "updated": "2021-08-26T09:35:01.417Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_gk45gkgo7fl8bfm5bnbg7q9kms@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941002834000\"",
+   "id": "20220515_ir635637mqb66n4j0qnt551kgg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MTVfaXI2MzU2MzdtcWI2Nm40ajBxbnQ1NTFrZ2cgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:01.000Z",
+   "updated": "2021-08-26T09:35:01.417Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-15"
+   },
+   "end": {
+    "date": "2022-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220515_ir635637mqb66n4j0qnt551kgg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941002834000\"",
+   "id": "20220916_2j7abo7m34unkme7gl86uequ6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA5MTZfMmo3YWJvN20zNHVua21lN2dsODZ1ZXF1Nm8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:01.000Z",
+   "updated": "2021-08-26T09:35:01.417Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-09-16"
+   },
+   "end": {
+    "date": "2022-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220916_2j7abo7m34unkme7gl86uequ6o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941007610000\"",
+   "id": "20220101_g0b66ek3rglgv6697ssn5mg1jg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfZzBiNjZlazNyZ2xndjY2OTdzc241bWcxamcgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:03.000Z",
+   "updated": "2021-08-26T09:35:03.805Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_g0b66ek3rglgv6697ssn5mg1jg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941007610000\"",
+   "id": "20220205_h6jm52nvlvb5diihq6psb8kqgs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDVfaDZqbTUybnZsdmI1ZGlpaHE2cHNiOGtxZ3MgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:03.000Z",
+   "updated": "2021-08-26T09:35:03.805Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-05"
+   },
+   "end": {
+    "date": "2022-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220205_h6jm52nvlvb5diihq6psb8kqgs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941007610000\"",
+   "id": "20220410_4s0qcaficqvj55pksgeuol6dg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTBfNHMwcWNhZmljcXZqNTVwa3NnZXVvbDZkZzggZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:03.000Z",
+   "updated": "2021-08-26T09:35:03.805Z",
+   "summary": "Palm Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-10"
+   },
+   "end": {
+    "date": "2022-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220410_4s0qcaficqvj55pksgeuol6dg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941007610000\"",
+   "id": "20220416_gb0sonq2o7448mnmmlpljiusr8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfZ2Iwc29ucTJvNzQ0OG1ubW1scGxqaXVzcjggZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:03.000Z",
+   "updated": "2021-08-26T09:35:03.805Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_gb0sonq2o7448mnmmlpljiusr8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941012348000\"",
+   "id": "20220302_p1mqmf75jiukuj1dfu1vvlod4g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMDJfcDFtcW1mNzVqaXVrdWoxZGZ1MXZ2bG9kNGcgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:06.000Z",
+   "updated": "2021-08-26T09:35:06.174Z",
+   "summary": "Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-02"
+   },
+   "end": {
+    "date": "2022-03-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220302_p1mqmf75jiukuj1dfu1vvlod4g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259941016460000\"",
+   "id": "20220207_q2iqbtcecoh1hru0bpavi5ep5s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMDdfcTJpcWJ0Y2Vjb2gxaHJ1MGJwYXZpNWVwNXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-08-26T09:35:08.000Z",
+   "updated": "2021-08-26T09:35:08.230Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-07"
+   },
+   "end": {
+    "date": "2022-02-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220207_q2iqbtcecoh1hru0bpavi5ep5s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3268746044194000\"",
+   "id": "20220321_vmc421ltbe1ij10mmdlk8p33sk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAzMjFfdm1jNDIxbHRiZTFpajEwbW1kbGs4cDMzc2sgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2021-10-16T08:30:22.000Z",
+   "updated": "2021-10-16T08:30:22.097Z",
+   "summary": "Benito Juárez's Birthday Memorial",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-03-21"
+   },
+   "end": {
+    "date": "2022-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220321_vmc421ltbe1ij10mmdlk8p33sk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20221012_n4iirjvh6mr2gf7g7h0rnbas0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEwMTJfbjRpaXJqdmg2bXIyZ2Y3ZzdoMHJuYmFzMG8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Day of Race",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-10-12"
+   },
+   "end": {
+    "date": "2022-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221012_n4iirjvh6mr2gf7g7h0rnbas0o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20221102_k10gobo479arr69mqnmuv34c9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDJfazEwZ29ibzQ3OWFycjY5bXFubXV2MzRjOXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Day of the Dead",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-02"
+   },
+   "end": {
+    "date": "2022-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221102_k10gobo479arr69mqnmuv34c9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20221120_fvg3f2qn2d8ratod0dequ4trco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMjBfZnZnM2YycW4yZDhyYXRvZDBkZXF1NHRyY28gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Revolution Day Memorial",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-20"
+   },
+   "end": {
+    "date": "2022-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221120_fvg3f2qn2d8ratod0dequ4trco@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20221225_9pkfvsoi63igkd4mmi5dmfqn3g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfOXBrZnZzb2k2M2lna2Q0bW1pNWRtZnFuM2cgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_9pkfvsoi63igkd4mmi5dmfqn3g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20221231_k698e9sg5g9hl20oi5ma0kbsc8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfazY5OGU5c2c1ZzlobDIwb2k1bWEwa2JzYzggZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_k698e9sg5g9hl20oi5ma0kbsc8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230101_frvv888l3ao8dodhcu5tgdq6go",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfZnJ2djg4OGwzYW84ZG9kaGN1NXRnZHE2Z28gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_frvv888l3ao8dodhcu5tgdq6go@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230205_b1itj4j6iusp35tncfcql2ot34",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDVfYjFpdGo0ajZpdXNwMzV0bmNmY3FsMm90MzQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Constitution Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-05"
+   },
+   "end": {
+    "date": "2023-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230205_b1itj4j6iusp35tncfcql2ot34@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230206_4shsr7o0t7nh1hpd4q8boi09is",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMDZfNHNoc3I3bzB0N25oMWhwZDRxOGJvaTA5aXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-06"
+   },
+   "end": {
+    "date": "2023-02-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230206_4shsr7o0t7nh1hpd4q8boi09is@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230222_a9tp224j4qt2soh571skmmtgq4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjJfYTl0cDIyNGo0cXQyc29oNTcxc2ttbXRncTQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-22"
+   },
+   "end": {
+    "date": "2023-02-23"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230222_a9tp224j4qt2soh571skmmtgq4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230224_98el3s2dcslufomspf2f90510g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMjRfOThlbDNzMmRjc2x1Zm9tc3BmMmY5MDUxMGcgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Flag Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-24"
+   },
+   "end": {
+    "date": "2023-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230224_98el3s2dcslufomspf2f90510g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230320_phfdbfiaelaf0sbtjqh8405ufo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjBfcGhmZGJmaWFlbGFmMHNidGpxaDg0MDV1Zm8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Benito Juárez's Birthday Memorial",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-20"
+   },
+   "end": {
+    "date": "2023-03-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230320_phfdbfiaelaf0sbtjqh8405ufo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230321_n1q1upcojtq93d4gce81nt4o4o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAzMjFfbjFxMXVwY29qdHE5M2Q0Z2NlODFudDRvNG8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Benito Juárez's Birthday Memorial",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-03-21"
+   },
+   "end": {
+    "date": "2023-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230321_n1q1upcojtq93d4gce81nt4o4o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230402_6ua958bhi4fqcj5f4nt5c065c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDJfNnVhOTU4YmhpNGZxY2o1ZjRudDVjMDY1YzQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Palm Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-02"
+   },
+   "end": {
+    "date": "2023-04-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230402_6ua958bhi4fqcj5f4nt5c065c4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230408_gpdfk6h94f8gdhm61mu4j8kv68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfZ3BkZms2aDk0ZjhnZGhtNjFtdTRqOGt2NjggZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_gpdfk6h94f8gdhm61mu4j8kv68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230409_mh0f425bsp3dc9bn369k38gkdg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfbWgwZjQyNWJzcDNkYzlibjM2OWszOGdrZGcgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_mh0f425bsp3dc9bn369k38gkdg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230501_r6mngr095g38u9p8u1ukvkv27o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfcjZtbmdyMDk1ZzM4dTlwOHUxdWt2a3YyN28gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_r6mngr095g38u9p8u1ukvkv27o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230515_utj2rq5l11jids4gt858t00n54",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MTVfdXRqMnJxNWwxMWppZHM0Z3Q4NTh0MDBuNTQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-15"
+   },
+   "end": {
+    "date": "2023-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230515_utj2rq5l11jids4gt858t00n54@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20230916_85jpaqqo99ieov23qc6inoo48k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA5MTZfODVqcGFxcW85OWllb3YyM3FjNmlub280OGsgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-09-16"
+   },
+   "end": {
+    "date": "2023-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230916_85jpaqqo99ieov23qc6inoo48k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20231012_t8c800logkvltnlo8185vqb7cs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEwMTJfdDhjODAwbG9na3ZsdG5sbzgxODV2cWI3Y3MgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Day of Race",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-10-12"
+   },
+   "end": {
+    "date": "2023-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231012_t8c800logkvltnlo8185vqb7cs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20231102_p6uol5advtbqutnkmt0314j4u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDJfcDZ1b2w1YWR2dGJxdXRua210MDMxNGo0dTQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Day of the Dead",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-02"
+   },
+   "end": {
+    "date": "2023-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231102_p6uol5advtbqutnkmt0314j4u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20231120_qdchp8cmvrglliqcfkdud9qn3c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMjBfcWRjaHA4Y212cmdsbGlxY2ZrZHVkOXFuM2MgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Revolution Day Memorial",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-20"
+   },
+   "end": {
+    "date": "2023-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231120_qdchp8cmvrglliqcfkdud9qn3c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20231225_jrg6hifqugfpdlfn219c3afb4c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfanJnNmhpZnF1Z2ZwZGxmbjIxOWMzYWZiNGMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_jrg6hifqugfpdlfn219c3afb4c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20231231_h0mtptrhscnp5c26so59lcr2es",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfaDBtdHB0cmhzY25wNWMyNnNvNTlsY3IyZXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_h0mtptrhscnp5c26so59lcr2es@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240101_ph2gleak1p3unrcvb1o1q55k8o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfcGgyZ2xlYWsxcDN1bnJjdmIxbzFxNTVrOG8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_ph2gleak1p3unrcvb1o1q55k8o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240205_4e4drkcncnqco44qhe0jcfi648",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMDVfNGU0ZHJrY25jbnFjbzQ0cWhlMGpjZmk2NDggZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-05"
+   },
+   "end": {
+    "date": "2024-02-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240205_4e4drkcncnqco44qhe0jcfi648@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240214_3dro90352c4lvhtvi9fodc55a4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfM2RybzkwMzUyYzRsdmh0dmk5Zm9kYzU1YTQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Ash Wednesday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_3dro90352c4lvhtvi9fodc55a4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240224_c6bgsn049u6qactqo2iib9dfqo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMjRfYzZiZ3NuMDQ5dTZxYWN0cW8yaWliOWRmcW8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Flag Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-24"
+   },
+   "end": {
+    "date": "2024-02-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240224_c6bgsn049u6qactqo2iib9dfqo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240318_na93vvkaf7s5sbql5rsqj7nse4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMThfbmE5M3Z2a2FmN3M1c2JxbDVyc3FqN25zZTQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Benito Juárez's Birthday Memorial",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-18"
+   },
+   "end": {
+    "date": "2024-03-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240318_na93vvkaf7s5sbql5rsqj7nse4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240321_fka6dk1158a7ponedd9160lih4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjFfZmthNmRrMTE1OGE3cG9uZWRkOTE2MGxpaDQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Benito Juárez's Birthday Memorial",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-21"
+   },
+   "end": {
+    "date": "2024-03-22"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240321_fka6dk1158a7ponedd9160lih4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240324_8d8e0m3pv0mtlab8j285vf6tio",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjRfOGQ4ZTBtM3B2MG10bGFiOGoyODV2ZjZ0aW8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Palm Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-24"
+   },
+   "end": {
+    "date": "2024-03-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240324_8d8e0m3pv0mtlab8j285vf6tio@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240330_5k36n6tk27pld8ta5bdd2ilnu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfNWszNm42dGsyN3BsZDh0YTViZGQyaWxudTAgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_5k36n6tk27pld8ta5bdd2ilnu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240331_d63faih8uo8deq1u2ar2h5q1ps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfZDYzZmFpaDh1bzhkZXExdTJhcjJoNXExcHMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Easter Sunday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_d63faih8uo8deq1u2ar2h5q1ps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240501_78mo3kndubjm89eo3sqv7c8vs4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfNzhtbzNrbmR1YmptODllbzNzcXY3Yzh2czQgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_78mo3kndubjm89eo3sqv7c8vs4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240515_2drlcdgrekgpvo444tg7lact5c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTVfMmRybGNkZ3Jla2dwdm80NDR0ZzdsYWN0NWMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Teacher's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-15"
+   },
+   "end": {
+    "date": "2024-05-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240515_2drlcdgrekgpvo444tg7lact5c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240707_k7rcmeiefff1qp22h5lqfc9big",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA3MDdfazdyY21laWVmZmYxcXAyMmg1bHFmYzliaWcgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Mexican general election",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-07"
+   },
+   "end": {
+    "date": "2024-07-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240707_k7rcmeiefff1qp22h5lqfc9big@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20240916_7eu5fbag3jcnat2h24jf8gs1js",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA5MTZfN2V1NWZiYWczamNuYXQyaDI0amY4Z3MxanMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-16"
+   },
+   "end": {
+    "date": "2024-09-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240916_7eu5fbag3jcnat2h24jf8gs1js@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20241012_7psdavh8i3k72df4fsplqqj1ls",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEwMTJfN3BzZGF2aDhpM2s3MmRmNGZzcGxxcWoxbHMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Day of Race",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-12"
+   },
+   "end": {
+    "date": "2024-10-13"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241012_7psdavh8i3k72df4fsplqqj1ls@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20241102_4iipot7rp5svfdiiapgot8h8ro",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDJfNGlpcG90N3JwNXN2ZmRpaWFwZ290OGg4cm8gZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Day of the Dead",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-02"
+   },
+   "end": {
+    "date": "2024-11-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241102_4iipot7rp5svfdiiapgot8h8ro@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20241120_fphafnpmuere4019c6ij6e2tj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMjBfZnBoYWZucG11ZXJlNDAxOWM2aWo2ZTJ0ajAgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Revolution Day Memorial",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-20"
+   },
+   "end": {
+    "date": "2024-11-21"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241120_fphafnpmuere4019c6ij6e2tj0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20241201_8bj9k780hcv85geefiug3cfn9s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMDFfOGJqOWs3ODBoY3Y4NWdlZWZpdWczY2ZuOXMgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Inauguration day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-01"
+   },
+   "end": {
+    "date": "2024-12-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241201_8bj9k780hcv85geefiug3cfn9s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20241225_7egnvv38ls857fq969gll2b57c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfN2VnbnZ2Mzhsczg1N2ZxOTY5Z2xsMmI1N2MgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_7egnvv38ls857fq969gll2b57c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327886163546000\"",
+   "id": "20241231_1h83h8t1e9559q7bbh4rgeuem0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfMWg4M2g4dDFlOTU1OXE3YmJoNHJnZXVlbTAgZW4ubWV4aWNhbiNob2xpZGF5QHY",
+   "created": "2022-09-23T14:24:41.000Z",
+   "updated": "2022-09-23T14:24:41.773Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Mexico",
+   "creator": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.mexican#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Mexico",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_1h83h8t1e9559q7bbh4rgeuem0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}

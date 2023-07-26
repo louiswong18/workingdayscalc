@@ -1,0 +1,2221 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p320p7949rqlo00o\"",
+ "summary": "Holidays in Poland",
+ "description": "Holidays and Observances in Poland",
+ "updated": "2023-07-25T02:11:47.000Z",
+ "timeZone": "Asia/Hong_Kong",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "nextSyncToken": "CMC9wYbkqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968046386000\"",
+   "id": "20220106_4jeej9o7d4alclielt0oisgu18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDZfNGplZWo5bzdkNGFsY2xpZWx0MG9pc2d1MTggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:23.000Z",
+   "updated": "2021-08-26T13:20:23.193Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-06"
+   },
+   "end": {
+    "date": "2022-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220106_4jeej9o7d4alclielt0oisgu18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968046386000\"",
+   "id": "20220417_613mrhuh54mf07tvadq768nh04",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTdfNjEzbXJodWg1NG1mMDd0dmFkcTc2OG5oMDQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:23.000Z",
+   "updated": "2021-08-26T13:20:23.193Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-17"
+   },
+   "end": {
+    "date": "2022-04-18"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220417_613mrhuh54mf07tvadq768nh04@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968046386000\"",
+   "id": "20220418_irgq686fmdetn3spehaiml8nps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MThfaXJncTY4NmZtZGV0bjNzcGVoYWltbDhucHMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:23.000Z",
+   "updated": "2021-08-26T13:20:23.193Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-18"
+   },
+   "end": {
+    "date": "2022-04-19"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220418_irgq686fmdetn3spehaiml8nps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968046386000\"",
+   "id": "20220503_ikdeum5j53q41f6p0gk17rik48",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDNfaWtkZXVtNWo1M3E0MWY2cDBnazE3cmlrNDggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:23.000Z",
+   "updated": "2021-08-26T13:20:23.193Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-03"
+   },
+   "end": {
+    "date": "2022-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220503_ikdeum5j53q41f6p0gk17rik48@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968046386000\"",
+   "id": "20220623_n3nq4f74pp86m1g06k6pbdropk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MjNfbjNucTRmNzRwcDg2bTFnMDZrNnBiZHJvcGsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:23.000Z",
+   "updated": "2021-08-26T13:20:23.193Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-23"
+   },
+   "end": {
+    "date": "2022-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220623_n3nq4f74pp86m1g06k6pbdropk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968055892000\"",
+   "id": "20220214_qil1uaetn0ns6bq1jrgo52574k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAyMTRfcWlsMXVhZXRuMG5zNmJxMWpyZ281MjU3NGsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:27.000Z",
+   "updated": "2021-08-26T13:20:27.946Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-02-14"
+   },
+   "end": {
+    "date": "2022-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220214_qil1uaetn0ns6bq1jrgo52574k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968055892000\"",
+   "id": "20220416_lg2vlvpj5b6ldueh2e0kpjj6j4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTZfbGcydmx2cGo1YjZsZHVlaDJlMGtwamo2ajQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:27.000Z",
+   "updated": "2021-08-26T13:20:27.946Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-16"
+   },
+   "end": {
+    "date": "2022-04-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220416_lg2vlvpj5b6ldueh2e0kpjj6j4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968055892000\"",
+   "id": "20220501_qhc1fsmo6ve2reh510pns3vpv4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDFfcWhjMWZzbW82dmUycmVoNTEwcG5zM3ZwdjQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:27.000Z",
+   "updated": "2021-08-26T13:20:27.946Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-01"
+   },
+   "end": {
+    "date": "2022-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220501_qhc1fsmo6ve2reh510pns3vpv4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968055892000\"",
+   "id": "20220616_oc8e6po604lmvkabl09hoauejs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MTZfb2M4ZTZwbzYwNGxtdmthYmwwOWhvYXVlanMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:27.000Z",
+   "updated": "2021-08-26T13:20:27.946Z",
+   "summary": "Corpus Christi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-16"
+   },
+   "end": {
+    "date": "2022-06-17"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220616_oc8e6po604lmvkabl09hoauejs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968055892000\"",
+   "id": "20220815_a53jeq7imms5pma2agi9bdcuvg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA4MTVfYTUzamVxN2ltbXM1cG1hMmFnaTliZGN1dmcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:27.000Z",
+   "updated": "2021-08-26T13:20:27.946Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-08-15"
+   },
+   "end": {
+    "date": "2022-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220815_a53jeq7imms5pma2agi9bdcuvg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968059498000\"",
+   "id": "20220415_nhsgm96b0ol872c87r5c9i9nb4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA0MTVfbmhzZ205NmIwb2w4NzJjODdyNWM5aTluYjQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:29.000Z",
+   "updated": "2021-08-26T13:20:29.749Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-04-15"
+   },
+   "end": {
+    "date": "2022-04-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220415_nhsgm96b0ol872c87r5c9i9nb4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968059498000\"",
+   "id": "20220502_esj1o0m135hsi5jq060rh4d3hg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MDJfZXNqMW8wbTEzNWhzaTVqcTA2MHJoNGQzaGcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:29.000Z",
+   "updated": "2021-08-26T13:20:29.749Z",
+   "summary": "Day of the Flag",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-02"
+   },
+   "end": {
+    "date": "2022-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220502_esj1o0m135hsi5jq060rh4d3hg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968059498000\"",
+   "id": "20220526_v1s58gdvmj720vv9l4ult685n0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA1MjZfdjFzNThnZHZtajcyMHZ2OWw0dWx0Njg1bjAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:29.000Z",
+   "updated": "2021-08-26T13:20:29.749Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-05-26"
+   },
+   "end": {
+    "date": "2022-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220526_v1s58gdvmj720vv9l4ult685n0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968062804000\"",
+   "id": "20220101_oudvu8a2emdkqhhncok7a6nfi4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjAxMDFfb3VkdnU4YTJlbWRrcWhobmNvazdhNm5maTQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:31.000Z",
+   "updated": "2021-08-26T13:20:31.402Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-01-01"
+   },
+   "end": {
+    "date": "2022-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220101_oudvu8a2emdkqhhncok7a6nfi4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3259968062804000\"",
+   "id": "20220605_cqdb33ht6fkvsnrictc010ri68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDVfY3FkYjMzaHQ2Zmt2c25yaWN0YzAxMHJpNjggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2021-08-26T13:20:31.000Z",
+   "updated": "2021-08-26T13:20:31.402Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-05"
+   },
+   "end": {
+    "date": "2022-06-06"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220605_cqdb33ht6fkvsnrictc010ri68@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221101_sumea2v696c0r20oo5u6kha9vg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMDFfc3VtZWEydjY5NmMwcjIwb281dTZraGE5dmcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-01"
+   },
+   "end": {
+    "date": "2022-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221101_sumea2v696c0r20oo5u6kha9vg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221111_0eqp7pi0i0e58valkrvr7jj3bo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjExMTFfMGVxcDdwaTBpMGU1OHZhbGtydnI3amozYm8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-11-11"
+   },
+   "end": {
+    "date": "2022-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221111_0eqp7pi0i0e58valkrvr7jj3bo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221224_m6q08m42dth70491fjvati58bg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjRfbTZxMDhtNDJkdGg3MDQ5MWZqdmF0aTU4YmcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-24"
+   },
+   "end": {
+    "date": "2022-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221224_m6q08m42dth70491fjvati58bg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221225_bd023u2rkv9booc5pkg4fuee5o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjVfYmQwMjN1MnJrdjlib29jNXBrZzRmdWVlNW8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-25"
+   },
+   "end": {
+    "date": "2022-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221225_bd023u2rkv9booc5pkg4fuee5o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221226_9c3tnfrm0pi6pb7hai3pei1na0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjZfOWMzdG5mcm0wcGk2cGI3aGFpM3BlaTFuYTAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Second Day of Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-26"
+   },
+   "end": {
+    "date": "2022-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221226_9c3tnfrm0pi6pb7hai3pei1na0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221227_b7k14r0rtopq382nifjtnimq18",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMjdfYjdrMTRyMHJ0b3BxMzgybmlmanRuaW1xMTggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "National Day of the Victorious Greater Poland Uprising",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-27"
+   },
+   "end": {
+    "date": "2022-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221227_b7k14r0rtopq382nifjtnimq18@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20221231_tp1cumba25nl8dl6v1i8g9bbjk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjEyMzFfdHAxY3VtYmEyNW5sOGRsNnYxaThnOWJiamsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-12-31"
+   },
+   "end": {
+    "date": "2023-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20221231_tp1cumba25nl8dl6v1i8g9bbjk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230101_mhsaug1o8ku16n20bbs3n4lnpc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDFfbWhzYXVnMW84a3UxNm4yMGJiczNuNGxucGMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-01"
+   },
+   "end": {
+    "date": "2023-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230101_mhsaug1o8ku16n20bbs3n4lnpc@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230106_osp8k15rshf58jhmcc5ou7kqe8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAxMDZfb3NwOGsxNXJzaGY1OGpobWNjNW91N2txZTggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-01-06"
+   },
+   "end": {
+    "date": "2023-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230106_osp8k15rshf58jhmcc5ou7kqe8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230214_lm2ou1tht7t67vbb85546ae0lo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzAyMTRfbG0yb3UxdGh0N3Q2N3ZiYjg1NTQ2YWUwbG8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-02-14"
+   },
+   "end": {
+    "date": "2023-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230214_lm2ou1tht7t67vbb85546ae0lo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230407_o27ls21udq2tq926l8cud76pos",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDdfbzI3bHMyMXVkcTJ0cTkyNmw4Y3VkNzZwb3MgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-07"
+   },
+   "end": {
+    "date": "2023-04-08"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230407_o27ls21udq2tq926l8cud76pos@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230408_ge78mjgmefh5kvp7dj8dce1qps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDhfZ2U3OG1qZ21lZmg1a3ZwN2RqOGRjZTFxcHMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-08"
+   },
+   "end": {
+    "date": "2023-04-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230408_ge78mjgmefh5kvp7dj8dce1qps@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230409_4e8lc9p936dck4rrqoredul7g4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MDlfNGU4bGM5cDkzNmRjazRycnFvcmVkdWw3ZzQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-09"
+   },
+   "end": {
+    "date": "2023-04-10"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230409_4e8lc9p936dck4rrqoredul7g4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230410_db4ku995el2k7cjuj8v3rsjodo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA0MTBfZGI0a3U5OTVlbDJrN2NqdWo4djNyc2pvZG8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-04-10"
+   },
+   "end": {
+    "date": "2023-04-11"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230410_db4ku995el2k7cjuj8v3rsjodo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230501_09ramdsihi8186vgdf1k2mui1g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDFfMDlyYW1kc2loaTgxODZ2Z2RmMWsybXVpMWcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-01"
+   },
+   "end": {
+    "date": "2023-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230501_09ramdsihi8186vgdf1k2mui1g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230502_l8t2pd8dlr0d92nrh7q4tbd87c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDJfbDh0MnBkOGRscjBkOTJucmg3cTR0YmQ4N2MgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Day of the Flag",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-02"
+   },
+   "end": {
+    "date": "2023-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230502_l8t2pd8dlr0d92nrh7q4tbd87c@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230503_tl7591i9jj2tkl53bklv7fr6ic",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MDNfdGw3NTkxaTlqajJ0a2w1M2JrbHY3ZnI2aWMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-03"
+   },
+   "end": {
+    "date": "2023-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230503_tl7591i9jj2tkl53bklv7fr6ic@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230526_jkdgfjcbnpimlpi1nukr3fq9k0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjZfamtkZ2ZqY2JucGltbHBpMW51a3IzZnE5azAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-26"
+   },
+   "end": {
+    "date": "2023-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230526_jkdgfjcbnpimlpi1nukr3fq9k0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230528_ipbuaghhtnruh6prp737blpqrk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA1MjhfaXBidWFnaGh0bnJ1aDZwcnA3MzdibHBxcmsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-05-28"
+   },
+   "end": {
+    "date": "2023-05-29"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230528_ipbuaghhtnruh6prp737blpqrk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230608_h82fghiio8636boa51af36umgo",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDhfaDgyZmdoaWlvODYzNmJvYTUxYWYzNnVtZ28gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Corpus Christi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-08"
+   },
+   "end": {
+    "date": "2023-06-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230608_h82fghiio8636boa51af36umgo@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230623_0jgf6rkhk1i7lspj128h2e7v0g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MjNfMGpnZjZya2hrMWk3bHNwajEyOGgyZTd2MGcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-23"
+   },
+   "end": {
+    "date": "2023-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230623_0jgf6rkhk1i7lspj128h2e7v0g@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20230815_0ph7ntp1vd2jcopj29crbge5u0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA4MTVfMHBoN250cDF2ZDJqY29wajI5Y3JiZ2U1dTAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-08-15"
+   },
+   "end": {
+    "date": "2023-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230815_0ph7ntp1vd2jcopj29crbge5u0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231101_5t2mhe9gaip8qphul6si7b2fu0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMDFfNXQybWhlOWdhaXA4cXBodWw2c2k3YjJmdTAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-01"
+   },
+   "end": {
+    "date": "2023-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231101_5t2mhe9gaip8qphul6si7b2fu0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231111_8eg12lb5nkrn6lp5r3tn1k04o0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzExMTFfOGVnMTJsYjVua3JuNmxwNXIzdG4xazA0bzAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-11-11"
+   },
+   "end": {
+    "date": "2023-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231111_8eg12lb5nkrn6lp5r3tn1k04o0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231224_c1used43cqlisdbh3qt59kav4s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjRfYzF1c2VkNDNjcWxpc2RiaDNxdDU5a2F2NHMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-24"
+   },
+   "end": {
+    "date": "2023-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231224_c1used43cqlisdbh3qt59kav4s@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231225_erdhsun9n3qmhcs7jqlhtvoubg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjVfZXJkaHN1bjluM3FtaGNzN2pxbGh0dm91YmcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-25"
+   },
+   "end": {
+    "date": "2023-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231225_erdhsun9n3qmhcs7jqlhtvoubg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231226_ui2hdfbnp807c0ravccj18839k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjZfdWkyaGRmYm5wODA3YzByYXZjY2oxODgzOWsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Second Day of Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-26"
+   },
+   "end": {
+    "date": "2023-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231226_ui2hdfbnp807c0ravccj18839k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231227_qt8m3hi20q8321g217nq9ndhr4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMjdfcXQ4bTNoaTIwcTgzMjFnMjE3bnE5bmRocjQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "National Day of the Victorious Greater Poland Uprising",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-27"
+   },
+   "end": {
+    "date": "2023-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231227_qt8m3hi20q8321g217nq9ndhr4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20231231_h0gi6oibs11ga2j3umhjdltfao",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzEyMzFfaDBnaTZvaWJzMTFnYTJqM3VtaGpkbHRmYW8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-12-31"
+   },
+   "end": {
+    "date": "2024-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20231231_h0gi6oibs11ga2j3umhjdltfao@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240101_l9lejedfstuv2oc8u0ri1u03o8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDFfbDlsZWplZGZzdHV2Mm9jOHUwcmkxdTAzbzggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "New Year's Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-01"
+   },
+   "end": {
+    "date": "2024-01-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240101_l9lejedfstuv2oc8u0ri1u03o8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240106_ptt47vgapsd4p2la886beid5sg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAxMDZfcHR0NDd2Z2Fwc2Q0cDJsYTg4NmJlaWQ1c2cgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Epiphany",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-01-06"
+   },
+   "end": {
+    "date": "2024-01-07"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240106_ptt47vgapsd4p2la886beid5sg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240214_4ferpfsqphe9tdf3420rlnfut0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAyMTRfNGZlcnBmc3FwaGU5dGRmMzQyMHJsbmZ1dDAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Valentine's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-02-14"
+   },
+   "end": {
+    "date": "2024-02-15"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240214_4ferpfsqphe9tdf3420rlnfut0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240329_53e6emqo72sa0md6g58camko80",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMjlfNTNlNmVtcW83MnNhMG1kNmc1OGNhbWtvODAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Good Friday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-29"
+   },
+   "end": {
+    "date": "2024-03-30"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240329_53e6emqo72sa0md6g58camko80@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240330_qiu6lu5ki6d68bc5793iq017u4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzBfcWl1Nmx1NWtpNmQ2OGJjNTc5M2lxMDE3dTQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Holy Saturday",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-30"
+   },
+   "end": {
+    "date": "2024-03-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240330_qiu6lu5ki6d68bc5793iq017u4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240331_j3odj83usrtpi6i4n96fnjo8l8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDAzMzFfajNvZGo4M3VzcnRwaTZpNG45NmZuam84bDggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Easter Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-03-31"
+   },
+   "end": {
+    "date": "2024-04-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240331_j3odj83usrtpi6i4n96fnjo8l8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240401_96pdu83lnmueid3vicd41e9mfk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA0MDFfOTZwZHU4M2xubXVlaWQzdmljZDQxZTltZmsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Easter Monday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-04-01"
+   },
+   "end": {
+    "date": "2024-04-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240401_96pdu83lnmueid3vicd41e9mfk@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240501_rljpgi7a742afra1f9iue6ngbg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDFfcmxqcGdpN2E3NDJhZnJhMWY5aXVlNm5nYmcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Labor Day / May Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-01"
+   },
+   "end": {
+    "date": "2024-05-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240501_rljpgi7a742afra1f9iue6ngbg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240502_rupk33hnt7braua62gv5r81hb8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDJfcnVwazMzaG50N2JyYXVhNjJndjVyODFoYjggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Day of the Flag",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-02"
+   },
+   "end": {
+    "date": "2024-05-03"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240502_rupk33hnt7braua62gv5r81hb8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240503_lhn522g5j390kga91jve2764b4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MDNfbGhuNTIyZzVqMzkwa2dhOTFqdmUyNzY0YjQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Constitution Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-03"
+   },
+   "end": {
+    "date": "2024-05-04"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240503_lhn522g5j390kga91jve2764b4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240519_76tabu7br2qne16ll4mk5nceho",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MTlfNzZ0YWJ1N2JyMnFuZTE2bGw0bWs1bmNlaG8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Whit Sunday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-19"
+   },
+   "end": {
+    "date": "2024-05-20"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240519_76tabu7br2qne16ll4mk5nceho@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240526_17p0le5o132l9j6lb3re221veg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MjZfMTdwMGxlNW8xMzJsOWo2bGIzcmUyMjF2ZWcgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Mother's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-26"
+   },
+   "end": {
+    "date": "2024-05-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240526_17p0le5o132l9j6lb3re221veg@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240530_18251rl9q5f1jeg76nbsbvpjc0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA1MzBfMTgyNTFybDlxNWYxamVnNzZuYnNidnBqYzAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Corpus Christi",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-30"
+   },
+   "end": {
+    "date": "2024-05-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240530_18251rl9q5f1jeg76nbsbvpjc0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240623_fj24533nln2mutupgpmnhmitk4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MjNfZmoyNDUzM25sbjJtdXR1cGdwbW5obWl0azQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Father's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-23"
+   },
+   "end": {
+    "date": "2024-06-24"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240623_fj24533nln2mutupgpmnhmitk4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20240815_6k19uqfhrmhaulgnoum5jm1pg8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA4MTVfNmsxOXVxZmhybWhhdWxnbm91bTVqbTFwZzggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Assumption of Mary",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-08-15"
+   },
+   "end": {
+    "date": "2024-08-16"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240815_6k19uqfhrmhaulgnoum5jm1pg8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241101_vlcj2b4e4bc0ef21obj7clh5to",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMDFfdmxjajJiNGU0YmMwZWYyMW9iajdjbGg1dG8gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "All Saints' Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-01"
+   },
+   "end": {
+    "date": "2024-11-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241101_vlcj2b4e4bc0ef21obj7clh5to@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241111_uchk8qla7mdbk7pivi758v2me4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDExMTFfdWNoazhxbGE3bWRiazdwaXZpNzU4djJtZTQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Independence Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-11-11"
+   },
+   "end": {
+    "date": "2024-11-12"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241111_uchk8qla7mdbk7pivi758v2me4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241224_pt11knih37prqmeali71aukjjs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjRfcHQxMWtuaWgzN3BycW1lYWxpNzFhdWtqanMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Christmas Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-24"
+   },
+   "end": {
+    "date": "2024-12-25"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241224_pt11knih37prqmeali71aukjjs@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241225_u8k557timb584loqsrda62sam0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjVfdThrNTU3dGltYjU4NGxvcXNyZGE2MnNhbTAgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Christmas Day",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-25"
+   },
+   "end": {
+    "date": "2024-12-26"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241225_u8k557timb584loqsrda62sam0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241226_a85k6a94ifgk3v6kmpq8uah8go",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjZfYTg1azZhOTRpZmdrM3Y2a21wcTh1YWg4Z28gZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "Second Day of Christmas",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-26"
+   },
+   "end": {
+    "date": "2024-12-27"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241226_a85k6a94ifgk3v6kmpq8uah8go@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241227_n85fanjbel3u9pntdae8oilp3k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMjdfbjg1ZmFuamJlbDN1OXBudGRhZThvaWxwM2sgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "National Day of the Victorious Greater Poland Uprising",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-27"
+   },
+   "end": {
+    "date": "2024-12-28"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241227_n85fanjbel3u9pntdae8oilp3k@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3327901766776000\"",
+   "id": "20241231_g2ufpsoe5pgspkc29etcermrn8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDEyMzFfZzJ1ZnBzb2U1cGdzcGtjMjlldGNlcm1ybjggZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2022-09-23T16:34:43.000Z",
+   "updated": "2022-09-23T16:34:43.388Z",
+   "summary": "New Year's Eve",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-12-31"
+   },
+   "end": {
+    "date": "2025-01-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20241231_g2ufpsoe5pgspkc29etcermrn8@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468823646000\"",
+   "id": "20220601_rjkte6n432atl4sjvu61sk80us",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMjA2MDFfcmprdGU2bjQzMmF0bDRzanZ1NjFzazgwdXMgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2023-06-14T09:20:11.000Z",
+   "updated": "2023-06-14T09:20:11.823Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2022-06-01"
+   },
+   "end": {
+    "date": "2022-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20220601_rjkte6n432atl4sjvu61sk80us@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468823646000\"",
+   "id": "20230601_p2utjdfdrobjrtskegpcad3rik",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA2MDFfcDJ1dGpkZmRyb2JqcnRza2VncGNhZDNyaWsgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2023-06-14T09:20:11.000Z",
+   "updated": "2023-06-14T09:20:11.823Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2023-06-01"
+   },
+   "end": {
+    "date": "2023-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230601_p2utjdfdrobjrtskegpcad3rik@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373468823646000\"",
+   "id": "20240601_2dbr6vs4g6ouk9temnkrb49gf4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyNDA2MDFfMmRicjZ2czRnNm91azl0ZW1ua3JiNDlnZjQgZW4ucG9saXNoI2hvbGlkYXlAdg",
+   "created": "2023-06-14T09:20:11.000Z",
+   "updated": "2023-06-14T09:20:11.823Z",
+   "summary": "Children's Day",
+   "description": "Observance\nTo hide observances, go to Google Calendar Settings \u003e Holidays in Poland",
+   "creator": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.polish#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Poland",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-01"
+   },
+   "end": {
+    "date": "2024-06-02"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20240601_2dbr6vs4g6ouk9temnkrb49gf4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}
