@@ -1,5 +1,5 @@
 {
-  "au_australia": [
+  "AU Australia en.australian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-03-14",
       "name": "Canberra Day (Australian Capital Territory)"
@@ -541,7 +541,7 @@
       "name": "New Year's Eve (regional holiday)"
     }
   ],
-  "bd_bangladesh": [
+  "BD Bangladesh en.bd#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-03",
       "name": "Eid ul-Fitr"
@@ -791,7 +791,7 @@
       "name": "Eid ul-Fitr Holiday"
     }
   ],
-  "bn_brunei": [
+  "BN Brunei en.bn#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-23",
       "name": "National Day"
@@ -1013,7 +1013,7 @@
       "name": "Muharram/Islamic New Year"
     }
   ],
-  "cn_china": [
+  "CN China en.china#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-02",
       "name": "Spring Festival Golden Week holiday"
@@ -1335,7 +1335,7 @@
       "name": "Labour Day Holiday"
     }
   ],
-  "hk_hong_kong": [
+  "HK Hong Kong en.hong_kong#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-05",
       "name": "Tomb Sweeping Day"
@@ -1561,7 +1561,7 @@
       "name": "First Weekday After Christmas Day"
     }
   ],
-  "in_india": [
+  "IN India en.indian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-08-19",
       "name": "Janmashtami"
@@ -1795,7 +1795,7 @@
       "name": "Ambedkar Jayanti"
     }
   ],
-  "id_indonesia": [
+  "ID Indonesia en.indonesian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -2041,7 +2041,7 @@
       "name": "Maulid Nabi Muhammad (The Prophet Muhammad's Birthday)"
     }
   ],
-  "mo_macau": [
+  "MO Macau en.mo#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -2375,7 +2375,7 @@
       "name": "Winter Solstice Holiday"
     }
   ],
-  "my_malaysia": [
+  "MY Malaysia en.malaysia#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-30",
       "name": "Harvest Festival (regional holiday)"
@@ -3025,7 +3025,7 @@
       "name": "Hari Raya Puasa Holiday"
     }
   ],
-  "mu_mauritius": [
+  "MU Mauritius en.mu#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-18",
       "name": "Thaipoosam Cavadee"
@@ -3211,7 +3211,7 @@
       "name": "Ganesh Chaturthi"
     }
   ],
-  "nz_new_zealand": [
+  "NZ New Zealand en.new_zealand#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-31",
       "name": "Northland Anniversary Day (Northland)"
@@ -3525,7 +3525,7 @@
       "name": "Boxing Day"
     }
   ],
-  "ph_philippines": [
+  "PH Philippines en.philippines#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-25",
       "name": "People Power Anniversary"
@@ -3759,7 +3759,7 @@
       "name": "Eid al-Adha (Feast of the Sacrifice)"
     }
   ],
-  "sg_singapore": [
+  "SG Singapore en.singapore#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-15",
       "name": "Good Friday"
@@ -3925,7 +3925,7 @@
       "name": "Diwali/Deepavali"
     }
   ],
-  "lk_sri_lanka": [
+  "LK Sri Lanka en.lk#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-16",
       "name": "Navam Full Moon Poya Day"
@@ -4191,7 +4191,7 @@
       "name": "Milad-Un-Nabi (Holy Prophet's Birthday)"
     }
   ],
-  "tw_taiwan": [
+  "TW Taiwan en.taiwan#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "Republic Day/New Year's Day"
@@ -4433,7 +4433,7 @@
       "name": "Lunar New Year Holiday"
     }
   ],
-  "th_thailand": [
+  "TH Thailand en.th#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-06-03",
       "name": "Queen Suthida's Birthday"
@@ -4747,7 +4747,7 @@
       "name": "Chakri Day observed"
     }
   ],
-  "vn_vietnam": [
+  "VN Vietnam en.vietnamese#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-31",
       "name": "Vietnamese New Year's Eve"
@@ -4933,7 +4933,7 @@
       "name": "Independence Day Holiday"
     }
   ],
-  "mv_maldives": [
+  "MV Maldives en.mv#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-01",
       "name": "Labor Day / May Day"
@@ -5191,7 +5191,7 @@
       "name": "Eid-ul Al'haa Holiday"
     }
   ],
-  "jp_japan": [
+  "JP Japan en.japanese#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-11",
       "name": "National Foundation Day"
@@ -5409,7 +5409,7 @@
       "name": "Labor Thanksgiving Day"
     }
   ],
-  "kr_korea": [
+  "KR Korea en.south_korea#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-06-06",
       "name": "Memorial Day"
@@ -5627,7 +5627,7 @@
       "name": "Buddha’s Birthday"
     }
   ],
-  "am_armenia": [
+  "AM Armenia en.am#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-28",
       "name": "Army Day"
@@ -5773,7 +5773,7 @@
       "name": "Labor Day"
     }
   ],
-  "be_belgium": [
+  "BE Belgium en.be#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -5919,7 +5919,7 @@
       "name": "Christmas Day"
     }
   ],
-  "bm_bermuda": [
+  "BM Bermuda en.bm#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -6069,7 +6069,7 @@
       "name": "Holiday for the Coronation of His Majesty King Charles III"
     }
   ],
-  "cz_czech_republic": [
+  "CZ Czech Republic en.czech#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -6239,7 +6239,7 @@
       "name": "St. Stephen's Day"
     }
   ],
-  "fr_france": [
+  "FR France en.french#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-26",
       "name": "Ascension Day"
@@ -6373,7 +6373,7 @@
       "name": "Christmas Day"
     }
   ],
-  "de_germany": [
+  "DE Germany en.german#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-18",
       "name": "Easter Monday"
@@ -6591,7 +6591,7 @@
       "name": "Assumption of Mary (regional holiday)"
     }
   ],
-  "gr_greece": [
+  "GR Greece en.greek#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -6753,7 +6753,7 @@
       "name": "Synaxis of the Mother of God"
     }
   ],
-  "ie_ireland": [
+  "IE Ireland en.irish#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -6879,7 +6879,7 @@
       "name": "St. Stephen's Day"
     }
   ],
-  "il_israel": [
+  "IL Israel en.jewish#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-16",
       "name": "Passover (Day 1)"
@@ -6993,7 +6993,7 @@
       "name": "Election Day"
     }
   ],
-  "lu_luxemberg": [
+  "LU Luxemberg en.lu#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-18",
       "name": "Easter Monday"
@@ -7127,7 +7127,7 @@
       "name": "St Stephen's Day"
     }
   ],
-  "mt_malta": [
+  "MT Malta en.mt#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-15",
       "name": "Good Friday"
@@ -7297,7 +7297,7 @@
       "name": "Christmas Day"
     }
   ],
-  "nl_netherlands": [
+  "NL Netherlands en.dutch#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-17",
       "name": "Easter Sunday"
@@ -7431,7 +7431,7 @@
       "name": "Second Day of Christmas"
     }
   ],
-  "pl_poland": [
+  "PL Poland en.polish#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-06",
       "name": "Epiphany"
@@ -7589,7 +7589,7 @@
       "name": "Second Day of Christmas"
     }
   ],
-  "ru_russian_federation": [
+  "RU Russian Federation en.russian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-02",
       "name": "New Year Holiday"
@@ -7799,7 +7799,7 @@
       "name": "Public Holiday"
     }
   ],
-  "za_south_africa": [
+  "ZA South Africa en.sa#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -7965,7 +7965,7 @@
       "name": "Public Holiday"
     }
   ],
-  "es_spain": [
+  "ES Spain en.spain#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-23",
       "name": "Day of Aragón (Aragon)"
@@ -8479,7 +8479,7 @@
       "name": "Castile and León Day (Castile-Leon)"
     }
   ],
-  "ch_switzerland": [
+  "CH Switzerland en.ch#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-02",
       "name": "Berchtold Day (regional holiday)"
@@ -8773,7 +8773,7 @@
       "name": "Genevese Fast (Geneva)"
     }
   ],
-  "gb_united_kingdom": [
+  "GB United Kingdom en.uk#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -8963,7 +8963,7 @@
       "name": "Bank Holiday for the Coronation of King Charles III"
     }
   ],
-  "je_jersey": [
+  "JE Jersey en.je#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-03",
       "name": "Day off for New Year's Day"
@@ -9093,7 +9093,7 @@
       "name": "Boxing Day"
     }
   ],
-  "ar_argentina": [
+  "AR Argentina en.ar#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-04-02",
       "name": "Day of the Veterans"
@@ -9343,7 +9343,7 @@
       "name": "World Cup Win Public Holiday"
     }
   ],
-  "mx_mexico": [
+  "MX Mexico en.mexican#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-01",
       "name": "Labor Day / May Day"
@@ -9425,7 +9425,7 @@
       "name": "Christmas Day"
     }
   ],
-  "uy_uruguay": [
+  "UY Uruguay en.uy#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -9487,7 +9487,7 @@
       "name": "Christmas Day"
     }
   ],
-  "dz_algeria": [
+  "DZ Algeria en.dz#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-12",
       "name": "Berber New Year"
@@ -9633,7 +9633,7 @@
       "name": "Eid al-Adha Holiday"
     }
   ],
-  "bh_bahrain": [
+  "BH Bahrain en.bh#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-01",
       "name": "May Day"
@@ -9833,9 +9833,17 @@
     {
       "date": "2023-07-02",
       "name": "Day off for Eid al-Adha Holiday"
+    },
+    {
+      "date": "2023-07-30",
+      "name": "Ashoora Holiday"
+    },
+    {
+      "date": "2023-07-31",
+      "name": "Ashoora Holiday"
     }
   ],
-  "eg_egypt": [
+  "EG Egypt en.eg#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-04",
       "name": "Eid el Fitr Holiday"
@@ -10105,7 +10113,7 @@
       "name": "Muharram"
     }
   ],
-  "kw_kuwait": [
+  "KW Kuwait en.kw#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-25",
       "name": "National Day"
@@ -10343,7 +10351,7 @@
       "name": "Islamic New Year Holiday"
     }
   ],
-  "lb_lebanon": [
+  "LB Lebanon en.lb#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-09",
       "name": "St Maron's Day"
@@ -10629,7 +10637,7 @@
       "name": "Eid al-Adha Holiday"
     }
   ],
-  "qm_oman": [
+  "QM Oman en.om#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-07-11",
       "name": "Eid al-Adha Holiday"
@@ -10811,7 +10819,7 @@
       "name": "Muharram"
     }
   ],
-  "qa_qatar": [
+  "QA Qatar en.qa#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-04",
       "name": "Eid al-Fitr Holiday"
@@ -10969,7 +10977,7 @@
       "name": "Eid al-Fitr Public Sector Holiday"
     }
   ],
-  "tr_turkey": [
+  "TR Turkey en.turkish#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-04",
       "name": "Ramadan Feast Holiday"
@@ -11175,7 +11183,7 @@
       "name": "Sacrifice Feast Holiday"
     }
   ],
-  "ae_united_arab_emirates": [
+  "AE United Arab Emirates en.ae#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"
@@ -11357,7 +11365,7 @@
       "name": "Mouloud"
     }
   ],
-  "ca_canada": [
+  "CA Canada en.canadian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-02-21",
       "name": "Louis Riel Day (Manitoba)"
@@ -11779,7 +11787,7 @@
       "name": "Easter Monday (regional holiday)"
     }
   ],
-  "us_usa": [
+  "US USA en.usa#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-09-05",
       "name": "Labor Day"
@@ -11929,7 +11937,7 @@
       "name": "Christmas Day"
     }
   ],
-  "it_italy": [
+  "IT Italy en.italian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-01",
       "name": "Labor Day / May Day"
@@ -12075,7 +12083,7 @@
       "name": "St. Stephen's Day"
     }
   ],
-  "cl_chile": [
+  "CL Chile en.cl#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-09-18",
       "name": "National Day"
@@ -12289,7 +12297,7 @@
       "name": "Constitutional Council Elections"
     }
   ],
-  "sa_saudi_arabia": [
+  "SA Saudi Arabia en.saudiarabian#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-05-04",
       "name": "Eid al-Fitr Holiday"
@@ -12443,7 +12451,7 @@
       "name": "Eid al-Fitr Holiday"
     }
   ],
-  "im_isle_of_man": [
+  "IM Isle of Man en.im#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-03",
       "name": "Day off for New Year's Day"
@@ -12589,7 +12597,7 @@
       "name": "Bank Holiday for the Coronation of King Charles III"
     }
   ],
-  "gg_guernsey": [
+  "GG Guernsey en.gg#holiday@group.v.calendar.google.com": [
     {
       "date": "2022-01-01",
       "name": "New Year's Day"

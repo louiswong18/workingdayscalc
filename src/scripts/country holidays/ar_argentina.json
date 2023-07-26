@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p335evrccrqlo00o\"",
+ "etag": "\"p32qelnk9jem800o\"",
  "summary": "Holidays in Argentina",
  "description": "Holidays and Observances in Argentina",
- "updated": "2023-07-24T21:17:26.000Z",
+ "updated": "2023-07-25T09:02:25.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CIDLi6GiqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMDU6eq_qYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

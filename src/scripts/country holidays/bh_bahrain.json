@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33e8f74erqlo00o\"",
+ "etag": "\"p33tc584bjem800o\"",
  "summary": "Holidays in Bahrain",
  "description": "Holidays and Observances in Bahrain",
- "updated": "2023-07-24T21:48:11.000Z",
+ "updated": "2023-07-26T08:28:41.335Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CMC57ZCpqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CNi5zJT6q4ADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",
@@ -1670,6 +1670,70 @@
    "transparency": "transparent",
    "visibility": "public",
    "iCalUID": "20230702_i0quhs7i1sg7lnrm82lp0i53j0@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3380720242670000\"",
+   "id": "20230730_gghilc7gsus8q4fak6noi6mn7o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MzBfZ2doaWxjN2dzdXM4cTRmYWs2bm9pNm1uN28gZW4uYmgjaG9saWRheUB2",
+   "created": "2023-07-26T08:28:41.000Z",
+   "updated": "2023-07-26T08:28:41.335Z",
+   "summary": "Ashoora Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-30"
+   },
+   "end": {
+    "date": "2023-07-31"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230730_gghilc7gsus8q4fak6noi6mn7o@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3380720242670000\"",
+   "id": "20230731_4gga54ih6qgd8vfscao0v1idvc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMzA3MzFfNGdnYTU0aWg2cWdkOHZmc2NhbzB2MWlkdmMgZW4uYmgjaG9saWRheUB2",
+   "created": "2023-07-26T08:28:41.000Z",
+   "updated": "2023-07-26T08:28:41.335Z",
+   "summary": "Ashoora Holiday",
+   "description": "Public holiday",
+   "creator": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "organizer": {
+    "email": "en.bh#holiday@group.v.calendar.google.com",
+    "displayName": "Holidays in Bahrain",
+    "self": true
+   },
+   "start": {
+    "date": "2023-07-31"
+   },
+   "end": {
+    "date": "2023-08-01"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "iCalUID": "20230731_4gga54ih6qgd8vfscao0v1idvc@google.com",
    "sequence": 0,
    "eventType": "default"
   }

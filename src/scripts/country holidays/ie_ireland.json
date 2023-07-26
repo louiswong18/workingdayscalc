@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33asf447rqlo00o\"",
+ "etag": "\"p32vttls4jem800o\"",
  "summary": "Holidays in Ireland",
  "description": "Holidays and Observances in Ireland",
- "updated": "2023-07-24T23:04:28.000Z",
+ "updated": "2023-07-25T10:49:27.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CICuq5e6qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMC3ieHXqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

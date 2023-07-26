@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33td11vtrmlo00o\"",
+ "etag": "\"p33far3vqjam800o\"",
  "summary": "Holidays in Hong Kong",
  "description": "Holidays and Observances in Hong Kong",
- "updated": "2023-07-24T19:25:28.000Z",
+ "updated": "2023-07-25T07:10:27.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CIC02Z2JqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMC9t-emqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

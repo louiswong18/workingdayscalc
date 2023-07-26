@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p335pj1k3rqlo00o\"",
+ "etag": "\"p333pji40jem800o\"",
  "summary": "Holidays in Maldives",
  "description": "Holidays and Observances in Maldives",
- "updated": "2023-07-24T22:58:46.000Z",
+ "updated": "2023-07-25T10:43:45.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CICrofS4qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMC0_73WqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32nsjakdrqlo00o\"",
+ "etag": "\"p32cph8sajem800o\"",
  "summary": "Holidays in Mexico",
  "description": "Holidays and Observances in Mexico",
- "updated": "2023-07-25T08:33:01.604Z",
+ "updated": "2023-07-25T10:18:48.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CKDB_KG5qYADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CIDklfTQqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

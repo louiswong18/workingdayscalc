@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p321s3h4crqlo00o\"",
+ "etag": "\"p331rbds9jem800o\"",
  "summary": "Holidays in Jersey",
  "description": "Holidays and Observances in Jersey",
- "updated": "2023-07-24T20:01:58.000Z",
+ "updated": "2023-07-25T07:46:57.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CICz_LGRqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMC82vuuqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

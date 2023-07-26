@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p323sf84hrqlo00o\"",
+ "etag": "\"p3288p0cejem800o\"",
  "summary": "Holidays in Canada",
  "description": "Holidays and Observances in Canada",
- "updated": "2023-07-24T20:47:24.000Z",
+ "updated": "2023-07-25T08:32:23.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CICe6sWbqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMCnyI-5qYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

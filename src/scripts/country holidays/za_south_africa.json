@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33lo51karqlo00o\"",
+ "etag": "\"p32u8nf47jem800o\"",
  "summary": "Holidays in South Africa",
  "description": "Holidays and Observances in South Africa",
- "updated": "2023-07-24T20:48:28.000Z",
+ "updated": "2023-07-25T08:33:27.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CIC-rOSbqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMDHiq65qYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

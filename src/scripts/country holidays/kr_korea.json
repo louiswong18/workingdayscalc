@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33g97mc3rqlo00o\"",
+ "etag": "\"p32mo3541jem800o\"",
  "summary": "Holidays in South Korea",
  "description": "Holidays and Observances in South Korea",
- "updated": "2023-07-24T22:40:44.000Z",
+ "updated": "2023-07-25T10:25:43.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CICmqfC0qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMCvh7rSqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

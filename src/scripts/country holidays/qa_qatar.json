@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p337q35sgrqlo00o\"",
+ "etag": "\"p32rb71kdjem800o\"",
  "summary": "Holidays in Qatar",
  "description": "Holidays and Observances in Qatar",
- "updated": "2023-07-24T20:21:13.000Z",
+ "updated": "2023-07-25T08:06:12.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CMCA3NiVqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CICKuqKzqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

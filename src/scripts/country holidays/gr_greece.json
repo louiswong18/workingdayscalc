@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32vb1nk6rqlo00o\"",
+ "etag": "\"p335av9c4jem800o\"",
  "summary": "Holidays in Greece",
  "description": "Holidays and Observances in Greece",
- "updated": "2023-07-24T22:46:44.000Z",
+ "updated": "2023-07-25T10:31:43.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CID6_Zu2qIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMCD3OXTqYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",

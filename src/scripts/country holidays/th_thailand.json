@@ -1,13 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33uft5c2rqlo00o\"",
+ "etag": "\"p33k89jnvjam800o\"",
  "summary": "Holidays in Thailand",
  "description": "Holidays and Observances in Thailand",
- "updated": "2023-07-24T21:07:44.000Z",
+ "updated": "2023-07-25T08:52:43.000Z",
  "timeZone": "Asia/Hong_Kong",
  "accessRole": "reader",
  "defaultReminders": [],
- "nextSyncToken": "CICQyYugqIADENCogdaAn4ADGAEg7rTDhgI=",
+ "nextSyncToken": "CMCZp9W9qYADENCogdaAn4ADGAEg7rTDhgI=",
  "items": [
   {
    "kind": "calendar#event",
