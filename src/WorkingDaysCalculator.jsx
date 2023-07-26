@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import holidaysData from "./holidays.json"; // Adjust the path as needed
+import holidaysData from "./holidays.json"; // Adjust the path as necessary
 
 const WorkingDaysCalculator = () => {
   const [selectedCountry, setSelectedCountry] = useState("");
@@ -14,11 +14,21 @@ const WorkingDaysCalculator = () => {
     let workDays;
     
     switch (selectedCountry) {
-      case "BN Brunei en.bn#holiday@group.v.calendar.google.com": // for Brunei
-        workDays = [1, 2, 3, 4, 6]; // work week in Brunei starts on Monday, includes a break on Friday and continues on Saturday
+      case "BD Bangladesh en.bd#holiday@group.v.calendar.google.com":
+      case "SA Saudi Arabia en.sa#holiday@group.v.calendar.google.com":
+      case "AE United Arab Emirates en.ae#holiday@group.v.calendar.google.com":
+      case "IL Israel en.il#holiday@group.v.calendar.google.com":
+      case "MV Maldives en.mv#holiday@group.v.calendar.google.com":
+      case "KW Kuwait en.kw#holiday@group.v.calendar.google.com":
+      case "OM Oman en.om#holiday@group.v.calendar.google.com":
+      case "QA Qatar en.qa#holiday@group.v.calendar.google.com":
+        workDays = [0, 1, 2, 3, 4]; // Sunday to Thursday
+        break;
+      case "BN Brunei en.bn#holiday@group.v.calendar.google.com":
+        workDays = [1, 2, 3, 4, 6]; // Monday to Thursday & Saturday
         break;
       default:
-        workDays = [1, 2, 3, 4, 5]; // Default to Monday to Friday if countryCode is unrecognized
+        workDays = [1, 2, 3, 4, 5]; // Monday to Friday
     }
 
     let workingDate = new Date(currentDate);
@@ -104,7 +114,7 @@ const WorkingDaysCalculator = () => {
         {calculatedDate ? calculatedDate.toDateString() : "Calculating..."}
       </p>
 
-      <p>Dates skipped:</p>
+     <p>Dates skipped:</p>
 
       <ul>
         {skippedDates.map((date, index) => (
